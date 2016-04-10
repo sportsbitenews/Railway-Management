@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Valsad                  |         BL         |     Start     |     19:40     |       -       |        0 KM        |    1     
+  2   |            Udhna Junction              |        UDN         |     21:03     |     21:05     |     2:00      |       65 KM        |    1     
+  3   |               Nandurbar                |        NDB         |     23:55     |     00:15     |     20:00     |       221 KM       |    2     
+  4   |           Jalgaon Junction             |         JL         |     03:38     |     03:40     |     2:00      |       372 KM       |    2     
+  5   |                Khandwa                 |        KNW         |     06:25     |     06:30     |     5:00      |       520 KM       |    2     
+  6   |            Itarsi Junction             |         ET         |     08:50     |     08:55     |     5:00      |       703 KM       |    2     
+  7   |           Bhopal  Junction             |        BPL         |     10:30     |     10:40     |     10:00     |       795 KM       |    2     
+  8   |             Bina Junction              |        BINA        |     12:50     |     12:55     |     5:00      |       933 KM       |    2     
+  9   |            Jhansi Junction             |        JHS         |     14:55     |     15:07     |     12:00     |      1086 KM       |    2     
+  10  |                 Orai                   |        ORAI        |     16:43     |     16:45     |     2:00      |      1199 KM       |    2     
+  11  |            Kanpur Central              |        CNB         |     19:10     |     Ends      |       -       |      1305 KM       |    2     

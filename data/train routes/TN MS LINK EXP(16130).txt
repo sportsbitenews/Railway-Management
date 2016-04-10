@@ -1,0 +1,23 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Tuticorin                |         TN         |     Start     |     07:35     |       -       |        0 KM        |    1     
+  2   |              Milavittan                |        MVN         |     07:44     |     07:45     |     1:00      |        8 KM        |    1     
+  3   |         Maniyachchi Junction           |        MEJ         |     08:30     |     08:35     |     5:00      |       32 KM        |    1     
+  4   |              Kovilpatti                |        CVP         |     09:14     |     09:15     |     1:00      |       68 KM        |    1     
+  5   |                 Satur                  |        SRT         |     09:36     |     09:37     |     1:00      |       89 KM        |    1     
+  6   |         Virudunagar Junction           |        VPT         |     09:58     |     10:00     |     2:00      |       116 KM       |    1     
+  7   |           Madurai Junction             |        MDU         |     11:05     |     11:15     |     10:00     |       159 KM       |    1     
+  8   |              Sholavandan               |        SDN         |     11:34     |     11:35     |     1:00      |       181 KM       |    1     
+  9   |           Dindigul Junction            |         DG         |     12:15     |     12:18     |     3:00      |       225 KM       |    1     
+  10  |               Manaparai                |        MPA         |     13:04     |     13:05     |     1:00      |       283 KM       |    1     
+  11  |            Tiruchchirapali             |        TPJ         |     14:05     |     14:10     |     5:00      |       320 KM       |    1     
+  12  |               Srirangam                |        SRGM        |     14:27     |     14:28     |     1:00      |       331 KM       |    1     
+  13  |               Ariyalur                 |        ALU         |     15:24     |     15:25     |     1:00      |       389 KM       |    1     
+  14  |               Pennadam                 |        PNDM        |     15:52     |     15:53     |     1:00      |       424 KM       |    1     
+  15  |         Vridhachalam Junction          |        VRI         |     16:18     |     16:20     |     2:00      |       443 KM       |    1     
+  16  |          Villuparam Junction           |         VM         |     17:15     |     17:20     |     5:00      |       497 KM       |    1     
+  17  |              Tindivanam                |        TMV         |     17:53     |     17:55     |     2:00      |       534 KM       |    1     
+  18  |             Melmaruvattur              |        MLMR        |     18:18     |     18:20     |     2:00      |       565 KM       |    1     
+  19  |             Chengalpattu               |        CGL         |     19:08     |     19:10     |     2:00      |       600 KM       |    1     
+  20  |               Tambaram                 |        TBM         |     19:38     |     19:40     |     2:00      |       631 KM       |    1     
+  21  |               Mambalam                 |        MBM         |     19:58     |     20:00     |     2:00      |       649 KM       |    1     
+  22  |            Chennai Egmore              |         MS         |     21:15     |     Ends      |       -       |       656 KM       |    1     

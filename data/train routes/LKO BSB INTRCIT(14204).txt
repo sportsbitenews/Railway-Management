@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Lucknow Nr                |        LKO         |     Start     |     07:00     |       -       |        0 KM        |    1     
+  2   |              Bachhrawan                |        BCN         |     07:57     |     07:59     |     2:00      |       48 KM        |    1     
+  3   |              Harchandpur               |        HCP         |     08:11     |     08:13     |     2:00      |       63 KM        |    1     
+  4   |          Rae Bareli Junction           |        RBL         |     08:30     |     08:35     |     5:00      |       78 KM        |    1     
+  5   |               Kasimpur                 |        KCJ         |     09:07     |     09:09     |     2:00      |       110 KM       |    1     
+  6   |               Gauriganj                |        GNG         |     09:20     |     09:22     |     2:00      |       125 KM       |    1     
+  7   |                Amethi                  |        AME         |     09:34     |     09:36     |     2:00      |       138 KM       |    1     
+  8   |          Partapgarh Junction           |        PBH         |     10:30     |     10:32     |     2:00      |       173 KM       |    1     
+  9   |               Dandupur                 |        DND         |     10:45     |     10:47     |     2:00      |       187 KM       |    1     
+  10  |              Badshahpur                |        BSE         |     11:16     |     11:18     |     2:00      |       210 KM       |    1     
+  11  |           Janghai Junction             |        JNH         |     11:32     |     11:34     |     2:00      |       226 KM       |    1     
+  12  |               Suriawan                 |        SAW         |     11:49     |     11:51     |     2:00      |       242 KM       |    1     
+  13  |                Bhadohi                 |        BOY         |     12:05     |     12:07     |     2:00      |       257 KM       |    1     
+  14  |           Varanasi Junction            |        BSB         |     13:30     |     Ends      |       -       |       302 KM       |    1     

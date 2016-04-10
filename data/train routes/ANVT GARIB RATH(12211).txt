@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |         Muzaffarpur Junction           |        MFP         |     Start     |     15:15     |       -       |        0 KM        |    1     
+  2   |            Bapudm Motihari             |        BMKI        |     16:35     |     16:40     |     5:00      |       80 KM        |    1     
+  3   |           Sagauli Junction             |        SGL         |     17:02     |     17:04     |     2:00      |       101 KM       |    1     
+  4   |                Bettiah                 |        BTH         |     17:26     |     17:27     |     1:00      |       123 KM       |    1     
+  5   |         Narkatiaganj Junction          |        NKE         |     18:22     |     18:27     |     5:00      |       160 KM       |    1     
+  6   |          Gorakhpur Junction            |        GKP         |     22:20     |     22:35     |     15:00     |       310 KM       |    1     
+  7   |            Gonda Junction              |         GD         |     01:10     |     01:20     |     10:00     |       464 KM       |    2     
+  8   |              Lucknow Nr                |        LKO         |     04:20     |     04:30     |     10:00     |       580 KM       |    2     
+  9   |             Shahjehanpur               |        SPN         |     06:55     |     07:00     |     5:00      |       745 KM       |    2     
+  10  |               Bareilly                 |         BE         |     08:00     |     08:05     |     5:00      |       815 KM       |    2     
+  11  |               Moradabad                |         MB         |     09:40     |     09:50     |     10:00     |       906 KM       |    2     
+  12  |            Anand Vihar Trm             |        ANVT        |     12:35     |     Ends      |       -       |      1060 KM       |    2     

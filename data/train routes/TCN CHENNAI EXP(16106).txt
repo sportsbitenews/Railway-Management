@@ -1,0 +1,29 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Tiruchendur               |        TCN         |     Start     |     18:50     |       -       |        0 KM        |    1     
+  2   |             Kayalpattinam              |        KZY         |     18:59     |     19:00     |     1:00      |        8 KM        |    1     
+  3   |              Arumuganeri               |        ANY         |     19:04     |     19:05     |     1:00      |       10 KM        |    1     
+  4   |               Kurumbur                 |        KZB         |     19:11     |     19:12     |     1:00      |       16 KM        |    1     
+  5   |               Nazareth                 |        NZT         |     19:19     |     19:20     |     1:00      |       23 KM        |    1     
+  6   |             Srivaikuntam               |        SVV         |     19:32     |     19:33     |     1:00      |       34 KM        |    1     
+  7   |            Seydunganallur              |        SDNR        |     19:44     |     19:45     |     1:00      |       46 KM        |    1     
+  8   |              Tirunelveli               |        TEN         |     20:15     |     20:40     |     25:00     |       62 KM        |    1     
+  9   |         Maniyachchi Junction           |        MEJ         |     21:04     |     21:05     |     1:00      |       91 KM        |    1     
+  10  |              Kovilpatti                |        CVP         |     21:34     |     21:35     |     1:00      |       127 KM       |    1     
+  11  |                 Satur                  |        SRT         |     21:54     |     21:55     |     1:00      |       148 KM       |    1     
+  12  |         Virudunagar Junction           |        VPT         |     22:20     |     22:22     |     2:00      |       175 KM       |    1     
+  13  |           Madurai Junction             |        MDU         |     23:40     |     23:45     |     5:00      |       218 KM       |    1     
+  14  |            Kodaikanal Road             |        KQN         |     00:20     |     00:22     |     2:00      |       259 KM       |    2     
+  15  |           Dindigul Junction            |         DG         |     01:15     |     01:17     |     2:00      |       284 KM       |    2     
+  16  |            Tiruchchirapali             |        TPJ         |     03:25     |     03:30     |     5:00      |       379 KM       |    2     
+  17  |               Thanjavur                |         TJ         |     04:18     |     04:20     |     2:00      |       428 KM       |    2     
+  18  |               Papanasam                |        PML         |     04:40     |     04:41     |     1:00      |       453 KM       |    2     
+  19  |              Kumbakonam                |        KMU         |     05:02     |     05:04     |     2:00      |       468 KM       |    2     
+  20  |            Mayiladuturai J             |         MV         |     05:43     |     05:45     |     2:00      |       499 KM       |    2     
+  21  |               Sirkazhi                 |         SY         |     06:09     |     06:10     |     1:00      |       519 KM       |    2     
+  22  |              Chidambaram               |        CDM         |     06:25     |     06:27     |     2:00      |       536 KM       |    2     
+  23  |            Tirupadripulyur             |        TDPR        |     07:00     |     07:02     |     2:00      |       578 KM       |    2     
+  24  |          Villuparam Junction           |         VM         |     08:15     |     08:25     |     10:00     |       621 KM       |    2     
+  25  |             Melmaruvattur              |        MLMR        |     09:23     |     09:25     |     2:00      |       688 KM       |    2     
+  26  |             Chengalpattu               |        CGL         |     10:08     |     10:10     |     2:00      |       724 KM       |    2     
+  27  |               Tambaram                 |        TBM         |     10:38     |     10:40     |     2:00      |       754 KM       |    2     
+  28  |            Chennai Egmore              |         MS         |     11:25     |     Ends      |       -       |       779 KM       |    2     

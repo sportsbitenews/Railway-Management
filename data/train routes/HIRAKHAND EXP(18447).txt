@@ -1,0 +1,41 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Bhubaneswar               |        BBS         |     Start     |     19:35     |       -       |        0 KM        |    1     
+  2   |         Khurda Road Junction           |        KUR         |     19:55     |     20:00     |     5:00      |       19 KM        |    1     
+  3   |              Nirakarpur                |        NKP         |     20:23     |     20:24     |     1:00      |       45 KM        |    1     
+  4   |              Bhusandpur                |        BSDP        |     20:30     |     20:31     |     1:00      |       53 KM        |    1     
+  5   |             Kalupara Ghat              |        KAPG        |     20:40     |     20:41     |     1:00      |       63 KM        |    1     
+  6   |                Kuhuri                  |        KUU         |     20:48     |     20:49     |     1:00      |       69 KM        |    1     
+  7   |                Balugan                 |        BALU        |     21:06     |     21:07     |     1:00      |       90 KM        |    1     
+  8   |                Chilka                  |        CLKA        |     21:14     |     21:15     |     1:00      |       97 KM        |    1     
+  9   |               Khallikot                |        KIT         |     21:21     |     21:22     |     1:00      |       107 KM       |    1     
+  10  |                Ganjam                  |        GAM         |     21:40     |     21:41     |     1:00      |       136 KM       |    1     
+  11  |               Chatrapur                |        CAP         |     21:52     |     21:53     |     1:00      |       145 KM       |    1     
+  12  |               Brahmapur                |        BAM         |     22:05     |     22:10     |     5:00      |       166 KM       |    1     
+  13  |              Ichchpuram                |        IPM         |     22:38     |     22:39     |     1:00      |       190 KM       |    1     
+  14  |                Sompeta                 |        SPT         |     22:52     |     22:53     |     1:00      |       208 KM       |    1     
+  15  |                Palasa                  |        PSA         |     00:05     |     00:07     |     2:00      |       240 KM       |    2     
+  16  |           Naupada Junction             |        NWP         |     00:28     |     00:30     |     2:00      |       266 KM       |    2     
+  17  |            Srikakulam Road             |        CHE         |     01:05     |     01:07     |     2:00      |       313 KM       |    2     
+  18  |             Chipurupalle               |        CPP         |     01:36     |     01:37     |     1:00      |       352 KM       |    2     
+  19  |         Vizianagram Junction           |        VZM         |     02:15     |     02:40     |     25:00     |       382 KM       |    2     
+  20  |                Bobbili                 |        VBL         |     03:25     |     03:30     |     5:00      |       436 KM       |    2     
+  21  |             Parvatipuram               |        PVP         |     03:51     |     03:53     |     2:00      |       460 KM       |    2     
+  22  |            Parvatipuram Tn             |        PVPT        |     03:58     |     04:00     |     2:00      |       461 KM       |    2     
+  23  |               Rayagada                 |        RGDA        |     04:50     |     05:10     |     20:00     |       506 KM       |    2     
+  24  |            Singapuram Road             |        SPRD        |     05:22     |     05:24     |     2:00      |       516 KM       |    2     
+  25  |               Keutguda                 |        KTGA        |     05:35     |     05:37     |     2:00      |       525 KM       |    2     
+  26  |               Sikarpai                 |        SKPI        |     05:53     |     05:55     |     2:00      |       540 KM       |    2     
+  27  |              Bhalumaska                |        BLMK        |     06:08     |     06:10     |     2:00      |       550 KM       |    2     
+  28  |               Leliguma                 |        LLGM        |     06:28     |     06:30     |     2:00      |       567 KM       |    2     
+  29  |                 Rauli                  |        RUL         |     06:52     |     06:53     |     1:00      |       584 KM       |    2     
+  30  |                Tikiri                  |        TKRI        |     07:10     |     07:12     |     2:00      |       596 KM       |    2     
+  31  |               Singaram                 |        SGRM        |     07:26     |     07:27     |     1:00      |       605 KM       |    2     
+  32  |             Laxmipur Road              |        LKMR        |     07:46     |     07:47     |     1:00      |       618 KM       |    2     
+  33  |              Kakirigumma               |        KKGM        |     08:04     |     08:05     |     1:00      |       633 KM       |    2     
+  34  |                Baiguda                 |        BGUA        |     08:21     |     08:22     |     1:00      |       646 KM       |    2     
+  35  |               Damanjodi                |        DMNJ        |     08:49     |     08:50     |     1:00      |       660 KM       |    2     
+  36  |               Dumuriput                |        DMRT        |     09:06     |     09:07     |     1:00      |       668 KM       |    2     
+  37  |                Koraput                 |        KRPU        |     09:30     |     09:55     |     25:00     |       679 KM       |    2     
+  38  |                Jeypore                 |        JYP         |     10:56     |     10:57     |     1:00      |       721 KM       |    2     
+  39  |             Kotapar Road               |        KPRR        |     11:30     |     11:32     |     2:00      |       753 KM       |    2     
+  40  |               Jagdalpur                |        JDB         |     13:30     |     Ends      |       -       |       785 KM       |    2     

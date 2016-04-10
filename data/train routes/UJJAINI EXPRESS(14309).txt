@@ -1,0 +1,31 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Ujjain Junction             |        UJN         |     Start     |     15:00     |       -       |        0 KM        |    1     
+  2   |                 Maksi                  |        MKC         |     15:48     |     15:50     |     2:00      |       41 KM        |    1     
+  3   |               Shajapur                 |        SFY         |     16:16     |     16:18     |     2:00      |       69 KM        |    1     
+  4   |              Pachor Road               |        PFR         |     17:24     |     17:26     |     2:00      |       128 KM       |    1     
+  5   |            Biyavra Rajgarh             |        BRRG        |     17:43     |     17:45     |     2:00      |       158 KM       |    1     
+  6   |               Kumbhraj                 |        KHRJ        |     18:43     |     18:45     |     2:00      |       211 KM       |    1     
+  7   |               Ruthiyai                 |        RTA         |     19:25     |     19:30     |     5:00      |       235 KM       |    1     
+  8   |                 Guna                   |        GUNA        |     20:10     |     20:20     |     10:00     |       255 KM       |    1     
+  9   |              Ashok Nagar               |        ASKN        |     21:13     |     21:15     |     2:00      |       300 KM       |    1     
+  10  |               Mungaoli                 |        MNV         |     21:58     |     22:00     |     2:00      |       345 KM       |    1     
+  11  |             Bina Junction              |        BINA        |     23:55     |     00:20     |     25:00     |       374 KM       |    2     
+  12  |               Lalitpur                 |        LAR         |     01:12     |     01:14     |     2:00      |       436 KM       |    2     
+  13  |            Jhansi Junction             |        JHS         |     03:05     |     03:15     |     10:00     |       526 KM       |    2     
+  14  |                Gwalior                 |        GWL         |     04:25     |     04:30     |     5:00      |       623 KM       |    2     
+  15  |                Morena                  |        MRA         |     04:55     |     04:57     |     2:00      |       662 KM       |    2     
+  16  |               Dhaulpur                 |        DHO         |     05:50     |     05:52     |     2:00      |       689 KM       |    2     
+  17  |              Agra Cantt                |        AGC         |     07:00     |     07:08     |     8:00      |       742 KM       |    2     
+  18  |             Raja Ki Mandi              |        RKM         |     07:18     |     07:20     |     2:00      |       746 KM       |    2     
+  19  |           Mathura Junction             |        MTJ         |     08:05     |     08:10     |     5:00      |       796 KM       |    2     
+  20  |              Kosi Kalan                |        KSV         |     08:38     |     08:40     |     2:00      |       837 KM       |    2     
+  21  |               Faridabad                |        FDB         |     10:21     |     10:22     |     1:00      |       908 KM       |    2     
+  22  |             H Nizamuddin               |        NZM         |     11:10     |     11:30     |     20:00     |       929 KM       |    2     
+  23  |               Ghaziabad                |        GZB         |     12:08     |     12:10     |     2:00      |       952 KM       |    2     
+  24  |              Meerut City               |        MTC         |     12:53     |     12:55     |     2:00      |       999 KM       |    2     
+  25  |             Muzaffarnagar              |        MOZ         |     13:34     |     13:36     |     2:00      |      1055 KM       |    2     
+  26  |                Deoband                 |        DBD         |     13:55     |     13:57     |     2:00      |      1078 KM       |    2     
+  27  |              Saharanpur                |        SRE         |     15:00     |     15:35     |     35:00     |      1113 KM       |    2     
+  28  |                Roorkee                 |         RK         |     16:05     |     16:07     |     2:00      |      1148 KM       |    2     
+  29  |           Haridwar Junction            |         HW         |     17:05     |     17:15     |     10:00     |      1193 KM       |    2     
+  30  |               Dehradun                 |        DDN         |     19:40     |     Ends      |       -       |      1245 KM       |    2     

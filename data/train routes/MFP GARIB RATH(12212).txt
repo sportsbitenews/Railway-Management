@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Anand Vihar Trm             |        ANVT        |     Start     |     20:55     |       -       |        0 KM        |    1     
+  2   |               Moradabad                |         MB         |     23:50     |     23:58     |     8:00      |       154 KM       |    1     
+  3   |               Bareilly                 |         BE         |     01:22     |     01:27     |     5:00      |       245 KM       |    2     
+  4   |             Shahjehanpur               |        SPN         |     02:35     |     02:40     |     5:00      |       315 KM       |    2     
+  5   |              Lucknow Nr                |        LKO         |     05:15     |     05:35     |     20:00     |       480 KM       |    2     
+  6   |            Gonda Junction              |         GD         |     08:00     |     08:05     |     5:00      |       597 KM       |    2     
+  7   |          Gorakhpur Junction            |        GKP         |     10:50     |     11:10     |     20:00     |       750 KM       |    2     
+  8   |         Narkatiaganj Junction          |        NKE         |     14:51     |     14:56     |     5:00      |       900 KM       |    2     
+  9   |                Bettiah                 |        BTH         |     15:30     |     15:32     |     2:00      |       937 KM       |    2     
+  10  |           Sagauli Junction             |        SGL         |     15:53     |     15:55     |     2:00      |       959 KM       |    2     
+  11  |            Bapudm Motihari             |        BMKI        |     16:11     |     16:16     |     5:00      |       980 KM       |    2     
+  12  |         Muzaffarpur Junction           |        MFP         |     18:05     |     Ends      |       -       |      1060 KM       |    2     

@@ -1,0 +1,22 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Jaynagar                 |        JYG         |     Start     |     12:00     |       -       |        0 KM        |    1     
+  2   |               Madhubani                |        MBI         |     12:49     |     12:50     |     1:00      |       32 KM        |    1     
+  3   |            Sakri Junction              |        SKI         |     13:08     |     13:13     |     5:00      |       49 KM        |    1     
+  4   |          Darbhanga Junction            |        DBG         |     13:45     |     13:50     |     5:00      |       68 KM        |    1     
+  5   |             Laheria Sarai              |        LSI         |     13:58     |     14:00     |     2:00      |       73 KM        |    1     
+  6   |               Haiaghat                 |        HYT         |     14:14     |     14:16     |     2:00      |       84 KM        |    1     
+  7   |          Samastipur Junction           |        SPJ         |     15:15     |     15:20     |     5:00      |       106 KM       |    1     
+  8   |           Barauni Junction             |        BJU         |     16:10     |     16:30     |     20:00     |       157 KM       |    1     
+  9   |           Mokameh Junction             |        MKA         |     17:20     |     17:22     |     2:00      |       178 KM       |    1     
+  10  |         Bakhtiyarpur Junction          |        BKP         |     17:58     |     18:00     |     2:00      |       222 KM       |    1     
+  11  |            Patna Junction              |        PNBE        |     19:05     |     19:15     |     10:00     |       267 KM       |    1     
+  12  |                Danapur                 |        DNR         |     19:32     |     19:34     |     2:00      |       277 KM       |    1     
+  13  |                  Ara                   |        ARA         |     20:22     |     20:24     |     2:00      |       316 KM       |    1     
+  14  |                Bihiya                  |        BEA         |     20:38     |     20:39     |     1:00      |       338 KM       |    1     
+  15  |                Dumraon                 |        DURE        |     21:00     |     21:01     |     1:00      |       368 KM       |    1     
+  16  |                 Buxar                  |        BXR         |     21:17     |     21:19     |     2:00      |       385 KM       |    1     
+  17  |         Mughal Sarai Junction          |        MGS         |     22:50     |     23:00     |     10:00     |       479 KM       |    1     
+  18  |          Allahabad Junction            |        ALD         |     00:52     |     00:55     |     3:00      |       631 KM       |    2     
+  19  |            Kanpur Central              |        CNB         |     02:55     |     03:00     |     5:00      |       825 KM       |    2     
+  20  |           Aligarh Junction             |        ALJN        |     06:15     |     06:17     |     2:00      |      1133 KM       |    2     
+  21  |            Anand Vihar Trm             |        ANVT        |     08:20     |     Ends      |       -       |      1252 KM       |    2     

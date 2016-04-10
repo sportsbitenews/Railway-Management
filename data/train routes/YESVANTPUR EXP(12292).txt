@@ -1,0 +1,8 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Chennai Central             |        MAS         |     Start     |     23:30     |       -       |        0 KM        |    1     
+  2   |               Arakkonam                |        AJJ         |     00:28     |     00:30     |     2:00      |       69 KM        |    2     
+  3   |         Walajah Road Junction          |        WJR         |     00:59     |     01:00     |     1:00      |       105 KM       |    2     
+  4   |              Jolarpettai               |        JTJ         |     02:43     |     02:45     |     2:00      |       214 KM       |    2     
+  5   |              Bangarapet                |        BWT         |     03:48     |     03:50     |     2:00      |       292 KM       |    2     
+  6   |            Krishnarajapurm             |        KJM         |     04:43     |     04:45     |     2:00      |       348 KM       |    2     
+  7   |          Yesvantpur Junction           |        YPR         |     06:00     |     Ends      |       -       |       370 KM       |    2     

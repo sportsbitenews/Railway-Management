@@ -1,0 +1,28 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Chennai Central             |        MAS         |     Start     |     14:40     |       -       |        0 KM        |    1     
+  2   |              Sullurupeta               |        SPE         |     15:54     |     15:55     |     1:00      |       83 KM        |    1     
+  3   |            Gudur Junction              |        GDR         |     17:00     |     17:02     |     2:00      |       138 KM       |    1     
+  4   |                Nellore                 |        NLR         |     17:32     |     17:33     |     1:00      |       176 KM       |    1     
+  5   |                Ongole                  |        OGL         |     18:58     |     19:00     |     2:00      |       292 KM       |    1     
+  6   |            Tenali Junction             |        TEL         |     20:12     |     20:13     |     1:00      |       399 KM       |    1     
+  7   |          Vijayawada Junction           |        BZA         |     21:40     |     21:55     |     15:00     |       431 KM       |    1     
+  8   |                 Eluru                  |         EE         |     22:41     |     22:42     |     1:00      |       490 KM       |    1     
+  9   |              Rajamundry                |        RJY         |     00:11     |     00:13     |     2:00      |       580 KM       |    2     
+  10  |           Samalkot Junction            |        SLO         |     00:51     |     00:52     |     1:00      |       630 KM       |    2     
+  11  |             Vishakapatnam              |        VSKP        |     04:10     |     04:30     |     20:00     |       781 KM       |    2     
+  12  |         Vizianagram Junction           |        VZM         |     05:25     |     05:30     |     5:00      |       842 KM       |    2     
+  13  |                Bobbili                 |        VBL         |     06:15     |     06:17     |     2:00      |       895 KM       |    2     
+  14  |             Parvatipuram               |        PVP         |     06:38     |     06:40     |     2:00      |       919 KM       |    2     
+  15  |               Rayagada                 |        RGDA        |     07:25     |     07:35     |     10:00     |       966 KM       |    2     
+  16  |               Muniguda                 |        MNGD        |     08:35     |     08:37     |     2:00      |      1020 KM       |    2     
+  17  |                Kesinga                 |        KSNG        |     09:33     |     09:35     |     2:00      |      1092 KM       |    2     
+  18  |               Titlagarh                |        TIG         |     09:55     |     10:05     |     10:00     |      1105 KM       |    2     
+  19  |               Balangir                 |        BLGR        |     11:05     |     11:10     |     5:00      |      1169 KM       |    2     
+  20  |             Bargarh Road               |        BRGA        |     12:23     |     12:25     |     2:00      |      1244 KM       |    2     
+  21  |               Sambalpur                |        SBP         |     13:30     |     13:40     |     10:00     |      1287 KM       |    2     
+  22  |          Jharsuguda Junction           |        JSG         |     15:00     |     15:05     |     5:00      |      1335 KM       |    2     
+  23  |               Rourkela                 |        ROU         |     16:23     |     16:38     |     15:00     |      1437 KM       |    2     
+  24  |             Chakradharpur              |        CKP         |     18:05     |     18:07     |     2:00      |      1538 KM       |    2     
+  25  |           Purulia Junction             |        PRR         |     19:48     |     19:50     |     2:00      |      1656 KM       |    2     
+  26  |            Joychandi Pahar             |        JOC         |     20:52     |     20:53     |     1:00      |      1695 KM       |    2     
+  27  |           Asansol Junction             |        ASN         |     21:55     |     Ends      |       -       |      1732 KM       |    2     

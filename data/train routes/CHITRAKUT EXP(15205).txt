@@ -1,0 +1,28 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Lucknow Ne                |        LJN         |     Start     |     17:30     |       -       |        0 KM        |    1     
+  2   |            Unnao Junction              |         ON         |     18:23     |     18:25     |     2:00      |       57 KM        |    1     
+  3   |            Kanpur Central              |        CNB         |     19:05     |     19:15     |     10:00     |       74 KM        |    1     
+  4   |              Govindpuri                |        GOY         |     19:28     |     19:30     |     2:00      |       77 KM        |    1     
+  5   |                Bhimsen                 |        BZM         |     19:43     |     19:45     |     2:00      |       88 KM        |    1     
+  6   |             Kathara Road               |        KTRR        |     19:58     |     20:00     |     2:00      |       101 KM       |    1     
+  7   |                Patara                  |        PTRE        |     20:11     |     20:13     |     2:00      |       111 KM       |    1     
+  8   |               Ghatampur                |        GTM         |     20:24     |     20:26     |     2:00      |       121 KM       |    1     
+  9   |             Hamirpur Road              |        HAR         |     20:40     |     20:42     |     2:00      |       136 KM       |    1     
+  10  |            Bharwa Sumerpur             |        BSZ         |     21:06     |     21:08     |     2:00      |       160 KM       |    1     
+  11  |                Ragaul                  |        RGU         |     21:23     |     21:25     |     2:00      |       177 KM       |    1     
+  12  |                Ichauli                 |        ICL         |     21:46     |     21:48     |     2:00      |       196 KM       |    1     
+  13  |            Banda Junction              |        BNDA        |     22:25     |     22:35     |     10:00     |       217 KM       |    1     
+  14  |               Khurhand                 |        KHU         |     22:51     |     22:53     |     2:00      |       236 KM       |    1     
+  15  |                Atarra                  |        ATE         |     23:05     |     23:07     |     2:00      |       249 KM       |    1     
+  16  |              Shivrampur                |        SWC         |     23:41     |     23:43     |     2:00      |       278 KM       |    1     
+  17  |               Chitrakot                |        CKTD        |     23:54     |     23:56     |     2:00      |       286 KM       |    1     
+  18  |           Manikpur Junction            |        MKP         |     01:50     |     02:15     |     25:00     |       317 KM       |    2     
+  19  |              Majhagawan                |        MJG         |     02:42     |     02:44     |     2:00      |       354 KM       |    2     
+  20  |                Jaitwar                 |        JTW         |     03:04     |     03:06     |     2:00      |       375 KM       |    2     
+  21  |                 Satna                  |        STA         |     03:30     |     03:40     |     10:00     |       395 KM       |    2     
+  22  |               Unchhera                 |        UHR         |     03:54     |     03:56     |     2:00      |       416 KM       |    2     
+  23  |                Maihar                  |        MYR         |     04:08     |     04:10     |     2:00      |       430 KM       |    2     
+  24  |                Jukehi                  |        JKE         |     04:43     |     04:45     |     2:00      |       476 KM       |    2     
+  25  |                 Katni                  |        KTE         |     05:10     |     05:15     |     5:00      |       493 KM       |    2     
+  26  |              Sihora Road               |        SHR         |     06:03     |     06:05     |     2:00      |       546 KM       |    2     
+  27  |               Jabalpur                 |        JBP         |     07:10     |     Ends      |       -       |       584 KM       |    2     

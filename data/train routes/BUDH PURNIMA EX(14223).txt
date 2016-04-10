@@ -1,0 +1,19 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Rajgir                  |        RGD         |     Start     |     23:30     |       -       |        0 KM        |    1     
+  2   |                Nalanda                 |        NLD         |     23:42     |     23:44     |     2:00      |       12 KM        |    1     
+  4   |             Bihar Sharif               |        BEHS        |     00:05     |     00:07     |     2:00      |       24 KM        |    2     
+  5   |         Bakhtiyarpur Junction          |        BKP         |     00:55     |     00:57     |     2:00      |       53 KM        |    2     
+  6   |              Patna Saheb               |        PNC         |     01:31     |     01:33     |     2:00      |       89 KM        |    2     
+  7   |            Patna Junction              |        PNBE        |     02:10     |     02:20     |     10:00     |       99 KM        |    2     
+  8   |                Taregna                 |        TEA         |     02:46     |     02:48     |     2:00      |       128 KM       |    2     
+  9   |               Jehanabad                |        JHD         |     03:08     |     03:10     |     2:00      |       144 KM       |    2     
+  10  |             Gaya Junction              |        GAYA        |     04:15     |     04:25     |     10:00     |       191 KM       |    2     
+  11  |            Anugraha N Road             |        AUBR        |     05:13     |     05:14     |     1:00      |       259 KM       |    2     
+  12  |             Dehri On Sone              |        DOS         |     05:29     |     05:31     |     2:00      |       276 KM       |    2     
+  13  |                Sasaram                 |        SSM         |     05:45     |     05:46     |     1:00      |       294 KM       |    2     
+  14  |                 Kudra                  |        KTQ         |     06:06     |     06:07     |     1:00      |       319 KM       |    2     
+  15  |                PUSAULI                 |        PSE         |     06:18     |     06:19     |     1:00      |       328 KM       |    2     
+  16  |              Bhabua Road               |        BBU         |     06:31     |     06:32     |     1:00      |       341 KM       |    2     
+  17  |               Durgauti                 |        DGO         |     06:41     |     06:42     |     1:00      |       350 KM       |    2     
+  18  |         Mughal Sarai Junction          |        MGS         |     07:42     |     07:52     |     10:00     |       394 KM       |    2     
+  19  |           Varanasi Junction            |        BSB         |     08:40     |     Ends      |       -       |       410 KM       |    2     

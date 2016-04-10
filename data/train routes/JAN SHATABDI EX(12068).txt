@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Jorhat Town               |        JTTN        |     Start     |     14:30     |       -       |        0 KM        |    1     
+  2   |           Mariani Junction             |        MXN         |     14:56     |     15:06     |     10:00     |       18 KM        |    1     
+  3   |          Furkating Junction            |        FKG         |     15:45     |     15:47     |     2:00      |       57 KM        |    1     
+  4   |                Bokajan                 |        BXJ         |     16:32     |     16:33     |     1:00      |       112 KM       |    1     
+  5   |                Dimapur                 |        DMV         |     16:51     |     16:56     |     5:00      |       127 KM       |    1     
+  6   |                 Diphu                  |        DPU         |     17:34     |     17:35     |     1:00      |       164 KM       |    1     
+  7   |           Lumding Junction             |        LMG         |     18:10     |     18:15     |     5:00      |       195 KM       |    1     
+  8   |                 Lanka                  |        LKA         |     18:51     |     18:52     |     1:00      |       226 KM       |    1     
+  9   |                 Hojai                  |        HJI         |     19:07     |     19:08     |     1:00      |       240 KM       |    1     
+  10  |          Chaparmukh Junction           |        CPK         |     19:44     |     19:46     |     2:00      |       285 KM       |    1     
+  11  |               Guwahati                 |        GHY         |     21:20     |     Ends      |       -       |       376 KM       |    1     

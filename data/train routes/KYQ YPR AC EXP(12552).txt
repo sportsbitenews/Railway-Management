@@ -1,0 +1,30 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Kamakhya                 |        KYQ         |     Start     |     14:00     |       -       |        0 KM        |    1     
+  2   |           Rangiya Junction             |        RNY         |     14:50     |     14:52     |     2:00      |       42 KM        |    1     
+  3   |            New Bongaigaon              |        NBQ         |     17:25     |     17:27     |     2:00      |       151 KM       |    1     
+  4   |            New Alipurdaur              |        NOQ         |     18:53     |     18:55     |     2:00      |       258 KM       |    1     
+  5   |            New Cooch Behar             |        NCB         |     19:20     |     19:22     |     2:00      |       276 KM       |    1     
+  6   |            New Jalpaiguri              |        NJP         |     21:50     |     22:05     |     15:00     |       402 KM       |    1     
+  7   |              Kishanganj                |        KNE         |     23:11     |     23:13     |     2:00      |       490 KM       |    1     
+  8   |            Barsoi Junction             |        BOE         |     00:03     |     00:05     |     2:00      |       547 KM       |    2     
+  9   |              Malda Town                |        MLDT        |     02:00     |     02:15     |     15:00     |       635 KM       |    2     
+  10  |              Rampur Hat                |        RPH         |     04:45     |     04:50     |     5:00      |       756 KM       |    2     
+  11  |               Durgapur                 |        DGR         |     07:35     |     08:00     |     25:00     |       874 KM       |    2     
+  12  |           Asansol Junction             |        ASN         |     08:55     |     09:05     |     10:00     |       916 KM       |    2     
+  13  |             Adra Junction              |        ADRA        |     10:00     |     10:05     |     5:00      |       957 KM       |    2     
+  14  |                Bankura                 |        BQA         |     10:50     |     10:52     |     2:00      |      1010 KM       |    2     
+  15  |               Midnapore                |        MDN         |     12:00     |     12:02     |     2:00      |      1112 KM       |    2     
+  16  |                Hijilli                 |        HIJ         |     12:36     |     12:38     |     2:00      |      1132 KM       |    2     
+  17  |               Balasore                 |        BLS         |     13:56     |     13:58     |     2:00      |      1244 KM       |    2     
+  18  |                Cuttack                 |        CTC         |     16:09     |     16:11     |     2:00      |      1421 KM       |    2     
+  19  |              Bhubaneswar               |        BBS         |     16:50     |     16:55     |     5:00      |      1449 KM       |    2     
+  20  |         Khurda Road Junction           |        KUR         |     17:20     |     17:35     |     15:00     |      1468 KM       |    2     
+  21  |               Brahmapur                |        BAM         |     19:18     |     19:20     |     2:00      |      1615 KM       |    2     
+  22  |         Vizianagram Junction           |        VZM         |     22:05     |     22:15     |     10:00     |      1831 KM       |    2     
+  23  |           Samalkot Junction            |        SLO         |     01:04     |     01:05     |     1:00      |      2029 KM       |    3     
+  24  |          Vijayawada Junction           |        BZA         |     04:35     |     04:45     |     10:00     |      2228 KM       |    3     
+  25  |            Gudur Junction              |        GDR         |     08:50     |     08:52     |     2:00      |      2521 KM       |    3     
+  26  |            Chennai Central             |        MAS         |     11:15     |     11:40     |     25:00     |      2658 KM       |    3     
+  27  |           Katpadi Junction             |        KPD         |     13:40     |     13:45     |     5:00      |      2788 KM       |    3     
+  28  |              Jolarpettai               |        JTJ         |     15:13     |     15:15     |     2:00      |      2871 KM       |    3     
+  29  |          Yesvantpur Junction           |        YPR         |     18:30     |     Ends      |       -       |      3025 KM       |    3     

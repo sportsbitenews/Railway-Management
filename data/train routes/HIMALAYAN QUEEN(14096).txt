@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Kalka                  |        KLK         |     Start     |     16:50     |       -       |        0 KM        |    1     
+  2   |             Chandi Mandir              |        CNDM        |     17:05     |     17:07     |     2:00      |       24 KM        |    1     
+  3   |              Chandigarh                |        CDG         |     17:22     |     17:30     |     8:00      |       38 KM        |    1     
+  4   |                Dhulkot                 |        DKT         |     18:03     |     18:05     |     2:00      |       93 KM        |    1     
+  5   |         Ambala Cant Junction           |        UMB         |     18:20     |     18:30     |     10:00     |       105 KM       |    1     
+  6   |            Shahbad Marknda             |        SHDM        |     18:48     |     18:50     |     2:00      |       125 KM       |    1     
+  7   |         Kurukshetra Junction           |        KKDE        |     19:10     |     19:12     |     2:00      |       147 KM       |    1     
+  8   |               Nilokheri                |        NLKR        |     19:26     |     19:28     |     2:00      |       164 KM       |    1     
+  9   |                Karnal                  |        KUN         |     19:44     |     19:46     |     2:00      |       180 KM       |    1     
+  10  |               Gharaunda                |        GRA         |     20:02     |     20:04     |     2:00      |       197 KM       |    1     
+  11  |           Panipat Junction             |        PNP         |     20:21     |     20:23     |     2:00      |       214 KM       |    1     
+  12  |               Samalkha                 |        SMK         |     20:36     |     20:38     |     2:00      |       231 KM       |    1     
+  13  |                Ganaur                  |        GNU         |     20:48     |     20:50     |     2:00      |       243 KM       |    1     
+  14  |                Sonipat                 |        SNP         |     21:18     |     21:20     |     2:00      |       259 KM       |    1     
+  15  |            Delhi S Rohilla             |        DEE         |     22:40     |     Ends      |       -       |       305 KM       |    1     

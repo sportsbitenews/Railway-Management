@@ -1,0 +1,20 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Puducherry                |        PDY         |     Start     |     18:30     |       -       |        0 KM        |    1     
+  2   |          Villuparam Junction           |         VM         |     18:50     |     18:55     |     5:00      |       38 KM        |    1     
+  3   |             Chengalpattu               |        CGL         |     20:38     |     20:40     |     2:00      |       141 KM       |    1     
+  4   |            Chennai Egmore              |         MS         |     22:10     |     22:30     |     20:00     |       197 KM       |    1     
+  5   |            Gudur Junction              |        GDR         |     01:15     |     01:17     |     2:00      |       338 KM       |    2     
+  6   |                Nellore                 |        NLR         |     01:42     |     01:43     |     1:00      |       377 KM       |    2     
+  7   |                Ongole                  |        OGL         |     03:09     |     03:10     |     1:00      |       493 KM       |    2     
+  8   |          Vijayawada Junction           |        BZA         |     05:30     |     05:40     |     10:00     |       631 KM       |    2     
+  9   |              Rajamundry                |        RJY         |     07:51     |     07:53     |     2:00      |       780 KM       |    2     
+  10  |           Samalkot Junction            |        SLO         |     08:31     |     08:32     |     1:00      |       831 KM       |    2     
+  11  |                Duvvada                 |        DVD         |     11:08     |     11:10     |     2:00      |       964 KM       |    2     
+  12  |             Vishakapatnam              |        VSKP        |     11:45     |     12:05     |     20:00     |       981 KM       |    2     
+  13  |         Vizianagram Junction           |        VZM         |     13:02     |     13:04     |     2:00      |      1042 KM       |    2     
+  14  |            Srikakulam Road             |        CHE         |     13:58     |     14:00     |     2:00      |      1111 KM       |    2     
+  15  |                Palasa                  |        PSA         |     15:00     |     15:02     |     2:00      |      1184 KM       |    2     
+  16  |               Brahmapur                |        BAM         |     16:00     |     16:05     |     5:00      |      1258 KM       |    2     
+  17  |                Balugan                 |        BALU        |     17:03     |     17:05     |     2:00      |      1334 KM       |    2     
+  18  |         Khurda Road Junction           |        KUR         |     18:20     |     18:25     |     5:00      |      1405 KM       |    2     
+  19  |              Bhubaneswar               |        BBS         |     18:45     |     Ends      |       -       |      1424 KM       |    2     

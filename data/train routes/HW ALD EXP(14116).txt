@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Haridwar Junction            |         HW         |     Start     |     16:25     |       -       |        0 KM        |    1     
+  2   |            Laksar Junction             |        LRJ         |     17:17     |     17:22     |     5:00      |       28 KM        |    1     
+  3   |          Najibabad Junction            |        NBD         |     17:57     |     18:02     |     5:00      |       69 KM        |    1     
+  4   |               Moradabad                |         MB         |     19:35     |     19:50     |     15:00     |       167 KM       |    1     
+  5   |                Rampur                  |        RMU         |     20:18     |     20:20     |     2:00      |       195 KM       |    1     
+  6   |               Bareilly                 |         BE         |     21:20     |     21:25     |     5:00      |       258 KM       |    1     
+  7   |             Shahjehanpur               |        SPN         |     22:30     |     22:35     |     5:00      |       328 KM       |    1     
+  8   |                Hardoi                  |        HRI         |     23:23     |     23:25     |     2:00      |       391 KM       |    1     
+  9   |              Lucknow Nr                |        LKO         |     01:15     |     01:25     |     10:00     |       493 KM       |    2     
+  10  |          Rae Bareli Junction           |        RBL         |     02:40     |     02:45     |     5:00      |       571 KM       |    2     
+  11  |               Gauriganj                |        GNG         |     03:30     |     03:32     |     2:00      |       617 KM       |    2     
+  12  |                Amethi                  |        AME         |     03:45     |     03:47     |     2:00      |       631 KM       |    2     
+  13  |          Partapgarh Junction           |        PBH         |     04:30     |     04:35     |     5:00      |       666 KM       |    2     
+  14  |                Prayag                  |        PRG         |     07:20     |     07:22     |     2:00      |       718 KM       |    2     
+  15  |          Allahabad Junction            |        ALD         |     07:45     |     Ends      |       -       |       725 KM       |    2     

@@ -1,0 +1,26 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Amb  Andaura               |        AADR        |     Start     |     20:10     |       -       |        0 KM        |    1     
+  2   |             Una Himachal               |        UHL         |     20:43     |     20:45     |     2:00      |       28 KM        |    1     
+  3   |              Raimehatpur               |        MTPR        |     21:07     |     21:09     |     2:00      |       38 KM        |    1     
+  4   |              Naya Nangal               |        NNGL        |     21:16     |     21:18     |     2:00      |       41 KM        |    1     
+  5   |              Nangal Dam                |        NLDM        |     21:30     |     21:45     |     15:00     |       44 KM        |    1     
+  6   |            Anandpur Sahib              |        ANSB        |     22:03     |     22:05     |     2:00      |       65 KM        |    1     
+  7   |            Kiratpur Sahib              |        KART        |     22:15     |     22:17     |     2:00      |       73 KM        |    1     
+  8   |               Ghanauli                 |        GANL        |     22:35     |     22:37     |     2:00      |       91 KM        |    1     
+  9   |               Rupnagar                 |        RPAR        |     22:50     |     22:55     |     5:00      |       100 KM       |    1     
+  10  |                Kurali                  |        KRLI        |     23:13     |     23:15     |     2:00      |       117 KM       |    1     
+  11  |                Morinda                 |        MRND        |     23:25     |     23:27     |     2:00      |       125 KM       |    1     
+  12  |            Bassi Pathanam              |        BSPN        |     23:46     |     23:48     |     2:00      |       140 KM       |    1     
+  13  |            Fatehgarh Sahib             |        FGSB        |     23:55     |     23:57     |     2:00      |       144 KM       |    1     
+  14  |           Sirhind Junction             |        SIR         |     00:19     |     00:27     |     8:00      |       148 KM       |    2     
+  15  |           Rajpura Junction             |        RPJ         |     00:46     |     00:48     |     2:00      |       174 KM       |    2     
+  16  |              Ambala City               |        UBC         |     01:05     |     01:07     |     2:00      |       194 KM       |    2     
+  17  |         Ambala Cant Junction           |        UMB         |     01:30     |     01:40     |     10:00     |       202 KM       |    2     
+  18  |         Kurukshetra Junction           |        KKDE        |     02:13     |     02:15     |     2:00      |       243 KM       |    2     
+  19  |                Karnal                  |        KUN         |     02:40     |     02:42     |     2:00      |       276 KM       |    2     
+  20  |           Panipat Junction             |        PNP         |     03:13     |     03:28     |     15:00     |       310 KM       |    2     
+  21  |                Ganaur                  |        GNU         |     03:49     |     03:51     |     2:00      |       340 KM       |    2     
+  22  |                Sonipat                 |        SNP         |     04:07     |     04:09     |     2:00      |       356 KM       |    2     
+  23  |                Narela                  |        NUR         |     04:24     |     04:26     |     2:00      |       373 KM       |    2     
+  24  |              Subzi Mandi               |        SZM         |     05:00     |     05:02     |     2:00      |       396 KM       |    2     
+  25  |                 Delhi                  |        DLI         |     05:30     |     Ends      |       -       |       399 KM       |    2     

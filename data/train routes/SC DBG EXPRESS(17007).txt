@@ -1,0 +1,25 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |         Secunderabad Junction          |         SC         |     Start     |     22:00     |       -       |        0 KM        |    1     
+  2   |           Kazipet Junction             |        KZJ         |     00:03     |     00:05     |     2:00      |       132 KM       |    2     
+  3   |               Ramgundam                |        RDM         |     01:14     |     01:15     |     1:00      |       225 KM       |    2     
+  4   |               Mancheral                |        MCI         |     01:28     |     01:29     |     1:00      |       239 KM       |    2     
+  5   |            Sirpur Kagazngr             |        SKZR        |     02:27     |     02:28     |     1:00      |       297 KM       |    2     
+  6   |              Balharshah                |        BPQ         |     04:45     |     05:15     |     30:00     |       367 KM       |    2     
+  7   |            Gondia Junction             |         G          |     09:30     |     09:50     |     20:00     |       616 KM       |    2     
+  8   |                 Durg                   |        DURG        |     11:55     |     12:00     |     5:00      |       750 KM       |    2     
+  9   |            Raipur Junction             |         R          |     12:35     |     12:40     |     5:00      |       787 KM       |    2     
+  10  |           Bilaspur Junction            |        BSP         |     14:30     |     14:45     |     15:00     |       897 KM       |    2     
+  11  |          Jharsuguda Junction           |        JSG         |     17:45     |     17:47     |     2:00      |      1103 KM       |    2     
+  12  |               Rourkela                 |        ROU         |     19:05     |     19:20     |     15:00     |      1204 KM       |    2     
+  13  |                Ranchi                  |        RNC         |     22:45     |     23:00     |     15:00     |      1378 KM       |    2     
+  14  |                 Muri                   |        MURI        |     00:10     |     00:15     |     5:00      |      1440 KM       |    3     
+  15  |            Bokaro Stl City             |        BKSC        |     01:20     |     01:30     |     10:00     |      1492 KM       |    3     
+  16  |           Dhanbad Junction             |        DHN         |     04:00     |     04:05     |     5:00      |      1541 KM       |    3     
+  17  |             Chittaranjan               |        CRJ         |     05:36     |     05:37     |     1:00      |      1603 KM       |    3     
+  18  |           Madhupur Junction            |        MDP         |     06:28     |     06:30     |     2:00      |      1659 KM       |    3     
+  19  |           Jasidih Junction             |        JSME        |     07:05     |     07:07     |     2:00      |      1688 KM       |    3     
+  20  |                Jhajha                  |        JAJ         |     08:15     |     08:20     |     5:00      |      1732 KM       |    3     
+  21  |             Kiul Junction              |        KIUL        |     08:59     |     09:01     |     2:00      |      1786 KM       |    3     
+  22  |           Barauni Junction             |        BJU         |     10:40     |     11:15     |     35:00     |      1825 KM       |    3     
+  23  |          Samastipur Junction           |        SPJ         |     12:10     |     12:15     |     5:00      |      1876 KM       |    3     
+  24  |          Darbhanga Junction            |        DBG         |     13:05     |     Ends      |       -       |      1914 KM       |    3     

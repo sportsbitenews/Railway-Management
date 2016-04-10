@@ -1,0 +1,23 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Kanpur Central              |        CNB         |     Start     |     18:20     |       -       |        0 KM        |    1     
+  2   |            Kanpur Anwrganj             |        CPA         |     18:30     |     18:32     |     2:00      |        3 KM        |    1     
+  3   |                Kannauj                 |        KJN         |     19:30     |     19:32     |     2:00      |       81 KM        |    1     
+  4   |               Fatehgarh                |        FGR         |     20:30     |     20:32     |     2:00      |       135 KM       |    1     
+  5   |              Farrukhabad               |        FBD         |     20:50     |     21:00     |     10:00     |       140 KM       |    1     
+  6   |                Kasganj                 |        KSJ         |     22:40     |     22:50     |     10:00     |       248 KM       |    1     
+  7   |             Hathras City               |        HTC         |     23:33     |     23:35     |     2:00      |       311 KM       |    1     
+  8   |             Mathura Cant               |        MRT         |     01:05     |     01:07     |     2:00      |       351 KM       |    2     
+  9   |           Mathura Junction             |        MTJ         |     01:20     |     01:30     |     10:00     |       353 KM       |    2     
+  10  |          Bharatpur Junction            |        BTE         |     03:35     |     03:40     |     5:00      |       415 KM       |    2     
+  11  |            Sawai Madhopur              |        SWM         |     05:48     |     05:50     |     2:00      |       597 KM       |    2     
+  12  |             Kota Junction              |        KOTA        |     07:10     |     07:20     |     10:00     |       705 KM       |    2     
+  13  |             Ramganj Mandi              |        RMA         |     08:38     |     08:40     |     2:00      |       777 KM       |    2     
+  14  |            Nagda Junction              |        NAD         |     10:58     |     11:00     |     2:00      |       930 KM       |    2     
+  15  |            Ratlam Junction             |        RTM         |     11:35     |     11:45     |     10:00     |       971 KM       |    2     
+  16  |            Godhra Junction             |        GDA         |     15:20     |     15:22     |     2:00      |      1159 KM       |    2     
+  17  |           Vadodara Junction            |        BRC         |     16:23     |     16:33     |     10:00     |      1233 KM       |    2     
+  18  |           Bharuch Junction             |         BH         |     17:28     |     17:30     |     2:00      |      1303 KM       |    2     
+  19  |                 Surat                  |         ST         |     18:55     |     19:00     |     5:00      |      1362 KM       |    2     
+  20  |                 Vapi                   |        VAPI        |     20:14     |     20:16     |     2:00      |      1455 KM       |    2     
+  21  |               Borivali                 |        BVI         |     22:27     |     22:29     |     2:00      |      1595 KM       |    2     
+  22  |            Bandra Terminus             |        BDTS        |     23:05     |     Ends      |       -       |      1613 KM       |    2     

@@ -1,0 +1,9 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Indore Junction Bg            |        INDB        |     Start     |     22:25     |       -       |        0 KM        |    1     
+  2   |                 Dewas                  |        DWX         |     23:01     |     23:03     |     2:00      |       39 KM        |    1     
+  3   |            Ujjain Junction             |        UJN         |     23:55     |     00:05     |     10:00     |       80 KM        |    2     
+  4   |            Nagda Junction              |        NAD         |     01:05     |     01:30     |     25:00     |       135 KM       |    2     
+  5   |             Kota Junction              |        KOTA        |     04:05     |     04:15     |     10:00     |       360 KM       |    2     
+  6   |            Sawai Madhopur              |        SWM         |     05:55     |     06:10     |     15:00     |       467 KM       |    2     
+  7   |               Durgapura                |        DPA         |     07:55     |     07:57     |     2:00      |       591 KM       |    2     
+  8   |                Jaipur                  |         JP         |     08:20     |     Ends      |       -       |       599 KM       |    2     

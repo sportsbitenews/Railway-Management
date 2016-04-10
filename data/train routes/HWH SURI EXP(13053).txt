@@ -1,0 +1,7 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Howrah Junction             |        HWH         |     Start     |     08:35     |       -       |        0 KM        |    1     
+  2   |          Barddhaman Junction           |        BWN         |     10:52     |     10:54     |     2:00      |       107 KM       |    1     
+  3   |            Bolpur S Niktn              |        BHP         |     12:00     |     12:02     |     2:00      |       159 KM       |    1     
+  4   |                Prantik                 |        PNE         |     12:10     |     12:11     |     1:00      |       163 KM       |    1     
+  5   |               Sainthia                 |        SNT         |     12:40     |     13:15     |     35:00     |       191 KM       |    1     
+  6   |                 Siuri                  |        SURI        |     13:40     |     Ends      |       -       |       211 KM       |    1     

@@ -1,0 +1,4 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Simla                  |        SML         |     Start     |     16:25     |       -       |        0 KM        |    1     
+  2   |                 Barog                  |        BOF         |     19:10     |     19:30     |     20:00     |       54 KM        |    1     
+  3   |                 Kalka                  |        KLK         |     21:35     |     Ends      |       -       |       96 KM        |    1     

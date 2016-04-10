@@ -1,0 +1,9 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Coimbatore Junction           |        CBE         |     Start     |     23:30     |       -       |        0 KM        |    1     
+  2   |               Tiruppur                 |        TUP         |     00:03     |     00:05     |     2:00      |       51 KM        |    2     
+  3   |            Erode Junction              |         ED         |     00:50     |     00:55     |     5:00      |       101 KM       |    2     
+  4   |            Salem Junction              |         SA         |     01:50     |     01:55     |     5:00      |       164 KM       |    2     
+  5   |           Katpadi Junction             |        KPD         |     04:53     |     04:55     |     2:00      |       367 KM       |    2     
+  6   |               Arakkonam                |        AJJ         |     05:43     |     05:45     |     2:00      |       428 KM       |    2     
+  7   |               Perambur                 |        PER         |     06:33     |     06:35     |     2:00      |       491 KM       |    2     
+  8   |            Chennai Central             |        MAS         |     07:20     |     Ends      |       -       |       497 KM       |    2     

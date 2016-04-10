@@ -1,0 +1,47 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Bareilly                 |         BE         |     Start     |     06:05     |       -       |        0 KM        |    1     
+  2   |                 Milak                  |        MIL         |     06:38     |     06:40     |     2:00      |       40 KM        |    1     
+  3   |                Rampur                  |        RMU         |     07:00     |     07:02     |     2:00      |       64 KM        |    1     
+  4   |               Moradabad                |         MB         |     07:50     |     08:00     |     10:00     |       91 KM        |    1     
+  5   |                Amroha                  |        AMRO        |     08:28     |     08:30     |     2:00      |       122 KM       |    1     
+  6   |                 Hapur                  |        HPU         |     09:35     |     09:40     |     5:00      |       195 KM       |    1     
+  7   |                Pilkhua                 |        PKW         |     09:53     |     09:55     |     2:00      |       206 KM       |    1     
+  8   |               Ghaziabad                |        GZB         |     10:48     |     10:50     |     2:00      |       232 KM       |    1     
+  9   |                 Delhi                  |        DLI         |     11:30     |     11:45     |     15:00     |       252 KM       |    1     
+  10  |            Delhi S Rohilla             |        DEE         |     12:01     |     12:03     |     2:00      |       256 KM       |    1     
+  11  |              Delhi Cantt               |        DEC         |     12:18     |     12:20     |     2:00      |       266 KM       |    1     
+  12  |                 Palam                  |         PM         |     12:26     |     12:28     |     2:00      |       269 KM       |    1     
+  13  |                Gurgaon                 |        GGN         |     12:42     |     12:44     |     2:00      |       283 KM       |    1     
+  14  |             Garhi Harsaru              |        GHH         |     12:54     |     12:56     |     2:00      |       293 KM       |    1     
+  15  |             Pataudi Road               |        PTRD        |     13:14     |     13:16     |     2:00      |       313 KM       |    1     
+  16  |                Rewari                  |         RE         |     13:50     |     13:52     |     2:00      |       334 KM       |    1     
+  17  |               Khairthal                |        KRH         |     14:26     |     14:28     |     2:00      |       382 KM       |    1     
+  18  |                 Alwar                  |        AWR         |     14:49     |     14:52     |     3:00      |       408 KM       |    1     
+  19  |               Malakhera                |        MKH         |     15:08     |     15:10     |     2:00      |       428 KM       |    1     
+  20  |                Rajgarh                 |        RHG         |     15:23     |     15:25     |     2:00      |       445 KM       |    1     
+  21  |           Bandikui Junction            |        BKI         |     15:45     |     15:50     |     5:00      |       469 KM       |    1     
+  22  |                 Dausa                  |         DO         |     16:10     |     16:12     |     2:00      |       498 KM       |    1     
+  23  |            Getor Jagatpura             |        GTJT        |     16:57     |     16:59     |     2:00      |       548 KM       |    1     
+  24  |            Gandhinagar Jpr             |        GADJ        |     17:00     |     17:02     |     2:00      |       554 KM       |    1     
+  25  |                Jaipur                  |         JP         |     17:20     |     17:30     |     10:00     |       559 KM       |    1     
+  26  |           Phulera Junction             |         FL         |     18:10     |     18:12     |     2:00      |       614 KM       |    1     
+  27  |                Naraina                 |        NRI         |     18:21     |     18:23     |     2:00      |       624 KM       |    1     
+  28  |              Kishangarh                |        KSG         |     18:54     |     18:56     |     2:00      |       665 KM       |    1     
+  29  |            Ajmer Junction              |        AII         |     20:05     |     20:15     |     10:00     |       694 KM       |    1     
+  30  |                Beawar                  |        BER         |     20:57     |     20:59     |     2:00      |       746 KM       |    1     
+  31  |            Marwar Junction             |         MJ         |     22:21     |     22:26     |     5:00      |       834 KM       |    1     
+  32  |                 Falna                  |         FA         |     23:33     |     23:35     |     2:00      |       900 KM       |    1     
+  33  |               Abu Road                 |        ABR         |     01:10     |     01:25     |     15:00     |       999 KM       |    2     
+  34  |           Palanpur Junction            |        PNU         |     02:45     |     02:47     |     2:00      |      1051 KM       |    2     
+  35  |           Mahesana Junction            |        MSH         |     04:14     |     04:16     |     2:00      |      1116 KM       |    2     
+  36  |          Ahmedabad Junction            |        ADI         |     06:15     |     06:45     |     30:00     |      1184 KM       |    2     
+  37  |           Viramgam Junction            |         VG         |     07:58     |     08:00     |     2:00      |      1250 KM       |    2     
+  38  |              Dhrangdhra                |        DHG         |     08:58     |     09:00     |     2:00      |      1315 KM       |    2     
+  39  |                Halvad                  |        HVD         |     09:43     |     09:45     |     2:00      |      1347 KM       |    2     
+  40  |             Maliya Miyana              |        MALB        |     10:20     |     10:22     |     2:00      |      1392 KM       |    2     
+  41  |            Samakhiali B G              |        SIOB        |     11:12     |     11:14     |     2:00      |      1432 KM       |    2     
+  42  |              Bhachau Bg                |        BCOB        |     11:31     |     11:33     |     2:00      |      1448 KM       |    2     
+  43  |             Gandhidham Bg              |        GIMB        |     12:15     |     12:40     |     25:00     |      1485 KM       |    2     
+  44  |                Adipur                  |         AI         |     12:50     |     12:52     |     2:00      |      1494 KM       |    2     
+  45  |                 Anjar                  |        AJE         |     13:02     |     13:04     |     2:00      |      1501 KM       |    2     
+  46  |                 Bhuj                   |        BHUJ        |     14:00     |     Ends      |       -       |      1543 KM       |    2     

@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Delhi                  |        DLI         |     Start     |     08:00     |       -       |        0 KM        |    1     
+  2   |           Panipat Junction             |        PNP         |     09:13     |     09:15     |     2:00      |       89 KM        |    1     
+  3   |                Karnal                  |        KUN         |     09:38     |     09:40     |     2:00      |       123 KM       |    1     
+  4   |         Kurukshetra Junction           |        KKDE        |     10:08     |     10:10     |     2:00      |       156 KM       |    1     
+  5   |         Ambala Cant Junction           |        UMB         |     11:20     |     11:25     |     5:00      |       198 KM       |    1     
+  6   |           Sirhind Junction             |        SIR         |     12:08     |     12:10     |     2:00      |       251 KM       |    1     
+  7   |           Ludhiana Junction            |        LDH         |     13:08     |     13:13     |     5:00      |       311 KM       |    1     
+  8   |            Jalandhar City              |        JUC         |     14:05     |     14:10     |     5:00      |       368 KM       |    1     
+  9   |                 Beas                   |        BEAS        |     14:41     |     14:43     |     2:00      |       404 KM       |    1     
+  10  |           Amritsar Junction            |        ASR         |     15:35     |     16:00     |     25:00     |       447 KM       |    1     
+  11  |            Batala Junction             |        BAT         |     16:56     |     16:58     |     2:00      |       486 KM       |    1     
+  12  |               Dhariwal                 |        DHW         |     17:14     |     17:16     |     2:00      |       504 KM       |    1     
+  13  |               Gurdaspur                |        GSP         |     17:31     |     17:33     |     2:00      |       518 KM       |    1     
+  14  |               Pathankot                |        PTK         |     18:30     |     Ends      |       -       |       554 KM       |    1     

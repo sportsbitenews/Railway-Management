@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Yesvantpur Junction           |        YPR         |     Start     |     16:15     |       -       |        0 KM        |    1     
+  2   |                Tumkur                  |         TK         |     17:13     |     17:15     |     2:00      |       65 KM        |    1     
+  3   |                Tiptur                  |        TTR         |     19:13     |     19:15     |     2:00      |       135 KM       |    1     
+  4   |           Arsikere Junction            |        ASK         |     19:45     |     19:50     |     5:00      |       161 KM       |    1     
+  5   |                 Kadur                  |        DRU         |     20:38     |     20:40     |     2:00      |       200 KM       |    1     
+  6   |               Ajjampur                 |        AJP         |     20:49     |     20:50     |     1:00      |       224 KM       |    1     
+  7   |                Shivani                 |        SHV         |     20:59     |     21:00     |     1:00      |       235 KM       |    1     
+  8   |          Chikjajur Junction            |        JRU         |     21:58     |     22:00     |     2:00      |       274 KM       |    1     
+  9   |               Mayakonda                |        MYK         |     22:19     |     22:20     |     1:00      |       292 KM       |    1     
+  10  |               Davangere                |        DVG         |     22:48     |     22:50     |     2:00      |       320 KM       |    1     
+  11  |                Harihar                 |        HRR         |     23:45     |     Ends      |       -       |       334 KM       |    1     

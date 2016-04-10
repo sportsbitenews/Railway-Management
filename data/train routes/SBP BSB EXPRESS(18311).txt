@@ -1,0 +1,38 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Sambalpur                |        SBP         |     Start     |     13:05     |       -       |        0 KM        |    1     
+  2   |                Rengali                 |        RGL         |     13:29     |     13:30     |     1:00      |       23 KM        |    1     
+  3   |          Jharsuguda Junction           |        JSG         |     14:20     |     14:25     |     5:00      |       49 KM        |    1     
+  4   |              Raj Gangpur               |         GP         |     15:17     |     15:18     |     1:00      |       121 KM       |    1     
+  5   |               Rourkela                 |        ROU         |     15:50     |     16:10     |     20:00     |       151 KM       |    1     
+  6   |                Nuagaon                 |        NXN         |     16:42     |     16:43     |     1:00      |       182 KM       |    1     
+  7   |                 Bano                   |        BANO        |     17:37     |     17:38     |     1:00      |       224 KM       |    1     
+  8   |                 Pokla                  |        PKF         |     18:07     |     18:08     |     1:00      |       256 KM       |    1     
+  9   |                 Hatia                  |        HTE         |     19:30     |     19:35     |     5:00      |       317 KM       |    1     
+  10  |                Ranchi                  |        RNC         |     19:50     |     20:05     |     15:00     |       324 KM       |    1     
+  11  |                 Muri                   |        MURI        |     21:20     |     21:25     |     5:00      |       386 KM       |    1     
+  12  |             Ramgarh Cant               |        RMT         |     22:20     |     22:25     |     5:00      |       440 KM       |    1     
+  13  |              Barka Kana                |        BRKA        |     22:50     |     23:00     |     10:00     |       444 KM       |    1     
+  14  |                Patratu                 |        PTRU        |     23:23     |     23:24     |     1:00      |       464 KM       |    1     
+  15  |                Khalari                 |        KLRE        |     23:59     |     00:01     |     2:00      |       500 KM       |    2     
+  16  |                 Tori                   |        TORI        |     00:31     |     00:32     |     1:00      |       529 KM       |    2     
+  17  |                Latehar                 |        LTHR        |     01:03     |     01:04     |     1:00      |       561 KM       |    2     
+  18  |           Barwadih Junction            |        BRWD        |     01:40     |     01:45     |     5:00      |       602 KM       |    2     
+  19  |              Daltonganj                |        DTO         |     02:22     |     02:27     |     5:00      |       629 KM       |    2     
+  20  |              Garwa Road                |        GHD         |     03:30     |     03:40     |     10:00     |       663 KM       |    2     
+  21  |              Untare Road               |        URD         |     03:53     |     03:54     |     1:00      |       679 KM       |    2     
+  22  |             Muhammadganj               |        MDJ         |     04:11     |     04:12     |     1:00      |       691 KM       |    2     
+  23  |              Haidarnagar               |        HDN         |     04:24     |     04:25     |     1:00      |       702 KM       |    2     
+  24  |                 Japla                  |        JPL         |     04:33     |     04:34     |     1:00      |       709 KM       |    2     
+  25  |            Kajrat Nawadih              |        KYF         |     04:46     |     04:47     |     1:00      |       717 KM       |    2     
+  26  |            Nabenagar Road              |        NBG         |     04:56     |     04:57     |     1:00      |       725 KM       |    2     
+  27  |            Ankorah Akorha              |        ANH         |     05:15     |     05:16     |     1:00      |       739 KM       |    2     
+  28  |               Son Nagar                |        SEB         |     05:42     |     05:43     |     1:00      |       755 KM       |    2     
+  29  |             Dehri On Sone              |        DOS         |     05:52     |     05:54     |     2:00      |       761 KM       |    2     
+  30  |                Sasaram                 |        SSM         |     06:08     |     06:09     |     1:00      |       779 KM       |    2     
+  31  |                 Kudra                  |        KTQ         |     06:29     |     06:30     |     1:00      |       804 KM       |    2     
+  32  |              Bhabua Road               |        BBU         |     06:47     |     06:48     |     1:00      |       826 KM       |    2     
+  33  |               Durgauti                 |        DGO         |     06:57     |     06:58     |     1:00      |       835 KM       |    2     
+  34  |               Karamnasa                |        KMS         |     07:09     |     07:10     |     1:00      |       847 KM       |    2     
+  35  |         Mughal Sarai Junction          |        MGS         |     08:02     |     08:12     |     10:00     |       879 KM       |    2     
+  36  |                 Kashi                  |        KEI         |     08:40     |     08:41     |     1:00      |       890 KM       |    2     
+  37  |           Varanasi Junction            |        BSB         |     08:55     |     Ends      |       -       |       896 KM       |    2     

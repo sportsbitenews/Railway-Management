@@ -1,0 +1,6 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Bandra Terminus             |        BDTS        |     Start     |     16:35     |       -       |        0 KM        |    1     
+  2   |               Borivali                 |        BVI         |     17:11     |     17:13     |     2:00      |       19 KM        |    1     
+  3   |           Vadodara Junction            |        BRC         |     22:55     |     23:05     |     10:00     |       381 KM       |    1     
+  4   |             Kota Junction              |        KOTA        |     06:25     |     06:35     |     10:00     |       909 KM       |    2     
+  5   |             H Nizamuddin               |        NZM         |     13:45     |     Ends      |       -       |      1366 KM       |    2     

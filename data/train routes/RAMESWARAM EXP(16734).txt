@@ -1,0 +1,42 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Okha                   |        OKHA        |     Start     |     06:45     |       -       |        0 KM        |    1     
+  2   |                Dwarka                  |        DWK         |     07:18     |     07:20     |     2:00      |       29 KM        |    1     
+  3   |              Khambhaliya               |        KMBL        |     08:33     |     08:35     |     2:00      |       114 KM       |    1     
+  4   |               Jamnagar                 |        JAM         |     09:31     |     09:33     |     2:00      |       168 KM       |    1     
+  5   |                 Hapa                   |        HAPA        |     09:58     |     10:00     |     2:00      |       177 KM       |    1     
+  6   |            Rajkot Junction             |        RJT         |     11:42     |     11:47     |     5:00      |       253 KM       |    1     
+  7   |           Wankaner Junction            |        WKR         |     12:26     |     12:28     |     2:00      |       294 KM       |    1     
+  8   |             Surendranagar              |        SUNR        |     13:28     |     13:30     |     2:00      |       369 KM       |    1     
+  9   |           Viramgam Junction            |         VG         |     14:55     |     14:57     |     2:00      |       434 KM       |    1     
+  10  |          Ahmedabad Junction            |        ADI         |     16:10     |     16:30     |     20:00     |       499 KM       |    1     
+  11  |           Vadodara Junction            |        BRC         |     18:24     |     18:34     |     10:00     |       599 KM       |    1     
+  12  |                 Surat                  |         ST         |     20:15     |     20:25     |     10:00     |       728 KM       |    1     
+  13  |           Jalgaon Junction             |         JL         |     02:28     |     02:30     |     2:00      |      1039 KM       |    2     
+  14  |            Manmad Junction             |        MMR         |     04:55     |     05:00     |     5:00      |      1199 KM       |    2     
+  15  |               Nagarsol                 |        NSL         |     06:00     |     06:05     |     5:00      |      1224 KM       |    2     
+  16  |              Aurangabad                |        AWB         |     07:20     |     07:25     |     5:00      |      1312 KM       |    2     
+  17  |                 Jalna                  |         J          |     08:23     |     08:25     |     2:00      |      1375 KM       |    2     
+  18  |           Parbhani Junction            |        PBN         |     10:08     |     10:10     |     2:00      |      1490 KM       |    2     
+  19  |            Purna Junction              |        PAU         |     11:03     |     11:05     |     2:00      |      1518 KM       |    2     
+  20  |                Nanded                  |        NED         |     12:00     |     12:05     |     5:00      |      1549 KM       |    2     
+  21  |                Mudkhed                 |        MUE         |     13:00     |     13:02     |     2:00      |      1571 KM       |    2     
+  22  |               Nizamabad                |        NZB         |     14:30     |     14:32     |     2:00      |      1659 KM       |    2     
+  23  |               Kacheguda                |        KCG         |     17:40     |     17:50     |     10:00     |      1825 KM       |    2     
+  24  |              Mahbubnagar               |        MBNR        |     19:48     |     19:50     |     2:00      |      1930 KM       |    2     
+  25  |             Kurnool Town               |        KRNT        |     22:08     |     22:10     |     2:00      |      2061 KM       |    2     
+  26  |                 Dhone                  |        DHNE        |     23:25     |     23:30     |     5:00      |      2114 KM       |    2     
+  27  |              Yerraguntla               |         YA         |     02:38     |     02:40     |     2:00      |      2285 KM       |    3     
+  28  |               Cuddapah                 |         HX         |     03:23     |     03:25     |     2:00      |      2324 KM       |    3     
+  29  |               Tirupati                 |        TPTY        |     06:05     |     06:10     |     5:00      |      2459 KM       |    3     
+  30  |           Katpadi Junction             |        KPD         |     08:30     |     08:32     |     2:00      |      2564 KM       |    3     
+  31  |              Jolarpettai               |        JTJ         |     09:38     |     09:40     |     2:00      |      2647 KM       |    3     
+  32  |            Salem Junction              |         SA         |     11:12     |     11:15     |     3:00      |      2767 KM       |    3     
+  33  |            Erode Junction              |         ED         |     12:35     |     12:45     |     10:00     |      2830 KM       |    3     
+  34  |                 Karur                  |        KRR         |     13:42     |     13:45     |     3:00      |      2895 KM       |    3     
+  35  |           Dindigul Junction            |         DG         |     14:57     |     15:00     |     3:00      |      2969 KM       |    3     
+  36  |           Madurai Junction             |        MDU         |     16:00     |     16:05     |     5:00      |      3035 KM       |    3     
+  37  |         Manamadurai Junction           |        MNM         |     16:50     |     16:55     |     5:00      |      3083 KM       |    3     
+  38  |              Paramakkudi               |        PMK         |     17:15     |     17:17     |     2:00      |      3107 KM       |    3     
+  39  |            Ramanathapuram              |        RMD         |     17:45     |     17:47     |     2:00      |      3142 KM       |    3     
+  40  |               Mandapam                 |        MMM         |     18:30     |     18:31     |     1:00      |      3179 KM       |    3     
+  41  |              Rameswaram                |        RMM         |     19:45     |     Ends      |       -       |      3196 KM       |    3     

@@ -1,0 +1,30 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Ahmedabad Junction            |        ADI         |     Start     |     21:50     |       -       |        0 KM        |    1     
+  2   |            Nadiad Junction             |         ND         |     22:36     |     22:38     |     2:00      |       46 KM        |    1     
+  3   |            Anand Junction              |        ANND        |     22:53     |     22:55     |     2:00      |       64 KM        |    1     
+  4   |           Vadodara Junction            |        BRC         |     23:40     |     23:59     |     19:00     |       100 KM       |    1     
+  5   |                 Dahod                  |        DHD         |     01:58     |     02:00     |     2:00      |       248 KM       |    2     
+  6   |            Ratlam Junction             |        RTM         |     03:45     |     03:55     |     10:00     |       362 KM       |    2     
+  7   |            Nagda Junction              |        NAD         |     04:48     |     04:50     |     2:00      |       403 KM       |    2     
+  8   |            Ujjain Junction             |        UJN         |     05:55     |     06:05     |     10:00     |       458 KM       |    2     
+  9   |                Berchha                 |        BCH         |     06:50     |     06:52     |     2:00      |       518 KM       |    2     
+  10  |               Shujalpur                |        SJP         |     07:25     |     07:27     |     2:00      |       561 KM       |    2     
+  11  |                Sehore                  |        SEH         |     08:00     |     08:02     |     2:00      |       603 KM       |    2     
+  12  |               Bairagarh                |        BIH         |     08:38     |     08:40     |     2:00      |       631 KM       |    2     
+  13  |                Vidisha                 |        BHS         |     10:27     |     10:29     |     2:00      |       695 KM       |    2     
+  14  |             Bina Junction              |        BINA        |     12:10     |     12:15     |     5:00      |       780 KM       |    2     
+  15  |                Saugor                  |        SGO         |     13:20     |     13:25     |     5:00      |       854 KM       |    2     
+  16  |                 Damoh                  |        DMO         |     14:28     |     14:30     |     2:00      |       932 KM       |    2     
+  17  |                 Katni                  |        KTE         |     16:25     |     16:35     |     10:00     |      1043 KM       |    2     
+  18  |                 Satna                  |        STA         |     17:45     |     17:55     |     10:00     |      1141 KM       |    2     
+  19  |           Manikpur Junction            |        MKP         |     19:45     |     19:47     |     2:00      |      1218 KM       |    2     
+  20  |          Allahabad Junction            |        ALD         |     22:10     |     22:40     |     30:00     |      1319 KM       |    2     
+  21  |            Allahabad City              |        ALY         |     22:50     |     22:52     |     2:00      |      1321 KM       |    2     
+  22  |             Gyanpur Road               |        GYN         |     23:53     |     23:55     |     2:00      |      1383 KM       |    2     
+  23  |           Varanasi Junction            |        BSB         |     01:50     |     02:00     |     10:00     |      1443 KM       |    3     
+  24  |                 Kashi                  |        KEI         |     02:15     |     02:17     |     2:00      |      1448 KM       |    3     
+  25  |         Mughal Sarai Junction          |        MGS         |     03:00     |     03:20     |     20:00     |      1460 KM       |    3     
+  26  |                 Buxar                  |        BXR         |     04:31     |     04:33     |     2:00      |      1554 KM       |    3     
+  27  |                  Ara                   |        ARA         |     05:46     |     05:48     |     2:00      |      1622 KM       |    3     
+  28  |                Danapur                 |        DNR         |     07:13     |     07:15     |     2:00      |      1662 KM       |    3     
+  29  |            Patna Junction              |        PNBE        |     07:55     |     Ends      |       -       |      1671 KM       |    3     

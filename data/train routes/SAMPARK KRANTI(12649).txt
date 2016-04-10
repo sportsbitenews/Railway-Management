@@ -1,0 +1,9 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Yesvantpur Junction           |        YPR         |     Start     |     22:00     |       -       |        0 KM        |    1     
+  2   |         Dharmavaram Junction           |        DMM         |     00:40     |     00:45     |     5:00      |       175 KM       |    2     
+  3   |             Kurnool Town               |        KRNT        |     04:25     |     04:27     |     2:00      |       374 KM       |    2     
+  4   |               Kacheguda                |        KCG         |     08:20     |     08:30     |     10:00     |       610 KM       |    2     
+  5   |                Nagpur                  |        NGP         |     17:05     |     17:15     |     10:00     |      1195 KM       |    2     
+  6   |           Bhopal  Junction             |        BPL         |     22:55     |     23:05     |     10:00     |      1584 KM       |    2     
+  7   |            Jhansi Junction             |        JHS         |     02:50     |     03:00     |     10:00     |      1875 KM       |    3     
+  8   |             H Nizamuddin               |        NZM         |     09:15     |     Ends      |       -       |      2277 KM       |    3     

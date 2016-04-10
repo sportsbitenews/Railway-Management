@@ -1,0 +1,14 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Nanded                  |        NED         |     Start     |     21:20     |       -       |        0 KM        |    1     
+  2   |            Purna Junction              |        PAU         |     21:53     |     21:55     |     2:00      |       31 KM        |    1     
+  3   |           Parbhani Junction            |        PBN         |     22:28     |     22:30     |     2:00      |       59 KM        |    1     
+  4   |                 Selu                   |        SELU        |     23:04     |     23:05     |     1:00      |       102 KM       |    1     
+  5   |                Partur                  |        PTU         |     23:29     |     23:30     |     1:00      |       129 KM       |    1     
+  6   |                 Jalna                  |         J          |     00:18     |     00:20     |     2:00      |       174 KM       |    2     
+  7   |              Aurangabad                |        AWB         |     01:20     |     01:22     |     2:00      |       237 KM       |    2     
+  8   |            Manmad Junction             |        MMR         |     03:15     |     03:20     |     5:00      |       350 KM       |    2     
+  9   |               Kopargaon                |        KPG         |     03:49     |     03:50     |     1:00      |       392 KM       |    2     
+  10  |                Belapur                 |        BAP         |     04:34     |     04:35     |     1:00      |       436 KM       |    2     
+  11  |              Ahmadnagar                |        ANG         |     05:32     |     05:35     |     3:00      |       503 KM       |    2     
+  12  |            Daund Junction              |         DD         |     07:40     |     07:55     |     15:00     |       586 KM       |    2     
+  13  |             Pune Junction              |        PUNE        |     09:20     |     Ends      |       -       |       662 KM       |    2     

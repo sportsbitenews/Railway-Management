@@ -1,0 +1,14 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Singrauli                |        SGRL        |     Start     |     04:55     |       -       |        0 KM        |    1     
+  2   |               Bargawan                 |        BRGW        |     05:21     |     05:22     |     1:00      |       20 KM        |    1     
+  3   |               Sareigram                |        SGAM        |     05:59     |     06:00     |     1:00      |       57 KM        |    1     
+  4   |              Niwas Road                |        NWB         |     06:26     |     06:27     |     1:00      |       86 KM        |    1     
+  5   |              Marwasgram                |        MWJ         |     06:45     |     06:46     |     1:00      |       103 KM       |    1     
+  6   |                Beohari                 |        BEHR        |     07:27     |     07:29     |     2:00      |       149 KM       |    1     
+  7   |               Bijaysota                |        VST         |     08:00     |     08:01     |     1:00      |       179 KM       |    1     
+  8   |                Mahroi                  |        MFQ         |     08:18     |     08:19     |     1:00      |       199 KM       |    1     
+  9   |            Khanna Banjari              |        KHBJ        |     08:29     |     08:31     |     2:00      |       210 KM       |    1     
+  10  |          New Katni Junction            |        NKJ         |     09:29     |     09:30     |     1:00      |       257 KM       |    1     
+  11  |              Katni South               |        KTES        |     09:55     |     10:00     |     5:00      |       263 KM       |    1     
+  12  |              Sihora Road               |        SHR         |     10:44     |     10:45     |     1:00      |       314 KM       |    1     
+  13  |               Jabalpur                 |        JBP         |     11:40     |     Ends      |       -       |       352 KM       |    1     

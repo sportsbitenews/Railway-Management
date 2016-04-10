@@ -1,0 +1,18 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Chennai Central             |        MAS         |     Start     |     18:10     |       -       |        0 KM        |    1     
+  2   |              Sullurupeta               |        SPE         |     19:19     |     19:20     |     1:00      |       83 KM        |    1     
+  3   |              Nayadupeta                |        NYP         |     19:44     |     19:45     |     1:00      |       110 KM       |    1     
+  4   |            Gudur Junction              |        GDR         |     20:40     |     20:45     |     5:00      |       138 KM       |    1     
+  5   |                Nellore                 |        NLR         |     21:10     |     21:11     |     1:00      |       176 KM       |    1     
+  6   |                Kavali                  |        KVZ         |     21:48     |     21:49     |     1:00      |       227 KM       |    1     
+  7   |                Ongole                  |        OGL         |     22:42     |     22:43     |     1:00      |       292 KM       |    1     
+  8   |                Chirala                 |        CLX         |     23:18     |     23:19     |     1:00      |       342 KM       |    1     
+  9   |            Tenali Junction             |        TEL         |     00:14     |     00:15     |     1:00      |       399 KM       |    2     
+  10  |          Vijayawada Junction           |        BZA         |     01:10     |     01:20     |     10:00     |       431 KM       |    2     
+  11  |                Khammam                 |        KMT         |     02:28     |     02:30     |     2:00      |       532 KM       |    2     
+  12  |           Dornakal Junction            |        DKJ         |     02:59     |     03:00     |     1:00      |       555 KM       |    2     
+  13  |              Mahbubabad                |        MABD        |     03:19     |     03:20     |     1:00      |       579 KM       |    2     
+  14  |               Warangal                 |         WL         |     04:13     |     04:15     |     2:00      |       639 KM       |    2     
+  15  |           Kazipet Junction             |        KZJ         |     04:40     |     04:42     |     2:00      |       649 KM       |    2     
+  16  |         Secunderabad Junction          |         SC         |     07:15     |     07:20     |     5:00      |       781 KM       |    2     
+  17  |            Hyderabad Decan             |        HYB         |     08:00     |     Ends      |       -       |       790 KM       |    2     

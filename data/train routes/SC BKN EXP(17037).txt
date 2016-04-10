@@ -1,0 +1,29 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |         Secunderabad Junction          |         SC         |     Start     |     23:35     |       -       |        0 KM        |    1     
+  2   |           Kazipet Junction             |        KZJ         |     01:48     |     01:50     |     2:00      |       132 KM       |    2     
+  3   |            Sirpur Kagazngr             |        SKZR        |     04:08     |     04:10     |     2:00      |       297 KM       |    2     
+  4   |              Balharshah                |        BPQ         |     05:40     |     05:50     |     10:00     |       367 KM       |    2     
+  5   |              Chandrapur                |         CD         |     06:10     |     06:12     |     2:00      |       380 KM       |    2     
+  6   |            Wardha Junction             |         WR         |     08:00     |     08:05     |     5:00      |       499 KM       |    2     
+  7   |           Badnera Junction             |         BD         |     09:45     |     09:50     |     5:00      |       594 KM       |    2     
+  8   |            Akola Junction              |         AK         |     10:40     |     10:45     |     5:00      |       673 KM       |    2     
+  9   |                Shegaon                 |        SEG         |     11:14     |     11:15     |     1:00      |       710 KM       |    2     
+  10  |               Malkapur                 |        MKU         |     11:48     |     11:50     |     2:00      |       763 KM       |    2     
+  11  |           Bhusaval Junction            |        BSL         |     12:50     |     13:00     |     10:00     |       813 KM       |    2     
+  12  |           Jalgaon Junction             |         JL         |     13:55     |     14:00     |     5:00      |       837 KM       |    2     
+  13  |                Amalner                 |         AN         |     15:25     |     15:27     |     2:00      |       892 KM       |    2     
+  14  |               Nandurbar                |        NDB         |     16:55     |     17:00     |     5:00      |       988 KM       |    2     
+  15  |                 Surat                  |         ST         |     20:20     |     20:25     |     5:00      |      1148 KM       |    2     
+  16  |           Vadodara Junction            |        BRC         |     22:10     |     22:15     |     5:00      |      1277 KM       |    2     
+  17  |          Ahmedabad Junction            |        ADI         |     00:50     |     01:10     |     20:00     |      1376 KM       |    3     
+  18  |           Mahesana Junction            |        MSH         |     03:06     |     03:08     |     2:00      |      1449 KM       |    3     
+  19  |           Palanpur Junction            |        PNU         |     05:01     |     05:03     |     2:00      |      1515 KM       |    3     
+  20  |               Abu Road                 |        ABR         |     05:58     |     06:08     |     10:00     |      1567 KM       |    3     
+  21  |            Marwar Junction             |         MJ         |     09:05     |     09:10     |     5:00      |      1732 KM       |    3     
+  22  |              Pali Marwar               |        PMY         |     09:38     |     09:40     |     2:00      |      1763 KM       |    3     
+  23  |             Luni Junction              |        LUNI        |     10:12     |     10:14     |     2:00      |      1804 KM       |    3     
+  24  |           Jodhpur Junction             |         JU         |     10:50     |     11:05     |     15:00     |      1836 KM       |    3     
+  25  |          Merta Road Junction           |        MTD         |     13:04     |     13:09     |     5:00      |      1940 KM       |    3     
+  26  |                Nagaur                  |        NGO         |     14:14     |     14:16     |     2:00      |      1997 KM       |    3     
+  27  |                 Nokha                  |        NOK         |     15:06     |     15:08     |     2:00      |      2048 KM       |    3     
+  28  |           Bikaner Junction             |        BKN         |     17:00     |     Ends      |       -       |      2113 KM       |    3     

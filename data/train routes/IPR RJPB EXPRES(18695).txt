@@ -1,0 +1,8 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Islampur                 |        IPR         |     Start     |     10:45     |       -       |        0 KM        |    1     
+  2   |             Ekangarsarai               |        EKR         |     10:55     |     10:56     |     1:00      |       10 KM        |    1     
+  3   |                 Hilsa                  |        HIL         |     11:10     |     11:11     |     1:00      |       22 KM        |    1     
+  4   |            Daniyawan Bzr H             |        DNWH        |     11:41     |     11:42     |     1:00      |       35 KM        |    1     
+  5   |                 Fatwa                  |        FUT         |     12:17     |     12:18     |     1:00      |       43 KM        |    1     
+  6   |              Patna Saheb               |        PNC         |     12:53     |     12:54     |     1:00      |       55 KM        |    1     
+  7   |            Rjndr Ngr Bihar             |        RJPB        |     13:15     |     Ends      |       -       |       63 KM        |    1     

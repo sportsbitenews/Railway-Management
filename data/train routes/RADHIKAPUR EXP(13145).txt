@@ -1,0 +1,21 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Kolkata                 |        KOAA        |     Start     |     19:30     |       -       |        0 KM        |    1     
+  2   |           Naihati Junction             |         NH         |     20:28     |     20:30     |     2:00      |       34 KM        |    1     
+  3   |            Bandel Junction             |        BDC         |     20:52     |     20:54     |     2:00      |       43 KM        |    1     
+  4   |             Ambika Kalna               |        ABKA        |     21:26     |     21:27     |     1:00      |       85 KM        |    1     
+  5   |             Nabadwip Dham              |        NDAE        |     21:52     |     21:54     |     2:00      |       108 KM       |    1     
+  6   |                 Katwa                  |        KWAE        |     22:57     |     23:02     |     5:00      |       148 KM       |    1     
+  7   |                 Salar                  |        SALE        |     23:18     |     23:19     |     1:00      |       165 KM       |    1     
+  8   |            Khagraghat Road             |        KGLE        |     00:01     |     00:02     |     1:00      |       206 KM       |    2     
+  9   |           Azimganj Junction            |         AZ         |     00:35     |     00:45     |     10:00     |       220 KM       |    2     
+  10  |             Jangipur Road              |        JRLE        |     01:12     |     01:13     |     1:00      |       255 KM       |    2     
+  11  |             Dhulian Ganga              |        DGLE        |     01:39     |     01:40     |     1:00      |       285 KM       |    2     
+  12  |         New Farakka Junction           |        NFK         |     02:35     |     02:40     |     5:00      |       300 KM       |    2     
+  13  |              Malda Town                |        MLDT        |     03:25     |     03:40     |     15:00     |       334 KM       |    2     
+  14  |                 Samsi                  |         SM         |     04:08     |     04:10     |     2:00      |       369 KM       |    2     
+  15  |            Bhaluka Road F              |        BKRD        |     04:20     |     04:22     |     2:00      |       380 KM       |    2     
+  16  |            Harischandrpur              |        HCR         |     04:31     |     04:33     |     2:00      |       390 KM       |    2     
+  17  |            Barsoi Junction             |        BOE         |     05:07     |     05:12     |     5:00      |       422 KM       |    2     
+  18  |                Raiganj                 |        RGJ         |     05:30     |     05:40     |     10:00     |       444 KM       |    2     
+  19  |              Kaliyanganj               |        KAJ         |     06:15     |     06:17     |     2:00      |       464 KM       |    2     
+  20  |              Radhikapur                |        RDP         |     06:50     |     Ends      |       -       |       476 KM       |    2     

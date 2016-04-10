@@ -1,0 +1,40 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Ajmer Junction              |        AII         |     Start     |     19:30     |       -       |        0 KM        |    1     
+  2   |                Jaipur                  |         JP         |     21:30     |     21:40     |     10:00     |       135 KM       |    1     
+  3   |               Durgapura                |        DPA         |     21:49     |     21:51     |     2:00      |       142 KM       |    1     
+  4   |            Sawai Madhopur              |        SWM         |     23:35     |     23:40     |     5:00      |       266 KM       |    1     
+  5   |             Gangapur City              |        GGC         |     00:28     |     00:30     |     2:00      |       330 KM       |    2     
+  6   |            Bayana Junction             |        BXN         |     01:53     |     01:55     |     2:00      |       407 KM       |    2     
+  7   |               Agra Fort                |         AF         |     03:15     |     03:25     |     10:00     |       492 KM       |    2     
+  8   |            Tundla Junction             |        TDL         |     04:30     |     04:35     |     5:00      |       514 KM       |    2     
+  9   |               Firozabad                |        FZD         |     04:48     |     04:50     |     2:00      |       531 KM       |    2     
+  10  |            Kanpur Central              |        CNB         |     07:30     |     07:45     |     15:00     |       744 KM       |    2     
+  11  |          Allahabad Junction            |        ALD         |     10:15     |     10:25     |     10:00     |       938 KM       |    2     
+  12  |               Mirzapur                 |        MZP         |     12:03     |     12:05     |     2:00      |      1028 KM       |    2     
+  13  |           Varanasi Junction            |        BSB         |     14:10     |     14:45     |     35:00     |      1103 KM       |    2     
+  14  |         Mughal Sarai Junction          |        MGS         |     15:40     |     15:50     |     10:00     |      1120 KM       |    2     
+  15  |               Karamnasa                |        KMS         |     16:17     |     16:19     |     2:00      |      1152 KM       |    2     
+  16  |               Durgauti                 |        DGO         |     16:31     |     16:33     |     2:00      |      1164 KM       |    2     
+  17  |              Bhabua Road               |        BBU         |     16:41     |     16:43     |     2:00      |      1173 KM       |    2     
+  18  |                 Kudra                  |        KTQ         |     17:00     |     17:02     |     2:00      |      1195 KM       |    2     
+  19  |                Sasaram                 |        SSM         |     17:21     |     17:23     |     2:00      |      1220 KM       |    2     
+  20  |             Dehri On Sone              |        DOS         |     17:45     |     17:47     |     2:00      |      1238 KM       |    2     
+  21  |               Son Nagar                |        SEB         |     17:53     |     17:55     |     2:00      |      1244 KM       |    2     
+  22  |            Ankorah Akorha              |        ANH         |     18:09     |     18:11     |     2:00      |      1260 KM       |    2     
+  23  |            Nabenagar Road              |        NBG         |     18:27     |     18:29     |     2:00      |      1274 KM       |    2     
+  24  |            Kajrat Nawadih              |        KYF         |     18:37     |     18:39     |     2:00      |      1282 KM       |    2     
+  25  |                 Japla                  |        JPL         |     18:46     |     18:48     |     2:00      |      1290 KM       |    2     
+  26  |              Haidarnagar               |        HDN         |     18:58     |     19:00     |     2:00      |      1297 KM       |    2     
+  27  |             Muhammadganj               |        MDJ         |     19:09     |     19:11     |     2:00      |      1309 KM       |    2     
+  28  |              Untare Road               |        URD         |     19:26     |     19:28     |     2:00      |      1320 KM       |    2     
+  29  |              Garwa Road                |        GHD         |     20:20     |     20:30     |     10:00     |      1337 KM       |    2     
+  30  |              Daltonganj                |        DTO         |     21:02     |     21:07     |     5:00      |      1370 KM       |    2     
+  31  |           Barwadih Junction            |        BRWD        |     21:32     |     21:42     |     10:00     |      1397 KM       |    2     
+  32  |                Latehar                 |        LTHR        |     22:16     |     22:18     |     2:00      |      1438 KM       |    2     
+  33  |                 Tori                   |        TORI        |     22:44     |     22:46     |     2:00      |      1470 KM       |    2     
+  34  |                Khalari                 |        KLRE        |     23:14     |     23:16     |     2:00      |      1499 KM       |    2     
+  35  |                Patratu                 |        PTRU        |     23:52     |     23:54     |     2:00      |      1535 KM       |    2     
+  36  |              Barka Kana                |        BRKA        |     01:15     |     01:35     |     20:00     |      1555 KM       |    3     
+  37  |             Ramgarh Cant               |        RMT         |     01:45     |     01:50     |     5:00      |      1560 KM       |    3     
+  38  |                 Muri                   |        MURI        |     02:45     |     02:50     |     5:00      |      1613 KM       |    3     
+  39  |                Ranchi                  |        RNC         |     04:15     |     Ends      |       -       |      1678 KM       |    3     

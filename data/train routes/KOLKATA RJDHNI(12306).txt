@@ -1,0 +1,10 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               New Delhi                |        NDLS        |     Start     |     16:55     |       -       |        0 KM        |    1     
+  2   |            Kanpur Central              |        CNB         |     21:38     |     21:43     |     5:00      |       440 KM       |    1     
+  3   |          Allahabad Junction            |        ALD         |     23:43     |     23:46     |     3:00      |       634 KM       |    1     
+  4   |         Mughal Sarai Junction          |        MGS         |     01:45     |     01:55     |     10:00     |       786 KM       |    2     
+  5   |            Patna Junction              |        PNBE        |     04:45     |     04:55     |     10:00     |       998 KM       |    2     
+  6   |           Jasidih Junction             |        JSME        |     08:35     |     08:39     |     4:00      |      1219 KM       |    2     
+  7   |           Madhupur Junction            |        MDP         |     09:04     |     09:08     |     4:00      |      1248 KM       |    2     
+  8   |          Barddhaman Junction           |        BWN         |     11:22     |     11:24     |     2:00      |      1435 KM       |    2     
+  9   |            Howrah Junction             |        HWH         |     12:40     |     Ends      |       -       |      1529 KM       |    2     

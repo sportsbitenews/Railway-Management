@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Kalka                  |        KLK         |     Start     |     19:00     |       -       |        0 KM        |    1     
+  2   |              Chandigarh                |        CDG         |     19:30     |     19:40     |     10:00     |       38 KM        |    1     
+  3   |         Ambala Cant Junction           |        UMB         |     20:30     |     20:40     |     10:00     |       105 KM       |    1     
+  4   |           Panipat Junction             |        PNP         |     22:03     |     22:05     |     2:00      |       214 KM       |    1     
+  5   |               New Delhi                |        NDLS        |     23:35     |     23:55     |     20:00     |       303 KM       |    1     
+  6   |             H Nizamuddin               |        NZM         |     00:08     |     00:10     |     2:00      |       311 KM       |    2     
+  7   |           Mathura Junction             |        MTJ         |     02:03     |     02:05     |     2:00      |       444 KM       |    2     
+  8   |              Agra Cantt                |        AGC         |     02:55     |     03:00     |     5:00      |       498 KM       |    2     
+  9   |                Gwalior                 |        GWL         |     04:35     |     04:40     |     5:00      |       616 KM       |    2     
+  10  |            Jhansi Junction             |        JHS         |     06:05     |     06:15     |     10:00     |       713 KM       |    2     
+  11  |           Bhopal  Junction             |        BPL         |     10:25     |     10:35     |     10:00     |      1004 KM       |    2     
+  12  |            Itarsi Junction             |         ET         |     12:30     |     12:35     |     5:00      |      1096 KM       |    2     
+  13  |           Bhusaval Junction            |        BSL         |     16:35     |     16:45     |     10:00     |      1403 KM       |    2     
+  14  |            Manmad Junction             |        MMR         |     19:00     |     19:10     |     10:00     |      1587 KM       |    2     
+  15  |            Sainagar Shirdi             |        SNSI        |     22:15     |     Ends      |       -       |      1669 KM       |    2     

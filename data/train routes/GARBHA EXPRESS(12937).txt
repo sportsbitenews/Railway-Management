@@ -1,0 +1,17 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Gandhidham Bg              |        GIMB        |     Start     |     17:20     |       -       |        0 KM        |    1     
+  2   |            Samakhiali B G              |        SIOB        |     18:14     |     18:16     |     2:00      |       53 KM        |    1     
+  3   |              Dhrangdhra                |        DHG         |     20:02     |     20:04     |     2:00      |       170 KM       |    1     
+  4   |          Ahmedabad Junction            |        ADI         |     23:00     |     23:20     |     20:00     |       301 KM       |    1     
+  5   |           Vadodara Junction            |        BRC         |     01:10     |     01:35     |     25:00     |       401 KM       |    2     
+  6   |            Ratlam Junction             |        RTM         |     06:00     |     06:10     |     10:00     |       662 KM       |    2     
+  7   |             Kota Junction              |        KOTA        |     09:40     |     09:50     |     10:00     |       929 KM       |    2     
+  8   |               Agra Fort                |         AF         |     15:30     |     15:40     |     10:00     |      1262 KM       |    2     
+  9   |            Tundla Junction             |        TDL         |     16:45     |     16:55     |     10:00     |      1284 KM       |    2     
+  10  |            Kanpur Central              |        CNB         |     19:55     |     20:05     |     10:00     |      1514 KM       |    2     
+  11  |          Allahabad Junction            |        ALD         |     22:35     |     22:45     |     10:00     |      1708 KM       |    2     
+  12  |         Mughal Sarai Junction          |        MGS         |     02:45     |     02:55     |     10:00     |      1849 KM       |    3     
+  13  |             Gaya Junction              |        GAYA        |     05:48     |     05:53     |     5:00      |      2052 KM       |    3     
+  14  |           Dhanbad Junction             |        DHN         |     09:10     |     09:20     |     10:00     |      2251 KM       |    3     
+  15  |           Asansol Junction             |        ASN         |     10:09     |     10:14     |     5:00      |      2310 KM       |    3     
+  16  |            Howrah Junction             |        HWH         |     13:05     |     Ends      |       -       |      2510 KM       |    3     

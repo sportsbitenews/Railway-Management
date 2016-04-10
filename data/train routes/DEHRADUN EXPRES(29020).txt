@@ -1,0 +1,33 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Meerut City               |        MTC         |     Start     |     19:10     |       -       |        0 KM        |    1     
+  2   |               Modinagar                |        MDNR        |     19:26     |     19:28     |     2:00      |       20 KM        |    1     
+  3   |              Muradnagar                |        MUD         |     19:39     |     19:41     |     2:00      |       30 KM        |    1     
+  4   |              N Ghaziabad               |        GZN         |     19:55     |     19:57     |     2:00      |       42 KM        |    1     
+  5   |               Ghaziabad                |        GZB         |     20:25     |     20:27     |     2:00      |       48 KM        |    1     
+  6   |               Sahibabad                |        SBB         |     20:35     |     20:37     |     2:00      |       55 KM        |    1     
+  7   |             H Nizamuddin               |        NZM         |     21:15     |     21:55     |     40:00     |       71 KM        |    1     
+  8   |              Tuglakabad                |        TKD         |     22:18     |     22:20     |     2:00      |       81 KM        |    1     
+  9   |               Faridabad                |        FDB         |     22:44     |     22:46     |     2:00      |       91 KM        |    1     
+  10  |              Ballabgarh                |        BVH         |     22:58     |     23:00     |     2:00      |       99 KM        |    1     
+  11  |                Palwal                  |        PWL         |     23:36     |     23:38     |     2:00      |       121 KM       |    1     
+  12  |              Kosi Kalan                |        KSV         |     00:08     |     00:10     |     2:00      |       163 KM       |    2     
+  13  |           Mathura Junction             |        MTJ         |     01:30     |     01:35     |     5:00      |       204 KM       |    2     
+  14  |          Bharatpur Junction            |        BTE         |     02:08     |     02:10     |     2:00      |       238 KM       |    2     
+  15  |            Bayana Junction             |        BXN         |     02:40     |     02:45     |     5:00      |       279 KM       |    2     
+  16  |             Hindaun City               |        HAN         |     03:18     |     03:20     |     2:00      |       312 KM       |    2     
+  17  |            Shri Mahabirji              |        SMBJ        |     03:30     |     03:32     |     2:00      |       322 KM       |    2     
+  18  |             Gangapur City              |        GGC         |     04:23     |     04:25     |     2:00      |       357 KM       |    2     
+  19  |                Malarna                 |        MLZ         |     04:57     |     04:59     |     2:00      |       390 KM       |    2     
+  20  |            Sawai Madhopur              |        SWM         |     05:20     |     05:25     |     5:00      |       420 KM       |    2     
+  21  |               Indargarh                |        IDG         |     05:53     |     05:55     |     2:00      |       457 KM       |    2     
+  22  |                Lakheri                 |        LKE         |     06:05     |     06:07     |     2:00      |       467 KM       |    2     
+  23  |            Keshorai Patan              |        KPTN        |     06:48     |     06:50     |     2:00      |       515 KM       |    2     
+  24  |                 Gurla                  |        GQL         |     06:58     |     07:00     |     2:00      |       522 KM       |    2     
+  25  |             Kota Junction              |        KOTA        |     07:40     |     08:45     |     65:00     |       528 KM       |    2     
+  26  |                 Bundi                  |        BUDI        |     09:14     |     09:16     |     2:00      |       566 KM       |    2     
+  27  |               Shyampuri                |        SMPA        |     09:56     |     09:58     |     2:00      |       613 KM       |    2     
+  28  |              Mandalgarh                |        MLGH        |     10:18     |     10:20     |     2:00      |       634 KM       |    2     
+  29  |             Chittaurgarh               |        COR         |     11:35     |     11:45     |     10:00     |       699 KM       |    2     
+  30  |               Nimbahera                |        NBH         |     12:10     |     12:12     |     2:00      |       728 KM       |    2     
+  31  |                Nimach                  |        NMH         |     12:40     |     12:50     |     10:00     |       755 KM       |    2     
+  32  |               Mandasor                 |        MDS         |     13:40     |     Ends      |       -       |       804 KM       |    2     

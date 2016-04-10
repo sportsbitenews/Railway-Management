@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             H Nizamuddin               |        NZM         |     Start     |     08:45     |       -       |        0 KM        |    1     
+  2   |            Jhansi Junction             |        JHS         |     14:55     |     15:05     |     10:00     |       403 KM       |    1     
+  3   |           Bhopal  Junction             |        BPL         |     19:20     |     19:25     |     5:00      |       694 KM       |    1     
+  4   |             Pune Junction              |        PUNE        |     11:05     |     11:20     |     15:00     |      1589 KM       |    2     
+  5   |            Miraj Junction              |        MRJ         |     16:40     |     16:45     |     5:00      |      1868 KM       |    2     
+  6   |                Belgaum                 |        BGM         |     18:45     |     18:50     |     5:00      |      2005 KM       |    2     
+  7   |                Dharwar                 |        DWR         |     21:18     |     21:20     |     2:00      |      2127 KM       |    2     
+  8   |            Hubli Junction              |        UBL         |     22:10     |     22:20     |     10:00     |      2147 KM       |    2     
+  9   |               Davangere                |        DVG         |     00:27     |     00:30     |     3:00      |      2290 KM       |    3     
+  10  |                Tumkur                  |         TK         |     04:43     |     04:45     |     2:00      |      2546 KM       |    3     
+  11  |          Yesvantpur Junction           |        YPR         |     06:20     |     Ends      |       -       |      2610 KM       |    3     

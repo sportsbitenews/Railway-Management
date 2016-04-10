@@ -1,0 +1,8 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Asansol Junction             |        ASN         |     Start     |     05:30     |       -       |        0 KM        |    1     
+  2   |               Raniganj                 |        RNG         |     05:45     |     05:46     |     1:00      |       19 KM        |    1     
+  3   |            Andal Junction              |        UDL         |     05:56     |     05:58     |     2:00      |       26 KM        |    1     
+  4   |               Durgapur                 |        DGR         |     06:12     |     06:14     |     2:00      |       43 KM        |    1     
+  5   |               Panagarh                 |        PAN         |     06:25     |     06:26     |     1:00      |       58 KM        |    1     
+  6   |          Barddhaman Junction           |        BWN         |     07:09     |     07:11     |     2:00      |       106 KM       |    1     
+  7   |            Howrah Junction             |        HWH         |     08:45     |     Ends      |       -       |       200 KM       |    1     

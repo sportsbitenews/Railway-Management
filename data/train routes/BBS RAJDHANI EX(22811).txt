@@ -1,0 +1,14 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Bhubaneswar               |        BBS         |     Start     |     11:20     |       -       |        0 KM        |    1     
+  2   |                Cuttack                 |        CTC         |     11:53     |     11:55     |     2:00      |       28 KM        |    1     
+  3   |             Jajpur K Road              |        JJKR        |     12:42     |     12:43     |     1:00      |       100 KM       |    1     
+  4   |               Bhadrakh                 |        BHC         |     13:25     |     13:27     |     2:00      |       144 KM       |    1     
+  5   |               Balasore                 |        BLS         |     14:08     |     14:10     |     2:00      |       206 KM       |    1     
+  6   |          Kharagpur Junction            |        KGP         |     15:40     |     15:55     |     15:00     |       324 KM       |    1     
+  7   |                Bankura                 |        BQA         |     17:20     |     17:22     |     2:00      |       439 KM       |    1     
+  8   |             Adra Junction              |        ADRA        |     18:00     |     18:05     |     5:00      |       492 KM       |    1     
+  9   |                Koderma                 |        KQR         |     21:34     |     21:35     |     1:00      |       658 KM       |    1     
+  10  |             Gaya Junction              |        GAYA        |     23:08     |     23:11     |     3:00      |       734 KM       |    1     
+  11  |         Mughal Sarai Junction          |        MGS         |     01:17     |     01:27     |     10:00     |       937 KM       |    2     
+  12  |            Kanpur Central              |        CNB         |     05:20     |     05:28     |     8:00      |      1284 KM       |    2     
+  13  |               New Delhi                |        NDLS        |     10:40     |     Ends      |       -       |      1723 KM       |    2     

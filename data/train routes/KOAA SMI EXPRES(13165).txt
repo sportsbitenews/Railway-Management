@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Kolkata                 |        KOAA        |     Start     |     22:45     |       -       |        0 KM        |    1     
+  2   |          Barddhaman Junction           |        BWN         |     00:08     |     00:10     |     2:00      |       98 KM        |    2     
+  3   |               Durgapur                 |        DGR         |     01:00     |     01:02     |     2:00      |       161 KM       |    2     
+  4   |           Asansol Junction             |        ASN         |     01:31     |     01:36     |     5:00      |       203 KM       |    2     
+  5   |           Madhupur Junction            |        MDP         |     02:56     |     02:58     |     2:00      |       284 KM       |    2     
+  6   |           Jasidih Junction             |        JSME        |     03:54     |     03:56     |     2:00      |       313 KM       |    2     
+  7   |                Jhajha                  |        JAJ         |     05:55     |     06:00     |     5:00      |       357 KM       |    2     
+  8   |             Kiul Junction              |        KIUL        |     06:46     |     06:48     |     2:00      |       411 KM       |    2     
+  9   |           Barauni Junction             |        BJU         |     08:10     |     08:30     |     20:00     |       450 KM       |    2     
+  10  |            Dalsingh Sarai              |        DSS         |     09:06     |     09:07     |     1:00      |       478 KM       |    2     
+  11  |          Samastipur Junction           |        SPJ         |     09:55     |     10:03     |     8:00      |       501 KM       |    2     
+  12  |          Darbhanga Junction            |        DBG         |     11:00     |     11:05     |     5:00      |       539 KM       |    2     
+  13  |                Kamtaul                 |        KML         |     11:26     |     11:28     |     2:00      |       562 KM       |    2     
+  14  |             Janakpur Road              |        JNR         |     11:54     |     11:55     |     1:00      |       581 KM       |    2     
+  15  |               Sitamarhi                |        SMI         |     13:00     |     Ends      |       -       |       607 KM       |    2     

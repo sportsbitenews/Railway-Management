@@ -1,0 +1,25 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               New Delhi                |        NDLS        |     Start     |     14:05     |       -       |        0 KM        |    1     
+  2   |             H Nizamuddin               |        NZM         |     14:19     |     14:21     |     2:00      |        8 KM        |    1     
+  3   |           Mathura Junction             |        MTJ         |     16:08     |     16:13     |     5:00      |       141 KM       |    1     
+  4   |              Agra Cantt                |        AGC         |     16:57     |     17:02     |     5:00      |       195 KM       |    1     
+  5   |               Dhaulpur                 |        DHO         |     17:50     |     17:52     |     2:00      |       247 KM       |    1     
+  6   |                Morena                  |        MRA         |     18:15     |     18:17     |     2:00      |       275 KM       |    1     
+  7   |                Gwalior                 |        GWL         |     18:50     |     18:55     |     5:00      |       313 KM       |    1     
+  8   |                 Datia                  |        DAA         |     20:16     |     20:18     |     2:00      |       386 KM       |    1     
+  9   |            Jhansi Junction             |        JHS         |     20:40     |     20:50     |     10:00     |       410 KM       |    1     
+  10  |               Lalitpur                 |        LAR         |     21:58     |     22:00     |     2:00      |       500 KM       |    1     
+  11  |             Bina Junction              |        BINA        |     22:55     |     23:00     |     5:00      |       563 KM       |    1     
+  12  |              Ganj Basoda               |        BAQ         |     23:32     |     23:34     |     2:00      |       609 KM       |    1     
+  13  |                Vidisha                 |        BHS         |     00:02     |     00:04     |     2:00      |       648 KM       |    2     
+  14  |           Bhopal  Junction             |        BPL         |     00:55     |     01:00     |     5:00      |       701 KM       |    2     
+  15  |               Habibganj                |        HBJ         |     01:10     |     01:12     |     2:00      |       707 KM       |    2     
+  16  |              Hoshangabad               |        HBD         |     02:20     |     02:22     |     2:00      |       775 KM       |    2     
+  17  |            Itarsi Junction             |         ET         |     03:05     |     03:15     |     10:00     |       793 KM       |    2     
+  18  |               Pipariya                 |        PPI         |     04:23     |     04:25     |     2:00      |       860 KM       |    2     
+  19  |               Gadarwara                |        GAR         |     04:48     |     04:50     |     2:00      |       910 KM       |    2     
+  20  |                Kareli                  |         KY         |     05:10     |     05:12     |     2:00      |       938 KM       |    2     
+  21  |              Narsinghpur               |         NU         |     05:28     |     05:30     |     2:00      |       954 KM       |    2     
+  22  |               Shridham                 |        SRID        |     05:58     |     06:00     |     2:00      |       985 KM       |    2     
+  23  |              Madan Mahal               |        MML         |     06:53     |     06:55     |     2:00      |      1035 KM       |    2     
+  24  |               Jabalpur                 |        JBP         |     07:15     |     Ends      |       -       |      1038 KM       |    2     

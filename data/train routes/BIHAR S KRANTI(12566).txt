@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               New Delhi                |        NDLS        |     Start     |     14:15     |       -       |        0 KM        |    1     
+  2   |            Kanpur Central              |        CNB         |     20:15     |     20:20     |     5:00      |       440 KM       |    1     
+  3   |              Lucknow Nr                |        LKO         |     21:45     |     22:10     |     25:00     |       513 KM       |    1     
+  4   |          Gorakhpur Junction            |        GKP         |     02:40     |     02:55     |     15:00     |       792 KM       |    2     
+  5   |            Siwan Junction              |         SV         |     04:35     |     04:40     |     5:00      |       911 KM       |    2     
+  6   |                Chhapra                 |        CPR         |     06:15     |     06:35     |     20:00     |       972 KM       |    2     
+  7   |            Sonpur Junction             |        SEE         |     07:25     |     07:27     |     2:00      |      1025 KM       |    2     
+  8   |           Hajipur Junction             |        HJP         |     07:43     |     07:45     |     2:00      |      1031 KM       |    2     
+  9   |         Muzaffarpur Junction           |        MFP         |     08:45     |     08:50     |     5:00      |      1085 KM       |    2     
+  10  |          Samastipur Junction           |        SPJ         |     10:00     |     10:26     |     26:00     |      1136 KM       |    2     
+  11  |          Darbhanga Junction            |        DBG         |     11:25     |     Ends      |       -       |      1174 KM       |    2     

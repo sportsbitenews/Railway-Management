@@ -1,0 +1,32 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Farrukhabad               |        FBD         |     Start     |     13:35     |       -       |        0 KM        |    1     
+  2   |                Kannauj                 |        KJN         |     14:34     |     14:36     |     2:00      |       59 KM        |    1     
+  3   |            Kanpur Anwrganj             |        CPA         |     16:20     |     16:25     |     5:00      |       137 KM       |    1     
+  4   |            Kanpur Central              |        CNB         |     16:40     |     17:00     |     20:00     |       140 KM       |    1     
+  5   |            Unnao Junction              |         ON         |     17:22     |     17:24     |     2:00      |       157 KM       |    1     
+  6   |              Lucknow Ne                |        LJN         |     18:25     |     18:55     |     30:00     |       213 KM       |    1     
+  7   |             Lucknow City               |         LC         |     19:10     |     19:12     |     2:00      |       219 KM       |    1     
+  8   |             Badshahnagar               |        BNZ         |     19:28     |     19:30     |     2:00      |       225 KM       |    1     
+  9   |          Barabanki Junction            |        BBK         |     20:04     |     20:06     |     2:00      |       250 KM       |    1     
+  10  |               Daryabad                 |        DYD         |     20:40     |     20:42     |     2:00      |       288 KM       |    1     
+  11  |                Rudauli                 |        RDL         |     21:13     |     21:15     |     2:00      |       311 KM       |    1     
+  12  |           Faizabad Junction            |         FD         |     22:13     |     22:18     |     5:00      |       349 KM       |    1     
+  13  |                Ayodhya                 |         AY         |     22:34     |     22:36     |     2:00      |       356 KM       |    1     
+  14  |              Goshainganj               |        GGJ         |     23:05     |     23:07     |     2:00      |       388 KM       |    1     
+  15  |               Akbarpur                 |        ABP         |     23:35     |     23:37     |     2:00      |       410 KM       |    1     
+  16  |           Shahganj Junction            |        SHG         |     01:50     |     02:15     |     25:00     |       454 KM       |    2     
+  17  |             Khorason Road              |        KRND        |     02:36     |     02:38     |     2:00      |       476 KM       |    2     
+  18  |               Sarai Mir                |        SMZ         |     02:48     |     02:50     |     2:00      |       485 KM       |    2     
+  19  |               Azamgarh                 |        AMH         |     03:20     |     03:25     |     5:00      |       511 KM       |    2     
+  20  |               Sathiaon                 |        SAA         |     03:35     |     03:37     |     2:00      |       523 KM       |    2     
+  21  |             Muhammadabad               |        MMA         |     03:46     |     03:48     |     2:00      |       532 KM       |    2     
+  22  |             Mau Junction               |        MAU         |     04:15     |     04:25     |     10:00     |       554 KM       |    2     
+  23  |            Indara Junction             |        IAA         |     04:37     |     04:39     |     2:00      |       562 KM       |    2     
+  24  |               Ratanpura                |        RTP         |     04:51     |     04:53     |     2:00      |       577 KM       |    2     
+  25  |                 Rasra                  |        RSR         |     05:03     |     05:05     |     2:00      |       590 KM       |    2     
+  26  |                Ballia                  |        BUI         |     06:15     |     06:20     |     5:00      |       623 KM       |    2     
+  27  |               Sahatwar                 |        STW         |     06:38     |     06:40     |     2:00      |       640 KM       |    2     
+  28  |                 Reoti                  |        ROI         |     06:49     |     06:51     |     2:00      |       649 KM       |    2     
+  29  |              Suraimanpur               |        SIP         |     07:06     |     07:08     |     2:00      |       659 KM       |    2     
+  30  |                Manjhi                  |        MHT         |     07:45     |     07:47     |     2:00      |       671 KM       |    2     
+  31  |                Chhapra                 |        CPR         |     08:35     |     Ends      |       -       |       688 KM       |    2     

@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             H Nizamuddin               |        NZM         |     Start     |     15:35     |       -       |        0 KM        |    1     
+  1   |             H Nizamuddin               |        NZM         |     Start     |     15:35     |       -       |        0 KM        |    1     
+  2   |           Mathura Junction             |        MTJ         |     17:10     |     17:12     |     2:00      |       134 KM       |    1     
+  2   |           Mathura Junction             |        MTJ         |     17:10     |     17:12     |     2:00      |       134 KM       |    1     
+  3   |             Kota Junction              |        KOTA        |     20:05     |     20:10     |     5:00      |       458 KM       |    1     
+  3   |             Kota Junction              |        KOTA        |     20:05     |     20:10     |     5:00      |       458 KM       |    1     
+  4   |            Ratlam Junction             |        RTM         |     23:20     |     23:25     |     5:00      |       724 KM       |    1     
+  4   |            Ratlam Junction             |        RTM         |     23:20     |     23:25     |     5:00      |       724 KM       |    1     
+  5   |           Vadodara Junction            |        BRC         |     02:57     |     03:07     |     10:00     |       986 KM       |    2     
+  5   |           Vadodara Junction            |        BRC         |     02:57     |     03:07     |     10:00     |       986 KM       |    2     
+  6   |                 Surat                  |         ST         |     05:15     |     05:20     |     5:00      |      1115 KM       |    2     
+  6   |                 Surat                  |         ST         |     05:15     |     05:20     |     5:00      |      1115 KM       |    2     
+  7   |            Bandra Terminus             |        BDTS        |     09:20     |     Ends      |       -       |      1366 KM       |    2     
+  7   |            Bandra Terminus             |        BDTS        |     09:20     |     Ends      |       -       |      1366 KM       |    2     

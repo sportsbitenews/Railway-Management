@@ -1,0 +1,18 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Paradip                 |        PRDP        |     Start     |     22:30     |       -       |        0 KM        |    1     
+  2   |                Rahama                  |        RHMA        |     22:50     |     22:51     |     1:00      |       24 KM        |    1     
+  3   |                Cuttack                 |        CTC         |     23:45     |     00:05     |     20:00     |       83 KM        |    2     
+  4   |              Mancheswar                |        MCS         |     00:33     |     00:35     |     2:00      |       104 KM       |    2     
+  5   |              Bhubaneswar               |        BBS         |     00:45     |     00:50     |     5:00      |       111 KM       |    2     
+  6   |         Khurda Road Junction           |        KUR         |     01:15     |     01:25     |     10:00     |       130 KM       |    2     
+  7   |                Balugan                 |        BALU        |     02:13     |     02:15     |     2:00      |       201 KM       |    2     
+  8   |               Chatrapur                |        CAP         |     02:55     |     02:57     |     2:00      |       255 KM       |    2     
+  9   |               Brahmapur                |        BAM         |     03:12     |     03:14     |     2:00      |       277 KM       |    2     
+  10  |              Ichchpuram                |        IPM         |     03:40     |     03:42     |     2:00      |       301 KM       |    2     
+  11  |                Sompeta                 |        SPT         |     04:21     |     04:23     |     2:00      |       319 KM       |    2     
+  12  |                Palasa                  |        PSA         |     04:58     |     05:00     |     2:00      |       351 KM       |    2     
+  13  |           Naupada Junction             |        NWP         |     05:20     |     05:22     |     2:00      |       376 KM       |    2     
+  14  |            Srikakulam Road             |        CHE         |     05:58     |     06:00     |     2:00      |       424 KM       |    2     
+  15  |             Chipurupalle               |        CPP         |     06:28     |     06:30     |     2:00      |       462 KM       |    2     
+  16  |         Vizianagram Junction           |        VZM         |     07:00     |     07:05     |     5:00      |       493 KM       |    2     
+  17  |             Vishakapatnam              |        VSKP        |     08:40     |     Ends      |       -       |       554 KM       |    2     

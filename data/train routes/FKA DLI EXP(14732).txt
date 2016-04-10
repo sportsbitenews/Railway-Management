@@ -1,0 +1,30 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Fazilka                 |        FKA         |     Start     |     02:10     |       -       |        0 KM        |    1     
+  2   |               Lakhewali                |        LKW         |     02:33     |     02:35     |     2:00      |       31 KM        |    1     
+  3   |                Muktsar                 |        MKS         |     02:50     |     02:52     |     2:00      |       49 KM        |    1     
+  4   |               Bariwala                 |        BRW         |     03:08     |     03:10     |     2:00      |       63 KM        |    1     
+  5   |              Kot Kapura                |        KKP         |     03:38     |     03:40     |     2:00      |       81 KM        |    1     
+  6   |             Gangsar Jaitu              |        GJUT        |     03:53     |     03:55     |     2:00      |       97 KM        |    1     
+  7   |                Goneana                 |        GNA         |     04:21     |     04:23     |     2:00      |       111 KM       |    1     
+  8   |           Bhatinda Junction            |        BTI         |     04:50     |     05:05     |     15:00     |       123 KM       |    1     
+  9   |               Bhuchchu                 |        BCU         |     05:23     |     05:25     |     2:00      |       140 KM       |    1     
+  10  |             Rampura Phul               |        PUL         |     05:38     |     05:40     |     2:00      |       156 KM       |    1     
+  11  |                 Tapa                   |        TAPA        |     05:52     |     05:54     |     2:00      |       169 KM       |    1     
+  12  |                Barnala                 |        BNN         |     06:10     |     06:12     |     2:00      |       188 KM       |    1     
+  13  |            Dhuri Junction              |        DUI         |     06:43     |     06:45     |     2:00      |       219 KM       |    1     
+  14  |                 Nabha                  |        NBA         |     07:08     |     07:10     |     2:00      |       246 KM       |    1     
+  15  |                Patiala                 |        PTA         |     07:38     |     07:40     |     2:00      |       271 KM       |    1     
+  16  |           Rajpura Junction             |        RPJ         |     08:18     |     08:20     |     2:00      |       297 KM       |    1     
+  17  |              Ambala City               |        UBC         |     08:39     |     08:41     |     2:00      |       317 KM       |    1     
+  18  |         Ambala Cant Junction           |        UMB         |     09:00     |     09:05     |     5:00      |       325 KM       |    1     
+  19  |         Kurukshetra Junction           |        KKDE        |     09:38     |     09:40     |     2:00      |       366 KM       |    1     
+  20  |                Taraori                 |        TRR         |     09:57     |     09:59     |     2:00      |       387 KM       |    1     
+  21  |                Karnal                  |        KUN         |     10:11     |     10:13     |     2:00      |       399 KM       |    1     
+  22  |               Gharaunda                |        GRA         |     10:29     |     10:31     |     2:00      |       417 KM       |    1     
+  23  |           Panipat Junction             |        PNP         |     10:48     |     10:50     |     2:00      |       433 KM       |    1     
+  24  |               Samalkha                 |        SMK         |     11:03     |     11:05     |     2:00      |       450 KM       |    1     
+  25  |                Ganaur                  |        GNU         |     11:17     |     11:19     |     2:00      |       463 KM       |    1     
+  26  |                Sonipat                 |        SNP         |     11:34     |     11:36     |     2:00      |       479 KM       |    1     
+  27  |                Narela                  |        NUR         |     11:51     |     11:53     |     2:00      |       496 KM       |    1     
+  28  |              Subzi Mandi               |        SZM         |     12:26     |     12:28     |     2:00      |       519 KM       |    1     
+  29  |                 Delhi                  |        DLI         |     12:45     |     Ends      |       -       |       522 KM       |    1     

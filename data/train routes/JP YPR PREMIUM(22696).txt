@@ -1,0 +1,8 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Jaipur                  |         JP         |     Start     |     22:15     |       -       |        0 KM        |    1     
+  2   |            Ajmer Junction              |        AII         |     00:15     |     00:25     |     10:00     |       135 KM       |    2     
+  3   |           Vadodara Junction            |        BRC         |     11:30     |     11:35     |     5:00      |       725 KM       |    2     
+  4   |             Pune Junction              |        PUNE        |     21:05     |     21:10     |     5:00      |      1257 KM       |    2     
+  5   |               Gulbarga                 |         GR         |     03:55     |     03:57     |     2:00      |      1633 KM       |    3     
+  6   |                Yadgir                  |         YG         |     05:14     |     05:15     |     1:00      |      1709 KM       |    3     
+  7   |          Yesvantpur Junction           |        YPR         |     17:55     |     Ends      |       -       |      2407 KM       |    3     

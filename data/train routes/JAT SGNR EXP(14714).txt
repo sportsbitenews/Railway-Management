@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Jammu Tawi                |        JAT         |     Start     |     05:30     |       -       |        0 KM        |    1     
+  2   |                Kathua                  |        KTHU        |     06:42     |     06:44     |     2:00      |       77 KM        |    1     
+  3   |            Pathankot Cantt             |        PTKC        |     07:30     |     07:35     |     5:00      |       100 KM       |    1     
+  4   |                Dasuya                  |        DZA         |     08:28     |     08:30     |     2:00      |       155 KM       |    1     
+  5   |            Jalandhar Cant              |        JRC         |     09:40     |     09:45     |     5:00      |       213 KM       |    1     
+  6   |           Ludhiana Junction            |        LDH         |     11:00     |     11:10     |     10:00     |       265 KM       |    1     
+  7   |              Malerkotla                |        MET         |     12:06     |     12:08     |     2:00      |       310 KM       |    1     
+  8   |            Dhuri Junction              |        DUI         |     12:30     |     13:10     |     40:00     |       327 KM       |    1     
+  9   |                Barnala                 |        BNN         |     13:33     |     13:35     |     2:00      |       357 KM       |    1     
+  10  |                 Tapa                   |        TAPA        |     13:54     |     13:56     |     2:00      |       376 KM       |    1     
+  11  |             Rampura Phul               |        PUL         |     14:08     |     14:10     |     2:00      |       390 KM       |    1     
+  12  |           Bhatinda Junction            |        BTI         |     14:55     |     15:05     |     10:00     |       422 KM       |    1     
+  13  |                Malout                  |        MOT         |     16:26     |     16:28     |     2:00      |       466 KM       |    1     
+  14  |                Abohar                  |        ABS         |     16:58     |     17:00     |     2:00      |       495 KM       |    1     
+  15  |            Shri Ganganagar             |        SGNR        |     18:20     |     Ends      |       -       |       549 KM       |    1     

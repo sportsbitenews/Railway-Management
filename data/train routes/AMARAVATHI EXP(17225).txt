@@ -1,0 +1,26 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Vijayawada Junction           |        BZA         |     Start     |     19:45     |       -       |        0 KM        |    1     
+  2   |            Guntur Junction             |        GNT         |     20:45     |     20:55     |     10:00     |       32 KM        |    1     
+  3   |             Narasaraopet               |        NRT         |     21:45     |     21:46     |     1:00      |       78 KM        |    1     
+  4   |               Vinukonda                |        VKN         |     22:17     |     22:18     |     1:00      |       115 KM       |    1     
+  5   |               Kurichedu                |        KCD         |     22:39     |     22:40     |     1:00      |       139 KM       |    1     
+  6   |               Donakonda                |        DKD         |     22:55     |     22:56     |     1:00      |       152 KM       |    1     
+  7   |             Markapur Road              |        MRK         |     23:19     |     23:20     |     1:00      |       176 KM       |    1     
+  8   |               Tarlupadu                |        TLU         |     23:34     |     23:35     |     1:00      |       189 KM       |    1     
+  9   |                Cumbum                  |        CBM         |     00:01     |     00:02     |     1:00      |       202 KM       |    2     
+  10  |               Giddalur                 |        GID         |     00:39     |     00:40     |     1:00      |       236 KM       |    2     
+  11  |                Nandyal                 |        NDL         |     02:40     |     02:45     |     5:00      |       290 KM       |    2     
+  12  |            B Cement Nagar              |        BEY         |     03:19     |     03:20     |     1:00      |       323 KM       |    2     
+  13  |              Betamcherla               |        BMH         |     03:29     |     03:30     |     1:00      |       329 KM       |    2     
+  14  |                 Dhone                  |        DHNE        |     04:00     |     04:05     |     5:00      |       365 KM       |    2     
+  15  |              Pendekallu                |        PDL         |     04:24     |     04:25     |     1:00      |       391 KM       |    2     
+  16  |               Maddikera                |        MKR         |     04:59     |     05:00     |     1:00      |       422 KM       |    2     
+  17  |           Guntakal Junction            |        GTL         |     05:40     |     05:50     |     10:00     |       434 KM       |    2     
+  18  |           Bellary Junction             |        BAY         |     06:53     |     06:55     |     2:00      |       484 KM       |    2     
+  19  |              Toranagallu               |        TNGL        |     07:29     |     07:30     |     1:00      |       517 KM       |    2     
+  20  |            Hospet Junction             |        HPT         |     08:15     |     08:20     |     5:00      |       550 KM       |    2     
+  21  |               Munirabad                |        MRB         |     08:34     |     08:35     |     1:00      |       555 KM       |    2     
+  22  |                Koppal                  |        KBL         |     08:54     |     08:55     |     1:00      |       577 KM       |    2     
+  23  |            Gadag Junction              |        GDG         |     10:08     |     10:10     |     2:00      |       635 KM       |    2     
+  24  |               Annigeri                 |        NGR         |     10:24     |     10:25     |     1:00      |       657 KM       |    2     
+  25  |            Hubli Junction              |        UBL         |     11:20     |     Ends      |       -       |       693 KM       |    2     

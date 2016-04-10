@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Pune Junction              |        PUNE        |     Start     |     11:15     |       -       |        0 KM        |    1     
+  2   |           Solapur Junction             |        SUR         |     15:00     |     15:10     |     10:00     |       264 KM       |    1     
+  3   |               Gulbarga                 |         GR         |     16:53     |     16:55     |     2:00      |       377 KM       |    1     
+  4   |                 Wadi                   |        WADI        |     17:55     |     18:00     |     5:00      |       414 KM       |    1     
+  5   |         Secunderabad Junction          |         SC         |     21:30     |     21:40     |     10:00     |       597 KM       |    1     
+  6   |               Nalgonda                 |        NLDA        |     23:18     |     23:19     |     1:00      |       707 KM       |    1     
+  7   |            Guntur Junction             |        GNT         |     02:55     |     03:00     |     5:00      |       878 KM       |    2     
+  8   |          Vijayawada Junction           |        BZA         |     04:00     |     04:15     |     15:00     |       910 KM       |    2     
+  9   |                Duvvada                 |        DVD         |     09:53     |     09:55     |     2:00      |      1243 KM       |    2     
+  10  |             Vishakapatnam              |        VSKP        |     10:25     |     10:45     |     20:00     |      1260 KM       |    2     
+  11  |         Vizianagram Junction           |        VZM         |     11:43     |     11:45     |     2:00      |      1321 KM       |    2     
+  12  |               Brahmapur                |        BAM         |     14:42     |     14:44     |     2:00      |      1537 KM       |    2     
+  13  |         Khurda Road Junction           |        KUR         |     16:45     |     16:50     |     5:00      |      1684 KM       |    2     
+  14  |              Bhubaneswar               |        BBS         |     17:20     |     Ends      |       -       |      1703 KM       |    2     

@@ -1,0 +1,29 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             H Nizamuddin               |        NZM         |     Start     |     16:05     |       -       |        0 KM        |    1     
+  2   |              Ballabgarh                |        BVH         |     16:29     |     16:31     |     2:00      |       29 KM        |    1     
+  3   |                Palwal                  |        PWL         |     16:56     |     16:58     |     2:00      |       50 KM        |    1     
+  4   |              Kosi Kalan                |        KSV         |     17:28     |     17:30     |     2:00      |       93 KM        |    1     
+  5   |           Mathura Junction             |        MTJ         |     18:10     |     18:15     |     5:00      |       134 KM       |    1     
+  6   |             Raja Ki Mandi              |        RKM         |     18:55     |     18:57     |     2:00      |       184 KM       |    1     
+  7   |              Agra Cantt                |        AGC         |     19:10     |     19:18     |     8:00      |       188 KM       |    1     
+  8   |               Dhaulpur                 |        DHO         |     20:08     |     20:10     |     2:00      |       240 KM       |    1     
+  9   |                Morena                  |        MRA         |     20:33     |     20:35     |     2:00      |       268 KM       |    1     
+  10  |                Gwalior                 |        GWL         |     21:10     |     21:15     |     5:00      |       306 KM       |    1     
+  11  |                 Dabra                  |        DBA         |     21:48     |     21:50     |     2:00      |       348 KM       |    1     
+  12  |                 Datia                  |        DAA         |     22:16     |     22:18     |     2:00      |       379 KM       |    1     
+  13  |            Jhansi Junction             |        JHS         |     22:55     |     23:15     |     20:00     |       403 KM       |    1     
+  14  |                Nivari                  |        NEW         |     23:53     |     23:55     |     2:00      |       434 KM       |    1     
+  15  |              Mau Ranipur               |        MRPR        |     00:23     |     00:25     |     2:00      |       467 KM       |    2     
+  16  |               Harpalpur                |        HPP         |     00:48     |     00:50     |     2:00      |       488 KM       |    2     
+  17  |               Bela Tal                 |        BTX         |     01:08     |     01:10     |     2:00      |       511 KM       |    2     
+  18  |                Mahoba                  |        MBA         |     01:43     |     01:45     |     2:00      |       541 KM       |    2     
+  19  |            Banda Junction              |        BNDA        |     03:05     |     03:15     |     10:00     |       595 KM       |    2     
+  20  |                Atarra                  |        ATE         |     03:43     |     03:45     |     2:00      |       627 KM       |    2     
+  21  |               Chitrakot                |        CKTD        |     04:16     |     04:18     |     2:00      |       664 KM       |    2     
+  22  |              Majhagawan                |        MJG         |     05:48     |     05:50     |     2:00      |       732 KM       |    2     
+  23  |                Jaitwar                 |        JTW         |     06:08     |     06:10     |     2:00      |       752 KM       |    2     
+  24  |                 Satna                  |        STA         |     06:35     |     06:45     |     10:00     |       772 KM       |    2     
+  25  |                Maihar                  |        MYR         |     07:05     |     07:07     |     2:00      |       807 KM       |    2     
+  26  |                 Katni                  |        KTE         |     07:55     |     08:00     |     5:00      |       870 KM       |    2     
+  27  |              Sihora Road               |        SHR         |     08:43     |     08:45     |     2:00      |       923 KM       |    2     
+  28  |               Jabalpur                 |        JBP         |     09:35     |     Ends      |       -       |       961 KM       |    2     

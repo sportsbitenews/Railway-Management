@@ -1,0 +1,4 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |         Bangalore Cy Junction          |        SBC         |     Start     |     15:00     |       -       |        0 KM        |    1     
+  2   |                Mandya                  |        MYA         |     16:24     |     16:25     |     1:00      |       94 KM        |    1     
+  3   |            Mysore Junction             |        MYS         |     17:30     |     Ends      |       -       |       139 KM       |    1     

@@ -1,0 +1,19 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Chennai Egmore              |         MS         |     Start     |     23:30     |       -       |        0 KM        |    1     
+  2   |               Mambalam                 |        MBM         |     23:40     |     23:42     |     2:00      |        7 KM        |    1     
+  3   |               Tambaram                 |        TBM         |     00:03     |     00:05     |     2:00      |       25 KM        |    2     
+  4   |             Chengalpattu               |        CGL         |     00:33     |     00:35     |     2:00      |       56 KM        |    2     
+  5   |             Melmaruvattur              |        MLMR        |     01:03     |     01:05     |     2:00      |       92 KM        |    2     
+  6   |              Tindivanam                |        TMV         |     01:28     |     01:30     |     2:00      |       122 KM       |    2     
+  7   |          Villuparam Junction           |         VM         |     02:35     |     02:45     |     10:00     |       159 KM       |    2     
+  8   |                Panruti                 |        PRT         |     03:09     |     03:10     |     1:00      |       179 KM       |    2     
+  9   |            Cuddalore Port              |        CUPJ        |     03:29     |     03:30     |     1:00      |       205 KM       |    2     
+  10  |              Chidambaram               |        CDM         |     04:05     |     04:07     |     2:00      |       244 KM       |    2     
+  11  |               Sirkazhi                 |         SY         |     04:24     |     04:25     |     1:00      |       261 KM       |    2     
+  12  |            Vithisvarankol              |        VDL         |     04:32     |     04:33     |     1:00      |       267 KM       |    2     
+  13  |            Mayiladuturai J             |         MV         |     05:18     |     05:20     |     2:00      |       281 KM       |    2     
+  14  |               Kutralam                 |        KTM         |     05:34     |     05:35     |     1:00      |       289 KM       |    2     
+  15  |               Aduturai                 |        ADT         |     05:44     |     05:45     |     1:00      |       301 KM       |    2     
+  16  |              Kumbakonam                |        KMU         |     05:53     |     05:55     |     2:00      |       312 KM       |    2     
+  17  |               Papanasam                |        PML         |     06:09     |     06:10     |     1:00      |       326 KM       |    2     
+  18  |               Thanjavur                |         TJ         |     07:15     |     Ends      |       -       |       351 KM       |    2     

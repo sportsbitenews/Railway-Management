@@ -1,0 +1,53 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Rjndr Ngr Bihar             |        RJPB        |     Start     |     20:25     |       -       |        0 KM        |    1     
+  2   |              Patna Saheb               |        PNC         |     20:38     |     20:40     |     2:00      |        8 KM        |    1     
+  3   |                 Fatwa                  |        FUT         |     20:51     |     20:53     |     2:00      |       20 KM        |    1     
+  4   |               Khusropur                |        KOO         |     21:01     |     21:03     |     2:00      |       29 KM        |    1     
+  5   |         Bakhtiyarpur Junction          |        BKP         |     21:19     |     21:21     |     2:00      |       44 KM        |    1     
+  6   |              Athmal Gola               |        ATL         |     21:27     |     21:29     |     2:00      |       52 KM        |    1     
+  7   |                 Barh                   |        BARH        |     21:52     |     21:54     |     2:00      |       62 KM        |    1     
+  8   |           Mokameh Junction             |        MKA         |     22:15     |     22:20     |     5:00      |       87 KM        |    1     
+  9   |           Hathidah Junction            |        HTZ         |     22:28     |     22:30     |     2:00      |       94 KM        |    1     
+  10  |                Barhiya                 |        BRYA        |     22:39     |     22:41     |     2:00      |       105 KM       |    1     
+  11  |         Luckeesarai Junction           |        LKR         |     23:02     |     23:04     |     2:00      |       120 KM       |    1     
+  12  |             Kiul Junction              |        KIUL        |     23:14     |     23:19     |     5:00      |       121 KM       |    1     
+  13  |                 Jamui                  |        JMU         |     23:39     |     23:41     |     2:00      |       149 KM       |    1     
+  14  |                Jhajha                  |        JAJ         |     00:35     |     00:40     |     5:00      |       175 KM       |    2     
+  15  |           Jasidih Junction             |        JSME        |     01:12     |     01:17     |     5:00      |       219 KM       |    2     
+  16  |           Madhupur Junction            |        MDP         |     01:42     |     01:46     |     4:00      |       248 KM       |    2     
+  17  |                Jamtara                 |        JMT         |     02:16     |     02:17     |     1:00      |       290 KM       |    2     
+  18  |             Chittaranjan               |        CRJ         |     02:34     |     02:35     |     1:00      |       305 KM       |    2     
+  19  |           Asansol Junction             |        ASN         |     03:25     |     03:50     |     25:00     |       330 KM       |    2     
+  20  |                Burnpur                 |        BURN        |     03:59     |     04:00     |     1:00      |       335 KM       |    2     
+  21  |            Joychandi Pahar             |        JOC         |     04:32     |     04:34     |     2:00      |       367 KM       |    2     
+  22  |                 Anara                  |        ANR         |     04:49     |     04:51     |     2:00      |       380 KM       |    2     
+  23  |           Purulia Junction             |        PRR         |     05:20     |     05:25     |     5:00      |       406 KM       |    2     
+  24  |               Barabhum                 |        BBM         |     05:52     |     05:53     |     1:00      |       437 KM       |    2     
+  25  |           Chandil Junction             |        CNI         |     06:25     |     06:30     |     5:00      |       460 KM       |    2     
+  26  |                Kandra                  |        KND         |     06:49     |     06:50     |     1:00      |       474 KM       |    2     
+  27  |               Gamharia                 |        GMH         |     07:12     |     07:13     |     1:00      |       485 KM       |    2     
+  28  |               Adityapur                |        ADTP        |     07:24     |     07:25     |     1:00      |       491 KM       |    2     
+  29  |          Tatanagar Junction            |        TATA        |     07:55     |     08:25     |     30:00     |       496 KM       |    2     
+  30  |             Sini Junction              |        SINI        |     08:50     |     08:51     |     1:00      |       523 KM       |    2     
+  31  |         Rajkharsawan Junction          |        RKSN        |     09:06     |     09:07     |     1:00      |       538 KM       |    2     
+  32  |             Chakradharpur              |        CKP         |     09:35     |     09:40     |     5:00      |       558 KM       |    2     
+  33  |                 Sonua                  |        SWR         |     09:55     |     09:57     |     2:00      |       579 KM       |    2     
+  34  |               Goilkera                 |        GOL         |     10:09     |     10:10     |     1:00      |       592 KM       |    2     
+  35  |              Manoharpur                |        MOU         |     10:39     |     10:40     |     1:00      |       619 KM       |    2     
+  36  |              Bondamunda                |        BNDM        |     11:06     |     11:07     |     1:00      |       652 KM       |    2     
+  37  |               Rourkela                 |        ROU         |     11:27     |     11:42     |     15:00     |       659 KM       |    2     
+  38  |              Raj Gangpur               |         GP         |     12:07     |     12:08     |     1:00      |       689 KM       |    2     
+  39  |                 Bamra                  |        BMB         |     12:38     |     12:39     |     1:00      |       724 KM       |    2     
+  40  |          Jharsuguda Junction           |        JSG         |     13:30     |     13:35     |     5:00      |       761 KM       |    2     
+  41  |             Brajrajnagar               |        BRJN        |     13:43     |     13:45     |     2:00      |       773 KM       |    2     
+  42  |                Raigarh                 |        RIG         |     14:26     |     14:31     |     5:00      |       834 KM       |    2     
+  43  |                Kharsia                 |        KHS         |     14:53     |     14:55     |     2:00      |       867 KM       |    2     
+  44  |                 Sakti                  |        SKT         |     15:07     |     15:09     |     2:00      |       883 KM       |    2     
+  45  |                Champa                  |        CPH         |     15:34     |     15:39     |     5:00      |       913 KM       |    2     
+  46  |               Akaltara                 |        AKT         |     15:57     |     15:59     |     2:00      |       939 KM       |    2     
+  47  |           Bilaspur Junction            |        BSP         |     17:15     |     17:30     |     15:00     |       966 KM       |    2     
+  48  |               Bhatapara                |        BYT         |     18:04     |     18:06     |     2:00      |      1013 KM       |    2     
+  49  |                 Tilda                  |        TLD         |     18:28     |     18:30     |     2:00      |      1038 KM       |    2     
+  50  |            Raipur Junction             |         R          |     19:20     |     19:30     |     10:00     |      1076 KM       |    2     
+  51  |             Bhilai Pwr Hs              |        BPHB        |     19:58     |     20:00     |     2:00      |      1104 KM       |    2     
+  52  |                 Durg                   |        DURG        |     20:40     |     Ends      |       -       |      1113 KM       |    2     

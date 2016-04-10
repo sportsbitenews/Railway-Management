@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Kalka                  |        KLK         |     Start     |     06:00     |       -       |        0 KM        |    1     
+  2   |            Dharmpur Hmchl              |        DMP         |     07:36     |     07:38     |     2:00      |       33 KM        |    1     
+  3   |              Kumarhatti                |        KMTI        |     07:54     |     07:55     |     1:00      |       39 KM        |    1     
+  4   |                 Barog                  |        BOF         |     08:07     |     08:15     |     8:00      |       43 KM        |    1     
+  5   |                 Solan                  |        SOL         |     08:27     |     08:29     |     2:00      |       47 KM        |    1     
+  6   |                Salogra                 |        SLR         |     08:47     |     08:49     |     2:00      |       53 KM        |    1     
+  7   |               Kandaghat                |        KDZ         |     09:04     |     09:06     |     2:00      |       59 KM        |    1     
+  8   |                Shoghi                  |        SGS         |     09:59     |     10:00     |     1:00      |       78 KM        |    1     
+  9   |               Taradevi                 |        TVI         |     10:19     |     10:20     |     1:00      |       85 KM        |    1     
+  10  |                Jutogh                  |        JTO         |     10:34     |     10:35     |     1:00      |       90 KM        |    1     
+  11  |              Summer Hill               |        SHZ         |     10:47     |     10:48     |     1:00      |       93 KM        |    1     
+  12  |                 Simla                  |        SML         |     11:05     |     Ends      |       -       |       96 KM        |    1     

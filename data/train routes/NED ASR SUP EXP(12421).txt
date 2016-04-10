@@ -1,0 +1,24 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Nanded                  |        NED         |     Start     |     11:00     |       -       |        0 KM        |    1     
+  2   |            Purna Junction              |        PAU         |     11:30     |     11:40     |     10:00     |       31 KM        |    1     
+  3   |            Hingoli Deccan              |        HNL         |     12:59     |     13:00     |     1:00      |       111 KM       |    1     
+  4   |                Washim                  |        WHM         |     13:49     |     13:50     |     1:00      |       159 KM       |    1     
+  5   |            Akola Junction              |         AK         |     16:00     |     16:05     |     5:00      |       238 KM       |    1     
+  6   |               Malkapur                 |        MKU         |     17:03     |     17:05     |     2:00      |       327 KM       |    1     
+  7   |                Khandwa                 |        KNW         |     20:10     |     20:15     |     5:00      |       501 KM       |    1     
+  8   |            Itarsi Junction             |         ET         |     22:30     |     22:40     |     10:00     |       684 KM       |    1     
+  9   |           Bhopal  Junction             |        BPL         |     00:20     |     00:25     |     5:00      |       776 KM       |    2     
+  10  |             Bina Junction              |        BINA        |     02:33     |     02:38     |     5:00      |       914 KM       |    2     
+  11  |            Jhansi Junction             |        JHS         |     04:40     |     04:50     |     10:00     |      1067 KM       |    2     
+  12  |                Gwalior                 |        GWL         |     06:04     |     06:05     |     1:00      |      1164 KM       |    2     
+  13  |              Agra Cantt                |        AGC         |     09:10     |     09:15     |     5:00      |      1283 KM       |    2     
+  14  |               New Delhi                |        NDLS        |     13:00     |     13:30     |     30:00     |      1477 KM       |    2     
+  15  |            Rohtak Junction             |        ROK         |     14:57     |     15:00     |     3:00      |      1548 KM       |    2     
+  16  |            Jakhal Junction             |        JHL         |     17:03     |     17:05     |     2:00      |      1677 KM       |    2     
+  17  |                Sangrur                 |        SAG         |     17:46     |     17:47     |     1:00      |      1727 KM       |    2     
+  18  |            Dhuri Junction              |        DUI         |     18:20     |     18:22     |     2:00      |      1743 KM       |    2     
+  19  |           Ludhiana Junction            |        LDH         |     19:32     |     19:37     |     5:00      |      1805 KM       |    2     
+  20  |           Phagwara Junction            |        PGW         |     20:06     |     20:08     |     2:00      |      1841 KM       |    2     
+  21  |            Jalandhar City              |        JUC         |     20:35     |     20:40     |     5:00      |      1862 KM       |    2     
+  22  |                 Beas                   |        BEAS        |     21:12     |     21:14     |     2:00      |      1898 KM       |    2     
+  23  |           Amritsar Junction            |        ASR         |     22:05     |     Ends      |       -       |      1941 KM       |    2     

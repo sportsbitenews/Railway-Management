@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Varanasi Junction            |        BSB         |     Start     |     14:15     |       -       |        0 KM        |    1     
+  2   |           Jaunpur Junction             |        JNU         |     15:07     |     15:09     |     2:00      |       58 KM        |    1     
+  3   |              Kheta Sarai               |         KS         |     15:26     |     15:28     |     2:00      |       81 KM        |    1     
+  4   |           Shahganj Junction            |        SHG         |     15:43     |     15:45     |     2:00      |       91 KM        |    1     
+  5   |                Malipur                 |        MLPR        |     16:07     |     16:09     |     2:00      |       116 KM       |    1     
+  6   |               Akbarpur                 |        ABP         |     16:34     |     16:36     |     2:00      |       135 KM       |    1     
+  7   |                Ayodhya                 |         AY         |     17:45     |     18:15     |     30:00     |       189 KM       |    1     
+  8   |                 Katra                  |        KEA         |     18:27     |     18:28     |     1:00      |       198 KM       |    1     
+  9   |            Nawabganj Gonda             |        NGB         |     18:39     |     18:40     |     1:00      |       206 KM       |    1     
+  10  |           Mankapur Junction            |        MUR         |     19:00     |     19:30     |     30:00     |       228 KM       |    1     
+  11  |            Gonda Junction              |         GD         |     20:15     |     Ends      |       -       |       256 KM       |    1     

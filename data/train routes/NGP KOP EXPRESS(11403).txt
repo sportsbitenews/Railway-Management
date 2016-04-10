@@ -1,0 +1,23 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Nagpur                  |        NGP         |     Start     |     15:00     |       -       |        0 KM        |    1     
+  2   |            Wardha Junction             |         WR         |     16:06     |     16:09     |     3:00      |       79 KM        |    1     
+  3   |           Pulgaon Junction             |        PLO         |     16:34     |     16:36     |     2:00      |       109 KM       |    1     
+  4   |              Dhamangaon                |        DMN         |     16:52     |     16:54     |     2:00      |       129 KM       |    1     
+  5   |           Badnera Junction             |         BD         |     18:05     |     18:10     |     5:00      |       175 KM       |    1     
+  6   |              Murtajapur                |        MZR         |     18:38     |     18:40     |     2:00      |       216 KM       |    1     
+  7   |            Akola Junction              |         AK         |     20:00     |     20:10     |     10:00     |       253 KM       |    1     
+  8   |                Washim                  |        WHM         |     21:14     |     21:15     |     1:00      |       332 KM       |    1     
+  9   |            Hingoli Deccan              |        HNL         |     21:59     |     22:00     |     1:00      |       380 KM       |    1     
+  10  |            Purna Junction              |        PAU         |     23:40     |     23:45     |     5:00      |       460 KM       |    1     
+  11  |           Parbhani Junction            |        PBN         |     00:13     |     00:15     |     2:00      |       489 KM       |    2     
+  12  |               Gangakher                |        GNH         |     00:48     |     00:50     |     2:00      |       523 KM       |    2     
+  13  |            Parli Vaijnath              |        PRLI        |     02:20     |     02:30     |     10:00     |       553 KM       |    2     
+  14  |              Latur Road                |        LTRR        |     04:30     |     04:52     |     22:00     |       616 KM       |    2     
+  15  |                 Latur                  |        LUR         |     05:25     |     05:30     |     5:00      |       648 KM       |    2     
+  16  |               Usmanabad                |        UMD         |     06:57     |     07:00     |     3:00      |       728 KM       |    2     
+  17  |              Barsi Town                |        BTW         |     07:43     |     07:45     |     2:00      |       764 KM       |    2     
+  18  |               Kurduvadi                |        KWV         |     08:50     |     09:00     |     10:00     |       802 KM       |    2     
+  19  |              Pandharpur                |        PVR         |     10:05     |     10:10     |     5:00      |       854 KM       |    2     
+  20  |                Sangola                 |        SGLA        |     10:43     |     10:45     |     2:00      |       884 KM       |    2     
+  21  |            Miraj Junction              |        MRJ         |     12:40     |     12:55     |     15:00     |       991 KM       |    2     
+  22  |            C Shahumharaj T             |        KOP         |     14:00     |     Ends      |       -       |      1038 KM       |    2     

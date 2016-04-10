@@ -1,0 +1,18 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Kannur                  |        CAN         |     Start     |     14:35     |       -       |        0 KM        |    1     
+  2   |              Thalassery                |        TLY         |     14:53     |     14:55     |     2:00      |       21 KM        |    1     
+  3   |                 Mahe                   |        MAHE        |     15:03     |     15:05     |     2:00      |       31 KM        |    1     
+  4   |               Vadakara                 |        BDJ         |     15:13     |     15:15     |     2:00      |       43 KM        |    1     
+  5   |               Kozhikode                |        CLT         |     16:00     |     16:05     |     5:00      |       90 KM        |    1     
+  6   |             Parpanangadi               |        PGI         |     16:28     |     16:30     |     2:00      |       115 KM       |    1     
+  7   |                 Tanur                  |         TA         |     16:38     |     16:40     |     2:00      |       123 KM       |    1     
+  8   |                 Tirur                  |        TIR         |     16:48     |     16:50     |     2:00      |       131 KM       |    1     
+  9   |              Kuttippuram               |        KTU         |     17:08     |     17:10     |     2:00      |       146 KM       |    1     
+  10  |           Shoranur Junction            |        SRR         |     17:50     |     17:55     |     5:00      |       176 KM       |    1     
+  11  |                Thrisur                 |        TCR         |     18:30     |     18:32     |     2:00      |       208 KM       |    1     
+  12  |             Irinjalakuda               |        IJK         |     18:50     |     18:52     |     2:00      |       232 KM       |    1     
+  13  |               Chalakudi                |        CKI         |     18:57     |     18:59     |     2:00      |       239 KM       |    1     
+  14  |               Angamali                 |        AFK         |     19:11     |     19:12     |     1:00      |       254 KM       |    1     
+  15  |                 Aluva                  |        AWY         |     19:21     |     19:23     |     2:00      |       263 KM       |    1     
+  16  |            Ernakulam Town              |        ERN         |     19:58     |     20:00     |     2:00      |       280 KM       |    1     
+  17  |          Eranakulam Junction           |        ERS         |     20:30     |     Ends      |       -       |       283 KM       |    1     

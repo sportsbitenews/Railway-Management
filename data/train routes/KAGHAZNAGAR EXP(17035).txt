@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |         Secunderabad Junction          |         SC         |     Start     |     08:20     |       -       |        0 KM        |    1     
+  2   |                Bhongir                 |         BG         |     09:09     |     09:10     |     1:00      |       47 KM        |    1     
+  3   |                 Aler                   |        ALER        |     09:24     |     09:25     |     1:00      |       70 KM        |    1     
+  4   |                Jangaon                 |         ZN         |     09:39     |     09:40     |     1:00      |       84 KM        |    1     
+  5   |                Ghanpur                 |        GNP         |     09:59     |     10:00     |     1:00      |       112 KM       |    1     
+  6   |           Kazipet Junction             |        KZJ         |     10:23     |     10:25     |     2:00      |       132 KM       |    1     
+  7   |               Jamikunta                |        JMKT        |     10:54     |     10:55     |     1:00      |       168 KM       |    1     
+  8   |                 Odela                  |        OEA         |     11:24     |     11:25     |     1:00      |       188 KM       |    1     
+  9   |              Peddapalli                |        PDPL        |     11:34     |     11:35     |     1:00      |       207 KM       |    1     
+  10  |               Ramgundam                |        RDM         |     11:42     |     11:43     |     1:00      |       225 KM       |    1     
+  11  |               Mancheral                |        MCI         |     11:55     |     11:56     |     1:00      |       239 KM       |    1     
+  12  |             Ravindrakhani              |        RVKH        |     12:09     |     12:10     |     1:00      |       245 KM       |    1     
+  13  |              Belampalli                |        BPA         |     12:21     |     12:22     |     1:00      |       258 KM       |    1     
+  14  |            Sirpur Kagazngr             |        SKZR        |     13:45     |     Ends      |       -       |       297 KM       |    1     

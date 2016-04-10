@@ -1,0 +1,32 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Bhuj                   |        BHUJ        |     Start     |     13:40     |       -       |        0 KM        |    1     
+  2   |                Adipur                  |         AI         |     14:20     |     14:22     |     2:00      |       49 KM        |    1     
+  3   |             Gandhidham Bg              |        GIMB        |     14:45     |     15:10     |     25:00     |       58 KM        |    1     
+  4   |              Bhachau Bg                |        BCOB        |     15:43     |     15:45     |     2:00      |       95 KM        |    1     
+  5   |            Samakhiali B G              |        SIOB        |     16:13     |     16:15     |     2:00      |       111 KM       |    1     
+  6   |              Dhrangdhra                |        DHG         |     17:54     |     17:56     |     2:00      |       228 KM       |    1     
+  7   |          Ahmedabad Junction            |        ADI         |     21:05     |     21:30     |     25:00     |       359 KM       |    1     
+  8   |            Anand Junction              |        ANND        |     22:30     |     22:32     |     2:00      |       423 KM       |    1     
+  9   |           Vadodara Junction            |        BRC         |     23:15     |     23:40     |     25:00     |       459 KM       |    1     
+  10  |            Ratlam Junction             |        RTM         |     03:45     |     03:55     |     10:00     |       720 KM       |    2     
+  11  |            Nagda Junction              |        NAD         |     04:48     |     04:50     |     2:00      |       762 KM       |    2     
+  12  |            Ujjain Junction             |        UJN         |     05:55     |     06:05     |     10:00     |       817 KM       |    2     
+  13  |               Shujalpur                |        SJP         |     07:25     |     07:27     |     2:00      |       920 KM       |    2     
+  14  |               Bairagarh                |        BIH         |     08:39     |     08:40     |     1:00      |       990 KM       |    2     
+  15  |                Vidisha                 |        BHS         |     10:27     |     10:29     |     2:00      |      1053 KM       |    2     
+  16  |             Bina Junction              |        BINA        |     12:10     |     12:15     |     5:00      |      1138 KM       |    2     
+  17  |                Saugor                  |        SGO         |     13:23     |     13:25     |     2:00      |      1213 KM       |    2     
+  18  |                 Damoh                  |        DMO         |     14:28     |     14:30     |     2:00      |      1290 KM       |    2     
+  19  |             Katni Murwara              |        KMZ         |     16:05     |     16:10     |     5:00      |      1400 KM       |    2     
+  20  |                Shahdol                 |        SDL         |     18:18     |     18:20     |     2:00      |      1525 KM       |    2     
+  21  |           Anuppur Junction             |        APR         |     19:00     |     19:05     |     5:00      |      1566 KM       |    2     
+  22  |           Bilaspur Junction            |        BSP         |     21:40     |     21:55     |     15:00     |      1717 KM       |    2     
+  23  |                Champa                  |        CPH         |     22:43     |     22:48     |     5:00      |      1770 KM       |    2     
+  24  |                Raigarh                 |        RIG         |     23:50     |     23:55     |     5:00      |      1849 KM       |    2     
+  25  |          Jharsuguda Junction           |        JSG         |     01:20     |     01:25     |     5:00      |      1922 KM       |    3     
+  26  |               Rourkela                 |        ROU         |     02:43     |     02:53     |     10:00     |      2024 KM       |    3     
+  27  |             Chakradharpur              |        CKP         |     04:18     |     04:23     |     5:00      |      2125 KM       |    3     
+  28  |          Tatanagar Junction            |        TATA        |     05:30     |     05:40     |     10:00     |      2187 KM       |    3     
+  29  |          Kharagpur Junction            |        KGP         |     07:50     |     07:55     |     5:00      |      2321 KM       |    3     
+  30  |         Santragachi Junction           |        SRC         |     09:39     |     09:41     |     2:00      |      2429 KM       |    3     
+  31  |               Shalimar                 |        SHM         |     09:55     |     Ends      |       -       |      2434 KM       |    3     

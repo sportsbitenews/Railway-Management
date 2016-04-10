@@ -1,0 +1,18 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Lal Kuan                 |        LKU         |     Start     |     18:35     |       -       |        0 KM        |    1     
+  2   |             Rudrapur City              |        RUPC        |     18:58     |     19:00     |     2:00      |       22 KM        |    1     
+  3   |                Rampur                  |        RMU         |     19:55     |     20:25     |     30:00     |       67 KM        |    1     
+  4   |               Bareilly                 |         BE         |     21:20     |     21:25     |     5:00      |       130 KM       |    1     
+  5   |              Lucknow Nr                |        LKO         |     01:15     |     01:25     |     10:00     |       365 KM       |    2     
+  6   |          Rae Bareli Junction           |        RBL         |     02:40     |     02:45     |     5:00      |       443 KM       |    2     
+  7   |                Amethi                  |        AME         |     03:45     |     03:47     |     2:00      |       503 KM       |    2     
+  8   |          Partapgarh Junction           |        PBH         |     04:30     |     04:35     |     5:00      |       538 KM       |    2     
+  9   |           Varanasi Junction            |        BSB         |     07:05     |     07:20     |     15:00     |       667 KM       |    2     
+  10  |         Mughal Sarai Junction          |        MGS         |     08:15     |     08:35     |     20:00     |       683 KM       |    2     
+  11  |             Dehri On Sone              |        DOS         |     09:58     |     10:00     |     2:00      |       801 KM       |    2     
+  12  |             Gaya Junction              |        GAYA        |     11:25     |     11:30     |     5:00      |       886 KM       |    2     
+  13  |           Dhanbad Junction             |        DHN         |     14:40     |     14:45     |     5:00      |      1085 KM       |    2     
+  14  |           Asansol Junction             |        ASN         |     15:45     |     15:50     |     5:00      |      1144 KM       |    2     
+  15  |               Durgapur                 |        DGR         |     16:20     |     16:22     |     2:00      |      1186 KM       |    2     
+  16  |          Barddhaman Junction           |        BWN         |     17:12     |     17:14     |     2:00      |      1249 KM       |    2     
+  17  |            Howrah Junction             |        HWH         |     18:55     |     Ends      |       -       |      1344 KM       |    2     

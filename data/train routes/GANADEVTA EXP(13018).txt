@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Azimganj Junction            |         AZ         |     Start     |     15:40     |       -       |        0 KM        |    1     
+  2   |              Sagardighi                |        SDI         |     16:02     |     16:03     |     1:00      |       19 KM        |    1     
+  3   |                Morgram                 |        MGAE        |     16:15     |     16:16     |     1:00      |       27 KM        |    1     
+  4   |           Nalhati Junction             |        NHT         |     16:52     |     16:54     |     2:00      |       45 KM        |    1     
+  5   |              Rampur Hat                |        RPH         |     17:12     |     17:17     |     5:00      |       59 KM        |    1     
+  6   |               Mallarpur                |        MLV         |     17:29     |     17:30     |     1:00      |       72 KM        |    1     
+  7   |               Sainthia                 |        SNT         |     17:47     |     17:48     |     1:00      |       87 KM        |    1     
+  8   |           Ahmadpur Junction            |        AMP         |     17:59     |     18:00     |     1:00      |       101 KM       |    1     
+  9   |                Prantik                 |        PNE         |     18:15     |     18:16     |     1:00      |       116 KM       |    1     
+  10  |            Bolpur S Niktn              |        BHP         |     18:24     |     18:29     |     5:00      |       120 KM       |    1     
+  11  |                Guskara                 |        GKH         |     18:46     |     18:47     |     1:00      |       139 KM       |    1     
+  12  |          Barddhaman Junction           |        BWN         |     19:37     |     19:42     |     5:00      |       171 KM       |    1     
+  13  |            Bandel Junction             |        BDC         |     20:42     |     20:44     |     2:00      |       239 KM       |    1     
+  14  |              Seoraphuli                |        SHE         |     21:01     |     21:02     |     1:00      |       256 KM       |    1     
+  15  |            Howrah Junction             |        HWH         |     21:45     |     Ends      |       -       |       278 KM       |    1     

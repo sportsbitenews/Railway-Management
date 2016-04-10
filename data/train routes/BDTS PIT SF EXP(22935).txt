@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Bandra Terminus             |        BDTS        |     Start     |     12:55     |       -       |        0 KM        |    1     
+  2   |               Borivali                 |        BVI         |     13:23     |     13:25     |     2:00      |       19 KM        |    1     
+  3   |                 Vapi                   |        VAPI        |     15:17     |     15:20     |     3:00      |       159 KM       |    1     
+  4   |                 Surat                  |         ST         |     16:45     |     16:50     |     5:00      |       252 KM       |    1     
+  5   |           Vadodara Junction            |        BRC         |     18:43     |     18:48     |     5:00      |       381 KM       |    1     
+  6   |          Ahmedabad Junction            |        ADI         |     20:40     |     21:00     |     20:00     |       481 KM       |    1     
+  7   |         Jorawarnagar Junction          |        JVN         |     23:30     |     23:31     |     1:00      |       614 KM       |    1     
+  8   |            Botad Junction              |        BTD         |     00:35     |     00:37     |     2:00      |       686 KM       |    2     
+  9   |            Dhola Junction              |        DLJ         |     01:13     |     01:15     |     2:00      |       729 KM       |    2     
+  10  |                Songadh                 |        SGD         |     01:33     |     01:35     |     2:00      |       750 KM       |    2     
+  11  |             Sihor Gujarat              |        SOJN        |     02:02     |     02:04     |     2:00      |       758 KM       |    2     
+  12  |               PALITANA                 |        PIT         |     03:05     |     Ends      |       -       |       785 KM       |    2     

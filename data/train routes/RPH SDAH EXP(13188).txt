@@ -1,0 +1,11 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Rampur Hat                |        RPH         |     Start     |     14:05     |       -       |        0 KM        |    1     
+  2   |             Tarapith Road              |        TPF         |     14:13     |     14:14     |     1:00      |        7 KM        |    1     
+  3   |               Sainthia                 |        SNT         |     14:35     |     14:36     |     1:00      |       28 KM        |    1     
+  4   |                Prantik                 |        PNE         |     14:57     |     14:58     |     1:00      |       57 KM        |    1     
+  5   |            Bolpur S Niktn              |        BHP         |     15:05     |     15:07     |     2:00      |       61 KM        |    1     
+  6   |                Guskara                 |        GKH         |     15:24     |     15:25     |     1:00      |       80 KM        |    1     
+  7   |          Barddhaman Junction           |        BWN         |     16:17     |     16:19     |     2:00      |       112 KM       |    1     
+  8   |            Bandel Junction             |        BDC         |     17:26     |     17:28     |     2:00      |       180 KM       |    1     
+  9   |           Naihati Junction             |         NH         |     17:50     |     17:52     |     2:00      |       189 KM       |    1     
+  10  |                Sealdah                 |        SDAH        |     18:45     |     Ends      |       -       |       226 KM       |    1     

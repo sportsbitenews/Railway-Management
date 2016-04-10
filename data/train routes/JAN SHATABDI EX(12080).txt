@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Hubli Junction              |        UBL         |     Start     |     14:00     |       -       |        0 KM        |    1     
+  2   |                Haveri                  |        HVR         |     14:59     |     15:00     |     1:00      |       76 KM        |    1     
+  3   |              Ranibennur                |        RNR         |     15:26     |     15:28     |     2:00      |       108 KM       |    1     
+  4   |                Harihar                 |        HRR         |     15:53     |     15:55     |     2:00      |       131 KM       |    1     
+  5   |               Davangere                |        DVG         |     16:07     |     16:10     |     3:00      |       144 KM       |    1     
+  6   |          Chikjajur Junction            |        JRU         |     16:49     |     16:50     |     1:00      |       190 KM       |    1     
+  7   |            Birur Junction              |        RRB         |     17:48     |     17:50     |     2:00      |       259 KM       |    1     
+  8   |           Arsikere Junction            |        ASK         |     18:35     |     18:40     |     5:00      |       304 KM       |    1     
+  9   |                Tumkur                  |         TK         |     19:58     |     20:00     |     2:00      |       400 KM       |    1     
+  10  |          Yesvantpur Junction           |        YPR         |     20:58     |     21:00     |     2:00      |       464 KM       |    1     
+  11  |         Bangalore Cy Junction          |        SBC         |     21:25     |     Ends      |       -       |       469 KM       |    1     

@@ -1,0 +1,45 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Hatia                  |        HTE         |     Start     |     22:00     |       -       |        0 KM        |    1     
+  2   |                Ranchi                  |        RNC         |     22:15     |     22:25     |     10:00     |        7 KM        |    1     
+  3   |                Namkon                  |        NKM         |     22:32     |     22:33     |     1:00      |       12 KM        |    1     
+  4   |                 Muri                   |        MURI        |     23:35     |     23:40     |     5:00      |       69 KM        |    1     
+  5   |                Jhalida                 |        JAA         |     23:59     |     00:01     |     2:00      |       82 KM        |    2     
+  6   |            Bokaro Stl City             |        BKSC        |     00:45     |     00:55     |     10:00     |       122 KM       |    2     
+  7   |              Chandrapura               |        CRP         |     01:25     |     01:30     |     5:00      |       137 KM       |    2     
+  8   |              Katrasgarh                |        KTH         |     02:17     |     02:22     |     5:00      |       158 KM       |    2     
+  9   |           Dhanbad Junction             |        DHN         |     03:20     |     03:40     |     20:00     |       171 KM       |    2     
+  10  |               Kumardubi                |        KMME        |     04:17     |     04:18     |     1:00      |       210 KM       |    2     
+  11  |                Barakar                 |        BRR         |     04:23     |     04:24     |     1:00      |       213 KM       |    2     
+  12  |                 Kulti                  |        ULT         |     04:35     |     04:36     |     1:00      |       216 KM       |    2     
+  13  |             Chittaranjan               |        CRJ         |     05:14     |     05:15     |     1:00      |       233 KM       |    2     
+  14  |                Jamtara                 |        JMT         |     05:29     |     05:30     |     1:00      |       247 KM       |    2     
+  15  |              Vidyasagar                |        VDS         |     05:47     |     05:48     |     1:00      |       265 KM       |    2     
+  16  |           Madhupur Junction            |        MDP         |     06:11     |     06:15     |     4:00      |       289 KM       |    2     
+  17  |              Mathurapur                |        MUW         |     06:27     |     06:28     |     1:00      |       301 KM       |    2     
+  18  |               Sankarpur                |        SNQ         |     06:36     |     06:37     |     1:00      |       309 KM       |    2     
+  19  |           Jasidih Junction             |        JSME        |     06:49     |     06:52     |     3:00      |       318 KM       |    2     
+  20  |               Simultala                |        STL         |     07:20     |     07:21     |     1:00      |       343 KM       |    2     
+  21  |                Jhajha                  |        JAJ         |     07:50     |     07:55     |     5:00      |       362 KM       |    2     
+  22  |                Gidhaur                 |        GHR         |     08:06     |     08:07     |     1:00      |       373 KM       |    2     
+  23  |                Chaura                  |        CUX         |     08:14     |     08:15     |     1:00      |       380 KM       |    2     
+  24  |                 Jamui                  |        JMU         |     08:22     |     08:23     |     1:00      |       388 KM       |    2     
+  25  |                Bhalui                  |        BFM         |     08:31     |     08:32     |     1:00      |       397 KM       |    2     
+  26  |               Mananpur                 |        MNP         |     08:41     |     08:42     |     1:00      |       402 KM       |    2     
+  27  |               Bansipur                 |        BSQP        |     08:49     |     08:51     |     2:00      |       408 KM       |    2     
+  28  |             Kiul Junction              |        KIUL        |     09:12     |     09:14     |     2:00      |       416 KM       |    2     
+  29  |         Luckeesarai Junction           |        LKR         |     09:20     |     09:22     |     2:00      |       417 KM       |    2     
+  30  |               Mankatha                 |        MKB         |     09:28     |     09:30     |     2:00      |       423 KM       |    2     
+  31  |                Barhiya                 |        BRYA        |     09:47     |     09:49     |     2:00      |       432 KM       |    2     
+  32  |             Rampur Dumra               |        RDUM        |     09:55     |     09:57     |     2:00      |       438 KM       |    2     
+  33  |           Hathidah Junction            |        HTZ         |     10:02     |     10:04     |     2:00      |       443 KM       |    2     
+  34  |           Mokameh Junction             |        MKA         |     10:15     |     10:17     |     2:00      |       450 KM       |    2     
+  35  |                  Mor                   |        MOR         |     10:23     |     10:25     |     2:00      |       457 KM       |    2     
+  36  |               Punarakh                 |        PHK         |     10:32     |     10:34     |     2:00      |       465 KM       |    2     
+  37  |                 Barh                   |        BARH        |     10:47     |     10:49     |     2:00      |       476 KM       |    2     
+  38  |              Athmal Gola               |        ATL         |     10:56     |     10:58     |     2:00      |       485 KM       |    2     
+  39  |         Bakhtiyarpur Junction          |        BKP         |     11:11     |     11:13     |     2:00      |       494 KM       |    2     
+  40  |               Khusropur                |        KOO         |     11:36     |     11:38     |     2:00      |       509 KM       |    2     
+  41  |                 Fatwa                  |        FUT         |     11:46     |     11:48     |     2:00      |       517 KM       |    2     
+  42  |              Patna Saheb               |        PNC         |     12:02     |     12:04     |     2:00      |       529 KM       |    2     
+  43  |            Rjndr Ngr Bihar             |        RJPB        |     12:16     |     12:18     |     2:00      |       537 KM       |    2     
+  44  |            Patna Junction              |        PNBE        |     12:25     |     Ends      |       -       |       539 KM       |    2     

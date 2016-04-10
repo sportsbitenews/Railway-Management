@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Kolkata                 |        KOAA        |     Start     |     06:50     |       -       |        0 KM        |    1     
+  2   |           Ranaghat Junction            |        RHA         |     08:20     |     08:22     |     2:00      |       70 KM        |    1     
+  3   |         Krishngr Cty Junction          |        KNJ         |     08:56     |     08:58     |     2:00      |       96 KM        |    1     
+  4   |             Bethuadahari               |        BTY         |     09:21     |     09:22     |     1:00      |       124 KM       |    1     
+  5   |                Plassey                 |        PLY         |     09:41     |     09:42     |     1:00      |       146 KM       |    1     
+  6   |               Beldanga                 |        BEB         |     10:11     |     10:12     |     1:00      |       164 KM       |    1     
+  7   |            Berhampore Crt              |        BPC         |     10:28     |     10:30     |     2:00      |       182 KM       |    1     
+  8   |              Murshidabad               |        MBB         |     10:42     |     10:43     |     1:00      |       193 KM       |    1     
+  9   |                Jiaganj                 |        JJG         |     10:50     |     10:51     |     1:00      |       200 KM       |    1     
+  10  |              Bhagwangola               |        BQG         |     11:02     |     11:03     |     1:00      |       212 KM       |    1     
+  11  |                Lalgola                 |        LGL         |     11:50     |     Ends      |       -       |       223 KM       |    1     

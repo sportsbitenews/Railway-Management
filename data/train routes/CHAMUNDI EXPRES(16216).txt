@@ -1,0 +1,11 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |         Bangalore Cy Junction          |        SBC         |     Start     |     18:15     |       -       |        0 KM        |    1     
+  2   |                Kengeri                 |        KGI         |     18:34     |     18:35     |     1:00      |       13 KM        |    1     
+  3   |                Bidadi                  |        BID         |     18:49     |     18:50     |     1:00      |       31 KM        |    1     
+  4   |              Ramanagaram               |        RMGM        |     19:04     |     19:05     |     1:00      |       45 KM        |    1     
+  5   |              Channapatna               |        CPT         |     19:14     |     19:15     |     1:00      |       56 KM        |    1     
+  6   |                Maddur                  |        MAD         |     19:34     |     19:35     |     1:00      |       75 KM        |    1     
+  7   |                Mandya                  |        MYA         |     19:48     |     19:50     |     2:00      |       94 KM        |    1     
+  8   |              Pandavapura               |        PANP        |     20:19     |     20:20     |     1:00      |       120 KM       |    1     
+  9   |            Shrirangapatna              |         S          |     20:24     |     20:25     |     1:00      |       124 KM       |    1     
+  10  |            Mysore Junction             |        MYS         |     21:10     |     Ends      |       -       |       139 KM       |    1     

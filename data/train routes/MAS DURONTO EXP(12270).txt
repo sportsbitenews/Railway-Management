@@ -1,0 +1,3 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             H Nizamuddin               |        NZM         |     Start     |     15:45     |       -       |        0 KM        |    1     
+  2   |            Chennai Central             |        MAS         |     20:10     |     Ends      |       -       |      2176 KM       |    2     

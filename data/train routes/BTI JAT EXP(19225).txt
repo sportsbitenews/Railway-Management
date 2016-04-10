@@ -1,0 +1,24 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Bhatinda Junction            |        BTI         |     Start     |     18:40     |       -       |        0 KM        |    1     
+  2   |             Gangsar Jaitu              |        GJUT        |     19:01     |     19:03     |     2:00      |       27 KM        |    1     
+  3   |              Kot Kapura                |        KKP         |     19:20     |     19:22     |     2:00      |       43 KM        |    1     
+  4   |               Faridkot                 |        FDK         |     19:33     |     19:35     |     2:00      |       56 KM        |    1     
+  5   |             Firozpur Cant              |        FZR         |     20:25     |     20:50     |     25:00     |       88 KM        |    1     
+  6   |            Mallanwala Khas             |        MWX         |     21:12     |     21:14     |     2:00      |       112 KM       |    1     
+  7   |                 Makhu                  |        MXH         |     21:29     |     21:31     |     2:00      |       129 KM       |    1     
+  8   |         Lohian Khas Junction           |        LNK         |     21:55     |     21:57     |     2:00      |       154 KM       |    1     
+  9   |            Sultanpur Lodi              |        SQR         |     22:03     |     22:05     |     2:00      |       160 KM       |    1     
+  10  |              Kapurthala                |        KXH         |     22:33     |     22:35     |     2:00      |       185 KM       |    1     
+  11  |            Jalandhar City              |        JUC         |     23:15     |     23:40     |     25:00     |       205 KM       |    1     
+  12  |                 Beas                   |        BEAS        |     00:12     |     00:14     |     2:00      |       242 KM       |    2     
+  13  |           Amritsar Junction            |        ASR         |     00:55     |     01:20     |     25:00     |       284 KM       |    2     
+  14  |            Verka Junction              |        VKA         |     01:30     |     01:32     |     2:00      |       292 KM       |    2     
+  15  |            Batala Junction             |        BAT         |     02:10     |     02:12     |     2:00      |       323 KM       |    2     
+  16  |               Dhariwal                 |        DHW         |     02:28     |     02:30     |     2:00      |       342 KM       |    2     
+  17  |               Gurdaspur                |        GSP         |     02:43     |     02:45     |     2:00      |       355 KM       |    2     
+  18  |               Pathankot                |        PTK         |     03:35     |     03:55     |     20:00     |       391 KM       |    2     
+  19  |                Kathua                  |        KTHU        |     04:23     |     04:25     |     2:00      |       414 KM       |    2     
+  20  |              Hira Nagar                |        HRNR        |     04:52     |     04:54     |     2:00      |       443 KM       |    2     
+  21  |                 Samba                  |        SMBX        |     05:07     |     05:09     |     2:00      |       458 KM       |    2     
+  22  |            Vijiypur Jammu              |        VJPJ        |     05:33     |     05:35     |     2:00      |       469 KM       |    2     
+  23  |              Jammu Tawi                |        JAT         |     06:20     |     Ends      |       -       |       490 KM       |    2     

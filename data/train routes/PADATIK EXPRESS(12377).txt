@@ -1,0 +1,8 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Sealdah                 |        SDAH        |     Start     |     23:15     |       -       |        0 KM        |    1     
+  2   |          Barddhaman Junction           |        BWN         |     00:55     |     00:57     |     2:00      |       101 KM       |    2     
+  3   |            Bolpur S Niktn              |        BHP         |     01:45     |     01:47     |     2:00      |       153 KM       |    2     
+  4   |              Rampur Hat                |        RPH         |     02:51     |     02:56     |     5:00      |       213 KM       |    2     
+  5   |              Malda Town                |        MLDT        |     05:40     |     05:45     |     5:00      |       335 KM       |    2     
+  6   |              Kishanganj                |        KNE         |     07:38     |     07:40     |     2:00      |       480 KM       |    2     
+  7   |            New Jalpaiguri              |        NJP         |     09:15     |     Ends      |       -       |       567 KM       |    2     

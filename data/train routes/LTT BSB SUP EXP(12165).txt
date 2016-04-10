@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Lokmanyatilak T             |        LTT         |     Start     |     05:20     |       -       |        0 KM        |    1     
+  2   |                 Thane                  |        TNA         |     05:38     |     05:40     |     2:00      |       18 KM        |    1     
+  3   |            Kalyan Junction             |        KYN         |     06:05     |     06:08     |     3:00      |       38 KM        |    1     
+  4   |               Igatpuri                 |        IGP         |     07:53     |     07:55     |     2:00      |       121 KM       |    1     
+  5   |              Nasik Road                |         NK         |     08:43     |     08:45     |     2:00      |       172 KM       |    1     
+  6   |            Manmad Junction             |        MMR         |     09:35     |     09:40     |     5:00      |       245 KM       |    1     
+  7   |           Jalgaon Junction             |         JL         |     11:18     |     11:20     |     2:00      |       405 KM       |    1     
+  8   |           Bhusaval Junction            |        BSL         |     11:45     |     12:00     |     15:00     |       429 KM       |    1     
+  9   |            Itarsi Junction             |         ET         |     17:00     |     17:10     |     10:00     |       736 KM       |    1     
+  10  |               Jabalpur                 |        JBP         |     20:40     |     20:50     |     10:00     |       981 KM       |    1     
+  11  |                 Satna                  |        STA         |     00:01     |     00:10     |     9:00      |      1170 KM       |    2     
+  12  |          Allahabad Junction            |        ALD         |     03:50     |     04:15     |     25:00     |      1348 KM       |    2     
+  13  |           Janghai Junction             |        JNH         |     05:17     |     05:19     |     2:00      |      1407 KM       |    2     
+  14  |                Bhadohi                 |        BOY         |     05:48     |     05:50     |     2:00      |      1438 KM       |    2     
+  15  |           Varanasi Junction            |        BSB         |     07:05     |     Ends      |       -       |      1482 KM       |    2     

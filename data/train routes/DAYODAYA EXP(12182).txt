@@ -1,0 +1,23 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Ajmer Junction              |        AII         |     Start     |     15:30     |       -       |        0 KM        |    1     
+  2   |              Kishangarh                |        KSG         |     15:56     |     15:58     |     2:00      |       29 KM        |    1     
+  3   |           Phulera Junction             |         FL         |     16:37     |     16:39     |       -       |       80 KM        |    1     
+  4   |                Jaipur                  |         JP         |     17:25     |     17:35     |     10:00     |       135 KM       |    1     
+  5   |               Durgapura                |        DPA         |     17:42     |     17:44     |     2:00      |       142 KM       |    1     
+  6   |            Bansthali Niwai             |        BNLW        |     18:28     |     18:30     |     2:00      |       201 KM       |    1     
+  7   |            Chauth Ka Brwra             |        CKB         |     19:03     |     19:05     |     2:00      |       245 KM       |    1     
+  8   |            Sawai Madhopur              |        SWM         |     19:45     |     19:55     |     10:00     |       266 KM       |    1     
+  9   |             Kota Junction              |        KOTA        |     21:20     |     21:35     |     15:00     |       374 KM       |    1     
+  10  |                 Antah                  |        ATH         |     22:08     |     22:10     |     2:00      |       419 KM       |    1     
+  11  |                 Baran                  |        BAZ         |     22:25     |     22:30     |     5:00      |       441 KM       |    1     
+  12  |             Chhabra Gugor              |        CAG         |     23:10     |     23:12     |     2:00      |       499 KM       |    1     
+  13  |               Ruthiyai                 |        RTA         |     00:15     |     00:20     |     5:00      |       538 KM       |    2     
+  14  |                 Guna                   |        GUNA        |     00:45     |     00:50     |     5:00      |       559 KM       |    2     
+  15  |              Ashok Nagar               |        ASKN        |     01:26     |     01:28     |     2:00      |       603 KM       |    2     
+  16  |               Mungaoli                 |        MNV         |     02:07     |     02:09     |     2:00      |       649 KM       |    2     
+  17  |               Malkhedi                 |        MAKR        |     03:10     |     03:12     |     2:00      |       679 KM       |    2     
+  18  |                Saugor                  |        SGO         |     04:11     |     04:13     |     2:00      |       749 KM       |    2     
+  19  |                 Damoh                  |        DMO         |     05:16     |     05:18     |     2:00      |       827 KM       |    2     
+  20  |                 Katni                  |        KTE         |     07:05     |     07:15     |     10:00     |       938 KM       |    2     
+  21  |              Sihora Road               |        SHR         |     07:56     |     07:58     |     2:00      |       990 KM       |    2     
+  22  |               Jabalpur                 |        JBP         |     08:45     |     Ends      |       -       |      1028 KM       |    2     

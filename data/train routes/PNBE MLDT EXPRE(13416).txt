@@ -1,0 +1,19 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Patna Junction              |        PNBE        |     Start     |     21:45     |       -       |        0 KM        |    1     
+  2   |            Rjndr Ngr Bihar             |        RJPB        |     21:52     |     21:54     |     2:00      |        3 KM        |    1     
+  3   |              Patna Saheb               |        PNC         |     22:03     |     22:05     |     2:00      |       10 KM        |    1     
+  4   |                 Fatwa                  |        FUT         |     22:16     |     22:18     |     2:00      |       22 KM        |    1     
+  5   |         Bakhtiyarpur Junction          |        BKP         |     22:37     |     22:39     |     2:00      |       46 KM        |    1     
+  6   |                 Barh                   |        BARH        |     22:52     |     22:54     |     2:00      |       64 KM        |    1     
+  7   |           Mokameh Junction             |        MKA         |     23:50     |     23:52     |     2:00      |       90 KM        |    1     
+  8   |           Hathidah Junction            |        HTZ         |     23:59     |     00:01     |     2:00      |       97 KM        |    2     
+  9   |             Kiul Junction              |        KIUL        |     00:55     |     01:00     |     5:00      |       124 KM       |    2     
+  10  |               Abhaipur                 |        AHA         |     01:22     |     01:23     |     1:00      |       147 KM       |    2     
+  11  |           Jamalpur Junction            |        JMP         |     01:55     |     02:00     |     5:00      |       169 KM       |    2     
+  12  |              Sultanganj                |        SGG         |     02:28     |     02:29     |     1:00      |       198 KM       |    2     
+  13  |               Bhagalpur                |        BGP         |     02:55     |     03:00     |     5:00      |       222 KM       |    2     
+  14  |               Kahalgaon                |        CLG         |     03:32     |     03:33     |     1:00      |       252 KM       |    2     
+  15  |          Sahibganj Junction            |        SBG         |     05:00     |     05:05     |     5:00      |       296 KM       |    2     
+  16  |           Barharwa Junction            |        BHW         |     06:27     |     06:29     |     2:00      |       350 KM       |    2     
+  17  |         New Farakka Junction           |        NFK         |     06:58     |     07:00     |     2:00      |       365 KM       |    2     
+  18  |              Malda Town                |        MLDT        |     08:20     |     Ends      |       -       |       399 KM       |    2     

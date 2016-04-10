@@ -1,0 +1,28 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Ranchi                  |        RNC         |     Start     |     20:40     |       -       |        0 KM        |    1     
+  2   |                 Muri                   |        MURI        |     21:47     |     21:52     |     5:00      |       62 KM        |    1     
+  3   |            Bokaro Stl City             |        BKSC        |     22:50     |     22:55     |     5:00      |       115 KM       |    1     
+  4   |              Chandrapura               |        CRP         |     23:28     |     23:30     |     2:00      |       130 KM       |    1     
+  5   |           Dhanbad Junction             |        DHN         |     00:50     |     00:55     |     5:00      |       164 KM       |    2     
+  6   |           Asansol Junction             |        ASN         |     01:55     |     02:00     |     5:00      |       223 KM       |    2     
+  7   |               Raniganj                 |        RNG         |     02:16     |     02:17     |     1:00      |       241 KM       |    2     
+  8   |            Andal Junction              |        UDL         |     02:29     |     02:31     |     2:00      |       249 KM       |    2     
+  9   |               Durgapur                 |        DGR         |     02:48     |     03:12     |     24:00     |       265 KM       |    2     
+  10  |                 Siuri                  |        SURI        |     04:31     |     04:32     |     1:00      |       336 KM       |    2     
+  11  |               Sainthia                 |        SNT         |     05:19     |     05:20     |     1:00      |       355 KM       |    2     
+  12  |              Rampur Hat                |        RPH         |     05:49     |     05:54     |     5:00      |       383 KM       |    2     
+  13  |                 Pakur                  |        PKR         |     06:37     |     06:38     |     1:00      |       436 KM       |    2     
+  14  |         New Farakka Junction           |        NFK         |     07:34     |     07:36     |     2:00      |       469 KM       |    2     
+  15  |              Malda Town                |        MLDT        |     08:25     |     08:40     |     15:00     |       504 KM       |    2     
+  16  |            Barsoi Junction             |        BOE         |     09:50     |     09:52     |     2:00      |       592 KM       |    2     
+  17  |              Kishanganj                |        KNE         |     10:38     |     10:43     |     5:00      |       649 KM       |    2     
+  18  |            New Jalpaiguri              |        NJP         |     12:40     |     12:55     |     15:00     |       736 KM       |    2     
+  19  |           Siliguri Junction            |        SGUJ        |     13:40     |     13:45     |     5:00      |       744 KM       |    2     
+  20  |           New Mal Junction             |        NMZ         |     14:43     |     14:45     |     2:00      |       791 KM       |    2     
+  21  |               Binnaguri                |        BNV         |     15:26     |     15:27     |     1:00      |       836 KM       |    2     
+  22  |               Hasimara                 |        HSA         |     16:03     |     16:05     |     2:00      |       870 KM       |    2     
+  23  |         Alipur Duar Junction           |        APDJ        |     17:25     |     17:30     |     5:00      |       905 KM       |    2     
+  24  |               Kokrajhar                |        KOJ         |     18:36     |     18:37     |     1:00      |       986 KM       |    2     
+  25  |            New Bongaigaon              |        NBQ         |     19:20     |     19:30     |     10:00     |      1014 KM       |    2     
+  26  |             Goalpara Town              |        GLPT        |     20:13     |     20:15     |     2:00      |      1094 KM       |    2     
+  27  |               Kamakhya                 |        KYQ         |     22:30     |     Ends      |       -       |      1216 KM       |    2     

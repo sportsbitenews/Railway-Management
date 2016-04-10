@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Lucknow Nr                |        LKO         |     Start     |     22:30     |       -       |        0 KM        |    1     
+  2   |                Hardoi                  |        HRI         |     23:59     |     00:01     |     2:00      |       102 KM       |    2     
+  3   |             Shahjehanpur               |        SPN         |     01:02     |     01:07     |     5:00      |       165 KM       |    2     
+  4   |               Bareilly                 |         BE         |     02:10     |     02:15     |     5:00      |       236 KM       |    2     
+  5   |               Moradabad                |         MB         |     03:55     |     04:05     |     10:00     |       326 KM       |    2     
+  6   |                Dhampur                 |        DPR         |     04:54     |     04:56     |     2:00      |       386 KM       |    2     
+  7   |                Nagina                  |        NGG         |     05:12     |     05:14     |     2:00      |       402 KM       |    2     
+  8   |          Najibabad Junction            |        NBD         |     05:35     |     05:37     |     2:00      |       424 KM       |    2     
+  9   |            Laksar Junction             |        LRJ         |     06:13     |     06:15     |     2:00      |       466 KM       |    2     
+  10  |                Roorkee                 |         RK         |     06:33     |     06:35     |     2:00      |       484 KM       |    2     
+  11  |              Saharanpur                |        SRE         |     07:30     |     07:40     |     10:00     |       519 KM       |    2     
+  12  |               Jagadhri                 |        JUD         |     08:06     |     08:08     |     2:00      |       549 KM       |    2     
+  13  |            Jagadhri Wshop              |        JUDW        |     08:14     |     08:16     |     2:00      |       554 KM       |    2     
+  14  |         Ambala Cant Junction           |        UMB         |     09:02     |     09:15     |     13:00     |       600 KM       |    2     
+  15  |              Chandigarh                |        CDG         |     10:00     |     Ends      |       -       |       667 KM       |    2     

@@ -1,0 +1,17 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Chennai Central             |        MAS         |     Start     |     08:45     |       -       |        0 KM        |    1     
+  2   |                Ongole                  |        OGL         |     12:48     |     12:50     |     2:00      |       292 KM       |    1     
+  3   |          Vijayawada Junction           |        BZA         |     15:10     |     15:25     |     15:00     |       431 KM       |    1     
+  4   |            Tadepalligudem              |        TDD         |     16:39     |     16:40     |       -       |       538 KM       |    1     
+  5   |              Rajamundry                |        RJY         |     17:32     |     17:37     |     5:00      |       580 KM       |    1     
+  6   |             Vishakapatnam              |        VSKP        |     21:50     |     22:10     |     20:00     |       781 KM       |    1     
+  7   |               Brahmapur                |        BAM         |     02:03     |     02:05     |     2:00      |      1058 KM       |    2     
+  8   |         Khurda Road Junction           |        KUR         |     04:05     |     04:15     |     10:00     |      1204 KM       |    2     
+  9   |              Bhubaneswar               |        BBS         |     04:40     |     04:45     |     5:00      |      1223 KM       |    2     
+  10  |                Cuttack                 |        CTC         |     05:20     |     05:25     |     5:00      |      1251 KM       |    2     
+  11  |             Jajpur K Road              |        JJKR        |     06:16     |     06:18     |     2:00      |      1323 KM       |    2     
+  12  |               Bhadrakh                 |        BHC         |     07:15     |     07:17     |     2:00      |      1367 KM       |    2     
+  13  |               Balasore                 |        BLS         |     08:01     |     08:06     |     5:00      |      1429 KM       |    2     
+  14  |          Kharagpur Junction            |        KGP         |     09:38     |     09:48     |     10:00     |      1547 KM       |    2     
+  15  |         Santragachi Junction           |        SRC         |     11:08     |     11:10     |     2:00      |      1655 KM       |    2     
+  16  |            Howrah Junction             |        HWH         |     11:50     |     Ends      |       -       |      1662 KM       |    2     

@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Jaipur                  |         JP         |     Start     |     16:40     |       -       |        0 KM        |    1     
+  2   |            Gandhinagar Jpr             |        GADJ        |     16:48     |     16:50     |     2:00      |        6 KM        |    1     
+  3   |                 Dausa                  |         DO         |     17:30     |     17:32     |     2:00      |       62 KM        |    1     
+  4   |           Bandikui Junction            |        BKI         |     17:55     |     17:57     |     2:00      |       91 KM        |    1     
+  5   |                Rajgarh                 |        RHG         |     18:13     |     18:15     |     2:00      |       115 KM       |    1     
+  6   |                 Alwar                  |        AWR         |     18:53     |     18:56     |     3:00      |       151 KM       |    1     
+  7   |               Khairthal                |        KRH         |     19:19     |     19:21     |     2:00      |       178 KM       |    1     
+  8   |                Rewari                  |         RE         |     20:30     |     20:35     |     5:00      |       225 KM       |    1     
+  10  |            Rohtak Junction             |        ROK         |     22:48     |     22:50     |     2:00      |       307 KM       |    1     
+  11  |             Jind Junction              |        JIND        |     23:40     |     23:45     |     5:00      |       364 KM       |    1     
+  12  |           Narwana Junction             |        NRW         |     00:18     |     00:20     |     2:00      |       398 KM       |    2     
+  13  |                KAITHAL                 |        KLE         |     01:01     |     01:03     |     2:00      |       435 KM       |    2     
+  14  |         Kurukshetra Junction           |        KKDE        |     02:00     |     02:30     |     30:00     |       484 KM       |    2     
+  15  |         Ambala Cant Junction           |        UMB         |     03:50     |     04:12     |     22:00     |       525 KM       |    2     
+  16  |              Chandigarh                |        CDG         |     04:55     |     Ends      |       -       |       593 KM       |    2     

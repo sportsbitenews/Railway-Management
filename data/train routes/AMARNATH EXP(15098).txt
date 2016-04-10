@@ -1,0 +1,32 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Jammu Tawi                |        JAT         |     Start     |     22:45     |       -       |        0 KM        |    1     
+  2   |                Kathua                  |        KTHU        |     23:50     |     23:52     |     2:00      |       77 KM        |    1     
+  3   |            Pathankot Cantt             |        PTKC        |     00:25     |     00:30     |     5:00      |       100 KM       |    2     
+  4   |            Jalandhar Cant              |        JRC         |     02:15     |     02:20     |     5:00      |       216 KM       |    2     
+  5   |           Ludhiana Junction            |        LDH         |     03:20     |     03:30     |     10:00     |       269 KM       |    2     
+  6   |         Ambala Cant Junction           |        UMB         |     05:17     |     05:25     |     8:00      |       382 KM       |    2     
+  7   |               Jagadhri                 |        JUD         |     06:07     |     06:09     |     2:00      |       433 KM       |    2     
+  8   |              Saharanpur                |        SRE         |     06:50     |     07:00     |     10:00     |       463 KM       |    2     
+  9   |                Roorkee                 |         RK         |     07:30     |     07:32     |     2:00      |       498 KM       |    2     
+  10  |            Laksar Junction             |        LRJ         |     07:52     |     07:54     |     2:00      |       516 KM       |    2     
+  11  |               Moradabad                |         MB         |     10:00     |     10:10     |     10:00     |       656 KM       |    2     
+  12  |               Bareilly                 |         BE         |     11:37     |     11:42     |     5:00      |       747 KM       |    2     
+  13  |             Shahjehanpur               |        SPN         |     12:45     |     12:47     |     2:00      |       817 KM       |    2     
+  14  |              Lucknow Nr                |        LKO         |     15:20     |     15:30     |     10:00     |       982 KM       |    2     
+  15  |            Gonda Junction              |         GD         |     17:35     |     17:50     |     15:00     |      1098 KM       |    2     
+  16  |                 Basti                  |        BST         |     19:00     |     19:05     |     5:00      |      1188 KM       |    2     
+  17  |          Gorakhpur Junction            |        GKP         |     20:40     |     20:55     |     15:00     |      1252 KM       |    2     
+  18  |             Deoria Sadar               |        DEOS        |     21:38     |     21:40     |     2:00      |      1302 KM       |    2     
+  19  |            Bhatni Junction             |        BTT         |     22:05     |     22:10     |     5:00      |      1323 KM       |    2     
+  20  |            Siwan Junction              |         SV         |     23:10     |     23:15     |     5:00      |      1371 KM       |    2     
+  21  |                Chhapra                 |        CPR         |     00:50     |     01:00     |     10:00     |      1432 KM       |    3     
+  22  |            Sonpur Junction             |        SEE         |     01:50     |     01:55     |     5:00      |      1486 KM       |    3     
+  23  |           Hajipur Junction             |        HJP         |     02:08     |     02:10     |     2:00      |      1491 KM       |    3     
+  24  |         Muzaffarpur Junction           |        MFP         |     03:00     |     03:10     |     10:00     |      1545 KM       |    3     
+  25  |          Samastipur Junction           |        SPJ         |     04:30     |     04:35     |     5:00      |      1597 KM       |    3     
+  26  |           Barauni Junction             |        BJU         |     05:30     |     05:40     |     10:00     |      1648 KM       |    3     
+  27  |             Kiul Junction              |        KIUL        |     07:15     |     07:20     |     5:00      |      1687 KM       |    3     
+  28  |               Abhaipur                 |        AHA         |     07:41     |     07:43     |     2:00      |      1710 KM       |    3     
+  29  |           Jamalpur Junction            |        JMP         |     08:20     |     08:25     |     5:00      |      1732 KM       |    3     
+  30  |              Sultanganj                |        SGG         |     08:52     |     08:54     |     2:00      |      1761 KM       |    3     
+  31  |               Bhagalpur                |        BGP         |     10:00     |     Ends      |       -       |      1785 KM       |    3     

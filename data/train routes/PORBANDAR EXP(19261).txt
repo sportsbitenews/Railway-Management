@@ -1,0 +1,31 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Kochuveli                |        KCVL        |     Start     |     11:00     |       -       |        0 KM        |    1     
+  2   |            Kollam Junction             |        QLN         |     11:50     |     11:55     |     5:00      |       59 KM        |    1     
+  3   |          Kayankulam Junction           |        KYJ         |     12:28     |     12:30     |     2:00      |       100 KM       |    1     
+  4   |               Alleppey                 |        ALLP        |     13:17     |     13:20     |     3:00      |       143 KM       |    1     
+  5   |          Eranakulam Junction           |        ERS         |     14:30     |     14:35     |     5:00      |       200 KM       |    1     
+  6   |                Thrisur                 |        TCR         |     15:42     |     15:45     |     3:00      |       274 KM       |    1     
+  7   |           Shoranur Junction            |        SRR         |     16:50     |     17:00     |     10:00     |       307 KM       |    1     
+  8   |                 Tirur                  |        TIR         |     17:43     |     17:45     |     2:00      |       352 KM       |    1     
+  9   |               Kozhikode                |        CLT         |     18:25     |     18:30     |     5:00      |       392 KM       |    1     
+  10  |                Kannur                  |        CAN         |     19:55     |     20:00     |     5:00      |       482 KM       |    1     
+  11  |               Kasaragod                |        KGQ         |     21:03     |     21:05     |     2:00      |       567 KM       |    1     
+  12  |          Mangalore Junction            |        MAJN        |     22:05     |     22:15     |     10:00     |       619 KM       |    1     
+  13  |                 Udupi                  |         UD         |     23:38     |     23:40     |     2:00      |       700 KM       |    1     
+  14  |                Karwar                  |        KAWR        |     02:44     |     02:46     |     2:00      |       967 KM       |    2     
+  15  |                Madgaon                 |        MAO         |     03:50     |     04:00     |     10:00     |      1049 KM       |    2     
+  16  |               Ratnagiri                |         RN         |     08:05     |     08:10     |     5:00      |      1384 KM       |    2     
+  17  |                Panvel                  |        PNVL        |     13:40     |     13:45     |     5:00      |      1746 KM       |    2     
+  18  |              Vasai Road                |        BSR         |     15:10     |     15:30     |     20:00     |      1813 KM       |    2     
+  19  |                 Surat                  |         ST         |     18:45     |     18:55     |     10:00     |      2028 KM       |    2     
+  20  |          Ankleshwar Junction           |        AKV         |     19:45     |     19:47     |     2:00      |      2078 KM       |    2     
+  21  |           Vadodara Junction            |        BRC         |     21:05     |     21:15     |     10:00     |      2157 KM       |    2     
+  22  |            Anand Junction              |        ANND        |     21:46     |     21:48     |     2:00      |      2193 KM       |    2     
+  23  |          Ahmedabad Junction            |        ADI         |     23:00     |     23:20     |     20:00     |      2257 KM       |    2     
+  24  |           Viramgam Junction            |         VG         |     00:27     |     00:29     |     2:00      |      2322 KM       |    3     
+  25  |             Surendranagar              |        SUNR        |     01:24     |     01:26     |     2:00      |      2387 KM       |    3     
+  26  |            Rajkot Junction             |        RJT         |     03:29     |     03:34     |     5:00      |      2504 KM       |    3     
+  27  |                 Hapa                   |        HAPA        |     04:55     |     05:20     |     25:00     |      2580 KM       |    3     
+  28  |               Jamnagar                 |        JAM         |     05:32     |     05:37     |     5:00      |      2588 KM       |    3     
+  29  |              Wansjaliya                |        WSJ         |     07:20     |     07:22     |     2:00      |      2686 KM       |    3     
+  30  |               Porbandar                |        PBR         |     08:30     |     Ends      |       -       |      2720 KM       |    3     

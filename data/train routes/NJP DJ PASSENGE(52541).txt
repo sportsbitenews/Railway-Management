@@ -1,0 +1,14 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            New Jalpaiguri              |        NJP         |     Start     |     08:30     |       -       |        0 KM        |    1     
+  2   |             Siliguru Town              |        SGUT        |     08:45     |     08:46     |     1:00      |        5 KM        |    1     
+  3   |           Siliguri Junction            |        SGUJ        |     08:55     |     09:30     |     35:00     |        8 KM        |    1     
+  4   |                 Sukna                  |         SN         |     10:00     |     10:02     |     2:00      |       18 KM        |    1     
+  5   |               Rangtong                 |        RTG         |     10:35     |     10:36     |     1:00      |       25 KM        |    1     
+  6   |               Tindharia                |        TDH         |     11:40     |     11:42     |     2:00      |       37 KM        |    1     
+  7   |               Gayabari                 |        GBE         |     12:10     |     12:11     |     1:00      |       44 KM        |    1     
+  8   |               Mahanadi                 |        MHN         |     12:45     |     12:46     |     1:00      |       50 KM        |    1     
+  9   |               Kurseong                 |        KGN         |     13:20     |     13:30     |     10:00     |       57 KM        |    1     
+  10  |                 Tung                   |        TUNG        |     14:03     |     14:04     |     1:00      |       65 KM        |    1     
+  11  |                Sonada                  |        SAD         |     14:41     |     14:42     |     1:00      |       73 KM        |    1     
+  12  |                 Ghum                   |        GHUM        |     15:25     |     15:30     |     5:00      |       82 KM        |    1     
+  13  |              Darjeeling                |         DJ         |     16:00     |     Ends      |       -       |       88 KM        |    1     

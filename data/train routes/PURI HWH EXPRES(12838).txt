@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Puri                   |        PURI        |     Start     |     20:00     |       -       |        0 KM        |    1     
+  2   |              Sakhi Gopal               |        SIL         |     20:27     |     20:28     |     1:00      |       17 KM        |    1     
+  3   |                Delang                  |        DEG         |     20:47     |     20:48     |     1:00      |       28 KM        |    1     
+  4   |              Kanas Road                |        KASR        |     20:54     |     20:55     |     1:00      |       33 KM        |    1     
+  5   |         Khurda Road Junction           |        KUR         |     21:15     |     21:20     |     5:00      |       44 KM        |    1     
+  6   |              Bhubaneswar               |        BBS         |     21:40     |     21:47     |     7:00      |       63 KM        |    1     
+  7   |              Mancheswar                |        MCS         |     21:57     |     21:58     |     1:00      |       70 KM        |    1     
+  8   |                Cuttack                 |        CTC         |     22:25     |     22:30     |     5:00      |       91 KM        |    1     
+  9   |               Nergundi                 |        NRG         |     22:42     |     22:43     |     1:00      |       102 KM       |    1     
+  10  |             Jajpur K Road              |        JJKR        |     23:21     |     23:22     |     1:00      |       163 KM       |    1     
+  11  |               Bhadrakh                 |        BHC         |     00:12     |     00:14     |     2:00      |       206 KM       |    2     
+  12  |               Balasore                 |        BLS         |     01:00     |     01:05     |     5:00      |       268 KM       |    2     
+  13  |          Kharagpur Junction            |        KGP         |     02:35     |     02:40     |     5:00      |       387 KM       |    2     
+  14  |            Howrah Junction             |        HWH         |     04:50     |     Ends      |       -       |       502 KM       |    2     

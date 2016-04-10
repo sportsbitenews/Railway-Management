@@ -1,0 +1,11 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Madgaon                 |        MAO         |     Start     |     10:05     |       -       |        0 KM        |    1     
+  2   |                Thivim                  |        THVM        |     10:46     |     10:48     |     2:00      |       65 KM        |    1     
+  3   |                 Kudal                  |        KUDL        |     11:40     |     11:42     |     2:00      |       140 KM       |    1     
+  4   |               Ratnagiri                |         RN         |     13:25     |     13:30     |     5:00      |       335 KM       |    1     
+  5   |                Panvel                  |        PNVL        |     18:05     |     18:10     |     5:00      |       697 KM       |    1     
+  6   |              Vasai Road                |        BSR         |     19:35     |     19:45     |     10:00     |       764 KM       |    1     
+  7   |                 Surat                  |         ST         |     22:25     |     22:28     |     3:00      |       979 KM       |    1     
+  8   |           Vadodara Junction            |        BRC         |     00:07     |     00:23     |     16:00     |      1108 KM       |    2     
+  9   |             Kota Junction              |        KOTA        |     06:40     |     06:50     |     10:00     |      1636 KM       |    2     
+  10  |             H Nizamuddin               |        NZM         |     12:40     |     Ends      |       -       |      2094 KM       |    2     

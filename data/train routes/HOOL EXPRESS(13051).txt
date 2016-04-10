@@ -1,0 +1,11 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Howrah Junction             |        HWH         |     Start     |     06:45     |       -       |        0 KM        |    1     
+  2   |            Bandel Junction             |        BDC         |     07:30     |     07:32     |     2:00      |       40 KM        |    1     
+  3   |          Barddhaman Junction           |        BWN         |     08:47     |     08:49     |     2:00      |       107 KM       |    1     
+  4   |               Panagarh                 |        PAN         |     09:26     |     09:27     |     1:00      |       155 KM       |    1     
+  5   |               Durgapur                 |        DGR         |     09:46     |     09:48     |     2:00      |       171 KM       |    1     
+  6   |            Andal Junction              |        UDL         |     10:05     |     10:07     |     2:00      |       187 KM       |    1     
+  7   |                 Ukhra                  |        UKA         |     10:27     |     10:28     |     1:00      |       199 KM       |    1     
+  8   |              Pandabeswar               |        PAW         |     10:39     |     10:40     |     1:00      |       207 KM       |    1     
+  9   |               Dubrajpur                |        DUJ         |     11:00     |     11:01     |     1:00      |       222 KM       |    1     
+  10  |                 Siuri                  |        SURI        |     11:40     |     Ends      |       -       |       241 KM       |    1     

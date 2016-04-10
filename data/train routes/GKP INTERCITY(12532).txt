@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Lucknow Ne                |        LJN         |     Start     |     16:35     |       -       |        0 KM        |    1     
+  2   |             Badshahnagar               |        BNZ         |     16:56     |     16:58     |     2:00      |       12 KM        |    1     
+  3   |          Barabanki Junction            |        BBK         |     17:30     |     17:32     |     2:00      |       37 KM        |    1     
+  4   |              Jarwal Road               |        JLD         |     18:08     |     18:09     |     1:00      |       80 KM        |    1     
+  5   |              Colonelganj               |        CLJ         |     18:26     |     18:27     |     1:00      |       97 KM        |    1     
+  6   |            Gonda Junction              |         GD         |     19:01     |     19:03     |     2:00      |       125 KM       |    1     
+  7   |           Mankapur Junction            |        MUR         |     19:27     |     19:29     |     2:00      |       153 KM       |    1     
+  8   |                Babhnan                 |         BV         |     19:51     |     19:52     |     1:00      |       184 KM       |    1     
+  9   |                 Basti                  |        BST         |     20:15     |     20:17     |     2:00      |       214 KM       |    1     
+  10  |              Khalilabad                |        KLD         |     20:38     |     20:40     |     2:00      |       244 KM       |    1     
+  11  |               Sahjanwa                 |        SWA         |     20:57     |     20:58     |     1:00      |       261 KM       |    1     
+  12  |          Gorakhpur Junction            |        GKP         |     21:35     |     Ends      |       -       |       279 KM       |    1     

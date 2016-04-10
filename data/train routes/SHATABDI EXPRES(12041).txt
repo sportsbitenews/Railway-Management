@@ -1,0 +1,8 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Howrah Junction             |        HWH         |     Start     |     14:15     |       -       |        0 KM        |    1     
+  2   |            Bolpur S Niktn              |        BHP         |     16:03     |     16:05     |     2:00      |       146 KM       |    1     
+  3   |         New Farakka Junction           |        NFK         |     18:23     |     18:24     |     1:00      |       293 KM       |    1     
+  4   |              Malda Town                |        MLDT        |     19:05     |     19:10     |     5:00      |       328 KM       |    1     
+  5   |            Barsoi Junction             |        BOE         |     20:18     |     20:19     |     1:00      |       416 KM       |    1     
+  6   |              Kishanganj                |        KNE         |     21:02     |     21:04     |     2:00      |       473 KM       |    1     
+  7   |            New Jalpaiguri              |        NJP         |     22:25     |     Ends      |       -       |       561 KM       |    1     

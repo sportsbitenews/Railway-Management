@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Lokmanyatilak T             |        LTT         |     Start     |     05:30     |       -       |        0 KM        |    1     
+  2   |                 Thane                  |        TNA         |     05:50     |     05:55     |     5:00      |       18 KM        |    1     
+  3   |                Panvel                  |        PNVL        |     06:40     |     06:45     |     5:00      |       53 KM        |    1     
+  4   |                 Khed                   |        KHED        |     09:55     |     10:00     |     5:00      |       268 KM       |    1     
+  5   |                Chiplun                 |        CHI         |     10:30     |     10:35     |     5:00      |       309 KM       |    1     
+  6   |               Ratnagiri                |         RN         |     11:45     |     11:50     |     5:00      |       415 KM       |    1     
+  7   |               Kankavali                |        KKW         |     13:35     |     13:40     |     5:00      |       571 KM       |    1     
+  8   |            Sawantwadi Road             |        SWV         |     14:35     |     14:40     |     5:00      |       640 KM       |    1     
+  9   |                Thivim                  |        THVM        |     15:05     |     15:10     |     5:00      |       685 KM       |    1     
+  10  |                Karmali                 |        KRMI        |     15:30     |     15:35     |     5:00      |       710 KM       |    1     
+  11  |                Madgaon                 |        MAO         |     17:30     |     Ends      |       -       |       750 KM       |    1     

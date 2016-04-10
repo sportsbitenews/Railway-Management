@@ -1,0 +1,23 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Delhi S Rohilla             |        DEE         |     Start     |     21:30     |       -       |        0 KM        |    1     
+  2   |                 Delhi                  |        DLI         |     21:50     |     22:10     |     20:00     |        5 KM        |    1     
+  3   |            Delhi Shahdara              |        DSA         |     22:26     |     22:28     |     2:00      |       11 KM        |    1     
+  4   |               Ghaziabad                |        GZB         |     23:02     |     23:04     |     2:00      |       25 KM        |    1     
+  5   |                Pilkhua                 |        PKW         |     23:28     |     23:30     |     2:00      |       50 KM        |    1     
+  6   |                 Hapur                  |        HPU         |     23:45     |     23:47     |     2:00      |       62 KM        |    1     
+  7   |           Gajraula Junction            |        GJL         |     00:30     |     01:00     |     30:00     |       112 KM       |    2     
+  8   |            Mandi Dhanaura              |        MNDR        |     01:22     |     01:24     |     2:00      |       127 KM       |    2     
+  9   |              Chand Siau                |        CPS         |     01:51     |     01:53     |     2:00      |       147 KM       |    2     
+  10  |                Haldaur                 |        HLDR        |     02:18     |     02:20     |     2:00      |       165 KM       |    2     
+  11  |                Bijnor                  |        BJO         |     02:44     |     02:46     |     2:00      |       183 KM       |    2     
+  12  |            Muzzampur Nryn              |        MZM         |     03:21     |     03:23     |     2:00      |       207 KM       |    2     
+  13  |          Najibabad Junction            |        NBD         |     03:40     |     04:15     |     35:00     |       219 KM       |    2     
+  14  |            Laksar Junction             |        LRJ         |     04:55     |     04:57     |     2:00      |       260 KM       |    2     
+  15  |               Jwalapur                 |        JWP         |     05:26     |     05:28     |     2:00      |       283 KM       |    2     
+  16  |           Haridwar Junction            |         HW         |     05:45     |     06:25     |     40:00     |       287 KM       |    2     
+  17  |                Raiwala                 |        RWL         |     06:43     |     06:45     |     2:00      |       298 KM       |    2     
+  18  |                Doiwala                 |        DWO         |     07:26     |     07:28     |     2:00      |       319 KM       |    2     
+  19  |               Dehradun                 |        DDN         |     08:20     |     Ends      |       -       |       339 KM       |    2     
+  20  |          Najibabad Junction            |        NBD         |     03:40     |     05:15     |     95:00     |       219 KM       |    2     
+  21  |              Saneh Road                |        SNX         |     05:36     |     05:38     |     2:00      |       234 KM       |    2     
+  22  |               Kotdwara                 |        KTW         |     06:05     |     Ends      |       -       |       243 KM       |    2     

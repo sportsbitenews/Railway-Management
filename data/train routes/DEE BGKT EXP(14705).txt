@@ -1,0 +1,21 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Delhi S Rohilla             |        DEE         |     Start     |     07:05     |       -       |        0 KM        |    1     
+  2   |              Delhi Cantt               |        DEC         |     07:21     |     07:23     |     2:00      |       10 KM        |    1     
+  3   |                Gurgaon                 |        GGN         |     07:39     |     07:41     |     2:00      |       27 KM        |    1     
+  4   |             Pataudi Road               |        PTRD        |     08:06     |     08:08     |     2:00      |       57 KM        |    1     
+  5   |                Rewari                  |         RE         |     08:55     |     09:00     |     5:00      |       78 KM        |    1     
+  6   |             Mahendragarh               |        MHRG        |     09:37     |     09:39     |     2:00      |       129 KM       |    1     
+  7   |                Loharu                  |        LHU         |     10:12     |     10:17     |     5:00      |       170 KM       |    1     
+  8   |             Rampura Beri               |        RMB         |     10:33     |     10:35     |     2:00      |       191 KM       |    1     
+  9   |           Sadulpur Junction            |        SDLP        |     11:02     |     11:07     |     5:00      |       220 KM       |    1     
+  10  |                 Churu                  |        CUR         |     11:50     |     12:00     |     10:00     |       277 KM       |    1     
+  11  |          Ratangarh Junction            |        RTGH        |     13:00     |     13:05     |     5:00      |       320 KM       |    1     
+  12  |              Talchhapar                |        TLC         |     13:24     |     13:26     |     2:00      |       353 KM       |    1     
+  13  |               Sujangarh                |        SUJH        |     13:38     |     13:40     |     2:00      |       366 KM       |    1     
+  14  |                Ladnun                  |        LAU         |     13:51     |     13:53     |     2:00      |       376 KM       |    1     
+  15  |                Didwana                 |        DIA         |     14:17     |     14:19     |     2:00      |       407 KM       |    1     
+  16  |              Choti Khatu               |        CTKT        |     14:45     |     14:47     |     2:00      |       442 KM       |    1     
+  17  |            Degana Junction             |        DNA         |     15:13     |     15:22     |     9:00      |       473 KM       |    1     
+  18  |          Merta Road Junction           |        MTD         |     16:17     |     16:25     |     8:00      |       517 KM       |    1     
+  19  |           Jodhpur Junction             |         JU         |     18:30     |     18:55     |     25:00     |       622 KM       |    1     
+  20  |            Bhagat Ki Kothi             |        BGKT        |     19:15     |     Ends      |       -       |       625 KM       |    1     

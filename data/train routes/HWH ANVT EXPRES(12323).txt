@@ -1,0 +1,10 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Howrah Junction             |        HWH         |     Start     |     18:50     |       -       |        0 KM        |    1     
+  2   |           Asansol Junction             |        ASN         |     21:13     |     21:18     |     5:00      |       200 KM       |    1     
+  3   |           Dhanbad Junction             |        DHN         |     22:40     |     22:50     |     10:00     |       259 KM       |    1     
+  4   |                Koderma                 |        KQR         |     00:31     |     00:33     |     2:00      |       382 KM       |    2     
+  5   |             Gaya Junction              |        GAYA        |     02:05     |     02:10     |     5:00      |       458 KM       |    2     
+  6   |         Mughal Sarai Junction          |        MGS         |     05:10     |     05:20     |     10:00     |       661 KM       |    2     
+  7   |          Allahabad Junction            |        ALD         |     07:35     |     07:40     |     5:00      |       813 KM       |    2     
+  8   |            Kanpur Central              |        CNB         |     10:10     |     10:20     |     10:00     |      1008 KM       |    2     
+  9   |            Anand Vihar Trm             |        ANVT        |     17:00     |     Ends      |       -       |      1434 KM       |    2     

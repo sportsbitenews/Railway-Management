@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Tanakpur                 |        TPU         |     Start     |     18:40     |       -       |        0 KM        |    1     
+  2   |                Banbasa                 |        BNSA        |     18:56     |     18:58     |     2:00      |       10 KM        |    1     
+  3   |               Chakarpur                |        CKK         |     19:10     |     19:12     |     2:00      |       18 KM        |    1     
+  4   |                Khatima                 |        KHMA        |     19:23     |     19:25     |     2:00      |       25 KM        |    1     
+  5   |            Majhola Pakarya             |        MJZ         |     19:44     |     19:46     |     2:00      |       38 KM        |    1     
+  6   |           Pilibhit Junction            |        PBE         |     20:50     |     23:55     |    185:00     |       63 KM        |    1     
+  7   |               Puranpur                 |         PP         |     00:38     |     00:40     |     2:00      |       98 KM        |    2     
+  8   |                Mailani                 |        MLN         |     01:30     |     01:40     |     10:00     |       130 KM       |    2     
+  9   |            Gola Gokaranath             |         GK         |     02:18     |     02:20     |     2:00      |       156 KM       |    2     
+  10  |               Lakhimpur                |        LMP         |     03:08     |     03:10     |     2:00      |       191 KM       |    2     
+  11  |                Sitapur                 |        STP         |     04:35     |     04:40     |     5:00      |       236 KM       |    2     
+  12  |               Daliganj                 |        DAL         |     06:10     |     06:12     |     2:00      |       318 KM       |    2     
+  13  |             Lucknow City               |         LC         |     06:28     |     06:30     |     2:00      |       320 KM       |    2     
+  14  |               Aishbagh                 |        ASH         |     06:55     |     Ends      |       -       |       322 KM       |    2     

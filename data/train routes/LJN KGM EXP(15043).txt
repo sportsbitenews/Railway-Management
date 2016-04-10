@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Lucknow Ne                |        LJN         |     Start     |     08:05     |       -       |        0 KM        |    1     
+  2   |               Bareilly                 |         BE         |     11:40     |     11:47     |     7:00      |       236 KM       |    1     
+  3   |             Bareilly City              |         BC         |     12:00     |     12:10     |     10:00     |       238 KM       |    1     
+  4   |              Izzatnagar                |        IZN         |     12:31     |     12:33     |     2:00      |       243 KM       |    1     
+  5   |          Bhojipura Junction            |        BPR         |     12:45     |     12:47     |     2:00      |       255 KM       |    1     
+  6   |                Baheri                  |        BHI         |     13:10     |     13:12     |     2:00      |       287 KM       |    1     
+  7   |                Kichha                  |        KHH         |     13:27     |     13:29     |     2:00      |       302 KM       |    1     
+  8   |               Pantnagar                |        PBW         |     13:39     |     13:41     |     2:00      |       314 KM       |    1     
+  9   |               Lal Kuan                 |        LKU         |     13:55     |     13:58     |     3:00      |       320 KM       |    1     
+  10  |               Haldwani                 |        HDW         |     14:33     |     14:35     |     2:00      |       336 KM       |    1     
+  11  |               Kathgodam                |        KGM         |     14:55     |     Ends      |       -       |       342 KM       |    1     

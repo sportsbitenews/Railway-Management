@@ -1,0 +1,22 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Lokmanyatilak T             |        LTT         |     Start     |     16:25     |       -       |        0 KM        |    1     
+  2   |                 Thane                  |        TNA         |     16:43     |     16:45     |     2:00      |       18 KM        |    1     
+  3   |            Kalyan Junction             |        KYN         |     17:07     |     17:10     |     3:00      |       38 KM        |    1     
+  4   |               Igatpuri                 |        IGP         |     18:48     |     18:50     |     2:00      |       121 KM       |    1     
+  5   |              Nasik Road                |         NK         |     19:33     |     19:35     |     2:00      |       172 KM       |    1     
+  6   |            Manmad Junction             |        MMR         |     20:27     |     20:30     |     3:00      |       245 KM       |    1     
+  7   |           Jalgaon Junction             |         JL         |     22:03     |     22:05     |     2:00      |       405 KM       |    1     
+  8   |           Bhusaval Junction            |        BSL         |     22:30     |     22:40     |     10:00     |       429 KM       |    1     
+  9   |               Burhanpur                |        BAU         |     23:28     |     23:30     |     2:00      |       483 KM       |    1     
+  10  |                Khandwa                 |        KNW         |     01:05     |     01:10     |     5:00      |       552 KM       |    2     
+  11  |                 Harda                  |         HD         |     02:18     |     02:20     |     2:00      |       660 KM       |    2     
+  12  |                Timarni                 |        TBN         |     02:33     |     02:35     |     2:00      |       674 KM       |    2     
+  13  |            Itarsi Junction             |         ET         |     03:35     |     03:40     |     5:00      |       736 KM       |    2     
+  14  |               Habibganj                |        HBJ         |     05:10     |     05:12     |     2:00      |       821 KM       |    2     
+  15  |           Bhopal  Junction             |        BPL         |     05:25     |     05:30     |     5:00      |       827 KM       |    2     
+  16  |             Bina Junction              |        BINA        |     07:25     |     07:30     |     5:00      |       966 KM       |    2     
+  17  |            Jhansi Junction             |        JHS         |     09:30     |     09:40     |     10:00     |      1118 KM       |    2     
+  18  |                 Dabra                  |        DBA         |     10:17     |     10:19     |     2:00      |      1173 KM       |    2     
+  19  |                Gwalior                 |        GWL         |     10:56     |     11:01     |     5:00      |      1215 KM       |    2     
+  20  |                Morena                  |        MRA         |     11:26     |     11:28     |     2:00      |      1254 KM       |    2     
+  21  |              Agra Cantt                |        AGC         |     13:00     |     Ends      |       -       |      1334 KM       |    2     

@@ -1,0 +1,18 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Amritsar Junction            |        ASR         |     Start     |     06:15     |       -       |        0 KM        |    1     
+  2   |                 Beas                   |        BEAS        |     06:43     |     06:45     |     2:00      |       43 KM        |    1     
+  3   |            Jalandhar City              |        JUC         |     07:22     |     07:27     |     5:00      |       79 KM        |    1     
+  4   |            Jalandhar Cant              |        JRC         |     07:35     |     07:37     |     2:00      |       84 KM        |    1     
+  5   |           Phagwara Junction            |        PGW         |     07:50     |     07:52     |     2:00      |       100 KM       |    1     
+  6   |           Phillaur Junction            |        PHR         |     08:10     |     08:12     |     2:00      |       123 KM       |    1     
+  7   |           Ludhiana Junction            |        LDH         |     08:35     |     08:49     |     14:00     |       136 KM       |    1     
+  8   |           Sirhind Junction             |        SIR         |     09:33     |     09:35     |     2:00      |       196 KM       |    1     
+  9   |           Rajpura Junction             |        RPJ         |     09:57     |     09:59     |     2:00      |       222 KM       |    1     
+  10  |              Ambala City               |        UBC         |     10:20     |     10:22     |     2:00      |       242 KM       |    1     
+  11  |         Ambala Cant Junction           |        UMB         |     10:45     |     10:55     |     10:00     |       250 KM       |    1     
+  12  |         Kurukshetra Junction           |        KKDE        |     11:34     |     11:36     |     2:00      |       291 KM       |    1     
+  13  |                Karnal                  |        KUN         |     12:01     |     12:03     |     2:00      |       324 KM       |    1     
+  14  |           Panipat Junction             |        PNP         |     12:32     |     12:34     |     2:00      |       359 KM       |    1     
+  15  |                Sonipat                 |        SNP         |     13:06     |     13:08     |     2:00      |       404 KM       |    1     
+  16  |              Subzi Mandi               |        SZM         |     13:51     |     13:53     |     2:00      |       444 KM       |    1     
+  17  |               New Delhi                |        NDLS        |     14:15     |     Ends      |       -       |       448 KM       |    1     

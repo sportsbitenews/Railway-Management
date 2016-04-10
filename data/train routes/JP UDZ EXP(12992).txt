@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Jaipur                  |         JP         |     Start     |     14:00     |       -       |        0 KM        |    1     
+  2   |           Phulera Junction             |         FL         |     14:40     |     14:42     |     2:00      |       55 KM        |    1     
+  3   |              Kishangarh                |        KSG         |     15:19     |     15:21     |     2:00      |       106 KM       |    1     
+  4   |            Ajmer Junction              |        AII         |     16:05     |     16:10     |     5:00      |       135 KM       |    1     
+  5   |               Nasirabad                |        NSD         |     16:32     |     16:34     |     2:00      |       158 KM       |    1     
+  6   |              Bijainagar                |        BJNR        |     17:04     |     17:06     |     2:00      |       200 KM       |    1     
+  7   |               Gulabpura                |        GBP         |     17:12     |     17:14     |     2:00      |       203 KM       |    1     
+  8   |                Mandal                  |        MDL         |     17:50     |     17:52     |     2:00      |       256 KM       |    1     
+  9   |               Bhilwara                 |        BHL         |     18:03     |     18:06     |     3:00      |       267 KM       |    1     
+  10  |             Chittaurgarh               |        COR         |     19:05     |     19:25     |     20:00     |       321 KM       |    1     
+  11  |                Kapasan                 |        KIN         |     19:56     |     19:58     |     2:00      |       356 KM       |    1     
+  12  |              Fatehnagar                |        FAN         |     20:17     |     20:19     |     2:00      |       379 KM       |    1     
+  13  |            Mavli Junction              |        MVJ         |     20:32     |     20:34     |     2:00      |       393 KM       |    1     
+  14  |            Ranapratapnagar             |        RPZ         |     21:09     |     21:11     |     2:00      |       431 KM       |    1     
+  15  |             Udaipur City               |        UDZ         |     21:30     |     Ends      |       -       |       435 KM       |    1     

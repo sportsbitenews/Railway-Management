@@ -1,0 +1,24 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Lokmanyatilak T             |        LTT         |     Start     |     12:25     |       -       |        0 KM        |    1     
+  2   |               Lonavala                 |        LNL         |     14:24     |     14:25     |     1:00      |       112 KM       |    1     
+  3   |             Pune Junction              |        PUNE        |     15:30     |     15:35     |     5:00      |       176 KM       |    1     
+  4   |           Solapur Junction             |        SUR         |     19:35     |     19:45     |     10:00     |       440 KM       |    1     
+  5   |               Gulbarga                 |         GR         |     21:53     |     21:55     |     2:00      |       553 KM       |    1     
+  6   |                 Wadi                   |        WADI        |     22:35     |     22:40     |     5:00      |       589 KM       |    1     
+  7   |                Tandur                  |        TDU         |     23:38     |     23:40     |     2:00      |       660 KM       |    1     
+  8   |              Lingampalli               |        LPI         |     00:53     |     00:55     |     2:00      |       750 KM       |    2     
+  9   |         Secunderabad Junction          |         SC         |     01:50     |     02:00     |     10:00     |       773 KM       |    2     
+  10  |               Maula Ali                |        MLY         |     02:09     |     02:11     |     2:00      |       779 KM       |    2     
+  11  |               Nalgonda                 |        NLDA        |     04:06     |     04:07     |     1:00      |       883 KM       |    2     
+  12  |              Miryalaguda               |        MRGA        |     04:36     |     04:37     |     1:00      |       920 KM       |    2     
+  13  |               Nadikode                 |        NDKD        |     05:14     |     05:15     |     1:00      |       959 KM       |    2     
+  14  |             Sattenapalle               |        SAP         |     06:15     |     06:16     |     1:00      |      1012 KM       |    2     
+  15  |            Guntur Junction             |        GNT         |     07:25     |     07:30     |     5:00      |      1054 KM       |    2     
+  16  |              Mangalagiri               |        MAG         |     07:53     |     07:55     |     2:00      |      1074 KM       |    2     
+  17  |          Vijayawada Junction           |        BZA         |     08:45     |     09:05     |     20:00     |      1086 KM       |    2     
+  18  |                 Eluru                  |         EE         |     09:54     |     09:56     |     2:00      |      1145 KM       |    2     
+  19  |            Tadepalligudem              |        TDD         |     10:24     |     10:26     |     2:00      |      1193 KM       |    2     
+  20  |              Rajamundry                |        RJY         |     11:05     |     11:06     |     1:00      |      1235 KM       |    2     
+  21  |           Samalkot Junction            |        SLO         |     12:10     |     12:12     |     2:00      |      1285 KM       |    2     
+  22  |             Kakinada Town              |        CCT         |     12:42     |     12:45     |     3:00      |      1298 KM       |    2     
+  23  |             Kakinada Port              |        COA         |     13:45     |     Ends      |       -       |      1300 KM       |    2     

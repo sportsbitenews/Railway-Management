@@ -1,0 +1,7 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Delhi S Rohilla             |        DEE         |     Start     |     17:35     |       -       |        0 KM        |    1     
+  2   |              Delhi Cantt               |        DEC         |     17:51     |     17:53     |     2:00      |       10 KM        |    1     
+  3   |                Gurgaon                 |        GGN         |     18:08     |     18:10     |     2:00      |       27 KM        |    1     
+  4   |                 Alwar                  |        AWR         |     19:57     |     19:59     |     2:00      |       153 KM       |    1     
+  5   |            Gandhinagar Jpr             |        GADJ        |     21:39     |     21:41     |     2:00      |       298 KM       |    1     
+  6   |                Jaipur                  |         JP         |     22:05     |     Ends      |       -       |       303 KM       |    1     

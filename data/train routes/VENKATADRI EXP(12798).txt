@@ -1,0 +1,25 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Chittor                 |        CTO         |     Start     |     17:30     |       -       |        0 KM        |    1     
+  2   |            Pakala Junction             |        PAK         |     17:54     |     17:55     |     1:00      |       30 KM        |    1     
+  3   |               Tirupati                 |        TPTY        |     18:30     |     18:35     |     5:00      |       72 KM        |    1     
+  4   |          Renigunta Junction            |         RU         |     18:55     |     18:57     |     2:00      |       82 KM        |    1     
+  5   |                Koduru                  |        KOU         |     19:39     |     19:40     |     1:00      |       123 KM       |    1     
+  6   |            Obulavaripalli              |        OBVP        |     19:49     |     19:50     |     1:00      |       136 KM       |    1     
+  7   |               Razampeta                |        RJP         |     20:09     |     20:10     |     1:00      |       156 KM       |    1     
+  8   |               Nandalur                 |        NRE         |     20:29     |     20:30     |     1:00      |       167 KM       |    1     
+  9   |               Cuddapah                 |         HX         |     21:08     |     21:10     |     2:00      |       207 KM       |    1     
+  10  |              Kamalapuram               |        KKM         |     21:34     |     21:35     |     1:00      |       231 KM       |    1     
+  11  |              Yerraguntla               |         YA         |     21:48     |     21:50     |     2:00      |       246 KM       |    1     
+  12  |               Muddanuru                |        MOO         |     22:09     |     22:10     |     1:00      |       262 KM       |    1     
+  13  |              Kondapuram                |        KDP         |     22:34     |     22:35     |     1:00      |       288 KM       |    1     
+  14  |               Tadipatri                |         TU         |     22:58     |     23:00     |     2:00      |       315 KM       |    1     
+  15  |                 Gooty                  |         GY         |     23:48     |     23:50     |     2:00      |       363 KM       |    1     
+  16  |                 Dhone                  |        DHNE        |     01:15     |     01:20     |     5:00      |       418 KM       |    2     
+  17  |             Kurnool Town               |        KRNT        |     02:08     |     02:10     |     2:00      |       472 KM       |    2     
+  18  |                Gadwal                  |        GWD         |     03:07     |     03:08     |     1:00      |       527 KM       |    2     
+  19  |             Wanparti Road              |        WPR         |     03:30     |     03:31     |     1:00      |       549 KM       |    2     
+  20  |              Mahbubnagar               |        MBNR        |     04:14     |     04:16     |     2:00      |       602 KM       |    2     
+  21  |               Jadcherla                |        JCL         |     04:31     |     04:32     |     1:00      |       620 KM       |    2     
+  22  |               Shadnagar                |        SHNR        |     05:00     |     05:01     |     1:00      |       656 KM       |    2     
+  23  |               Umdanagar                |         UR         |     05:26     |     05:27     |     1:00      |       688 KM       |    2     
+  24  |               Kacheguda                |        KCG         |     06:20     |     Ends      |       -       |       708 KM       |    2     

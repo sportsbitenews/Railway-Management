@@ -1,0 +1,9 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Dadar                  |         DR         |     Start     |     21:45     |       -       |        0 KM        |    1     
+  2   |                 Thane                  |        TNA         |     22:03     |     22:05     |     2:00      |       25 KM        |    1     
+  3   |            Kalyan Junction             |        KYN         |     22:22     |     22:25     |     3:00      |       45 KM        |    1     
+  4   |               Igatpuri                 |        IGP         |     00:08     |     00:10     |     2:00      |       128 KM       |    2     
+  5   |              Nasik Road                |         NK         |     00:53     |     00:55     |     2:00      |       179 KM       |    2     
+  6   |            Manmad Junction             |        MMR         |     01:50     |     01:55     |     5:00      |       252 KM       |    2     
+  7   |               Kopargaon                |        KPG         |     02:58     |     03:00     |     2:00      |       295 KM       |    2     
+  8   |            Sainagar Shirdi             |        SNSI        |     03:51     |     Ends      |       -       |       336 KM       |    2     

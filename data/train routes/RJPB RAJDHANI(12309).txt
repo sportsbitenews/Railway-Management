@@ -1,0 +1,7 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Rjndr Ngr Bihar             |        RJPB        |     Start     |     19:00     |       -       |        0 KM        |    1     
+  2   |            Patna Junction              |        PNBE        |     19:15     |     19:25     |     10:00     |        3 KM        |    1     
+  3   |         Mughal Sarai Junction          |        MGS         |     22:25     |     22:35     |     10:00     |       215 KM       |    1     
+  4   |          Allahabad Junction            |        ALD         |     00:25     |     00:28     |     3:00      |       367 KM       |    2     
+  5   |            Kanpur Central              |        CNB         |     02:30     |     02:35     |     5:00      |       561 KM       |    2     
+  6   |               New Delhi                |        NDLS        |     07:40     |     Ends      |       -       |      1001 KM       |    2     

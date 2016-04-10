@@ -1,0 +1,8 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Ludhiana Junction            |        LDH         |     Start     |     16:40     |       -       |        0 KM        |    1     
+  2   |            Dhuri Junction              |        DUI         |     17:33     |     17:35     |     2:00      |       62 KM        |    1     
+  3   |                Sangrur                 |        SAG         |     17:48     |     17:50     |     2:00      |       78 KM        |    1     
+  4   |                Tohana                  |        TUN         |     18:56     |     18:58     |     2:00      |       141 KM       |    1     
+  5   |             Jind Junction              |        JIND        |     19:43     |     19:45     |     2:00      |       201 KM       |    1     
+  6   |            Rohtak Junction             |        ROK         |     20:32     |     20:34     |     2:00      |       258 KM       |    1     
+  7   |               New Delhi                |        NDLS        |     22:10     |     Ends      |       -       |       329 KM       |    1     

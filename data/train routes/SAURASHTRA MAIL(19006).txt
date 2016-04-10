@@ -1,0 +1,32 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Okha                   |        OKHA        |     Start     |     12:25     |       -       |        0 KM        |    1     
+  2   |               Mithapur                 |        MTHP        |     12:35     |     12:37     |     2:00      |       10 KM        |    1     
+  3   |                Dwarka                  |        DWK         |     13:01     |     13:03     |     2:00      |       29 KM        |    1     
+  4   |                Bhatiya                 |        BHTA        |     13:38     |     13:40     |     2:00      |       71 KM        |    1     
+  5   |              Khambhaliya               |        KMBL        |     14:24     |     14:26     |     2:00      |       114 KM       |    1     
+  6   |           Kanalas Junction             |        KNLS        |     14:51     |     14:53     |     2:00      |       141 KM       |    1     
+  7   |               Jamnagar                 |        JAM         |     15:38     |     15:40     |     2:00      |       168 KM       |    1     
+  8   |                 Hapa                   |        HAPA        |     15:50     |     15:52     |     2:00      |       177 KM       |    1     
+  9   |               Alia Bada                |        ALB         |     16:03     |     16:05     |     2:00      |       186 KM       |    1     
+  10  |             Jam Wanthali               |        WTJ         |     16:16     |     16:18     |     2:00      |       198 KM       |    1     
+  11  |               Padadhari                |        PDH         |     16:41     |     16:43     |     2:00      |       228 KM       |    1     
+  12  |            Rajkot Junction             |        RJT         |     17:15     |     17:45     |     30:00     |       253 KM       |    1     
+  13  |           Wankaner Junction            |        WKR         |     18:28     |     18:30     |     2:00      |       294 KM       |    1     
+  14  |             Than Junction              |        THAN        |     18:54     |     18:56     |     2:00      |       321 KM       |    1     
+  15  |             Surendranagar              |        SUNR        |     19:37     |     19:39     |     2:00      |       369 KM       |    1     
+  16  |                Lakhtar                 |        LTR         |     19:56     |     19:58     |     2:00      |       390 KM       |    1     
+  17  |           Viramgam Junction            |         VG         |     21:05     |     21:07     |     2:00      |       434 KM       |    1     
+  18  |                Sanand                  |        SAU         |     21:38     |     21:40     |     2:00      |       471 KM       |    1     
+  19  |          Ahmedabad Junction            |        ADI         |     22:25     |     22:50     |     25:00     |       499 KM       |    1     
+  20  |            Nadiad Junction             |         ND         |     23:34     |     23:36     |     2:00      |       545 KM       |    1     
+  21  |            Anand Junction              |        ANND        |     23:51     |     23:53     |     2:00      |       563 KM       |    1     
+  22  |           Vadodara Junction            |        BRC         |     00:42     |     00:47     |     5:00      |       599 KM       |    2     
+  23  |           Bharuch Junction             |         BH         |     01:34     |     01:36     |     2:00      |       669 KM       |    2     
+  24  |                 Surat                  |         ST         |     02:30     |     02:35     |     5:00      |       728 KM       |    2     
+  25  |                Navsari                 |        NVS         |     03:06     |     03:08     |     2:00      |       758 KM       |    2     
+  26  |                Valsad                  |         BL         |     03:45     |     03:47     |     2:00      |       797 KM       |    2     
+  27  |                 Vapi                   |        VAPI        |     04:07     |     04:09     |     2:00      |       821 KM       |    2     
+  28  |                Palghar                 |        PLG         |     05:08     |     05:10     |     2:00      |       904 KM       |    2     
+  29  |               Borivali                 |        BVI         |     06:10     |     06:12     |     2:00      |       961 KM       |    2     
+  30  |                 Dadar                  |        DDR         |     06:45     |     06:47     |     2:00      |       985 KM       |    2     
+  31  |            Mumbai Central              |        BCT         |     07:10     |     Ends      |       -       |       990 KM       |    2     

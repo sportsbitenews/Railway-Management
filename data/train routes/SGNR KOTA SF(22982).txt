@@ -1,0 +1,28 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Shri Ganganagar             |        SGNR        |     Start     |     17:30     |       -       |        0 KM        |    1     
+  2   |              Sadulshahr                |        SDS         |     17:52     |     17:54     |     2:00      |       30 KM        |    1     
+  3   |         Hanumangarh Junction           |        HMH         |     18:35     |     18:55     |     20:00     |       67 KM        |    1     
+  4   |              Pili Bangan               |        PGK         |     19:16     |     19:18     |     2:00      |       93 KM        |    1     
+  5   |          Suratgarh Junction            |        SOG         |     19:50     |     19:55     |     5:00      |       117 KM       |    1     
+  6   |                Mahajan                 |        MHJ         |     20:41     |     20:43     |     2:00      |       180 KM       |    1     
+  7   |              Lunkaransar               |        LKS         |     21:14     |     21:16     |     2:00      |       219 KM       |    1     
+  8   |           Lalgarh Junction             |        LGH         |     22:16     |     22:18     |     2:00      |       295 KM       |    1     
+  9   |           Bikaner Junction             |        BKN         |     22:50     |     23:05     |     15:00     |       299 KM       |    1     
+  10  |                Deshnok                 |        DSO         |     23:31     |     23:33     |     2:00      |       331 KM       |    1     
+  11  |                 Nokha                  |        NOK         |     23:59     |     00:01     |     2:00      |       363 KM       |    2     
+  12  |                Nagaur                  |        NGO         |     00:48     |     00:50     |     2:00      |       414 KM       |    2     
+  13  |            Degana Junction             |        DNA         |     02:38     |     02:41     |     3:00      |       517 KM       |    2     
+  14  |           Makrana Junction             |        MKN         |     03:13     |     03:15     |     2:00      |       561 KM       |    2     
+  15  |               Nawa City                |        NAC         |     03:40     |     03:42     |     2:00      |       590 KM       |    2     
+  16  |             Sambhar Lake               |        SBR         |     04:21     |     04:23     |     2:00      |       618 KM       |    2     
+  17  |           Phulera Junction             |         FL         |     04:35     |     04:37     |     2:00      |       625 KM       |    2     
+  18  |            Asalpur Jobner              |        JOB         |     04:51     |     04:53     |     2:00      |       643 KM       |    2     
+  19  |                Jaipur                  |         JP         |     05:30     |     05:40     |     10:00     |       680 KM       |    2     
+  20  |               Durgapura                |        DPA         |     05:47     |     05:49     |     2:00      |       687 KM       |    2     
+  21  |            Bansthali Niwai             |        BNLW        |     06:28     |     06:30     |     2:00      |       746 KM       |    2     
+  22  |                Isarda                  |        ISA         |     06:55     |     06:57     |     2:00      |       772 KM       |    2     
+  23  |            Chauth Ka Brwra             |        CKB         |     07:09     |     07:11     |     2:00      |       790 KM       |    2     
+  24  |            Sawai Madhopur              |        SWM         |     07:45     |     07:55     |     10:00     |       811 KM       |    2     
+  25  |               Indargarh                |        IDG         |     08:20     |     08:22     |     2:00      |       848 KM       |    2     
+  26  |                Lakheri                 |        LKE         |     08:32     |     08:34     |     2:00      |       859 KM       |    2     
+  27  |             Kota Junction              |        KOTA        |     09:45     |     Ends      |       -       |       919 KM       |    2     

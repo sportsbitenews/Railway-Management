@@ -1,0 +1,41 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Chandigarh                |        CDG         |     Start     |     16:30     |       -       |        0 KM        |    1     
+  2   |         Ambala Cant Junction           |        UMB         |     17:25     |     17:30     |     5:00      |       68 KM        |    1     
+  3   |            Shahbad Marknda             |        SHDM        |     17:48     |     17:50     |     2:00      |       87 KM        |    1     
+  4   |         Kurukshetra Junction           |        KKDE        |     18:10     |     18:12     |     2:00      |       109 KM       |    1     
+  5   |                Karnal                  |        KUN         |     18:37     |     18:39     |     2:00      |       143 KM       |    1     
+  6   |           Panipat Junction             |        PNP         |     19:07     |     19:09     |     2:00      |       177 KM       |    1     
+  7   |               Samalkha                 |        SMK         |     19:22     |     19:24     |     2:00      |       194 KM       |    1     
+  8   |                Ganaur                  |        GNU         |     19:36     |     19:38     |     2:00      |       206 KM       |    1     
+  9   |                Sonipat                 |        SNP         |     19:54     |     19:56     |     2:00      |       222 KM       |    1     
+  10  |                Narela                  |        NUR         |     20:11     |     20:13     |     2:00      |       239 KM       |    1     
+  11  |              Subzi Mandi               |        SZM         |     20:46     |     20:48     |     2:00      |       262 KM       |    1     
+  12  |                 Delhi                  |        DLI         |     21:10     |     21:30     |     20:00     |       265 KM       |    1     
+  13  |               Sahibabad                |        SBB         |     21:53     |     21:55     |     2:00      |       278 KM       |    1     
+  14  |               Ghaziabad                |        GZB         |     22:12     |     22:14     |     2:00      |       285 KM       |    1     
+  15  |            Khurja Junction             |        KRJ         |     23:03     |     23:06     |     3:00      |       348 KM       |    1     
+  16  |           Aligarh Junction             |        ALJN        |     23:40     |     23:45     |     5:00      |       391 KM       |    1     
+  17  |           Hathras Junction             |        HRS         |     00:07     |     00:10     |     3:00      |       421 KM       |    2     
+  18  |            Tundla Junction             |        TDL         |     01:10     |     01:15     |     5:00      |       469 KM       |    2     
+  19  |               Firozabad                |        FZD         |     01:28     |     01:30     |     2:00      |       485 KM       |    2     
+  20  |          Shikohabad Junction           |        SKB         |     02:00     |     02:02     |     2:00      |       505 KM       |    2     
+  21  |                Etawah                  |        ETW         |     02:43     |     02:45     |     2:00      |       561 KM       |    2     
+  22  |               Bharthana                |        BNT         |     03:00     |     03:02     |     2:00      |       581 KM       |    2     
+  23  |               Phaphund                 |        PHD         |     03:27     |     03:29     |     2:00      |       617 KM       |    2     
+  24  |                 Rura                   |        RURA        |     04:03     |     04:05     |     2:00      |       656 KM       |    2     
+  25  |            Kanpur Central              |        CNB         |     05:05     |     05:30     |     25:00     |       699 KM       |    2     
+  26  |            Unnao Junction              |         ON         |     05:53     |     05:55     |     2:00      |       716 KM       |    2     
+  27  |               Bighapur                 |        BQP         |     06:47     |     06:49     |     2:00      |       748 KM       |    2     
+  28  |                 Takia                  |        TQA         |     07:00     |     07:02     |     2:00      |       759 KM       |    2     
+  29  |            Raghuraj Singh              |        RRS         |     07:20     |     07:22     |     2:00      |       770 KM       |    2     
+  30  |                Lalganj                 |        LLJ         |     07:37     |     07:39     |     2:00      |       783 KM       |    2     
+  31  |            Dalmau Junction             |        DMW         |     07:56     |     07:58     |     2:00      |       797 KM       |    2     
+  32  |             Jalalpur Dhai              |        JPD         |     08:12     |     08:14     |     2:00      |       810 KM       |    2     
+  33  |           Unchahar Junction            |        UCR         |     08:32     |     08:34     |     2:00      |       828 KM       |    2     
+  34  |           Pwn Klaknder Road            |        PQN         |     08:45     |     08:47     |     2:00      |       839 KM       |    2     
+  35  |            Garhi Manikpur              |        GRMR        |     08:55     |     08:57     |     2:00      |       846 KM       |    2     
+  36  |            Kunda Harnamgnj             |        KHNM        |     09:09     |     09:11     |     2:00      |       858 KM       |    2     
+  37  |             Lalgopalganj               |        LGO         |     09:34     |     09:36     |     2:00      |       873 KM       |    2     
+  38  |          Phaphamau Junction            |        PFM         |     10:31     |     10:33     |     2:00      |       901 KM       |    2     
+  39  |                Prayag                  |        PRG         |     10:55     |     10:57     |     2:00      |       907 KM       |    2     
+  40  |          Allahabad Junction            |        ALD         |     11:20     |     Ends      |       -       |       913 KM       |    2     

@@ -1,0 +1,22 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Dhanbad Junction             |        DHN         |     Start     |     08:25     |       -       |        0 KM        |    1     
+  2   |                Barakar                 |        BRR         |     09:06     |     09:07     |     1:00      |       42 KM        |    1     
+  3   |             Chittaranjan               |        CRJ         |     09:42     |     09:43     |     1:00      |       66 KM        |    1     
+  4   |                Jamtara                 |        JMT         |     09:57     |     09:58     |     1:00      |       81 KM        |    1     
+  5   |              Vidyasagar                |        VDS         |     10:15     |     10:16     |     1:00      |       99 KM        |    1     
+  6   |           Madhupur Junction            |        MDP         |     10:39     |     10:44     |     5:00      |       123 KM       |    1     
+  7   |           Jasidih Junction             |        JSME        |     11:27     |     11:32     |     5:00      |       152 KM       |    1     
+  8   |                Jhajha                  |        JAJ         |     12:30     |     12:40     |     10:00     |       196 KM       |    1     
+  9   |                Gidhaur                 |        GHR         |     12:50     |     12:51     |     1:00      |       207 KM       |    1     
+  10  |                 Jamui                  |        JMU         |     13:04     |     13:05     |     1:00      |       222 KM       |    1     
+  11  |               Mananpur                 |        MNP         |     13:21     |     13:22     |     1:00      |       236 KM       |    1     
+  12  |             Kiul Junction              |        KIUL        |     13:39     |     13:41     |     2:00      |       250 KM       |    1     
+  13  |         Luckeesarai Junction           |        LKR         |     13:49     |     13:50     |     1:00      |       251 KM       |    1     
+  14  |                Barhiya                 |        BRYA        |     14:29     |     14:30     |     1:00      |       266 KM       |    1     
+  15  |           Hathidah Junction            |        HTZ         |     14:40     |     14:41     |     1:00      |       277 KM       |    1     
+  16  |           Mokameh Junction             |        MKA         |     14:51     |     14:53     |     2:00      |       284 KM       |    1     
+  17  |                 Barh                   |        BARH        |     15:11     |     15:12     |     1:00      |       309 KM       |    1     
+  18  |         Bakhtiyarpur Junction          |        BKP         |     15:28     |     15:30     |     2:00      |       327 KM       |    1     
+  19  |               Khusropur                |        KOO         |     15:40     |     15:41     |     1:00      |       342 KM       |    1     
+  20  |            Rjndr Ngr Bihar             |        RJPB        |     16:57     |     16:59     |     2:00      |       370 KM       |    1     
+  21  |            Patna Junction              |        PNBE        |     17:10     |     Ends      |       -       |       373 KM       |    1     

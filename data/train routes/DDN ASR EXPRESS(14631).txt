@@ -1,0 +1,27 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Dehradun                 |        DDN         |     Start     |     19:00     |       -       |        0 KM        |    1     
+  2   |               Harrawala                |        HRW         |     19:13     |     19:15     |     2:00      |        9 KM        |    1     
+  3   |                Doiwala                 |        DWO         |     19:34     |     19:36     |     2:00      |       20 KM        |    1     
+  4   |                Kansrao                 |        QSR         |     19:58     |     20:00     |     2:00      |       30 KM        |    1     
+  5   |                Raiwala                 |        RWL         |     20:31     |     20:33     |     2:00      |       41 KM        |    1     
+  6   |           Haridwar Junction            |         HW         |     21:05     |     21:35     |     30:00     |       52 KM        |    1     
+  7   |               Jwalapur                 |        JWP         |     21:41     |     21:43     |     2:00      |       56 KM        |    1     
+  8   |            Laksar Junction             |        LRJ         |     22:20     |     22:45     |     25:00     |       79 KM        |    1     
+  9   |                Roorkee                 |         RK         |     23:08     |     23:10     |     2:00      |       98 KM        |    1     
+  10  |              Saharanpur                |        SRE         |     00:02     |     00:10     |     8:00      |       132 KM       |    2     
+  11  |               Jagadhri                 |        JUD         |     00:36     |     00:38     |     2:00      |       163 KM       |    2     
+  12  |            Jagadhri Wshop              |        JUDW        |     00:49     |     00:51     |     2:00      |       167 KM       |    2     
+  13  |         Ambala Cant Junction           |        UMB         |     01:40     |     01:50     |     10:00     |       214 KM       |    2     
+  14  |           Rajpura Junction             |        RPJ         |     02:18     |     02:20     |     2:00      |       241 KM       |    2     
+  15  |           Sirhind Junction             |        SIR         |     03:01     |     03:03     |     2:00      |       267 KM       |    2     
+  16  |                Khanna                  |        KNN         |     03:19     |     03:21     |     2:00      |       285 KM       |    2     
+  17  |           Ludhiana Junction            |        LDH         |     04:10     |     04:20     |     10:00     |       327 KM       |    2     
+  18  |           Phillaur Junction            |        PHR         |     04:33     |     04:35     |     2:00      |       341 KM       |    2     
+  19  |                Goraya                  |        GRY         |     04:49     |     04:51     |     2:00      |       353 KM       |    2     
+  20  |           Phagwara Junction            |        PGW         |     05:01     |     05:03     |     2:00      |       363 KM       |    2     
+  21  |            Jalandhar Cant              |        JRC         |     05:21     |     05:23     |     2:00      |       379 KM       |    2     
+  22  |            Jalandhar City              |        JUC         |     05:35     |     05:45     |     10:00     |       384 KM       |    2     
+  23  |               Kartarpur                |        KRE         |     05:58     |     06:00     |     2:00      |       399 KM       |    2     
+  24  |                 Beas                   |        BEAS        |     06:26     |     06:28     |     2:00      |       420 KM       |    2     
+  25  |               Jandiala                 |        JNL         |     06:53     |     06:55     |     2:00      |       444 KM       |    2     
+  26  |           Amritsar Junction            |        ASR         |     07:30     |     Ends      |       -       |       463 KM       |    2     

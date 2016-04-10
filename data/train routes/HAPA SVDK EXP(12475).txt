@@ -1,0 +1,31 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Hapa                   |        HAPA        |     Start     |     05:20     |       -       |        0 KM        |    1     
+  2   |            Rajkot Junction             |        RJT         |     06:35     |     06:40     |     5:00      |       77 KM        |    1     
+  3   |           Wankaner Junction            |        WKR         |     07:27     |     07:30     |     3:00      |       118 KM       |    1     
+  4   |             Surendranagar              |        SUNR        |     08:33     |     08:35     |     2:00      |       193 KM       |    1     
+  5   |           Viramgam Junction            |         VG         |     09:51     |     09:53     |     2:00      |       258 KM       |    1     
+  6   |          Ahmedabad Junction            |        ADI         |     11:05     |     11:25     |     20:00     |       323 KM       |    1     
+  7   |            Nadiad Junction             |         ND         |     12:13     |     12:15     |     2:00      |       369 KM       |    1     
+  8   |            Anand Junction              |        ANND        |     12:30     |     12:32     |     2:00      |       387 KM       |    1     
+  9   |           Vadodara Junction            |        BRC         |     13:18     |     13:43     |     25:00     |       423 KM       |    1     
+  10  |            Godhra Junction             |        GDA         |     14:50     |     14:52     |     2:00      |       497 KM       |    1     
+  11  |                 Dahod                  |        DHD         |     15:48     |     15:50     |     2:00      |       571 KM       |    1     
+  12  |               Meghnagar                |        MGN         |     16:13     |     16:15     |     2:00      |       604 KM       |    1     
+  13  |            Ratlam Junction             |        RTM         |     17:45     |     18:05     |     20:00     |       685 KM       |    1     
+  14  |            Nagda Junction              |        NAD         |     19:03     |     19:05     |     2:00      |       726 KM       |    1     
+  15  |               Shamgarh                 |        SGZ         |     20:03     |     20:05     |     2:00      |       817 KM       |    1     
+  16  |             Ramganj Mandi              |        RMA         |     20:40     |     20:42     |     2:00      |       879 KM       |    1     
+  17  |             Kota Junction              |        KOTA        |     21:30     |     21:40     |     10:00     |       951 KM       |    1     
+  18  |            Sawai Madhopur              |        SWM         |     22:55     |     22:57     |     2:00      |      1059 KM       |    1     
+  19  |          Bharatpur Junction            |        BTE         |     01:11     |     01:13     |     2:00      |      1241 KM       |    2     
+  20  |           Mathura Junction             |        MTJ         |     02:00     |     02:05     |     5:00      |      1275 KM       |    2     
+  21  |             H Nizamuddin               |        NZM         |     04:10     |     04:12     |     2:00      |      1408 KM       |    2     
+  22  |               New Delhi                |        NDLS        |     04:35     |     04:50     |     15:00     |      1416 KM       |    2     
+  23  |           Panipat Junction             |        PNP         |     06:01     |     06:03     |     2:00      |      1505 KM       |    2     
+  24  |         Ambala Cant Junction           |        UMB         |     07:55     |     08:05     |     10:00     |      1614 KM       |    2     
+  25  |           Ludhiana Junction            |        LDH         |     09:45     |     09:55     |     10:00     |      1728 KM       |    2     
+  26  |            Jalandhar Cant              |        JRC         |     10:45     |     10:50     |     5:00      |      1780 KM       |    2     
+  27  |            Pathankot Cantt             |        PTKC        |     12:30     |     12:35     |     5:00      |      1893 KM       |    2     
+  28  |                Kathua                  |        KTHU        |     13:03     |     13:05     |     2:00      |      1916 KM       |    2     
+  29  |              Jammu Tawi                |        JAT         |     14:40     |     15:05     |     25:00     |      1992 KM       |    2     
+  30  |               Udhampur                 |        UHP         |     16:10     |     16:12     |     2:00      |      2045 KM       |    2     

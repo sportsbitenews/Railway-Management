@@ -1,0 +1,11 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Bandra Terminus             |        BDTS        |     Start     |     23:25     |       -       |        0 KM        |    1     
+  2   |               Borivali                 |        BVI         |     00:03     |     00:05     |     2:00      |       19 KM        |    2     
+  3   |                Valsad                  |         BL         |     02:33     |     02:35     |     2:00      |       183 KM       |    2     
+  4   |                 Surat                  |         ST         |     03:50     |     03:55     |     5:00      |       252 KM       |    2     
+  5   |           Vadodara Junction            |        BRC         |     05:40     |     05:45     |     5:00      |       381 KM       |    2     
+  6   |          Ahmedabad Junction            |        ADI         |     07:45     |     08:05     |     20:00     |       481 KM       |    2     
+  7   |           Mahesana Junction            |        MSH         |     10:05     |     10:07     |     2:00      |       548 KM       |    2     
+  8   |               Abu Road                 |        ABR         |     12:27     |     12:37     |     10:00     |       666 KM       |    2     
+  9   |            Marwar Junction             |         MJ         |     15:15     |     15:20     |     5:00      |       831 KM       |    2     
+  10  |            Bhagat Ki Kothi             |        BGKT        |     17:10     |     Ends      |       -       |       931 KM       |    2     

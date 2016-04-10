@@ -1,0 +1,14 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Partapgarh Junction           |        PBH         |     Start     |     01:50     |       -       |        0 KM        |    1     
+  2   |                Amethi                  |        AME         |     02:33     |     02:35     |     2:00      |       36 KM        |    1     
+  3   |          Rae Bareli Junction           |        RBL         |     03:30     |     03:32     |     2:00      |       96 KM        |    1     
+  4   |              Lucknow Nr                |        LKO         |     05:40     |     05:50     |     10:00     |       173 KM       |    1     
+  5   |            Kanpur Central              |        CNB         |     07:55     |     08:00     |     5:00      |       247 KM       |    1     
+  6   |                 Orai                   |        ORAI        |     09:48     |     09:50     |     2:00      |       353 KM       |    1     
+  7   |            Jhansi Junction             |        JHS         |     11:45     |     12:00     |     15:00     |       467 KM       |    1     
+  8   |           Bhopal  Junction             |        BPL         |     16:25     |     16:35     |     10:00     |       758 KM       |    1     
+  9   |           Bhusaval Junction            |        BSL         |     22:45     |     22:55     |     10:00     |      1156 KM       |    1     
+  10  |              Nasik Road                |         NK         |     02:08     |     02:10     |     2:00      |      1413 KM       |    2     
+  11  |            Kalyan Junction             |        KYN         |     04:52     |     04:55     |     3:00      |      1547 KM       |    2     
+  12  |                 Thane                  |        TNA         |     05:18     |     05:20     |     2:00      |      1567 KM       |    2     
+  13  |            Lokmanyatilak T             |        LTT         |     06:00     |     Ends      |       -       |      1585 KM       |    2     

@@ -1,0 +1,14 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Kanpur Central              |        CNB         |     Start     |     07:50     |       -       |        0 KM        |    1     
+  2   |            Kanpur Anwrganj             |        CPA         |     08:00     |     08:02     |     2:00      |        3 KM        |    1     
+  3   |               Kalianpur                |        KAP         |     08:10     |     08:12     |     2:00      |       13 KM        |    1     
+  4   |                Kannauj                 |        KJN         |     09:11     |     09:13     |     2:00      |       81 KM        |    1     
+  5   |             Gursahaiganj               |        GHJ         |     09:37     |     09:39     |     2:00      |       103 KM       |    1     
+  6   |               Fatehgarh                |        FGR         |     10:20     |     10:22     |     2:00      |       135 KM       |    1     
+  7   |              Farrukhabad               |        FBD         |     10:55     |     11:30     |     35:00     |       140 KM       |    1     
+  8   |               Bhongaon                 |        BGQ         |     12:16     |     12:18     |     2:00      |       184 KM       |    1     
+  9   |               Mainpuri                 |        MNQ         |     12:40     |     12:45     |     5:00      |       198 KM       |    1     
+  10  |          Shikohabad Junction           |        SKB         |     14:20     |     14:25     |     5:00      |       246 KM       |    1     
+  11  |            Tundla Junction             |        TDL         |     15:00     |     15:05     |     5:00      |       282 KM       |    1     
+  12  |           Aligarh Junction             |        ALJN        |     15:58     |     16:01     |     3:00      |       361 KM       |    1     
+  13  |            Anand Vihar Trm             |        ANVT        |     18:20     |     Ends      |       -       |       479 KM       |    1     

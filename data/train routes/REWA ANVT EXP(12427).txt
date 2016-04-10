@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Rewa                   |        REWA        |     Start     |     16:00     |       -       |        0 KM        |    1     
+  2   |                 Satna                  |        STA         |     16:55     |     17:05     |     10:00     |       49 KM        |    1     
+  3   |           Manikpur Junction            |        MKP         |     18:33     |     18:35     |     2:00      |       126 KM       |    1     
+  4   |               Dabhaura                 |        DBR         |     18:53     |     18:55     |     2:00      |       149 KM       |    1     
+  5   |              Shankargarh               |        SRJ         |     19:22     |     19:24     |     2:00      |       182 KM       |    1     
+  6   |          Allahabad Junction            |        ALD         |     20:35     |     21:00     |     25:00     |       227 KM       |    1     
+  7   |               Fatehpur                 |        FTP         |     22:14     |     22:16     |     2:00      |       343 KM       |    1     
+  8   |            Kanpur Central              |        CNB         |     23:30     |     23:35     |     5:00      |       421 KM       |    1     
+  9   |           Aligarh Junction             |        ALJN        |     03:30     |     03:35     |     5:00      |       729 KM       |    2     
+  10  |               Ghaziabad                |        GZB         |     06:05     |     06:07     |     2:00      |       835 KM       |    2     
+  11  |            Anand Vihar Trm             |        ANVT        |     06:35     |     Ends      |       -       |       847 KM       |    2     

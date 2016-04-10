@@ -1,0 +1,22 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Durg                   |        DURG        |     Start     |     16:00     |       -       |        0 KM        |    1     
+  2   |            Raipur Junction             |         R          |     16:45     |     16:55     |     10:00     |       37 KM        |    1     
+  3   |               Bhatapara                |        BYT         |     17:43     |     17:45     |     2:00      |       101 KM       |    1     
+  4   |           Bilaspur Junction            |        BSP         |     18:45     |     19:05     |     20:00     |       147 KM       |    1     
+  5   |              Pendra Road               |        PND         |     20:43     |     20:45     |     2:00      |       248 KM       |    1     
+  6   |           Anuppur Junction             |        APR         |     21:35     |     21:40     |     5:00      |       298 KM       |    1     
+  7   |                Burhar                  |        BUH         |     21:55     |     21:57     |     2:00      |       320 KM       |    1     
+  8   |                Shahdol                 |        SDL         |     22:25     |     22:27     |     2:00      |       339 KM       |    1     
+  9   |                Umaria                  |        UMR         |     23:29     |     23:31     |     2:00      |       406 KM       |    1     
+  10  |             Katni Murwara              |        KMZ         |     01:00     |     01:10     |     10:00     |       465 KM       |    2     
+  11  |                Saugor                  |        SGO         |     03:50     |     04:00     |     10:00     |       652 KM       |    2     
+  12  |              Ashok Nagar               |        ASKN        |     06:32     |     06:34     |     2:00      |       800 KM       |    2     
+  13  |                 Guna                   |        GUNA        |     07:40     |     07:50     |     10:00     |       844 KM       |    2     
+  14  |                 Baran                  |        BAZ         |     09:50     |     09:55     |     5:00      |       963 KM       |    2     
+  15  |             Kota Junction              |        KOTA        |     11:20     |     11:30     |     10:00     |      1029 KM       |    2     
+  16  |            Sawai Madhopur              |        SWM         |     13:30     |     13:40     |     10:00     |      1137 KM       |    2     
+  17  |               Durgapura                |        DPA         |     15:19     |     15:21     |     2:00      |      1261 KM       |    2     
+  18  |                Jaipur                  |         JP         |     15:50     |     16:00     |     10:00     |      1268 KM       |    2     
+  19  |           Phulera Junction             |         FL         |     16:40     |     16:42     |     2:00      |      1323 KM       |    2     
+  20  |              Kishangarh                |        KSG         |     17:19     |     17:21     |     2:00      |      1374 KM       |    2     
+  21  |            Ajmer Junction              |        AII         |     18:15     |     Ends      |       -       |      1403 KM       |    2     

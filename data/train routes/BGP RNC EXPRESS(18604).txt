@@ -1,0 +1,21 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Bhagalpur                |        BGP         |     Start     |     16:55     |       -       |        0 KM        |    1     
+  2   |              Sultanganj                |        SGG         |     17:15     |     17:16     |     1:00      |       25 KM        |    1     
+  3   |               Bariarpur                |        BUP         |     17:37     |     17:38     |     1:00      |       43 KM        |    1     
+  4   |           Jamalpur Junction            |        JMP         |     17:53     |     18:08     |     15:00     |       53 KM        |    1     
+  5   |               Abhaipur                 |        AHA         |     18:27     |     18:28     |     1:00      |       75 KM        |    1     
+  6   |                 Kajra                  |        KJH         |     18:38     |     18:39     |     1:00      |       83 KM        |    1     
+  7   |             Kiul Junction              |        KIUL        |     19:30     |     20:00     |     30:00     |       99 KM        |    1     
+  8   |                 Jamui                  |        JMU         |     20:29     |     20:30     |     1:00      |       126 KM       |    1     
+  9   |                Jhajha                  |        JAJ         |     21:10     |     21:20     |     10:00     |       152 KM       |    1     
+  10  |           Jasidih Junction             |        JSME        |     21:52     |     21:57     |     5:00      |       196 KM       |    1     
+  11  |           Madhupur Junction            |        MDP         |     22:22     |     22:27     |     5:00      |       225 KM       |    1     
+  12  |              Vidyasagar                |        VDS         |     22:46     |     22:47     |     1:00      |       249 KM       |    1     
+  13  |             Chittaranjan               |        CRJ         |     23:15     |     23:16     |     1:00      |       282 KM       |    1     
+  14  |           Dhanbad Junction             |        DHN         |     01:13     |     01:23     |     10:00     |       343 KM       |    2     
+  15  |              Katrasgarh                |        KTH         |     01:51     |     01:53     |     2:00      |       356 KM       |    2     
+  16  |              Phulwartanr               |        PLJE        |     02:07     |     02:08     |     1:00      |       365 KM       |    2     
+  17  |              Chandrapura               |        CRP         |     02:31     |     02:33     |     2:00      |       377 KM       |    2     
+  18  |            Bokaro Stl City             |        BKSC        |     03:05     |     03:15     |     10:00     |       393 KM       |    2     
+  19  |                 Muri                   |        MURI        |     04:10     |     04:15     |     5:00      |       445 KM       |    2     
+  20  |                Ranchi                  |        RNC         |     05:35     |     Ends      |       -       |       510 KM       |    2     

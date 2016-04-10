@@ -1,0 +1,41 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Darbhanga Junction            |        DBG         |     Start     |     16:10     |       -       |        0 KM        |    1     
+  2   |          Samastipur Junction           |        SPJ         |     17:00     |     17:05     |     5:00      |       38 KM        |    1     
+  3   |           Barauni Junction             |        BJU         |     17:55     |     18:15     |     20:00     |       89 KM        |    1     
+  4   |           Mokameh Junction             |        MKA         |     18:53     |     18:55     |     2:00      |       110 KM       |    1     
+  5   |            Patna Junction              |        PNBE        |     20:10     |     20:20     |     10:00     |       199 KM       |    1     
+  6   |                Danapur                 |        DNR         |     20:35     |     20:37     |     2:00      |       209 KM       |    1     
+  7   |                  Ara                   |        ARA         |     21:06     |     21:08     |     2:00      |       248 KM       |    1     
+  8   |                 Buxar                  |        BXR         |     22:00     |     22:02     |     2:00      |       317 KM       |    1     
+  9   |         Mughal Sarai Junction          |        MGS         |     23:42     |     23:52     |     10:00     |       411 KM       |    1     
+  10  |               Mirzapur                 |        MZP         |     00:59     |     01:00     |     1:00      |       474 KM       |    2     
+  11  |                Cheoki                  |        COI         |     02:14     |     02:15     |     1:00      |       554 KM       |    2     
+  12  |                 Satna                  |        STA         |     05:30     |     05:40     |     10:00     |       724 KM       |    2     
+  13  |                 Katni                  |        KTE         |     06:50     |     06:55     |     5:00      |       822 KM       |    2     
+  14  |               Jabalpur                 |        JBP         |     08:50     |     09:00     |     10:00     |       913 KM       |    2     
+  15  |              Narsinghpur               |         NU         |     09:51     |     09:53     |     2:00      |       997 KM       |    2     
+  16  |               Pipariya                 |        PPI         |     11:08     |     11:10     |     2:00      |      1091 KM       |    2     
+  17  |            Itarsi Junction             |         ET         |     12:55     |     13:05     |     10:00     |      1158 KM       |    2     
+  18  |              Ghoradongri               |        GDYA        |     14:13     |     14:15     |     2:00      |      1228 KM       |    2     
+  19  |                 Betul                  |        BZU         |     15:00     |     15:02     |     2:00      |      1265 KM       |    2     
+  20  |               Pandhurna                |        PAR         |     16:22     |     16:23     |     1:00      |      1351 KM       |    2     
+  21  |                Nagpur                  |        NGP         |     18:20     |     18:45     |     25:00     |      1455 KM       |    2     
+  22  |               Sevagram                 |        SEGM        |     19:57     |     19:58     |     1:00      |      1531 KM       |    2     
+  23  |              Chandrapur                |         CD         |     21:49     |     21:50     |     1:00      |      1652 KM       |    2     
+  24  |              Balharshah                |        BPQ         |     22:40     |     22:50     |     10:00     |      1666 KM       |    2     
+  25  |            Sirpur Kagazngr             |        SKZR        |     23:45     |     23:46     |     1:00      |      1736 KM       |    2     
+  26  |               Ramgundam                |        RDM         |     00:45     |     00:46     |     1:00      |      1808 KM       |    3     
+  27  |               Warangal                 |         WL         |     03:00     |     03:02     |     2:00      |      1909 KM       |    3     
+  28  |          Vijayawada Junction           |        BZA         |     07:10     |     07:30     |     20:00     |      2117 KM       |    3     
+  29  |                Ongole                  |        OGL         |     09:18     |     09:19     |     1:00      |      2255 KM       |    3     
+  30  |            Gudur Junction              |        GDR         |     11:55     |     12:00     |     5:00      |      2410 KM       |    3     
+  31  |            Chennai Central             |        MAS         |     14:20     |     14:45     |     25:00     |      2547 KM       |    3     
+  32  |               Arakkonam                |        AJJ         |     15:38     |     15:40     |     2:00      |      2616 KM       |    3     
+  33  |           Katpadi Junction             |        KPD         |     16:28     |     16:30     |     2:00      |      2676 KM       |    3     
+  34  |              Jolarpettai               |        JTJ         |     17:53     |     17:55     |     2:00      |      2760 KM       |    3     
+  35  |            Bangalore East              |        BNCE        |     19:58     |     20:00     |     2:00      |      2901 KM       |    3     
+  36  |            Bangalore Cant              |        BNC         |     20:05     |     20:10     |     5:00      |      2904 KM       |    3     
+  37  |         Bangalore Cy Junction          |        SBC         |     20:40     |     20:55     |     15:00     |      2908 KM       |    3     
+  38  |                Kengeri                 |        KGI         |     21:13     |     21:14     |     1:00      |      2921 KM       |    3     
+  39  |                Mandya                  |        MYA         |     22:23     |     22:25     |     2:00      |      3001 KM       |    3     
+  40  |            Mysore Junction             |        MYS         |     23:30     |     Ends      |       -       |      3047 KM       |    3     

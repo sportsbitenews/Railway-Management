@@ -1,0 +1,38 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Guwahati                 |        GHY         |     Start     |     10:45     |       -       |        0 KM        |    1     
+  2   |               Kamakhya                 |        KYQ         |     11:04     |     11:05     |     1:00      |        7 KM        |    1     
+  3   |           Rangiya Junction             |        RNY         |     11:42     |     11:52     |     10:00     |       48 KM        |    1     
+  4   |             Barpeta Road               |        BPRD        |     12:39     |     12:40     |     1:00      |       113 KM       |    1     
+  5   |            New Bongaigaon              |        NBQ         |     13:45     |     13:55     |     10:00     |       157 KM       |    1     
+  6   |            New Alipurdaur              |        NOQ         |     15:20     |     15:25     |     5:00      |       264 KM       |    1     
+  7   |            New Cooch Behar             |        NCB         |     15:55     |     16:00     |     5:00      |       283 KM       |    1     
+  8   |            New Jalpaiguri              |        NJP         |     18:10     |     18:25     |     15:00     |       409 KM       |    1     
+  9   |              Kishanganj                |        KNE         |     19:28     |     19:30     |     2:00      |       496 KM       |    1     
+  10  |               Dalkolha                 |        DLK         |     19:54     |     19:55     |     1:00      |       524 KM       |    1     
+  11  |           Katihar Junction             |        KIR         |     22:00     |     22:15     |     15:00     |       610 KM       |    1     
+  12  |               Naugachia                |        NNA         |     23:01     |     23:02     |     1:00      |       667 KM       |    1     
+  13  |           Barauni Junction             |        BJU         |     01:15     |     01:20     |     5:00      |       789 KM       |    2     
+  14  |           Mokameh Junction             |        MKA         |     02:20     |     02:22     |     2:00      |       810 KM       |    2     
+  15  |         Bakhtiyarpur Junction          |        BKP         |     02:58     |     03:00     |     2:00      |       854 KM       |    2     
+  16  |            Patna Junction              |        PNBE        |     04:40     |     04:50     |     10:00     |       899 KM       |    2     
+  17  |         Mughal Sarai Junction          |        MGS         |     09:02     |     09:22     |     20:00     |      1111 KM       |    2     
+  18  |          Allahabad Junction            |        ALD         |     11:30     |     11:35     |     5:00      |      1263 KM       |    2     
+  19  |            Kanpur Central              |        CNB         |     14:00     |     14:15     |     15:00     |      1458 KM       |    2     
+  20  |            Tundla Junction             |        TDL         |     17:20     |     17:25     |     5:00      |      1687 KM       |    2     
+  21  |               Agra Fort                |         AF         |     18:05     |     18:30     |     25:00     |      1710 KM       |    2     
+  22  |           Achhnera Junction            |         AH         |     19:04     |     19:06     |     2:00      |      1736 KM       |    2     
+  23  |          Bharatpur Junction            |        BTE         |     19:43     |     19:45     |     2:00      |      1764 KM       |    2     
+  24  |                Jaipur                  |         JP         |     23:10     |     23:20     |     10:00     |      1951 KM       |    2     
+  25  |             Kuchaman City              |        KMNC        |     01:06     |     01:07     |     1:00      |      2057 KM       |    3     
+  26  |           Makrana Junction             |        MKN         |     01:22     |     01:23     |     1:00      |      2070 KM       |    3     
+  27  |            Degana Junction             |        DNA         |     02:10     |     02:13     |     3:00      |      2114 KM       |    3     
+  28  |          Merta Road Junction           |        MTD         |     02:48     |     03:35     |     47:00     |      2159 KM       |    3     
+  29  |           Jodhpur Junction             |         JU         |     05:00     |     05:10     |     10:00     |      2263 KM       |    3     
+  30  |             Luni Junction              |        LUNI        |     05:39     |     05:42     |     3:00      |      2295 KM       |    3     
+  31  |           Samdhari Junction            |        SMR         |     06:20     |     06:25     |     5:00      |      2343 KM       |    3     
+  32  |           Balotra Junction             |        BLT         |     07:05     |     07:06     |     1:00      |      2377 KM       |    3     
+  33  |                Barmer                  |        BME         |     09:00     |     Ends      |       -       |      2473 KM       |    3     
+  34  |          Merta Road Junction           |        MTD         |     02:48     |     03:50     |     62:00     |      2159 KM       |    3     
+  35  |                Nagaur                  |        NGO         |     04:43     |     04:44     |     1:00      |      2217 KM       |    3     
+  36  |                 Nokha                  |        NOK         |     05:24     |     05:25     |     1:00      |      2268 KM       |    3     
+  37  |           Bikaner Junction             |        BKN         |     07:10     |     Ends      |       -       |      2333 KM       |    3     

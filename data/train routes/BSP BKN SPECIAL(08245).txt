@@ -1,0 +1,34 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Bilaspur Junction            |        BSP         |     Start     |     18:20     |       -       |        0 KM        |    1     
+  2   |               Bhatapara                |        BYT         |     18:58     |     19:00     |     2:00      |       47 KM        |    1     
+  3   |            Raipur Junction             |         R          |     20:10     |     20:20     |     10:00     |       111 KM       |    1     
+  4   |             Bhilai Pwr Hs              |        BPHB        |     20:50     |     20:52     |     2:00      |       138 KM       |    1     
+  5   |                 Durg                   |        DURG        |     21:15     |     21:20     |     5:00      |       147 KM       |    1     
+  6   |             Raj Nandgaon               |        RJN         |     21:43     |     21:45     |     2:00      |       177 KM       |    1     
+  7   |            Gondia Junction             |         G          |     23:07     |     23:09     |     2:00      |       281 KM       |    1     
+  8   |                Nagpur                  |        NGP         |     01:10     |     01:40     |     30:00     |       411 KM       |    2     
+  9   |               Pandhurna                |        PAR         |     02:53     |     02:55     |     2:00      |       515 KM       |    2     
+  10  |            Itarsi Junction             |         ET         |     06:40     |     06:45     |     5:00      |       708 KM       |    2     
+  11  |               Habibganj                |        HBJ         |     08:36     |     08:38     |     2:00      |       794 KM       |    2     
+  12  |           Bhopal  Junction             |        BPL         |     09:00     |     09:10     |     10:00     |       800 KM       |    2     
+  13  |                Sehore                  |        SEH         |     10:03     |     10:05     |     2:00      |       839 KM       |    2     
+  14  |               Shujalpur                |        SJP         |     10:48     |     10:50     |     2:00      |       880 KM       |    2     
+  15  |                Berchha                 |        BCH         |     11:26     |     11:28     |     2:00      |       923 KM       |    2     
+  16  |            Ujjain Junction             |        UJN         |     12:15     |     12:25     |     10:00     |       984 KM       |    2     
+  17  |            Nagda Junction              |        NAD         |     13:25     |     13:50     |     25:00     |      1038 KM       |    2     
+  18  |               Shamgarh                 |        SGZ         |     14:50     |     14:52     |     2:00      |      1130 KM       |    2     
+  19  |             Bhawani Mandi              |        BWM         |     15:13     |     15:15     |     2:00      |      1163 KM       |    2     
+  20  |             Kota Junction              |        KOTA        |     17:25     |     17:35     |     10:00     |      1263 KM       |    2     
+  21  |               Indargarh                |        IDG         |     18:32     |     18:34     |     2:00      |      1335 KM       |    2     
+  22  |            Sawai Madhopur              |        SWM         |     19:40     |     20:00     |     20:00     |      1371 KM       |    2     
+  23  |            Bansthali Niwai             |        BNLW        |     21:05     |     21:07     |     2:00      |      1437 KM       |    2     
+  24  |               Durgapura                |        DPA         |     22:06     |     22:08     |     2:00      |      1495 KM       |    2     
+  25  |                Jaipur                  |         JP         |     22:30     |     22:40     |     10:00     |      1503 KM       |    2     
+  26  |           Phulera Junction             |         FL         |     00:08     |     00:10     |     2:00      |      1557 KM       |    3     
+  27  |             Kuchaman City              |        KMNC        |     00:49     |     00:51     |     2:00      |      1608 KM       |    3     
+  28  |           Makrana Junction             |        MKN         |     01:05     |     01:08     |     3:00      |      1622 KM       |    3     
+  29  |            Degana Junction             |        DNA         |     01:40     |     01:43     |     3:00      |      1666 KM       |    3     
+  30  |                Nagaur                  |        NGO         |     03:30     |     03:35     |     5:00      |      1768 KM       |    3     
+  31  |                 Nokha                  |        NOK         |     04:17     |     04:19     |     2:00      |      1819 KM       |    3     
+  32  |                Deshnok                 |        DSO         |     04:50     |     04:52     |     2:00      |      1851 KM       |    3     
+  33  |           Bikaner Junction             |        BKN         |     05:50     |     Ends      |       -       |      1884 KM       |    3     

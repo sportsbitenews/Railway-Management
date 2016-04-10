@@ -1,0 +1,18 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Tirupati                 |        TPTY        |     Start     |     15:10     |       -       |        0 KM        |    1     
+  2   |            Pakala Junction             |        PAK         |     15:48     |     15:50     |     2:00      |       42 KM        |    1     
+  3   |                 Piler                  |        PIL         |     16:31     |     16:32     |     1:00      |       83 KM        |    1     
+  4   |               Kallkiri                 |        KCI         |     17:01     |     17:02     |     1:00      |       98 KM        |    1     
+  5   |           Madanapalle Road             |        MPL         |     17:29     |     17:30     |     1:00      |       125 KM       |    1     
+  6   |            Mulacalacheruvu             |        MCU         |     18:10     |     18:12     |     2:00      |       165 KM       |    1     
+  7   |                Kadiri                  |        KRY         |     18:48     |     18:50     |     2:00      |       203 KM       |    1     
+  8   |         Dharmavaram Junction           |        DMM         |     19:50     |     19:52     |     2:00      |       270 KM       |    1     
+  9   |               Anantapur                |        ATP         |     20:23     |     20:25     |     2:00      |       303 KM       |    1     
+  10  |                 Gooty                  |         GY         |     21:43     |     21:45     |     2:00      |       360 KM       |    1     
+  11  |                 Dhone                  |        DHNE        |     22:50     |     22:55     |     5:00      |       416 KM       |    1     
+  12  |             Kurnool Town               |        KRNT        |     23:50     |     23:52     |     2:00      |       469 KM       |    1     
+  13  |                Gadwal                  |        GWD         |     00:34     |     00:35     |     1:00      |       525 KM       |    2     
+  14  |              Sriramnagar               |        SRNR        |     00:44     |     00:45     |     1:00      |       537 KM       |    2     
+  15  |              Mahbubnagar               |        MBNR        |     01:35     |     01:37     |     2:00      |       599 KM       |    2     
+  16  |               Kacheguda                |        KCG         |     03:50     |     03:52     |     2:00      |       705 KM       |    2     
+  17  |         Secunderabad Junction          |         SC         |     04:05     |     Ends      |       -       |       712 KM       |    2     

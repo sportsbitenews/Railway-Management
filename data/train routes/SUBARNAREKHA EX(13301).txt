@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Dhanbad Junction             |        DHN         |     Start     |     05:35     |       -       |        0 KM        |    1     
+  2   |            Sindriblock Hut             |        SDBH        |     06:06     |     06:07     |     1:00      |       23 KM        |    1     
+  3   |          Pathardih Junction            |        PEH         |     06:35     |     06:55     |     20:00     |       31 KM        |    1     
+  4   |               Sudamdih                 |        SDMD        |     07:09     |     07:10     |     1:00      |       32 KM        |    1     
+  5   |           Bhojudih Junction            |        BJE         |     07:20     |     07:22     |     2:00      |       34 KM        |    1     
+  6   |               Santaldih                |        SNTD        |     07:29     |     07:30     |     1:00      |       41 KM        |    1     
+  7   |             Adra Junction              |        ADRA        |     08:05     |     08:25     |     20:00     |       64 KM        |    1     
+  8   |                 Anara                  |        ANR         |     08:42     |     08:43     |     1:00      |       77 KM        |    1     
+  9   |           Purulia Junction             |        PRR         |     09:10     |     09:15     |     5:00      |       103 KM       |    1     
+  10  |               Barabhum                 |        BBM         |     09:39     |     09:40     |     1:00      |       135 KM       |    1     
+  11  |           Chandil Junction             |        CNI         |     10:15     |     10:17     |     2:00      |       157 KM       |    1     
+  12  |          Tatanagar Junction            |        TATA        |     11:15     |     Ends      |       -       |       193 KM       |    1     

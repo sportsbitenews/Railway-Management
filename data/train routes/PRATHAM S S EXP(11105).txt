@@ -1,0 +1,21 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Kolkata                 |        KOAA        |     Start     |     07:30     |       -       |        0 KM        |    1     
+  2   |              Barrackpore               |         BP         |     08:00     |     08:05     |     5:00      |       19 KM        |    1     
+  3   |          Barddhaman Junction           |        BWN         |     10:06     |     10:09     |     3:00      |       110 KM       |    1     
+  4   |           Asansol Junction             |        ASN         |     11:35     |     11:40     |     5:00      |       216 KM       |    1     
+  5   |             Chittaranjan               |        CRJ         |     12:04     |     12:05     |     1:00      |       241 KM       |    1     
+  6   |           Madhupur Junction            |        MDP         |     12:45     |     12:47     |     2:00      |       297 KM       |    1     
+  7   |           Jasidih Junction             |        JSME        |     13:12     |     13:14     |     2:00      |       326 KM       |    1     
+  8   |                Jhajha                  |        JAJ         |     14:25     |     14:30     |     5:00      |       370 KM       |    1     
+  9   |             Kiul Junction              |        KIUL        |     15:18     |     15:20     |     2:00      |       424 KM       |    1     
+  10  |            Patna Junction              |        PNBE        |     18:10     |     18:20     |     10:00     |       547 KM       |    1     
+  11  |                  Ara                   |        ARA         |     19:20     |     19:22     |     2:00      |       596 KM       |    1     
+  12  |                 Buxar                  |        BXR         |     20:22     |     20:24     |     2:00      |       665 KM       |    1     
+  13  |         Mughal Sarai Junction          |        MGS         |     22:59     |     23:09     |     10:00     |       759 KM       |    1     
+  14  |          Allahabad Junction            |        ALD         |     01:10     |     01:15     |     5:00      |       912 KM       |    2     
+  15  |            Kanpur Central              |        CNB         |     03:45     |     03:55     |     10:00     |      1106 KM       |    2     
+  16  |               Pokhrayan                |        PHN         |     04:57     |     04:58     |     1:00      |      1164 KM       |    2     
+  17  |                 Kalpi                  |        KPI         |     05:09     |     05:10     |     1:00      |      1178 KM       |    2     
+  18  |                 Orai                   |        ORAI        |     05:49     |     05:50     |     1:00      |      1212 KM       |    2     
+  19  |                 Moth                   |        MOTH        |     06:49     |     06:50     |     1:00      |      1270 KM       |    2     
+  20  |            Jhansi Junction             |        JHS         |     08:50     |     Ends      |       -       |      1325 KM       |    2     

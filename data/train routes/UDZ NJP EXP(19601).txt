@@ -1,0 +1,30 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Udaipur City               |        UDZ         |     Start     |     00:20     |       -       |        0 KM        |    1     
+  2   |            Ranapratapnagar             |        RPZ         |     00:25     |     00:27     |     2:00      |        5 KM        |    1     
+  3   |            Mavli Junction              |        MVJ         |     01:04     |     01:06     |     2:00      |       43 KM        |    1     
+  4   |                Kapasan                 |        KIN         |     01:32     |     01:34     |     2:00      |       79 KM        |    1     
+  5   |             Chittaurgarh               |        COR         |     02:15     |     02:35     |     20:00     |       115 KM       |    1     
+  6   |               Bhilwara                 |        BHL         |     03:34     |     03:39     |     5:00      |       169 KM       |    1     
+  7   |              Bijainagar                |        BJNR        |     04:42     |     04:44     |     2:00      |       235 KM       |    1     
+  8   |               Nasirabad                |        NSD         |     05:18     |     05:20     |     2:00      |       277 KM       |    1     
+  9   |            Ajmer Junction              |        AII         |     06:20     |     06:30     |     10:00     |       301 KM       |    1     
+  10  |                Jaipur                  |         JP         |     09:00     |     09:10     |     10:00     |       435 KM       |    1     
+  11  |                 Alwar                  |        AWR         |     11:31     |     11:34     |     3:00      |       586 KM       |    1     
+  12  |                Rewari                  |         RE         |     12:50     |     12:55     |     5:00      |       660 KM       |    1     
+  13  |                Gurgaon                 |        GGN         |     13:36     |     13:38     |     2:00      |       711 KM       |    1     
+  14  |              Delhi Cantt               |        DEC         |     14:04     |     14:06     |     2:00      |       728 KM       |    1     
+  15  |                 Delhi                  |        DLI         |     14:45     |     15:05     |     20:00     |       742 KM       |    1     
+  16  |               Moradabad                |         MB         |     18:15     |     18:25     |     10:00     |       903 KM       |    1     
+  17  |              Lucknow Nr                |        LKO         |     23:35     |     23:45     |     10:00     |      1229 KM       |    1     
+  18  |          Barabanki Junction            |        BBK         |     00:32     |     00:34     |     2:00      |      1257 KM       |    2     
+  19  |          Gorakhpur Junction            |        GKP         |     04:25     |     04:40     |     15:00     |      1499 KM       |    2     
+  20  |             Deoria Sadar               |        DEOS        |     05:28     |     05:30     |     2:00      |      1549 KM       |    2     
+  21  |            Siwan Junction              |         SV         |     06:40     |     06:45     |     5:00      |      1618 KM       |    2     
+  22  |                Chhapra                 |        CPR         |     08:00     |     08:10     |     10:00     |      1679 KM       |    2     
+  23  |           Hajipur Junction             |        HJP         |     09:23     |     09:25     |     2:00      |      1738 KM       |    2     
+  24  |         Muzaffarpur Junction           |        MFP         |     10:10     |     10:20     |     10:00     |      1792 KM       |    2     
+  25  |          Samastipur Junction           |        SPJ         |     11:20     |     11:25     |     5:00      |      1844 KM       |    2     
+  26  |           Khagaria Junction            |        KGG         |     13:03     |     13:05     |     2:00      |      1929 KM       |    2     
+  27  |           Katihar Junction             |        KIR         |     15:15     |     15:30     |     15:00     |      2053 KM       |    2     
+  28  |              Kishanganj                |        KNE         |     16:52     |     16:54     |     2:00      |      2149 KM       |    2     
+  29  |            New Jalpaiguri              |        NJP         |     18:35     |     Ends      |       -       |      2236 KM       |    2     

@@ -1,0 +1,57 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Dibrugarh                |        DBRG        |     Start     |     18:25     |       -       |        0 KM        |    1     
+  2   |         New Tinsukia Junction          |        NTSK        |     19:30     |     19:40     |     10:00     |       42 KM        |    1     
+  3   |               Duliajan                 |        DJG         |     20:02     |     20:03     |     1:00      |       58 KM        |    1     
+  4   |              Naharkatiya               |        NHK         |     20:17     |     20:18     |     1:00      |       67 KM        |    1     
+  5   |                Namrup                  |        NAM         |     20:30     |     20:31     |     1:00      |       79 KM        |    1     
+  6   |                 Bhojo                  |        BOJ         |     20:56     |     20:58     |     2:00      |       111 KM       |    1     
+  7   |          Simaluguri Junction           |        SLGR        |     21:30     |     21:35     |     5:00      |       145 KM       |    1     
+  8   |                Amguri                  |        AGI         |     22:18     |     22:19     |     1:00      |       171 KM       |    1     
+  9   |           Mariani Junction             |        MXN         |     23:00     |     23:10     |     10:00     |       199 KM       |    1     
+  10  |          Furkating Junction            |        FKG         |     00:05     |     00:10     |     5:00      |       237 KM       |    2     
+  11  |               Barpathar                |        BXP         |     00:37     |     00:38     |     1:00      |       261 KM       |    2     
+  12  |              Sarupathar                |        SZR         |     00:53     |     00:54     |     1:00      |       271 KM       |    2     
+  13  |                Dimapur                 |        DMV         |     01:30     |     01:45     |     15:00     |       307 KM       |    2     
+  14  |                 Diphu                  |        DPU         |     02:23     |     02:24     |     1:00      |       344 KM       |    2     
+  15  |           Lumding Junction             |        LMG         |     03:10     |     03:25     |     15:00     |       376 KM       |    2     
+  16  |                 Lanka                  |        LKA         |     04:21     |     04:22     |     1:00      |       406 KM       |    2     
+  17  |                 Hojai                  |        HJI         |     04:36     |     04:37     |     1:00      |       421 KM       |    2     
+  18  |          Chaparmukh Junction           |        CPK         |     05:25     |     05:30     |     5:00      |       465 KM       |    2     
+  19  |               Guwahati                 |        GHY         |     07:30     |     07:45     |     15:00     |       557 KM       |    2     
+  20  |               Kamakhya                 |        KYQ         |     08:00     |     08:05     |     5:00      |       563 KM       |    2     
+  21  |           Rangiya Junction             |        RNY         |     08:57     |     09:02     |     5:00      |       604 KM       |    2     
+  22  |                Nalbari                 |        NLV         |     09:19     |     09:20     |     1:00      |       621 KM       |    2     
+  23  |                 Tihu                   |        TIHU        |     09:37     |     09:38     |     1:00      |       638 KM       |    2     
+  24  |               Pathsala                 |        PBL         |     09:49     |     09:50     |     1:00      |       648 KM       |    2     
+  25  |             Barpeta Road               |        BPRD        |     10:11     |     10:12     |     1:00      |       669 KM       |    2     
+  26  |           Sorbhog Junction             |        SBE         |     10:25     |     10:26     |     1:00      |       677 KM       |    2     
+  27  |              Bongaigaon                |        BNGN        |     11:11     |     11:12     |     1:00      |       711 KM       |    2     
+  28  |            New Bongaigaon              |        NBQ         |     11:35     |     11:45     |     10:00     |       713 KM       |    2     
+  29  |               Kokrajhar                |        KOJ         |     12:14     |     12:15     |     1:00      |       741 KM       |    2     
+  30  |          Fakiragram Junction           |        FKM         |     12:25     |     12:27     |     2:00      |       751 KM       |    2     
+  31  |             Kamakhyaguri               |        KAMG        |     13:09     |     13:10     |     1:00      |       800 KM       |    2     
+  32  |            New Alipurdaur              |        NOQ         |     13:27     |     13:32     |     5:00      |       820 KM       |    2     
+  33  |            New Cooch Behar             |        NCB         |     13:55     |     14:00     |     5:00      |       839 KM       |    2     
+  34  |               Falakata                 |        FLK         |     14:43     |     14:45     |     2:00      |       877 KM       |    2     
+  35  |               Dhupguri                 |        DQG         |     15:05     |     15:10     |     5:00      |       899 KM       |    2     
+  36  |             New Maynaguri              |        NMX         |     15:34     |     15:35     |     1:00      |       920 KM       |    2     
+  37  |            Jalpaiguri Road             |        JPE         |     15:51     |     15:52     |     1:00      |       931 KM       |    2     
+  38  |            New Jalpaiguri              |        NJP         |     16:40     |     16:55     |     15:00     |       965 KM       |    2     
+  39  |             Aluabari Road              |        AUB         |     17:35     |     17:37     |     2:00      |      1021 KM       |    2     
+  40  |              Kishanganj                |        KNE         |     18:05     |     18:10     |     5:00      |      1052 KM       |    2     
+  41  |            Barsoi Junction             |        BOE         |     19:03     |     19:08     |     5:00      |      1109 KM       |    2     
+  42  |            Harischandrpur              |        HCR         |     19:41     |     19:42     |     1:00      |      1142 KM       |    2     
+  43  |                 Samsi                  |         SM         |     20:11     |     20:12     |     1:00      |      1163 KM       |    2     
+  44  |              Malda Town                |        MLDT        |     22:00     |     22:10     |     10:00     |      1197 KM       |    2     
+  45  |         New Farakka Junction           |        NFK         |     22:42     |     22:47     |     5:00      |      1232 KM       |    2     
+  46  |             Dhulian Ganga              |        DGLE        |     23:05     |     23:07     |     2:00      |      1247 KM       |    2     
+  47  |                Nimtita                 |        NILE        |     23:19     |     23:21     |     2:00      |      1257 KM       |    2     
+  48  |             Jangipur Road              |        JRLE        |     23:44     |     23:45     |     1:00      |      1276 KM       |    2     
+  49  |           Azimganj Junction            |         AZ         |     00:40     |     00:48     |     8:00      |      1311 KM       |    3     
+  50  |            Khagraghat Road             |        KGLE        |     01:01     |     01:03     |     2:00      |      1326 KM       |    3     
+  51  |                 Salar                  |        SALE        |     01:50     |     01:51     |     1:00      |      1367 KM       |    3     
+  52  |                 Katwa                  |        KWAE        |     02:25     |     02:30     |     5:00      |      1384 KM       |    3     
+  53  |             Nabadwip Dham              |        NDAE        |     03:02     |     03:06     |     4:00      |      1423 KM       |    3     
+  54  |             Ambika Kalna               |        ABKA        |     03:27     |     03:28     |     1:00      |      1447 KM       |    3     
+  55  |            Bandel Junction             |        BDC         |     04:30     |     04:35     |     5:00      |      1489 KM       |    3     
+  56  |            Howrah Junction             |        HWH         |     05:45     |     Ends      |       -       |      1528 KM       |    3     

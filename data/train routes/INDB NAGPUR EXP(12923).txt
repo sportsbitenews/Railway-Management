@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Indore Junction Bg            |        INDB        |     Start     |     21:25     |       -       |        0 KM        |    1     
+  2   |                 Dewas                  |        DWX         |     22:11     |     22:13     |     2:00      |       39 KM        |    1     
+  3   |                 Maksi                  |        MKC         |     22:58     |     23:00     |     2:00      |       75 KM        |    1     
+  4   |               Shujalpur                |        SJP         |     23:51     |     23:53     |     2:00      |       138 KM       |    1     
+  5   |               Habibganj                |        HBJ         |     01:33     |     01:35     |     2:00      |       224 KM       |    2     
+  6   |            Itarsi Junction             |         ET         |     03:15     |     03:20     |     5:00      |       310 KM       |    2     
+  7   |                 Betul                  |        BZU         |     05:04     |     05:06     |     2:00      |       416 KM       |    2     
+  8   |             Amla Junction              |        AMLA        |     05:26     |     05:28     |     2:00      |       439 KM       |    2     
+  9   |                Multai                  |        MTY         |     05:45     |     05:47     |     2:00      |       462 KM       |    2     
+  10  |               Pandhurna                |        PAR         |     06:32     |     06:34     |     2:00      |       503 KM       |    2     
+  11  |                 Katol                  |        KATL        |     07:06     |     07:08     |     2:00      |       546 KM       |    2     
+  12  |                Nagpur                  |        NGP         |     08:25     |     Ends      |       -       |       607 KM       |    2     

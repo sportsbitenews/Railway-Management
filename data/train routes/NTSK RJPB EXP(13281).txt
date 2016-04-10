@@ -1,0 +1,30 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |         New Tinsukia Junction          |        NTSK        |     Start     |     06:30     |       -       |        0 KM        |    1     
+  2   |               Duliajan                 |        DJG         |     06:50     |     06:51     |     1:00      |       17 KM        |    1     
+  3   |              Naharkatiya               |        NHK         |     07:02     |     07:03     |     1:00      |       25 KM        |    1     
+  4   |                Namrup                  |        NAM         |     07:15     |     07:16     |     1:00      |       37 KM        |    1     
+  5   |          Simaluguri Junction           |        SLGR        |     08:06     |     08:08     |     2:00      |       103 KM       |    1     
+  6   |           Mariani Junction             |        MXN         |     09:15     |     09:25     |     10:00     |       157 KM       |    1     
+  7   |          Furkating Junction            |        FKG         |     10:23     |     10:25     |     2:00      |       195 KM       |    1     
+  8   |                Dimapur                 |        DMV         |     11:47     |     11:52     |     5:00      |       265 KM       |    1     
+  9   |                 Diphu                  |        DPU         |     12:35     |     12:36     |     1:00      |       302 KM       |    1     
+  10  |           Lumding Junction             |        LMG         |     13:20     |     13:30     |     10:00     |       334 KM       |    1     
+  11  |                 Hojai                  |        HJI         |     14:22     |     14:23     |     1:00      |       379 KM       |    1     
+  12  |          Chaparmukh Junction           |        CPK         |     15:05     |     15:07     |     2:00      |       400 KM       |    1     
+  13  |               Jagi Road                |        JID         |     16:01     |     16:02     |     1:00      |       450 KM       |    1     
+  14  |               Guwahati                 |        GHY         |     17:25     |     17:50     |     25:00     |       515 KM       |    1     
+  15  |               Kamakhya                 |        KYQ         |     18:05     |     18:10     |     5:00      |       521 KM       |    1     
+  16  |             Goalpara Town              |        GLPT        |     19:54     |     19:56     |     2:00      |       643 KM       |    1     
+  17  |            New Bongaigaon              |        NBQ         |     21:15     |     21:20     |     5:00      |       723 KM       |    1     
+  18  |               Kokrajhar                |        KOJ         |     21:49     |     21:50     |     1:00      |       761 KM       |    1     
+  19  |         Alipur Duar Junction           |        APDJ        |     23:00     |     23:05     |     5:00      |       832 KM       |    1     
+  20  |            New Jalpaiguri              |        NJP         |     03:05     |     03:20     |     15:00     |      1000 KM       |    2     
+  21  |              Kishanganj                |        KNE         |     04:25     |     04:27     |     2:00      |      1088 KM       |    2     
+  22  |           Katihar Junction             |        KIR         |     07:05     |     07:20     |     15:00     |      1201 KM       |    2     
+  23  |               Naugachia                |        NNA         |     08:06     |     08:07     |     1:00      |      1258 KM       |    2     
+  24  |           Khagaria Junction            |        KGG         |     09:00     |     09:01     |     1:00      |      1325 KM       |    2     
+  25  |              Begu Sarai                |        BGS         |     09:45     |     09:46     |     1:00      |      1365 KM       |    2     
+  26  |           Barauni Junction             |        BJU         |     10:25     |     10:30     |     5:00      |      1381 KM       |    2     
+  27  |           Mokameh Junction             |        MKA         |     11:45     |     11:47     |     2:00      |      1401 KM       |    2     
+  28  |         Bakhtiyarpur Junction          |        BKP         |     13:03     |     13:05     |     2:00      |      1445 KM       |    2     
+  29  |            Rjndr Ngr Bihar             |        RJPB        |     14:00     |     Ends      |       -       |      1488 KM       |    2     

@@ -1,0 +1,11 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Ajmer Junction              |        AII         |     Start     |     05:45     |       -       |        0 KM        |    1     
+  2   |              Kishangarh                |        KSG         |     06:12     |     06:14     |     2:00      |       29 KM        |    1     
+  3   |           Phulera Junction             |         FL         |     06:53     |     06:55     |     2:00      |       80 KM        |    1     
+  4   |            Ringas Junction             |        RGS         |     07:52     |     07:54     |     2:00      |       147 KM       |    1     
+  5   |             Nim Ka Thana               |        NMK         |     08:34     |     08:36     |     2:00      |       194 KM       |    1     
+  6   |                Narnaul                 |        NNL         |     09:11     |     09:13     |     2:00      |       244 KM       |    1     
+  7   |                Rewari                  |         RE         |     10:08     |     10:10     |     2:00      |       295 KM       |    1     
+  8   |                Gurgaon                 |        GGN         |     10:46     |     10:48     |     2:00      |       347 KM       |    1     
+  9   |              Delhi Cantt               |        DEC         |     11:05     |     11:07     |     2:00      |       364 KM       |    1     
+  10  |             H Nizamuddin               |        NZM         |     12:35     |     Ends      |       -       |       386 KM       |    1     

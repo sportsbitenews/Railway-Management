@@ -1,0 +1,44 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Jabalpur                 |        JBP         |     Start     |     23:50     |       -       |        0 KM        |    1     
+  2   |              Sihora Road               |        SHR         |     00:22     |     00:24     |     2:00      |       39 KM        |    2     
+  3   |              Katni South               |        KTES        |     01:00     |     01:05     |     5:00      |       90 KM        |    2     
+  4   |            Khanna Banjari              |        KHBJ        |     02:28     |     02:30     |     2:00      |       142 KM       |    2     
+  5   |                Beohari                 |        BEHR        |     03:30     |     03:35     |     5:00      |       203 KM       |    2     
+  6   |              Marwasgram                |        MWJ         |     04:06     |     04:08     |     2:00      |       250 KM       |    2     
+  7   |               Sareigram                |        SGAM        |     04:56     |     04:58     |     2:00      |       295 KM       |    2     
+  8   |               Singrauli                |        SGRL        |     07:45     |     07:55     |     10:00     |       352 KM       |    2     
+  9   |               Obra Dam                 |        OBR         |     08:54     |     08:56     |     2:00      |       403 KM       |    2     
+  10  |                Chopan                  |        CPU         |     09:30     |     10:00     |     30:00     |       416 KM       |    2     
+  11  |                Renukut                 |        RNQ         |     11:03     |     11:05     |     2:00      |       457 KM       |    2     
+  12  |              Duddhinagar               |        DXN         |     11:28     |     11:30     |     2:00      |       479 KM       |    2     
+  13  |              Wyndhamganj               |        WDM         |     11:52     |     11:54     |     2:00      |       501 KM       |    2     
+  14  |             Nagar Untari               |        NUQ         |     12:13     |     12:15     |     2:00      |       513 KM       |    2     
+  15  |                Garhwa                  |        GHQ         |     12:44     |     12:46     |     2:00      |       547 KM       |    2     
+  16  |              Garwa Road                |        GHD         |     13:05     |     13:10     |     5:00      |       557 KM       |    2     
+  17  |              Daltonganj                |        DTO         |     13:43     |     13:48     |     5:00      |       590 KM       |    2     
+  18  |           Barwadih Junction            |        BRWD        |     14:11     |     14:16     |     5:00      |       617 KM       |    2     
+  19  |              Chhipadohar               |        CPDR        |     14:25     |     14:27     |     2:00      |       627 KM       |    2     
+  20  |                Latehar                 |        LTHR        |     15:08     |     15:10     |     2:00      |       658 KM       |    2     
+  21  |                 Tori                   |        TORI        |     15:41     |     15:43     |     2:00      |       691 KM       |    2     
+  22  |             Mccluskieganj              |        MGME        |     16:00     |     16:02     |     2:00      |       713 KM       |    2     
+  23  |                Khalari                 |        KLRE        |     16:09     |     16:11     |     2:00      |       719 KM       |    2     
+  24  |                  Ray                   |        RAY         |     16:18     |     16:20     |     2:00      |       726 KM       |    2     
+  25  |                Patratu                 |        PTRU        |     17:33     |     17:35     |     2:00      |       755 KM       |    2     
+  26  |              Barka Kana                |        BRKA        |     17:55     |     18:15     |     20:00     |       775 KM       |    2     
+  27  |              Ranchi Road               |        RRME        |     18:57     |     18:59     |     2:00      |       784 KM       |    2     
+  28  |               Chainpur                 |        CNPR        |     19:38     |     19:40     |     2:00      |       797 KM       |    2     
+  29  |                 Gumia                  |        GMIA        |     20:21     |     20:23     |     2:00      |       827 KM       |    2     
+  30  |            Bokaro Thermal              |        BKRO        |     20:30     |     20:32     |     2:00      |       833 KM       |    2     
+  31  |                 Bermo                  |        BRMO        |     20:56     |     20:58     |     2:00      |       842 KM       |    2     
+  32  |                Phusro                  |        PUS         |     21:10     |     21:12     |     2:00      |       847 KM       |    2     
+  33  |              Bhandaridah               |        BHME        |     21:18     |     21:20     |     2:00      |       852 KM       |    2     
+  34  |              Chandrapura               |        CRP         |     21:52     |     21:54     |     2:00      |       859 KM       |    2     
+  35  |              Katrasgarh                |        KTH         |     22:36     |     22:38     |     2:00      |       880 KM       |    2     
+  36  |           Dhanbad Junction             |        DHN         |     23:28     |     23:38     |     10:00     |       893 KM       |    2     
+  37  |               Kumardubi                |        KMME        |     00:08     |     00:10     |     2:00      |       932 KM       |    3     
+  38  |                 Kulti                  |        ULT         |     00:17     |     00:19     |     2:00      |       938 KM       |    3     
+  39  |           Asansol Junction             |        ASN         |     00:39     |     00:47     |     8:00      |       952 KM       |    3     
+  40  |               Raniganj                 |        RNG         |     01:08     |     01:10     |     2:00      |       970 KM       |    3     
+  41  |               Durgapur                 |        DGR         |     01:30     |     01:32     |     2:00      |       994 KM       |    3     
+  42  |          Barddhaman Junction           |        BWN         |     02:33     |     02:37     |     4:00      |      1057 KM       |    3     
+  43  |            Howrah Junction             |        HWH         |     04:15     |     Ends      |       -       |      1152 KM       |    3     

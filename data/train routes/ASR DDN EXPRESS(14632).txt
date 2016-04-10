@@ -1,0 +1,28 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Amritsar Junction            |        ASR         |     Start     |     22:15     |       -       |        0 KM        |    1     
+  2   |               Jandiala                 |        JNL         |     22:30     |     22:32     |     2:00      |       19 KM        |    1     
+  3   |                 Beas                   |        BEAS        |     22:50     |     22:52     |     2:00      |       43 KM        |    1     
+  4   |               Kartarpur                |        KRE         |     23:13     |     23:15     |     2:00      |       64 KM        |    1     
+  5   |            Jalandhar City              |        JUC         |     23:37     |     23:47     |     10:00     |       79 KM        |    1     
+  6   |            Jalandhar Cant              |        JRC         |     00:01     |     00:03     |     2:00      |       84 KM        |    2     
+  7   |           Phagwara Junction            |        PGW         |     00:16     |     00:18     |     2:00      |       100 KM       |    2     
+  8   |           Phillaur Junction            |        PHR         |     00:42     |     00:44     |     2:00      |       123 KM       |    2     
+  9   |           Ludhiana Junction            |        LDH         |     01:10     |     01:20     |     10:00     |       136 KM       |    2     
+  10  |                Khanna                  |        KNN         |     02:02     |     02:04     |     2:00      |       178 KM       |    2     
+  11  |           Sirhind Junction             |        SIR         |     02:20     |     02:22     |     2:00      |       196 KM       |    2     
+  12  |           Rajpura Junction             |        RPJ         |     02:39     |     02:41     |     2:00      |       222 KM       |    2     
+  13  |         Ambala Cant Junction           |        UMB         |     03:17     |     03:25     |     8:00      |       250 KM       |    2     
+  14  |            Jagadhri Wshop              |        JUDW        |     03:59     |     04:01     |     2:00      |       296 KM       |    2     
+  15  |               Jagadhri                 |        JUD         |     04:13     |     04:15     |     2:00      |       301 KM       |    2     
+  16  |              Saharanpur                |        SRE         |     05:00     |     05:10     |     10:00     |       331 KM       |    2     
+  17  |                Roorkee                 |         RK         |     05:40     |     05:42     |     2:00      |       366 KM       |    2     
+  18  |            Laksar Junction             |        LRJ         |     06:10     |     06:50     |     40:00     |       384 KM       |    2     
+  19  |                Pathri                  |        PRI         |     07:08     |     07:10     |     2:00      |       398 KM       |    2     
+  20  |                 Ikkar                  |        IKK         |     07:17     |     07:19     |     2:00      |       403 KM       |    2     
+  21  |               Jwalapur                 |        JWP         |     07:26     |     07:28     |     2:00      |       407 KM       |    2     
+  22  |           Haridwar Junction            |         HW         |     07:45     |     08:15     |     30:00     |       411 KM       |    2     
+  23  |               Motichur                 |        MOTC        |     08:25     |     08:27     |     2:00      |       416 KM       |    2     
+  24  |                Raiwala                 |        RWL         |     08:43     |     08:45     |     2:00      |       422 KM       |    2     
+  25  |                Kansrao                 |        QSR         |     09:02     |     09:04     |     2:00      |       433 KM       |    2     
+  26  |                Doiwala                 |        DWO         |     09:19     |     09:21     |     2:00      |       443 KM       |    2     
+  27  |               Dehradun                 |        DDN         |     10:15     |     Ends      |       -       |       463 KM       |    2     

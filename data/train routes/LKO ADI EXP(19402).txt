@@ -1,0 +1,28 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Lucknow Nr                |        LKO         |     Start     |     22:40     |       -       |        0 KM        |    1     
+  2   |            Unnao Junction              |         ON         |     23:31     |     23:33     |     2:00      |       57 KM        |    1     
+  3   |            Kanpur Central              |        CNB         |     00:30     |     00:45     |     15:00     |       74 KM        |    2     
+  4   |            Kanpur Anwrganj             |        CPA         |     00:55     |     01:00     |     5:00      |       77 KM        |    2     
+  5   |                Kannauj                 |        KJN         |     01:54     |     01:56     |     2:00      |       155 KM       |    2     
+  6   |              Farrukhabad               |        FBD         |     03:00     |     03:05     |     5:00      |       213 KM       |    2     
+  7   |                Kasganj                 |        KSJ         |     04:25     |     04:35     |     10:00     |       321 KM       |    2     
+  8   |             Hathras City               |        HTC         |     05:29     |     05:31     |     2:00      |       384 KM       |    2     
+  9   |             Mathura Cant               |        MRT         |     06:58     |     07:00     |     2:00      |       424 KM       |    2     
+  10  |           Mathura Junction             |        MTJ         |     07:15     |     07:20     |     5:00      |       426 KM       |    2     
+  11  |           Achhnera Junction            |         AH         |     08:25     |     08:50     |     25:00     |       461 KM       |    2     
+  12  |          Bharatpur Junction            |        BTE         |     09:13     |     09:15     |     2:00      |       488 KM       |    2     
+  13  |           Bandikui Junction            |        BKI         |     12:26     |     12:28     |     2:00      |       585 KM       |    2     
+  14  |            Gandhinagar Jpr             |        GADJ        |     13:52     |     13:54     |     2:00      |       670 KM       |    2     
+  15  |                Jaipur                  |         JP         |     14:10     |     14:20     |     10:00     |       676 KM       |    2     
+  16  |           Phulera Junction             |         FL         |     15:13     |     15:15     |     2:00      |       730 KM       |    2     
+  17  |              Kishangarh                |        KSG         |     15:58     |     16:00     |     2:00      |       781 KM       |    2     
+  18  |            Ajmer Junction              |        AII         |     17:00     |     17:10     |     10:00     |       810 KM       |    2     
+  19  |                Beawar                  |        BER         |     18:02     |     18:04     |     2:00      |       863 KM       |    2     
+  20  |            Marwar Junction             |         MJ         |     19:25     |     19:30     |     5:00      |       950 KM       |    2     
+  21  |                 Rani                   |        RANI        |     20:06     |     20:08     |     2:00      |      1002 KM       |    2     
+  22  |                 Falna                  |         FA         |     20:20     |     20:22     |     2:00      |      1017 KM       |    2     
+  23  |              Sirohi Road               |        SOH         |     21:06     |     21:08     |     2:00      |      1072 KM       |    2     
+  24  |               Abu Road                 |        ABR         |     22:00     |     22:10     |     10:00     |      1115 KM       |    2     
+  25  |           Palanpur Junction            |        PNU         |     23:40     |     23:42     |     2:00      |      1168 KM       |    2     
+  26  |           Mahesana Junction            |        MSH         |     01:00     |     01:02     |     2:00      |      1233 KM       |    3     
+  27  |          Ahmedabad Junction            |        ADI         |     03:10     |     Ends      |       -       |      1301 KM       |    3     

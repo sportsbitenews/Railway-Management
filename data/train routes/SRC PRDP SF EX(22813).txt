@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |         Santragachi Junction           |        SRC         |     Start     |     20:40     |       -       |        0 KM        |    1     
+  2   |          Kharagpur Junction            |        KGP         |     22:15     |     22:20     |     5:00      |       108 KM       |    1     
+  3   |               Jaleswar                 |        JER         |     23:07     |     23:08     |     1:00      |       179 KM       |    1     
+  4   |               Balasore                 |        BLS         |     23:45     |     23:47     |     2:00      |       227 KM       |    1     
+  5   |                 Soro                   |        SORO        |     00:09     |     00:10     |     1:00      |       260 KM       |    2     
+  6   |               Bhadrakh                 |        BHC         |     00:45     |     00:47     |     2:00      |       289 KM       |    2     
+  7   |            Baitarani Road              |        BTV         |     01:11     |     01:12     |     1:00      |       321 KM       |    2     
+  8   |             Jajpur K Road              |        JJKR        |     01:22     |     01:23     |     1:00      |       332 KM       |    2     
+  9   |                Cuttack                 |        CTC         |     02:20     |     02:25     |     5:00      |       404 KM       |    2     
+  10  |             Raghunathpur               |        RCTC        |     02:50     |     02:51     |     1:00      |       436 KM       |    2     
+  11  |                Rahama                  |        RHMA        |     03:14     |     03:15     |     1:00      |       464 KM       |    2     
+  12  |                Paradip                 |        PRDP        |     04:00     |     Ends      |       -       |       487 KM       |    2     

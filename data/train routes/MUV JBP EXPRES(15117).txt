@@ -1,0 +1,11 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Manduadih                |        MUV         |     Start     |     08:25     |       -       |        0 KM        |    1     
+  2   |              Madhosingh                |        MBS         |     09:30     |     09:32     |     2:00      |       44 KM        |    1     
+  3   |             Gyanpur Road               |        GYN         |     09:46     |     09:48     |     2:00      |       57 KM        |    1     
+  4   |            Allahabad City              |        ALY         |     11:08     |     11:10     |     2:00      |       119 KM       |    1     
+  5   |          Allahabad Junction            |        ALD         |     11:50     |     12:20     |     30:00     |       121 KM       |    1     
+  6   |                 Satna                  |        STA         |     15:40     |     15:50     |     10:00     |       299 KM       |    1     
+  7   |                Maihar                  |        MYR         |     16:14     |     16:16     |     2:00      |       334 KM       |    1     
+  8   |                 Katni                  |        KTE         |     17:00     |     17:05     |     5:00      |       397 KM       |    1     
+  9   |              Sihora Road               |        SHR         |     17:50     |     17:52     |     2:00      |       450 KM       |    1     
+  10  |               Jabalpur                 |        JBP         |     19:20     |     Ends      |       -       |       488 KM       |    1     

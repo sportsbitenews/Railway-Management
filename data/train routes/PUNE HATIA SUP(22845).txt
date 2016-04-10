@@ -1,0 +1,19 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Pune Junction              |        PUNE        |     Start     |     10:45     |       -       |        0 KM        |    1     
+  2   |            Daund Junction              |         DD         |     12:05     |     12:15     |     10:00     |       76 KM        |    1     
+  3   |              Ahmadnagar                |        ANG         |     13:57     |     14:00     |     3:00      |       160 KM       |    1     
+  4   |               Kopargaon                |        KPG         |     15:58     |     16:00     |     2:00      |       271 KM       |    1     
+  5   |            Manmad Junction             |        MMR         |     17:20     |     17:25     |     5:00      |       313 KM       |    1     
+  6   |           Bhusaval Junction            |        BSL         |     20:00     |     20:10     |     10:00     |       497 KM       |    1     
+  7   |            Akola Junction              |         AK         |     21:55     |     22:00     |     5:00      |       636 KM       |    1     
+  8   |           Badnera Junction             |         BD         |     23:15     |     23:20     |     5:00      |       715 KM       |    1     
+  9   |            Wardha Junction             |         WR         |     00:32     |     00:35     |     3:00      |       811 KM       |    2     
+  10  |                Nagpur                  |        NGP         |     01:55     |     02:05     |     10:00     |       889 KM       |    2     
+  11  |            Gondia Junction             |         G          |     03:51     |     03:53     |     2:00      |      1019 KM       |    2     
+  12  |                 Durg                   |        DURG        |     06:00     |     06:05     |     5:00      |      1153 KM       |    2     
+  13  |            Raipur Junction             |         R          |     06:45     |     06:50     |     5:00      |      1190 KM       |    2     
+  14  |           Bilaspur Junction            |        BSP         |     08:40     |     08:55     |     15:00     |      1300 KM       |    2     
+  15  |                Champa                  |        CPH         |     09:42     |     09:44     |     2:00      |      1353 KM       |    2     
+  16  |          Jharsuguda Junction           |        JSG         |     12:05     |     12:07     |     2:00      |      1506 KM       |    2     
+  17  |               Rourkela                 |        ROU         |     13:30     |     13:40     |     10:00     |      1607 KM       |    2     
+  18  |                 Hatia                  |        HTE         |     17:10     |     Ends      |       -       |      1774 KM       |    2     

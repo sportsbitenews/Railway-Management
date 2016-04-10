@@ -1,0 +1,25 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Puri                   |        PURI        |     Start     |     14:00     |       -       |        0 KM        |    1     
+  2   |         Khurda Road Junction           |        KUR         |     15:05     |     15:10     |     5:00      |       44 KM        |    1     
+  3   |              Bhubaneswar               |        BBS         |     15:30     |     15:35     |     5:00      |       63 KM        |    1     
+  4   |                Cuttack                 |        CTC         |     16:10     |     16:15     |     5:00      |       91 KM        |    1     
+  5   |             Jajpur K Road              |        JJKR        |     17:12     |     17:13     |     1:00      |       163 KM       |    1     
+  6   |               Bhadrakh                 |        BHC         |     18:13     |     18:15     |     2:00      |       206 KM       |    1     
+  7   |               Balasore                 |        BLS         |     19:07     |     19:12     |     5:00      |       268 KM       |    1     
+  8   |                Hijilli                 |        HIJ         |     20:41     |     20:42     |     1:00      |       380 KM       |    1     
+  9   |               Midnapore                |        MDN         |     21:45     |     21:47     |     2:00      |       403 KM       |    1     
+  10  |               Bishnupur                |        VSU         |     22:36     |     22:37     |     1:00      |       475 KM       |    1     
+  11  |                Bankura                 |        BQA         |     23:02     |     23:04     |     2:00      |       505 KM       |    1     
+  12  |             Adra Junction              |        ADRA        |     00:20     |     00:35     |     15:00     |       559 KM       |    2     
+  13  |           Asansol Junction             |        ASN         |     01:52     |     02:36     |     44:00     |       600 KM       |    2     
+  14  |           Madhupur Junction            |        MDP         |     03:50     |     03:55     |     5:00      |       681 KM       |    2     
+  15  |           Jasidih Junction             |        JSME        |     04:20     |     04:30     |     10:00     |       710 KM       |    2     
+  16  |                Jhajha                  |        JAJ         |     06:23     |     06:25     |     2:00      |       754 KM       |    2     
+  17  |             Kiul Junction              |        KIUL        |     07:35     |     07:37     |     2:00      |       808 KM       |    2     
+  18  |           Barauni Junction             |        BJU         |     08:50     |     09:10     |     20:00     |       848 KM       |    2     
+  19  |          Samastipur Junction           |        SPJ         |     10:10     |     10:15     |     5:00      |       898 KM       |    2     
+  20  |             Laheria Sarai              |        LSI         |     11:01     |     11:03     |     2:00      |       931 KM       |    2     
+  21  |          Darbhanga Junction            |        DBG         |     11:12     |     11:17     |     5:00      |       936 KM       |    2     
+  22  |            Sakri Junction              |        SKI         |     11:37     |     11:42     |     5:00      |       955 KM       |    2     
+  23  |               Madhubani                |        MBI         |     12:19     |     12:20     |     1:00      |       972 KM       |    2     
+  24  |               Jaynagar                 |        JYG         |     13:30     |     Ends      |       -       |      1004 KM       |    2     

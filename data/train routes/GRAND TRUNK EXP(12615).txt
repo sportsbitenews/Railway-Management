@@ -1,0 +1,42 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Chennai Central             |        MAS         |     Start     |     19:15     |       -       |        0 KM        |    1     
+  2   |            Gudur Junction              |        GDR         |     21:30     |     21:32     |     2:00      |       138 KM       |    1     
+  3   |                Nellore                 |        NLR         |     21:56     |     21:58     |     2:00      |       176 KM       |    1     
+  4   |                Ongole                  |        OGL         |     23:23     |     23:25     |     2:00      |       292 KM       |    1     
+  5   |                Chirala                 |        CLX         |     00:01     |     00:02     |     1:00      |       342 KM       |    2     
+  6   |                Bapatla                 |        BPP         |     00:12     |     00:13     |     1:00      |       357 KM       |    2     
+  7   |            Tenali Junction             |        TEL         |     00:44     |     00:45     |     1:00      |       399 KM       |    2     
+  8   |          Vijayawada Junction           |        BZA         |     01:55     |     02:05     |     10:00     |       431 KM       |    2     
+  9   |                Khammam                 |        KMT         |     03:18     |     03:20     |     2:00      |       532 KM       |    2     
+  10  |               Warangal                 |         WL         |     04:58     |     05:00     |     2:00      |       639 KM       |    2     
+  11  |               Ramgundam                |        RDM         |     06:18     |     06:20     |     2:00      |       740 KM       |    2     
+  12  |               Mancheral                |        MCI         |     06:33     |     06:34     |     1:00      |       754 KM       |    2     
+  13  |            Sirpur Kagazngr             |        SKZR        |     07:23     |     07:25     |     2:00      |       812 KM       |    2     
+  14  |              Balharshah                |        BPQ         |     08:45     |     08:55     |     10:00     |       881 KM       |    2     
+  15  |              Chandrapur                |         CD         |     09:14     |     09:15     |     1:00      |       895 KM       |    2     
+  16  |              Hinganghat                |        HGT         |     10:17     |     10:18     |     1:00      |       979 KM       |    2     
+  17  |               Sevagram                 |        SEGM        |     10:59     |     11:00     |     1:00      |      1016 KM       |    2     
+  18  |                Nagpur                  |        NGP         |     12:15     |     12:25     |     10:00     |      1093 KM       |    2     
+  19  |                Narkher                 |        NRKR        |     13:30     |     13:31     |     1:00      |      1178 KM       |    2     
+  20  |               Pandhurna                |        PAR         |     13:49     |     13:50     |     1:00      |      1196 KM       |    2     
+  21  |             Amla Junction              |        AMLA        |     14:55     |     14:57     |     2:00      |      1260 KM       |    2     
+  22  |                 Betul                  |        BZU         |     15:16     |     15:17     |     1:00      |      1283 KM       |    2     
+  23  |              Ghoradongri               |        GDYA        |     15:58     |     15:59     |     1:00      |      1319 KM       |    2     
+  24  |            Itarsi Junction             |         ET         |     17:15     |     17:20     |     5:00      |      1390 KM       |    2     
+  25  |              Hoshangabad               |        HBD         |     17:38     |     17:40     |     2:00      |      1407 KM       |    2     
+  26  |               Habibganj                |        HBJ         |     18:45     |     18:47     |     2:00      |      1475 KM       |    2     
+  27  |           Bhopal  Junction             |        BPL         |     19:20     |     19:30     |     10:00     |      1481 KM       |    2     
+  28  |                Vidisha                 |        BHS         |     20:07     |     20:09     |     2:00      |      1535 KM       |    2     
+  29  |              Ganj Basoda               |        BAQ         |     20:38     |     20:40     |     2:00      |      1574 KM       |    2     
+  30  |             Bina Junction              |        BINA        |     21:25     |     21:30     |     5:00      |      1620 KM       |    2     
+  31  |            Jhansi Junction             |        JHS         |     23:28     |     23:40     |     12:00     |      1772 KM       |    2     
+  32  |                Gwalior                 |        GWL         |     00:50     |     00:55     |     5:00      |      1869 KM       |    3     
+  33  |                Morena                  |        MRA         |     01:21     |     01:22     |     1:00      |      1908 KM       |    3     
+  34  |               Dhaulpur                 |        DHO         |     01:53     |     01:55     |     2:00      |      1935 KM       |    3     
+  35  |              Agra Cantt                |        AGC         |     02:45     |     02:50     |     5:00      |      1988 KM       |    3     
+  36  |             Raja Ki Mandi              |        RKM         |     02:58     |     03:00     |     2:00      |      1992 KM       |    3     
+  37  |           Mathura Junction             |        MTJ         |     03:45     |     03:50     |     5:00      |      2042 KM       |    3     
+  38  |               Faridabad                |        FDB         |     05:20     |     05:22     |     2:00      |      2154 KM       |    3     
+  39  |             H Nizamuddin               |        NZM         |     06:00     |     06:02     |     2:00      |      2175 KM       |    3     
+  40  |               New Delhi                |        NDLS        |     06:30     |     06:50     |     20:00     |      2182 KM       |    3     
+  41  |            Delhi S Rohilla             |        DEE         |     07:10     |     Ends      |       -       |      2188 KM       |    3     

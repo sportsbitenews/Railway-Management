@@ -1,0 +1,25 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Sainagar Shirdi             |        SNSI        |     Start     |     08:25     |       -       |        0 KM        |    1     
+  2   |               Puntamba                 |         PB         |     08:45     |     09:00     |     15:00     |       17 KM        |    1     
+  3   |              Ahmadnagar                |        ANG         |     10:12     |     10:15     |     3:00      |       104 KM       |    1     
+  4   |            Daund Junction              |         DD         |     12:10     |     12:15     |     5:00      |       188 KM       |    1     
+  5   |           Solapur Junction             |        SUR         |     15:00     |     15:10     |     10:00     |       376 KM       |    1     
+  6   |               Gulbarga                 |         GR         |     16:53     |     16:55     |     2:00      |       489 KM       |    1     
+  7   |                 Wadi                   |        WADI        |     17:55     |     18:00     |     5:00      |       525 KM       |    1     
+  8   |                Raichur                 |         RC         |     19:18     |     19:20     |     2:00      |       633 KM       |    1     
+  9   |           Manthralayam Road            |        MALM        |     19:58     |     20:00     |     2:00      |       661 KM       |    1     
+  10  |                 Adoni                  |         AD         |     20:38     |     20:40     |     2:00      |       702 KM       |    1     
+  11  |           Guntakal Junction            |        GTL         |     21:40     |     21:45     |     5:00      |       754 KM       |    1     
+  12  |               Anantapur                |        ATP         |     23:28     |     23:30     |     2:00      |       822 KM       |    1     
+  13  |         Dharmavaram Junction           |        DMM         |     00:55     |     01:00     |     5:00      |       855 KM       |    2     
+  14  |             Sai P Nilayam              |        SSPN        |     01:26     |     01:28     |     2:00      |       888 KM       |    2     
+  15  |               Hindupur                 |        HUP         |     02:18     |     02:20     |     2:00      |       946 KM       |    2     
+  16  |           Yelhanka Junction            |        YNK         |     03:33     |     03:35     |     2:00      |      1029 KM       |    2     
+  17  |            Krishnarajapurm             |        KJM         |     03:53     |     03:55     |     2:00      |      1045 KM       |    2     
+  18  |                 Malur                  |        MLO         |     04:13     |     04:15     |     2:00      |      1074 KM       |    2     
+  19  |              Bangarapet                |        BWT         |     04:43     |     04:45     |     2:00      |      1101 KM       |    2     
+  20  |              Jolarpettai               |        JTJ         |     06:13     |     06:15     |     2:00      |      1179 KM       |    2     
+  21  |           Katpadi Junction             |        KPD         |     07:23     |     07:25     |     2:00      |      1262 KM       |    2     
+  22  |               Arakkonam                |        AJJ         |     08:13     |     08:15     |     2:00      |      1323 KM       |    2     
+  23  |               Perambur                 |        PER         |     09:03     |     09:05     |     2:00      |      1386 KM       |    2     
+  24  |            Chennai Central             |        MAS         |     09:40     |     Ends      |       -       |      1392 KM       |    2     

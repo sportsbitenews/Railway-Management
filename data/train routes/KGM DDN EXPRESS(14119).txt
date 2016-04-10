@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Kathgodam                |        KGM         |     Start     |     19:45     |       -       |        0 KM        |    1     
+  2   |               Haldwani                 |        HDW         |     20:00     |     20:02     |     2:00      |        7 KM        |    1     
+  3   |               Lal Kuan                 |        LKU         |     20:34     |     20:39     |     5:00      |       23 KM        |    1     
+  4   |             Rudrapur City              |        RUPC        |     21:00     |     21:02     |     2:00      |       45 KM        |    1     
+  5   |             Bilaspur Road              |        BLQR        |     21:19     |     21:21     |     2:00      |       63 KM        |    1     
+  6   |                Rampur                  |        RMU         |     22:30     |     22:45     |     15:00     |       90 KM        |    1     
+  7   |               Moradabad                |         MB         |     23:35     |     23:45     |     10:00     |       117 KM       |    1     
+  8   |          Najibabad Junction            |        NBD         |     01:10     |     01:15     |     5:00      |       215 KM       |    2     
+  9   |            Laksar Junction             |        LRJ         |     01:55     |     02:00     |     5:00      |       257 KM       |    2     
+  10  |           Haridwar Junction            |         HW         |     02:45     |     02:55     |     10:00     |       284 KM       |    2     
+  11  |               Dehradun                 |        DDN         |     04:20     |     Ends      |       -       |       335 KM       |    2     

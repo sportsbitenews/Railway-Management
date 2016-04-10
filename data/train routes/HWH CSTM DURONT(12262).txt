@@ -1,0 +1,3 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Howrah Junction             |        HWH         |     Start     |     08:20     |       -       |        0 KM        |    1     
+  2   |              Mumbai Cst                |        CSTM        |     10:30     |     Ends      |       -       |      1968 KM       |    2     

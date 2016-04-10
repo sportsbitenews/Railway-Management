@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Raipur Junction             |         R          |     Start     |     12:20     |       -       |        0 KM        |    1     
+  2   |               Bhatapara                |        BYT         |     13:13     |     13:15     |     2:00      |       64 KM        |    1     
+  3   |               Usalapur                 |        USL         |     14:20     |     14:30     |     10:00     |       116 KM       |    1     
+  4   |              Pendra Road               |        PND         |     15:52     |     15:54     |     2:00      |       208 KM       |    1     
+  5   |           Anuppur Junction             |        APR         |     16:50     |     16:55     |     5:00      |       258 KM       |    1     
+  6   |                Shahdol                 |        SDL         |     17:38     |     17:40     |     2:00      |       299 KM       |    1     
+  7   |                 Katni                  |        KTE         |     20:15     |     20:20     |     5:00      |       426 KM       |    1     
+  8   |                 Satna                  |        STA         |     21:35     |     21:45     |     10:00     |       525 KM       |    1     
+  9   |               Chitrakot                |        CKTD        |     23:41     |     23:42     |     1:00      |       633 KM       |    1     
+  10  |            Banda Junction              |        BNDA        |     00:37     |     00:45     |     8:00      |       702 KM       |    2     
+  11  |            Kanpur Central              |        CNB         |     03:30     |     03:40     |     10:00     |       845 KM       |    2     
+  12  |              Lucknow Ne                |        LJN         |     05:05     |     Ends      |       -       |       919 KM       |    2     

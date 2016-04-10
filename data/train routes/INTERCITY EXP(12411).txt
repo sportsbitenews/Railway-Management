@@ -1,0 +1,8 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Chandigarh                |        CDG         |     Start     |     07:00     |       -       |        0 KM        |    1     
+  2   |            Sahibzada Asngr             |        SASN        |     07:10     |     07:12     |     2:00      |       12 KM        |    1     
+  4   |           Ludhiana Junction            |        LDH         |     09:00     |     09:15     |     15:00     |       113 KM       |    1     
+  5   |           Phagwara Junction            |        PGW         |     09:42     |     09:44     |     2:00      |       149 KM       |    1     
+  6   |            Jalandhar City              |        JUC         |     10:07     |     10:10     |     3:00      |       170 KM       |    1     
+  7   |                 Beas                   |        BEAS        |     10:42     |     10:44     |     2:00      |       206 KM       |    1     
+  8   |           Amritsar Junction            |        ASR         |     11:35     |     Ends      |       -       |       248 KM       |    1     

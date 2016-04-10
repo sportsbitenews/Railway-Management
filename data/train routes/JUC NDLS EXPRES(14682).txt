@@ -1,0 +1,22 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Jalandhar City              |        JUC         |     Start     |     04:10     |       -       |        0 KM        |    1     
+  2   |           Phagwara Junction            |        PGW         |     04:28     |     04:30     |     2:00      |       22 KM        |    1     
+  3   |           Phillaur Junction            |        PHR         |     04:49     |     04:51     |     2:00      |       44 KM        |    1     
+  4   |           Ludhiana Junction            |        LDH         |     05:15     |     05:25     |     10:00     |       57 KM        |    1     
+  5   |                Doraha                  |        DOA         |     05:56     |     05:58     |     2:00      |       80 KM        |    1     
+  6   |                Khanna                  |        KNN         |     06:13     |     06:15     |     2:00      |       100 KM       |    1     
+  7   |           Sirhind Junction             |        SIR         |     06:31     |     06:33     |     2:00      |       118 KM       |    1     
+  8   |           Rajpura Junction             |        RPJ         |     06:50     |     06:52     |     2:00      |       143 KM       |    1     
+  9   |              Ambala City               |        UBC         |     07:11     |     07:13     |     2:00      |       163 KM       |    1     
+  10  |         Ambala Cant Junction           |        UMB         |     07:35     |     07:45     |     10:00     |       171 KM       |    1     
+  11  |                Barara                  |        RAA         |     08:06     |     08:08     |     2:00      |       196 KM       |    1     
+  12  |            Jagadhri Wshop              |        JUDW        |     08:24     |     08:26     |     2:00      |       217 KM       |    1     
+  13  |               Jagadhri                 |        JUD         |     08:32     |     08:34     |     2:00      |       222 KM       |    1     
+  14  |              Saharanpur                |        SRE         |     09:15     |     09:20     |     5:00      |       252 KM       |    1     
+  15  |                Deoband                 |        DBD         |     09:48     |     09:50     |     2:00      |       286 KM       |    1     
+  16  |             Muzaffarnagar              |        MOZ         |     10:12     |     10:14     |     2:00      |       310 KM       |    1     
+  17  |              Meerut Cant               |        MUT         |     10:53     |     10:55     |     2:00      |       362 KM       |    1     
+  18  |              Meerut City               |        MTC         |     11:02     |     11:05     |     3:00      |       366 KM       |    1     
+  19  |               Modinagar                |        MDNR        |     11:23     |     11:25     |     2:00      |       385 KM       |    1     
+  20  |               Ghaziabad                |        GZB         |     12:08     |     12:10     |     2:00      |       413 KM       |    1     
+  21  |               New Delhi                |        NDLS        |     12:55     |     Ends      |       -       |       439 KM       |    1     

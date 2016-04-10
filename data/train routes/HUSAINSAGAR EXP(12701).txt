@@ -1,0 +1,17 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Mumbai Cst                |        CSTM        |     Start     |     21:50     |       -       |        0 KM        |    1     
+  2   |            Kalyan Junction             |        KYN         |     22:35     |     22:40     |     5:00      |       54 KM        |    1     
+  3   |             Pune Junction              |        PUNE        |     01:20     |     01:25     |     5:00      |       192 KM       |    2     
+  4   |               Kurduvadi                |        KWV         |     04:10     |     04:12     |     2:00      |       377 KM       |    2     
+  5   |           Solapur Junction             |        SUR         |     05:25     |     05:35     |     10:00     |       455 KM       |    2     
+  6   |            Ganagapur Road              |        GUR         |     06:48     |     06:50     |     2:00      |       542 KM       |    2     
+  7   |               Gulbarga                 |         GR         |     07:17     |     07:20     |     3:00      |       568 KM       |    2     
+  8   |               Shahabad                 |        SDB         |     07:43     |     07:45     |     2:00      |       595 KM       |    2     
+  9   |                 Wadi                   |        WADI        |     08:35     |     08:40     |     5:00      |       605 KM       |    2     
+  10  |               Chittapur                |         CT         |     09:03     |     09:05     |     2:00      |       620 KM       |    2     
+  11  |             Malkhaid Road              |        MQR         |     09:08     |     09:10     |     2:00      |       630 KM       |    2     
+  12  |                 Seram                  |        SEM         |     09:18     |     09:20     |     2:00      |       642 KM       |    2     
+  13  |                Tandur                  |        TDU         |     09:43     |     09:45     |     2:00      |       676 KM       |    2     
+  14  |          Vikarabad Junction            |        VKB         |     10:30     |     10:32     |     2:00      |       717 KM       |    2     
+  15  |               Begampet                 |        BMT         |     11:25     |     11:27     |     2:00      |       784 KM       |    2     
+  16  |            Hyderabad Decan             |        HYB         |     12:10     |     Ends      |       -       |       790 KM       |    2     

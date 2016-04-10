@@ -1,0 +1,24 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Dadar                  |         DR         |     Start     |     20:30     |       -       |        0 KM        |    1     
+  2   |            Kalyan Junction             |        KYN         |     21:05     |     21:10     |     5:00      |       45 KM        |    1     
+  3   |               Lonavala                 |        LNL         |     22:38     |     22:40     |     2:00      |       119 KM       |    1     
+  4   |             Pune Junction              |        PUNE        |     00:05     |     00:10     |     5:00      |       183 KM       |    2     
+  5   |           Solapur Junction             |        SUR         |     03:55     |     04:05     |     10:00     |       447 KM       |    2     
+  6   |               Gulbarga                 |         GR         |     06:08     |     06:10     |     2:00      |       560 KM       |    2     
+  7   |               Shahabad                 |        SDB         |     06:33     |     06:35     |     2:00      |       586 KM       |    2     
+  8   |                 Wadi                   |        WADI        |     07:05     |     07:10     |     5:00      |       596 KM       |    2     
+  9   |                Yadgir                  |         YG         |     07:28     |     07:30     |     2:00      |       635 KM       |    2     
+  11  |                Raichur                 |         RC         |     08:33     |     08:35     |     2:00      |       704 KM       |    2     
+  12  |           Manthralayam Road            |        MALM        |     09:03     |     09:05     |     2:00      |       732 KM       |    2     
+  13  |                 Adoni                  |         AD         |     09:48     |     09:50     |     2:00      |       773 KM       |    2     
+  14  |           Guntakal Junction            |        GTL         |     11:00     |     11:10     |     10:00     |       825 KM       |    2     
+  15  |                 Gooty                  |         GY         |     11:33     |     11:35     |     2:00      |       853 KM       |    2     
+  16  |               Tadipatri                |         TU         |     12:13     |     12:15     |     2:00      |       901 KM       |    2     
+  17  |              Yerraguntla               |         YA         |     13:13     |     13:15     |     2:00      |       970 KM       |    2     
+  18  |               Cuddapah                 |         HX         |     13:58     |     14:00     |     2:00      |      1009 KM       |    2     
+  19  |               Razampeta                |        RJP         |     14:58     |     15:00     |     2:00      |      1060 KM       |    2     
+  20  |                Koduru                  |        KOU         |     15:28     |     15:30     |     2:00      |      1094 KM       |    2     
+  21  |          Renigunta Junction            |         RU         |     16:45     |     16:50     |     5:00      |      1134 KM       |    2     
+  22  |               Arakkonam                |        AJJ         |     17:53     |     17:55     |     2:00      |      1207 KM       |    2     
+  23  |               Perambur                 |        PER         |     18:43     |     18:45     |     2:00      |      1270 KM       |    2     
+  24  |            Chennai Egmore              |         MS         |     19:45     |     Ends      |       -       |      1281 KM       |    2     

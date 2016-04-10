@@ -1,0 +1,2 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Kolkata                 |        KOAA        |     Start     |     07:10     |       -       |        0 KM        |    1     

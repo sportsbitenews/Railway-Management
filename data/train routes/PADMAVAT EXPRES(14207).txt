@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Partapgarh Junction           |        PBH         |     Start     |     17:00     |       -       |        0 KM        |    1     
+  2   |                Amethi                  |        AME         |     17:56     |     17:58     |     2:00      |       36 KM        |    1     
+  3   |               Gauriganj                |        GNG         |     18:15     |     18:17     |     2:00      |       49 KM        |    1     
+  4   |                 Jais                   |        JAIS        |     18:33     |     18:35     |     2:00      |       67 KM        |    1     
+  5   |          Rae Bareli Junction           |        RBL         |     19:10     |     19:23     |     13:00     |       96 KM        |    1     
+  6   |              Bachhrawan                |        BCN         |     19:59     |     20:01     |     2:00      |       126 KM       |    1     
+  7   |              Lucknow Nr                |        LKO         |     21:25     |     21:40     |     15:00     |       173 KM       |    1     
+  8   |                Hardoi                  |        HRI         |     23:10     |     23:12     |     2:00      |       275 KM       |    1     
+  9   |             Shahjehanpur               |        SPN         |     00:17     |     00:20     |     3:00      |       338 KM       |    2     
+  10  |               Bareilly                 |         BE         |     01:22     |     01:27     |     5:00      |       409 KM       |    2     
+  11  |                Rampur                  |        RMU         |     02:20     |     02:22     |     2:00      |       472 KM       |    2     
+  12  |               Moradabad                |         MB         |     03:15     |     03:25     |     10:00     |       499 KM       |    2     
+  13  |                 Hapur                  |        HPU         |     05:00     |     05:03     |     3:00      |       603 KM       |    2     
+  14  |               Ghaziabad                |        GZB         |     06:00     |     06:02     |     2:00      |       640 KM       |    2     
+  15  |                 Delhi                  |        DLI         |     06:45     |     Ends      |       -       |       660 KM       |    2     

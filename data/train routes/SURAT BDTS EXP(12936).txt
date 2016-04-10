@@ -1,0 +1,10 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Surat                  |         ST         |     Start     |     16:00     |       -       |        0 KM        |    1     
+  2   |                Navsari                 |        NVS         |     16:25     |     16:27     |     2:00      |       30 KM        |    1     
+  3   |                Valsad                  |         BL         |     17:05     |     17:07     |     2:00      |       69 KM        |    1     
+  4   |                 Vapi                   |        VAPI        |     17:26     |     17:28     |     2:00      |       93 KM        |    1     
+  5   |                Boisar                  |        BOR         |     18:21     |     18:23     |     2:00      |       164 KM       |    1     
+  6   |                 Virar                  |         VR         |     19:05     |     19:07     |     2:00      |       207 KM       |    1     
+  7   |               Borivali                 |        BVI         |     19:35     |     19:37     |     2:00      |       233 KM       |    1     
+  8   |                Andheri                 |        ADH         |     19:58     |     20:00     |     2:00      |       245 KM       |    1     
+  9   |            Bandra Terminus             |        BDTS        |     20:25     |     Ends      |       -       |       252 KM       |    1     

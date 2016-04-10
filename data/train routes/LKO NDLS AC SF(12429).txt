@@ -1,0 +1,6 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Lucknow Nr                |        LKO         |     Start     |     23:30     |       -       |        0 KM        |    1     
+  2   |               Bareilly                 |         BE         |     02:42     |     02:45     |     3:00      |       236 KM       |    2     
+  3   |               Moradabad                |         MB         |     04:18     |     04:25     |     7:00      |       326 KM       |    2     
+  4   |               Ghaziabad                |        GZB         |     06:38     |     06:40     |     2:00      |       467 KM       |    2     
+  5   |               New Delhi                |        NDLS        |     07:25     |     Ends      |       -       |       493 KM       |    2     

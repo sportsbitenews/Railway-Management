@@ -1,0 +1,23 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Delhi S Rohilla             |        DEE         |     Start     |     21:10     |       -       |        0 KM        |    1     
+  2   |               New Delhi                |        NDLS        |     21:50     |     22:00     |     10:00     |        6 KM        |    1     
+  3   |             H Nizamuddin               |        NZM         |     22:13     |     22:15     |     2:00      |       13 KM        |    1     
+  4   |           Mathura Junction             |        MTJ         |     00:35     |     00:40     |     5:00      |       147 KM       |    2     
+  5   |          Bharatpur Junction            |        BTE         |     01:04     |     01:06     |     2:00      |       180 KM       |    2     
+  6   |            Bayana Junction             |        BXN         |     01:33     |     01:35     |     2:00      |       222 KM       |    2     
+  7   |            Shri Mahabirji              |        SMBJ        |     02:00     |     02:02     |     2:00      |       265 KM       |    2     
+  8   |             Gangapur City              |        GGC         |     02:38     |     02:40     |     2:00      |       299 KM       |    2     
+  9   |            Sawai Madhopur              |        SWM         |     03:20     |     03:22     |     2:00      |       363 KM       |    2     
+  10  |             Kota Junction              |        KOTA        |     04:40     |     04:50     |     10:00     |       471 KM       |    2     
+  11  |             Ramganj Mandi              |        RMA         |     05:43     |     05:45     |     2:00      |       543 KM       |    2     
+  12  |             Bhawani Mandi              |        BWM         |     06:08     |     06:10     |     2:00      |       571 KM       |    2     
+  13  |                 Garot                  |        GOH         |     06:27     |     06:29     |     2:00      |       594 KM       |    2     
+  14  |               Shamgarh                 |        SGZ         |     06:46     |     06:48     |     2:00      |       604 KM       |    2     
+  15  |                Suwasra                 |        SVA         |     07:00     |     07:02     |     2:00      |       618 KM       |    2     
+  16  |              Chau Mahla                |        CMU         |     07:15     |     07:17     |     2:00      |       633 KM       |    2     
+  17  |            Vikramgarh Alot             |        VMA         |     07:34     |     07:36     |     2:00      |       656 KM       |    2     
+  18  |             Mahidpur Road              |        MEP         |     07:55     |     07:57     |     2:00      |       679 KM       |    2     
+  19  |            Nagda Junction              |        NAD         |     08:45     |     09:10     |     25:00     |       696 KM       |    2     
+  20  |            Ujjain Junction             |        UJN         |     10:10     |     10:20     |     10:00     |       750 KM       |    2     
+  21  |                 Dewas                  |        DWX         |     11:04     |     11:06     |     2:00      |       791 KM       |    2     
+  22  |          Indore Junction Bg            |        INDB        |     12:00     |     Ends      |       -       |       830 KM       |    2     

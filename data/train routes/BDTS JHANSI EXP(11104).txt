@@ -1,0 +1,22 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Bandra Terminus             |        BDTS        |     Start     |     05:10     |       -       |        0 KM        |    1     
+  2   |               Borivali                 |        BVI         |     05:41     |     05:43     |     2:00      |       19 KM        |    1     
+  3   |                 Vapi                   |        VAPI        |     07:29     |     07:31     |     2:00      |       159 KM       |    1     
+  4   |                 Surat                  |         ST         |     08:50     |     08:55     |     5:00      |       252 KM       |    1     
+  5   |           Vadodara Junction            |        BRC         |     10:40     |     10:50     |     10:00     |       381 KM       |    1     
+  6   |            Godhra Junction             |        GDA         |     12:00     |     12:02     |     2:00      |       455 KM       |    1     
+  7   |                 Dahod                  |        DHD         |     12:58     |     13:00     |     2:00      |       529 KM       |    1     
+  8   |            Ratlam Junction             |        RTM         |     14:45     |     14:55     |     10:00     |       642 KM       |    1     
+  9   |            Nagda Junction              |        NAD         |     15:48     |     15:50     |     2:00      |       684 KM       |    1     
+  10  |            Ujjain Junction             |        UJN         |     17:15     |     17:25     |     10:00     |       739 KM       |    1     
+  11  |                 Maksi                  |        MKC         |     18:40     |     18:42     |     2:00      |       780 KM       |    1     
+  12  |               Shajapur                 |        SFY         |     19:06     |     19:08     |     2:00      |       808 KM       |    1     
+  13  |            Biyavra Rajgarh             |        BRRG        |     20:21     |     20:23     |     2:00      |       896 KM       |    1     
+  14  |            Chachaura Bngj              |        CBK         |     20:52     |     20:54     |     2:00      |       927 KM       |    1     
+  15  |               Ruthiyai                 |        RTA         |     21:33     |     21:35     |     2:00      |       973 KM       |    1     
+  16  |                 Guna                   |        GUNA        |     22:20     |     22:30     |     10:00     |       994 KM       |    1     
+  17  |               Shivpuri                 |        SVPI        |     00:45     |     00:50     |     5:00      |      1096 KM       |    2     
+  18  |                Gwalior                 |        GWL         |     04:10     |     04:40     |     30:00     |      1221 KM       |    2     
+  19  |                 Dabra                  |        DBA         |     05:15     |     05:17     |     2:00      |      1263 KM       |    2     
+  20  |                 Datia                  |        DAA         |     05:43     |     05:45     |     2:00      |      1294 KM       |    2     
+  21  |            Jhansi Junction             |        JHS         |     06:35     |     Ends      |       -       |      1318 KM       |    2     

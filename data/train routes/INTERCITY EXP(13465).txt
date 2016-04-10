@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Howrah Junction             |        HWH         |     Start     |     15:15     |       -       |        0 KM        |    1     
+  2   |            Bandel Junction             |        BDC         |     16:00     |     16:02     |     2:00      |       40 KM        |    1     
+  3   |             Ambika Kalna               |        ABKA        |     16:34     |     16:35     |     1:00      |       82 KM        |    1     
+  4   |             Nabadwip Dham              |        NDAE        |     17:00     |     17:02     |     2:00      |       105 KM       |    1     
+  5   |                 Katwa                  |        KWAE        |     18:06     |     18:08     |     2:00      |       144 KM       |    1     
+  6   |                 Salar                  |        SALE        |     18:30     |     18:31     |     1:00      |       162 KM       |    1     
+  7   |               Bazarsau                 |        BZLE        |     18:46     |     18:47     |     1:00      |       175 KM       |    1     
+  8   |            Khagraghat Road             |        KGLE        |     19:23     |     19:24     |     1:00      |       203 KM       |    1     
+  9   |           Azimganj Junction            |         AZ         |     19:48     |     19:50     |     2:00      |       217 KM       |    1     
+  10  |             Jangipur Road              |        JRLE        |     20:17     |     20:18     |     1:00      |       252 KM       |    1     
+  11  |                Nimtita                 |        NILE        |     20:38     |     20:39     |     1:00      |       272 KM       |    1     
+  12  |             Dhulian Ganga              |        DGLE        |     20:52     |     20:53     |     1:00      |       282 KM       |    1     
+  13  |         New Farakka Junction           |        NFK         |     21:21     |     21:23     |     2:00      |       297 KM       |    1     
+  14  |               Khaltipur                |        KTJ         |     21:39     |     21:40     |     1:00      |       311 KM       |    1     
+  15  |              Malda Town                |        MLDT        |     22:20     |     Ends      |       -       |       331 KM       |    1     

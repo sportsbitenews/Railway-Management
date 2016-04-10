@@ -1,0 +1,45 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Ajmer Junction              |        AII         |     Start     |     05:30     |       -       |        0 KM        |    1     
+  2   |                Beawar                  |        BER         |     06:18     |     06:20     |     2:00      |       53 KM        |    1     
+  3   |              Sojat Road                |        SOD         |     07:16     |     07:18     |     2:00      |       119 KM       |    1     
+  4   |            Marwar Junction             |         MJ         |     07:38     |     07:40     |     2:00      |       140 KM       |    1     
+  5   |                 Falna                  |         FA         |     08:31     |     08:33     |     2:00      |       207 KM       |    1     
+  6   |              Sirohi Road               |        SOH         |     09:20     |     09:22     |     2:00      |       262 KM       |    1     
+  7   |               Abu Road                 |        ABR         |     10:10     |     10:30     |     20:00     |       306 KM       |    1     
+  8   |           Palanpur Junction            |        PNU         |     11:51     |     11:53     |     2:00      |       358 KM       |    1     
+  9   |           Mahesana Junction            |        MSH         |     13:07     |     13:09     |     2:00      |       423 KM       |    1     
+  10  |          Ahmedabad Junction            |        ADI         |     14:30     |     14:50     |     20:00     |       491 KM       |    1     
+  11  |            Nadiad Junction             |         ND         |     15:39     |     15:41     |     2:00      |       537 KM       |    1     
+  12  |            Anand Junction              |        ANND        |     16:01     |     16:03     |     2:00      |       555 KM       |    1     
+  13  |           Vadodara Junction            |        BRC         |     16:45     |     16:55     |     10:00     |       591 KM       |    1     
+  14  |           Bharuch Junction             |         BH         |     17:52     |     17:54     |     2:00      |       661 KM       |    1     
+  15  |                 Surat                  |         ST         |     19:05     |     19:15     |     10:00     |       720 KM       |    1     
+  16  |                Valsad                  |         BL         |     20:28     |     20:30     |     2:00      |       788 KM       |    1     
+  17  |                 Vapi                   |        VAPI        |     20:52     |     20:54     |     2:00      |       812 KM       |    1     
+  18  |              Vasai Road                |        BSR         |     23:35     |     23:45     |     10:00     |       935 KM       |    1     
+  19  |             Bhiwandi Road              |        BIRD        |     00:08     |     00:10     |     2:00      |       962 KM       |    2     
+  20  |            Kalyan Junction             |        KYN         |     01:02     |     01:05     |     3:00      |       987 KM       |    2     
+  21  |                Karjat                  |        KJT         |     01:58     |     02:00     |     2:00      |      1034 KM       |    2     
+  22  |               Lonavala                 |        LNL         |     02:43     |     02:45     |     2:00      |      1062 KM       |    2     
+  23  |             Pune Junction              |        PUNE        |     04:10     |     04:20     |     10:00     |      1125 KM       |    2     
+  24  |                Satara                  |        STR         |     07:10     |     07:13     |     3:00      |      1271 KM       |    2     
+  25  |                 Karad                  |        KRD         |     08:08     |     08:10     |     2:00      |      1329 KM       |    2     
+  26  |                Sangli                  |        SLI         |     09:27     |     09:30     |     3:00      |      1397 KM       |    2     
+  27  |            Miraj Junction              |        MRJ         |     10:30     |     10:35     |     5:00      |      1404 KM       |    2     
+  28  |                Belgaum                 |        BGM         |     13:25     |     13:30     |     5:00      |      1542 KM       |    2     
+  29  |            Londa Junction              |         LD         |     14:15     |     14:17     |     2:00      |      1593 KM       |    2     
+  30  |                Dharwar                 |        DWR         |     15:53     |     15:55     |     2:00      |      1663 KM       |    2     
+  31  |            Hubli Junction              |        UBL         |     17:00     |     17:10     |     10:00     |      1683 KM       |    2     
+  32  |                Haveri                  |        HVR         |     18:25     |     18:27     |     2:00      |      1758 KM       |    2     
+  33  |              Ranibennur                |        RNR         |     18:55     |     18:57     |     2:00      |      1791 KM       |    2     
+  34  |                Harihar                 |        HRR         |     19:33     |     19:35     |     2:00      |      1814 KM       |    2     
+  35  |               Davangere                |        DVG         |     19:43     |     19:45     |     2:00      |      1827 KM       |    2     
+  36  |            Birur Junction              |        RRB         |     21:28     |     21:30     |     2:00      |      1942 KM       |    2     
+  37  |           Arsikere Junction            |        ASK         |     22:50     |     22:55     |     5:00      |      1987 KM       |    2     
+  38  |                Tiptur                  |        TTR         |     23:23     |     23:25     |     2:00      |      2012 KM       |    2     
+  39  |                Tumkur                  |         TK         |     01:08     |     01:10     |     2:00      |      2083 KM       |    3     
+  40  |          Yesvantpur Junction           |        YPR         |     02:35     |     02:40     |     5:00      |      2147 KM       |    3     
+  41  |              Malleswaram               |        MWM         |     02:48     |     02:50     |     2:00      |      2149 KM       |    3     
+  42  |         Bangalore Cy Junction          |        SBC         |     03:15     |     03:30     |     15:00     |      2152 KM       |    3     
+  43  |                Mandya                  |        MYA         |     04:48     |     04:50     |     2:00      |      2246 KM       |    3     
+  44  |            Mysore Junction             |        MYS         |     06:00     |     Ends      |       -       |      2290 KM       |    3     

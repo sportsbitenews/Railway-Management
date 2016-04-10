@@ -1,0 +1,23 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Asansol Junction             |        ASN         |     Start     |     16:15     |       -       |        0 KM        |    1     
+  2   |             Chittaranjan               |        CRJ         |     16:39     |     16:40     |       -       |       25 KM        |    1     
+  3   |           Madhupur Junction            |        MDP         |     17:19     |     17:21     |     2:00      |       82 KM        |    1     
+  4   |           Jasidih Junction             |        JSME        |     17:46     |     17:48     |     2:00      |       111 KM       |    1     
+  5   |                Jhajha                  |        JAJ         |     18:55     |     19:00     |     5:00      |       155 KM       |    1     
+  6   |             Kiul Junction              |        KIUL        |     19:39     |     19:41     |     2:00      |       209 KM       |    1     
+  7   |           Barauni Junction             |        BJU         |     21:15     |     21:35     |     20:00     |       248 KM       |    1     
+  8   |          Samastipur Junction           |        SPJ         |     22:25     |     22:30     |     5:00      |       299 KM       |    1     
+  9   |         Muzaffarpur Junction           |        MFP         |     23:20     |     23:25     |     5:00      |       351 KM       |    1     
+  10  |           Hajipur Junction             |        HJP         |     00:19     |     00:20     |     1:00      |       404 KM       |    2     
+  11  |                Chhapra                 |        CPR         |     02:00     |     02:10     |     10:00     |       464 KM       |    2     
+  12  |                Ballia                  |        BUI         |     03:10     |     03:15     |     5:00      |       529 KM       |    2     
+  13  |             Mau Junction               |        MAU         |     04:50     |     05:05     |     15:00     |       598 KM       |    2     
+  14  |             Muhammadabad               |        MMA         |     05:52     |     05:54     |     2:00      |       619 KM       |    2     
+  15  |               Azamgarh                 |        AMH         |     06:15     |     06:20     |     5:00      |       641 KM       |    2     
+  16  |             Khorason Road              |        KRND        |     07:26     |     07:28     |     2:00      |       676 KM       |    2     
+  17  |           Shahganj Junction            |        SHG         |     08:20     |     08:45     |     25:00     |       697 KM       |    2     
+  18  |               Akbarpur                 |        ABP         |     09:34     |     09:36     |     2:00      |       741 KM       |    2     
+  19  |              Goshainganj               |        GGJ         |     09:59     |     10:00     |     1:00      |       764 KM       |    2     
+  20  |                Ayodhya                 |         AY         |     10:50     |     11:15     |     25:00     |       795 KM       |    2     
+  21  |           Mankapur Junction            |        MUR         |     11:50     |     12:20     |     30:00     |       834 KM       |    2     
+  22  |            Gonda Junction              |         GD         |     13:00     |     Ends      |       -       |       862 KM       |    2     

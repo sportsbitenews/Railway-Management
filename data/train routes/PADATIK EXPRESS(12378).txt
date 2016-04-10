@@ -1,0 +1,8 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            New Jalpaiguri              |        NJP         |     Start     |     21:00     |       -       |        0 KM        |    1     
+  2   |              Kishanganj                |        KNE         |     22:05     |     22:07     |     2:00      |       88 KM        |    1     
+  3   |              Malda Town                |        MLDT        |     00:35     |     00:40     |     5:00      |       233 KM       |    2     
+  4   |              Rampur Hat                |        RPH         |     03:05     |     03:10     |     5:00      |       354 KM       |    2     
+  5   |            Bolpur S Niktn              |        BHP         |     03:57     |     03:59     |     2:00      |       415 KM       |    2     
+  6   |          Barddhaman Junction           |        BWN         |     05:02     |     05:04     |     2:00      |       466 KM       |    2     
+  7   |                Sealdah                 |        SDAH        |     06:45     |     Ends      |       -       |       567 KM       |    2     

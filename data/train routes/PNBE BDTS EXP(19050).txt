@@ -1,0 +1,14 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Patna Junction              |        PNBE        |     Start     |     23:10     |       -       |        0 KM        |    1     
+  2   |         Mughal Sarai Junction          |        MGS         |     02:57     |     03:07     |     10:00     |       212 KM       |    2     
+  3   |                 Satna                  |        STA         |     07:55     |     08:05     |     10:00     |       525 KM       |    2     
+  4   |                 Katni                  |        KTE         |     09:15     |     09:20     |     5:00      |       623 KM       |    2     
+  5   |               Jabalpur                 |        JBP         |     11:00     |     11:10     |     10:00     |       714 KM       |    2     
+  6   |              Narsinghpur               |         NU         |     12:16     |     12:18     |     2:00      |       798 KM       |    2     
+  7   |           Bhusaval Junction            |        BSL         |     19:20     |     19:30     |     10:00     |      1266 KM       |    2     
+  8   |               Nandurbar                |        NDB         |     23:50     |     23:58     |     8:00      |      1441 KM       |    2     
+  9   |            Udhna Junction              |        UDN         |     03:19     |     03:20     |     1:00      |      1597 KM       |    3     
+  10  |                Valsad                  |         BL         |     04:14     |     04:15     |     1:00      |      1662 KM       |    3     
+  11  |                 Vapi                   |        VAPI        |     04:42     |     04:43     |     1:00      |      1686 KM       |    3     
+  12  |               Borivali                 |        BVI         |     06:59     |     07:00     |     1:00      |      1826 KM       |    3     
+  13  |            Bandra Terminus             |        BDTS        |     07:35     |     Ends      |       -       |      1845 KM       |    3     

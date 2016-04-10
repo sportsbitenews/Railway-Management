@@ -1,0 +1,11 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             H Nizamuddin               |        NZM         |     Start     |     13:15     |       -       |        0 KM        |    1     
+  2   |              Ballabgarh                |        BVH         |     13:40     |     13:42     |     2:00      |       29 KM        |    1     
+  3   |           Mathura Junction             |        MTJ         |     15:15     |     15:20     |     5:00      |       134 KM       |    1     
+  4   |          Bharatpur Junction            |        BTE         |     15:48     |     15:50     |     2:00      |       167 KM       |    1     
+  5   |            Bayana Junction             |        BXN         |     16:17     |     16:19     |     2:00      |       209 KM       |    1     
+  6   |             Hindaun City               |        HAN         |     16:41     |     16:43     |     2:00      |       242 KM       |    1     
+  7   |            Shri Mahabirji              |        SMBJ        |     16:52     |     16:54     |     2:00      |       252 KM       |    1     
+  8   |             Gangapur City              |        GGC         |     17:20     |     17:22     |     2:00      |       286 KM       |    1     
+  9   |            Sawai Madhopur              |        SWM         |     18:02     |     18:07     |     5:00      |       350 KM       |    1     
+  10  |             Kota Junction              |        KOTA        |     20:00     |     Ends      |       -       |       458 KM       |    1     

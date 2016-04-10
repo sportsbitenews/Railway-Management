@@ -1,0 +1,21 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Allahabad Junction            |        ALD         |     Start     |     21:05     |       -       |        0 KM        |    1     
+  2   |           Manikpur Junction            |        MKP         |     22:58     |     23:00     |     2:00      |       101 KM       |    1     
+  3   |                 Satna                  |        STA         |     00:15     |     00:25     |     10:00     |       178 KM       |    2     
+  4   |                Maihar                  |        MYR         |     00:48     |     00:50     |     2:00      |       214 KM       |    2     
+  5   |                 Katni                  |        KTE         |     01:35     |     01:40     |     5:00      |       276 KM       |    2     
+  6   |               Jabalpur                 |        JBP         |     03:05     |     03:15     |     10:00     |       367 KM       |    2     
+  7   |              Narsinghpur               |         NU         |     04:12     |     04:14     |     2:00      |       451 KM       |    2     
+  8   |               Pipariya                 |        PPI         |     05:45     |     05:47     |     2:00      |       545 KM       |    2     
+  9   |            Itarsi Junction             |         ET         |     07:50     |     08:00     |     10:00     |       612 KM       |    2     
+  10  |                Khandwa                 |        KNW         |     11:25     |     11:30     |     5:00      |       796 KM       |    2     
+  11  |           Bhusaval Junction            |        BSL         |     13:25     |     13:35     |     10:00     |       919 KM       |    2     
+  12  |           Jalgaon Junction             |         JL         |     14:18     |     14:20     |     2:00      |       943 KM       |    2     
+  13  |                Amalner                 |         AN         |     16:28     |     16:30     |     2:00      |       999 KM       |    2     
+  14  |               Nandurbar                |        NDB         |     18:00     |     18:05     |     5:00      |      1094 KM       |    2     
+  15  |                 Surat                  |         ST         |     21:03     |     21:08     |     5:00      |      1254 KM       |    2     
+  16  |           Bharuch Junction             |         BH         |     21:51     |     21:53     |     2:00      |      1313 KM       |    2     
+  17  |           Vadodara Junction            |        BRC         |     22:55     |     23:05     |     10:00     |      1383 KM       |    2     
+  18  |            Anand Junction              |        ANND        |     23:40     |     23:42     |     2:00      |      1419 KM       |    2     
+  19  |            Nadiad Junction             |         ND         |     23:57     |     23:59     |     2:00      |      1437 KM       |    2     
+  20  |          Ahmedabad Junction            |        ADI         |     01:10     |     Ends      |       -       |      1483 KM       |    3     

@@ -1,0 +1,19 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Erode Junction              |         ED         |     Start     |     21:00     |       -       |        0 KM        |    1     
+  2   |              Sankaridrug               |        SGE         |     21:24     |     21:25     |     1:00      |       22 KM        |    1     
+  3   |            Salem Junction              |         SA         |     21:55     |     22:00     |     5:00      |       63 KM        |    1     
+  4   |                Bommidi                 |        BQI         |     22:39     |     22:40     |     1:00      |       106 KM       |    1     
+  5   |            Buddireddippati             |        BDY         |     22:49     |     22:50     |     1:00      |       116 KM       |    1     
+  6   |               Morappur                 |        MAP         |     22:59     |     23:00     |     1:00      |       129 KM       |    1     
+  7   |              Samalpatti                |        SLY         |     23:24     |     23:25     |     1:00      |       153 KM       |    1     
+  8   |          Tirupattur Junction           |        TPT         |     23:49     |     23:50     |     1:00      |       176 KM       |    1     
+  9   |              Jolarpettai               |        JTJ         |     00:08     |     00:10     |     2:00      |       183 KM       |    2     
+  10  |              Vaniyambadi               |         VN         |     00:24     |     00:25     |     1:00      |       199 KM       |    2     
+  11  |                 Ambur                  |         AB         |     00:39     |     00:40     |     1:00      |       215 KM       |    2     
+  12  |              Gudiyattam                |        GYM         |     01:04     |     01:05     |     1:00      |       242 KM       |    2     
+  13  |           Katpadi Junction             |        KPD         |     01:28     |     01:30     |     2:00      |       267 KM       |    2     
+  14  |         Walajah Road Junction          |        WJR         |     01:54     |     01:55     |     1:00      |       291 KM       |    2     
+  15  |               Arakkonam                |        AJJ         |     02:28     |     02:30     |     2:00      |       328 KM       |    2     
+  16  |              Trivellore                |        TRL         |     02:54     |     02:55     |     1:00      |       355 KM       |    2     
+  17  |               Perambur                 |        PER         |     03:24     |     03:25     |     1:00      |       391 KM       |    2     
+  18  |            Chennai Central             |        MAS         |     04:05     |     Ends      |       -       |       396 KM       |    2     

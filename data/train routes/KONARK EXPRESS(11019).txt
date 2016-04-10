@@ -1,0 +1,39 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Mumbai Cst                |        CSTM        |     Start     |     15:10     |       -       |        0 KM        |    1     
+  2   |                 Dadar                  |         DR         |     15:23     |     15:25     |     2:00      |        9 KM        |    1     
+  3   |            Kalyan Junction             |        KYN         |     16:06     |     16:08     |     2:00      |       54 KM        |    1     
+  4   |                Karjat                  |        KJT         |     16:48     |     16:50     |     2:00      |       100 KM       |    1     
+  5   |               Lonavala                 |        LNL         |     17:38     |     17:40     |     2:00      |       128 KM       |    1     
+  6   |             Pune Junction              |        PUNE        |     19:00     |     19:05     |     5:00      |       192 KM       |    1     
+  7   |            Daund Junction              |         DD         |     20:35     |     20:40     |     5:00      |       268 KM       |    1     
+  8   |           Solapur Junction             |        SUR         |     00:15     |     00:25     |     10:00     |       455 KM       |    2     
+  9   |               Gulbarga                 |         GR         |     02:31     |     02:33     |     2:00      |       568 KM       |    2     
+  10  |                 Wadi                   |        WADI        |     03:45     |     03:50     |     5:00      |       605 KM       |    2     
+  11  |                 Seram                  |        SEM         |     04:24     |     04:25     |     1:00      |       642 KM       |    2     
+  12  |                Tandur                  |        TDU         |     04:48     |     04:50     |     2:00      |       676 KM       |    2     
+  13  |               Begampet                 |        BMT         |     07:00     |     07:02     |     2:00      |       784 KM       |    2     
+  14  |         Secunderabad Junction          |         SC         |     07:45     |     08:00     |     15:00     |       789 KM       |    2     
+  15  |           Kazipet Junction             |        KZJ         |     10:10     |     10:20     |     10:00     |       920 KM       |    2     
+  16  |               Warangal                 |         WL         |     10:28     |     10:30     |     2:00      |       930 KM       |    2     
+  17  |              Mahbubabad                |        MABD        |     11:26     |     11:28     |     2:00      |       991 KM       |    2     
+  18  |                Khammam                 |        KMT         |     11:55     |     11:57     |     2:00      |      1038 KM       |    2     
+  19  |                Madhira                 |        MDR         |     12:20     |     12:22     |     2:00      |      1082 KM       |    2     
+  20  |          Vijayawada Junction           |        BZA         |     14:00     |     14:20     |     20:00     |      1139 KM       |    2     
+  21  |                 Eluru                  |         EE         |     15:07     |     15:09     |     2:00      |      1198 KM       |    2     
+  22  |            Tadepalligudem              |        TDD         |     15:38     |     15:40     |     2:00      |      1246 KM       |    2     
+  23  |          Nidadavolu Junction           |        NDD         |     15:58     |     16:00     |     2:00      |      1266 KM       |    2     
+  24  |              Rajamundry                |        RJY         |     16:39     |     16:41     |       -       |      1288 KM       |    2     
+  25  |           Samalkot Junction            |        SLO         |     17:18     |     17:20     |     2:00      |      1338 KM       |    2     
+  26  |                 Tuni                   |        TUNI        |     17:57     |     17:59     |     2:00      |      1392 KM       |    2     
+  27  |              Anakapalle                |        AKP         |     19:28     |     19:30     |     2:00      |      1456 KM       |    2     
+  28  |             Vishakapatnam              |        VSKP        |     21:00     |     21:20     |     20:00     |      1489 KM       |    2     
+  29  |         Vizianagram Junction           |        VZM         |     22:15     |     22:20     |     5:00      |      1550 KM       |    2     
+  30  |            Srikakulam Road             |        CHE         |     23:15     |     23:17     |     2:00      |      1619 KM       |    2     
+  31  |                Palasa                  |        PSA         |     00:20     |     00:22     |     2:00      |      1692 KM       |    3     
+  32  |                Sompeta                 |        SPT         |     00:45     |     00:47     |     2:00      |      1724 KM       |    3     
+  33  |              Ichchpuram                |        IPM         |     01:01     |     01:03     |     2:00      |      1742 KM       |    3     
+  34  |               Brahmapur                |        BAM         |     01:25     |     01:35     |     10:00     |      1766 KM       |    3     
+  35  |               Chatrapur                |        CAP         |     01:51     |     01:53     |     2:00      |      1788 KM       |    3     
+  36  |                Balugan                 |        BALU        |     02:36     |     02:38     |     2:00      |      1842 KM       |    3     
+  37  |         Khurda Road Junction           |        KUR         |     03:50     |     03:55     |     5:00      |      1913 KM       |    3     
+  38  |              Bhubaneswar               |        BBS         |     04:25     |     Ends      |       -       |      1932 KM       |    3     

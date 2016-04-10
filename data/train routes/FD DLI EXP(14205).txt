@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Faizabad Junction            |         FD         |     Start     |     21:45     |       -       |        0 KM        |    1     
+  2   |               Daryabad                 |        DYD         |     22:36     |     22:38     |     2:00      |       61 KM        |    1     
+  3   |          Barabanki Junction            |        BBK         |     23:41     |     23:43     |     2:00      |       100 KM       |    1     
+  4   |              Lucknow Nr                |        LKO         |     00:45     |     00:55     |     10:00     |       128 KM       |    2     
+  5   |             Shahjehanpur               |        SPN         |     03:20     |     03:22     |     2:00      |       292 KM       |    2     
+  6   |               Bareilly                 |         BE         |     04:20     |     04:25     |     5:00      |       363 KM       |    2     
+  7   |                Rampur                  |        RMU         |     05:23     |     05:25     |     2:00      |       426 KM       |    2     
+  8   |               Moradabad                |         MB         |     06:10     |     06:20     |     10:00     |       454 KM       |    2     
+  9   |                 Hapur                  |        HPU         |     07:50     |     07:55     |     5:00      |       558 KM       |    2     
+  10  |               Ghaziabad                |        GZB         |     08:51     |     08:53     |     2:00      |       595 KM       |    2     
+  11  |                 Delhi                  |        DLI         |     09:50     |     Ends      |       -       |       615 KM       |    2     

@@ -1,0 +1,25 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Anand Vihar Trm             |        ANVT        |     Start     |     07:30     |       -       |        0 KM        |    1     
+  2   |               Ghaziabad                |        GZB         |     08:04     |     08:06     |     2:00      |       13 KM        |    1     
+  3   |            Tundla Junction             |        TDL         |     10:25     |     10:27     |     2:00      |       197 KM       |    1     
+  4   |            Kanpur Central              |        CNB         |     13:45     |     13:55     |     10:00     |       427 KM       |    1     
+  5   |          Allahabad Junction            |        ALD         |     16:45     |     16:55     |     10:00     |       621 KM       |    1     
+  6   |               Mirzapur                 |        MZP         |     17:56     |     17:58     |     2:00      |       711 KM       |    1     
+  7   |         Mughal Sarai Junction          |        MGS         |     19:45     |     20:05     |     20:00     |       774 KM       |    1     
+  8   |         Dildarnagar Junction           |        DLN         |     20:51     |     20:53     |     2:00      |       831 KM       |    1     
+  9   |            Patna Junction              |        PNBE        |     23:25     |     23:35     |     10:00     |       985 KM       |    1     
+  10  |              Begu Sarai                |        BGS         |     02:18     |     02:20     |     2:00      |      1111 KM       |    2     
+  11  |           Khagaria Junction            |        KGG         |     02:57     |     02:59     |     2:00      |      1151 KM       |    2     
+  12  |               Naugachia                |        NNA         |     03:17     |     03:19     |     2:00      |      1218 KM       |    2     
+  13  |           Katihar Junction             |        KIR         |     04:40     |     04:55     |     15:00     |      1275 KM       |    2     
+  14  |            Purnia Junction             |        PRNA        |     06:42     |     06:47     |     5:00      |      1303 KM       |    2     
+  15  |             Arariya Court              |        ARQ         |     07:16     |     07:18     |     2:00      |      1341 KM       |    2     
+  16  |              Forbesganj                |        FBG         |     07:53     |     07:55     |     2:00      |      1370 KM       |    2     
+  17  |                Jogbani                 |        JBN         |     08:25     |     Ends      |       -       |      1383 KM       |    2     
+  18  |           Katihar Junction             |        KIR         |     05:20     |     05:45     |     25:00     |      1275 KM       |    2     
+  19  |                Sonalli                 |         SI         |     06:01     |     06:03     |     2:00      |      1292 KM       |    2     
+  20  |                Salmari                 |        SRI         |     06:17     |     06:19     |     2:00      |      1304 KM       |    2     
+  21  |            Barsoi Junction             |        BOE         |     06:40     |     06:42     |     2:00      |      1314 KM       |    2     
+  22  |                Raiganj                 |        RGJ         |     07:00     |     07:05     |     5:00      |      1335 KM       |    2     
+  23  |              Kaliyanganj               |        KAJ         |     07:45     |     07:47     |     2:00      |      1355 KM       |    2     
+  24  |              Radhikapur                |        RDP         |     08:20     |     Ends      |       -       |      1367 KM       |    2     

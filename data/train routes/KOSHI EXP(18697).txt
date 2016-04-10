@@ -1,0 +1,24 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               MURLIGANJ                |        MRIJ        |     Start     |     02:45     |       -       |        0 KM        |    1     
+  2   |            DAURAM MADHPURA             |        DMH         |     03:33     |     03:35     |     2:00      |       23 KM        |    1     
+  3   |           Saharsa Junction             |        SHC         |     04:30     |     05:00     |     30:00     |       44 KM        |    1     
+  4   |            S Bhakhtiyarpur             |        SBV         |     05:16     |     05:17     |     1:00      |       61 KM        |    1     
+  5   |                Koparia                 |        KFA         |     05:26     |     05:27     |     1:00      |       68 KM        |    1     
+  6   |             Dhamara Ghat               |        DHT         |     05:37     |     05:38     |     1:00      |       76 KM        |    1     
+  7   |              Badla Ghat                |        BHB         |     05:47     |     05:48     |     1:00      |       81 KM        |    1     
+  8   |            Mansi Junction              |        MNE         |     06:07     |     06:08     |     1:00      |       89 KM        |    1     
+  9   |           Khagaria Junction            |        KGG         |     06:19     |     06:20     |     1:00      |       98 KM        |    1     
+  10  |         Sahibpur Kml Junction          |        SKJ         |     06:32     |     06:33     |     1:00      |       111 KM       |    1     
+  11  |               Lakhminia                |        LKN         |     06:43     |     06:44     |     1:00      |       120 KM       |    1     
+  12  |            Danauli Phlwria             |        DPL         |     06:51     |     06:52     |     1:00      |       125 KM       |    1     
+  13  |              Begu Sarai                |        BGS         |     07:03     |     07:04     |     1:00      |       138 KM       |    1     
+  14  |            Hathidah Upper              |        HTZU        |     08:10     |     08:11     |     1:00      |       166 KM       |    1     
+  15  |           Mokameh Junction             |        MKA         |     08:27     |     08:29     |     2:00      |       174 KM       |    1     
+  16  |               Punarakh                 |        PHK         |     08:40     |     08:41     |     1:00      |       190 KM       |    1     
+  17  |                 Barh                   |        BARH        |     08:49     |     08:50     |     1:00      |       200 KM       |    1     
+  18  |         Bakhtiyarpur Junction          |        BKP         |     09:05     |     09:07     |     2:00      |       218 KM       |    1     
+  19  |               Khusropur                |        KOO         |     09:18     |     09:19     |     1:00      |       233 KM       |    1     
+  20  |                 Fatwa                  |        FUT         |     09:28     |     09:29     |     1:00      |       242 KM       |    1     
+  21  |              Patna Saheb               |        PNC         |     09:39     |     09:40     |     1:00      |       254 KM       |    1     
+  22  |            Rjndr Ngr Bihar             |        RJPB        |     09:52     |     09:54     |     2:00      |       261 KM       |    1     
+  23  |            Patna Junction              |        PNBE        |     10:25     |     Ends      |       -       |       264 KM       |    1     

@@ -1,0 +1,18 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Ajmer Junction              |        AII         |     Start     |     19:50     |       -       |        0 KM        |    1     
+  2   |              Kishangarh                |        KSG         |     20:16     |     20:18     |     2:00      |       29 KM        |    1     
+  3   |           Phulera Junction             |         FL         |     20:58     |     21:00     |     2:00      |       80 KM        |    1     
+  4   |            Asalpur Jobner              |        JOB         |     21:16     |     21:18     |     2:00      |       98 KM        |    1     
+  5   |                Jaipur                  |         JP         |     21:50     |     22:00     |     10:00     |       135 KM       |    1     
+  6   |            Gandhinagar Jpr             |        GADJ        |     22:08     |     22:10     |     2:00      |       141 KM       |    1     
+  7   |                 Dausa                  |         DO         |     22:54     |     22:56     |     2:00      |       196 KM       |    1     
+  8   |           Bandikui Junction            |        BKI         |     23:25     |     23:27     |     2:00      |       225 KM       |    1     
+  9   |                 Alwar                  |        AWR         |     00:13     |     00:16     |     3:00      |       286 KM       |    2     
+  10  |                Rewari                  |         RE         |     01:43     |     01:45     |     2:00      |       360 KM       |    2     
+  11  |                 Delhi                  |        DLI         |     03:25     |     03:40     |     15:00     |       442 KM       |    2     
+  12  |            Delhi Shahdara              |        DSA         |     04:03     |     04:05     |     2:00      |       448 KM       |    2     
+  13  |                Baraut                  |        BTU         |     05:14     |     05:16     |     2:00      |       497 KM       |    2     
+  14  |                Shamli                  |        SMQL        |     06:25     |     06:30     |     5:00      |       536 KM       |    2     
+  15  |                 Tapri                  |        TPZ         |     08:04     |     08:06     |     2:00      |       599 KM       |    2     
+  16  |                Roorkee                 |         RK         |     08:45     |     08:47     |     2:00      |       631 KM       |    2     
+  17  |           Haridwar Junction            |         HW         |     10:25     |     Ends      |       -       |       672 KM       |    2     

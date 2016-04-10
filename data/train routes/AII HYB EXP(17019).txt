@@ -1,0 +1,30 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Ajmer Junction              |        AII         |     Start     |     17:40     |       -       |        0 KM        |    1     
+  2   |              Bijainagar                |        BJNR        |     18:29     |     18:31     |     2:00      |       66 KM        |    1     
+  3   |               Bhilwara                 |        BHL         |     19:30     |     19:35     |     5:00      |       132 KM       |    1     
+  4   |             Chittaurgarh               |        COR         |     20:55     |     21:05     |     10:00     |       186 KM       |    1     
+  5   |                Nimach                  |        NMH         |     21:53     |     22:02     |     9:00      |       242 KM       |    1     
+  6   |               Mandasor                 |        MDS         |     22:43     |     22:45     |     2:00      |       291 KM       |    1     
+  7   |            Ratlam Junction             |        RTM         |     00:25     |     00:50     |     25:00     |       375 KM       |    2     
+  8   |            Nagda Junction              |        NAD         |     01:30     |     01:32     |     2:00      |       416 KM       |    2     
+  9   |            Ujjain Junction             |        UJN         |     02:30     |     02:40     |     10:00     |       471 KM       |    2     
+  10  |           Bhopal  Junction             |        BPL         |     06:15     |     06:20     |     5:00      |       655 KM       |    2     
+  11  |            Itarsi Junction             |         ET         |     08:10     |     08:20     |     10:00     |       747 KM       |    2     
+  12  |                 Harda                  |         HD         |     09:30     |     09:32     |     2:00      |       822 KM       |    2     
+  13  |                Khandwa                 |        KNW         |     11:40     |     11:45     |     5:00      |       930 KM       |    2     
+  14  |               Burhanpur                |        BAU         |     12:33     |     12:35     |     2:00      |       999 KM       |    2     
+  15  |           Bhusaval Junction            |        BSL         |     13:25     |     13:35     |     10:00     |      1053 KM       |    2     
+  16  |           Jalgaon Junction             |         JL         |     13:58     |     14:00     |     2:00      |      1078 KM       |    2     
+  17  |            Manmad Junction             |        MMR         |     16:20     |     16:25     |     5:00      |      1237 KM       |    2     
+  18  |               Nagarsol                 |        NSL         |     16:59     |     17:00     |     1:00      |      1262 KM       |    2     
+  19  |              Aurangabad                |        AWB         |     18:45     |     18:50     |     5:00      |      1351 KM       |    2     
+  20  |                 Jalna                  |         J          |     19:58     |     20:00     |     2:00      |      1413 KM       |    2     
+  21  |           Parbhani Junction            |        PBN         |     22:58     |     23:00     |     2:00      |      1528 KM       |    2     
+  22  |                Nanded                  |        NED         |     00:25     |     00:30     |     5:00      |      1587 KM       |    3     
+  23  |                 Basar                  |        BSX         |     02:30     |     02:31     |     1:00      |      1668 KM       |    3     
+  24  |               Nizamabad                |        NZB         |     03:15     |     03:20     |     5:00      |      1698 KM       |    3     
+  25  |               Kamareddi                |        KMC         |     04:05     |     04:06     |     1:00      |      1750 KM       |    3     
+  26  |                Medchal                 |        MED         |     05:55     |     05:56     |     1:00      |      1830 KM       |    3     
+  27  |              Malkajgiri                |        MJF         |     06:49     |     06:51     |     2:00      |      1854 KM       |    3     
+  28  |         Secunderabad Junction          |         SC         |     07:30     |     07:35     |     5:00      |      1858 KM       |    3     
+  29  |            Hyderabad Decan             |        HYB         |     08:10     |     Ends      |       -       |      1868 KM       |    3     

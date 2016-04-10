@@ -1,0 +1,45 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Delhi S Rohilla             |        DEE         |     Start     |     13:10     |       -       |        0 KM        |    1     
+  2   |              Delhi Cantt               |        DEC         |     13:28     |     13:30     |     2:00      |       10 KM        |    1     
+  3   |                Gurgaon                 |        GGN         |     13:50     |     13:52     |     2:00      |       27 KM        |    1     
+  4   |                Rewari                  |         RE         |     14:56     |     14:58     |     2:00      |       78 KM        |    1     
+  5   |               Khairthal                |        KRH         |     15:32     |     15:34     |     2:00      |       126 KM       |    1     
+  6   |                 Alwar                  |        AWR         |     15:54     |     15:57     |     3:00      |       153 KM       |    1     
+  7   |           Bandikui Junction            |        BKI         |     16:38     |     16:40     |     2:00      |       213 KM       |    1     
+  8   |                 Dausa                  |         DO         |     17:00     |     17:02     |     2:00      |       242 KM       |    1     
+  9   |            Gandhinagar Jpr             |        GADJ        |     17:52     |     17:54     |     2:00      |       298 KM       |    1     
+  10  |                Jaipur                  |         JP         |     18:15     |     18:30     |     15:00     |       303 KM       |    1     
+  11  |           Phulera Junction             |         FL         |     19:15     |     19:17     |     2:00      |       358 KM       |    1     
+  12  |              Kishangarh                |        KSG         |     20:08     |     20:10     |     2:00      |       409 KM       |    1     
+  13  |            Ajmer Junction              |        AII         |     21:15     |     21:40     |     25:00     |       438 KM       |    1     
+  14  |                Beawar                  |        BER         |     22:21     |     22:23     |     2:00      |       490 KM       |    1     
+  15  |            Marwar Junction             |         MJ         |     23:57     |     23:59     |     2:00      |       578 KM       |    1     
+  16  |                 Falna                  |         FA         |     00:55     |     00:57     |     2:00      |       644 KM       |    2     
+  17  |              Sirohi Road               |        SOH         |     01:39     |     01:41     |     2:00      |       699 KM       |    2     
+  18  |               Abu Road                 |        ABR         |     02:35     |     02:45     |     10:00     |       743 KM       |    2     
+  19  |           Palanpur Junction            |        PNU         |     04:11     |     04:13     |     2:00      |       796 KM       |    2     
+  20  |           Mahesana Junction            |        MSH         |     05:28     |     05:30     |     2:00      |       861 KM       |    2     
+  21  |           Viramgam Junction            |         VG         |     07:13     |     07:15     |     2:00      |       925 KM       |    2     
+  22  |             Surendranagar              |        SUNR        |     08:19     |     08:21     |     2:00      |       990 KM       |    2     
+  23  |           Wankaner Junction            |        WKR         |     09:29     |     09:31     |     2:00      |      1065 KM       |    2     
+  24  |            Rajkot Junction             |        RJT         |     10:50     |     Ends      |       -       |      1106 KM       |    2     
+  25  |             Surendranagar              |        SUNR        |     08:30     |     09:30     |     60:00     |       990 KM       |    2     
+  26  |            Surendranagar G             |        SRGT        |     09:34     |     09:36     |     2:00      |       993 KM       |    2     
+  27  |         Jorawarnagar Junction          |        JVN         |     09:39     |     09:41     |     2:00      |       995 KM       |    2     
+  28  |             Wadhwan City               |         WC         |     09:46     |     09:48     |     2:00      |       999 KM       |    2     
+  29  |                Limbdi                  |         LM         |     10:01     |     10:03     |     2:00      |      1019 KM       |    2     
+  30  |                 CHUDA                  |        CDA         |     10:12     |     10:14     |     2:00      |      1029 KM       |    2     
+  31  |                Ranpur                  |        RUR         |     10:29     |     10:31     |     2:00      |      1045 KM       |    2     
+  32  |            Botad Junction              |        BTD         |     11:10     |     11:33     |     23:00     |      1067 KM       |    2     
+  33  |               Lathidad                 |        LTD         |     11:43     |     11:45     |     2:00      |      1078 KM       |    2     
+  34  |           Ningala Junction             |        NGA         |     11:53     |     11:55     |     2:00      |      1086 KM       |    2     
+  35  |                Alampur                 |        ALMR        |     12:02     |     12:04     |     2:00      |      1093 KM       |    2     
+  36  |                Ujalvav                 |         UJ         |     12:10     |     12:12     |     2:00      |      1100 KM       |    2     
+  37  |            Dhola Junction              |        DLJ         |     12:22     |     12:24     |     2:00      |      1110 KM       |    2     
+  38  |                Sanosra                 |        SOA         |     12:32     |     12:34     |     2:00      |      1121 KM       |    2     
+  39  |                Songadh                 |        SGD         |     12:42     |     12:44     |     2:00      |      1132 KM       |    2     
+  40  |             Sihor Gujarat              |        SOJN        |     12:51     |     12:53     |     2:00      |      1139 KM       |    2     
+  41  |            Kodiyar Mandir              |        KDMR        |     12:59     |     13:01     |     2:00      |      1144 KM       |    2     
+  42  |                Vartej                  |        VTJ         |     13:07     |     13:09     |     2:00      |      1149 KM       |    2     
+  43  |            Bhavanagar Para             |        BVP         |     13:18     |     13:20     |     2:00      |      1157 KM       |    2     
+  44  |            Bhavnagar Trmus             |        BVC         |     13:35     |     Ends      |       -       |      1159 KM       |    2     

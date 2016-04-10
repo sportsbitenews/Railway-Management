@@ -1,0 +1,19 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Mysore Junction             |        MYS         |     Start     |     22:30     |       -       |        0 KM        |    1     
+  2   |            Krishanrajanaga             |        KRNR        |     23:04     |     23:05     |     1:00      |       35 KM        |    1     
+  3   |               Mandagere                |        MGF         |     23:34     |     23:35     |     1:00      |       70 KM        |    1     
+  4   |             Hole Narsipur              |        HLN         |     23:54     |     23:55     |     1:00      |       89 KM        |    1     
+  5   |                Hassan                  |        HAS         |     00:33     |     00:35     |     2:00      |       121 KM       |    2     
+  6   |           Arsikere Junction            |        ASK         |     01:35     |     01:45     |     10:00     |       168 KM       |    2     
+  7   |                 Kadur                  |        DRU         |     02:13     |     02:15     |     2:00      |       207 KM       |    2     
+  8   |            Birur Junction              |        RRB         |     02:23     |     02:25     |     2:00      |       213 KM       |    2     
+  9   |          Chikjajur Junction            |        JRU         |     03:29     |     03:30     |     1:00      |       281 KM       |    2     
+  10  |               Davangere                |        DVG         |     04:13     |     04:15     |     2:00      |       328 KM       |    2     
+  11  |                Harihar                 |        HRR         |     04:48     |     04:50     |     2:00      |       341 KM       |    2     
+  12  |              Ranibennur                |        RNR         |     05:13     |     05:15     |     2:00      |       364 KM       |    2     
+  13  |                Byadgi                  |        BYD         |     05:32     |     05:33     |     1:00      |       382 KM       |    2     
+  14  |                Haveri                  |        HVR         |     05:46     |     05:48     |     2:00      |       396 KM       |    2     
+  15  |                Karajgi                 |        KJG         |     05:54     |     05:55     |     1:00      |       403 KM       |    2     
+  16  |                Yalvigi                 |        YLG         |     06:14     |     06:15     |     1:00      |       425 KM       |    2     
+  17  |            Hubli Junction              |        UBL         |     07:40     |     07:45     |     5:00      |       471 KM       |    2     
+  18  |                Dharwar                 |        DWR         |     08:15     |     Ends      |       -       |       491 KM       |    2     

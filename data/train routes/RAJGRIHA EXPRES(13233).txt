@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Rajgir                  |        RGD         |     Start     |     14:40     |       -       |        0 KM        |    1     
+  2   |                Nalanda                 |        NLD         |     14:51     |     14:53     |     2:00      |       12 KM        |    1     
+  4   |             Bihar Sharif               |        BEHS        |     15:11     |     15:13     |     2:00      |       24 KM        |    1     
+  5   |                 Wena                   |        WENA        |     15:25     |     15:27     |     2:00      |       38 KM        |    1     
+  6   |                Harnaut                 |        HRT         |     15:38     |     15:40     |     2:00      |       43 KM        |    1     
+  7   |         Bakhtiyarpur Junction          |        BKP         |     16:16     |     16:18     |     2:00      |       53 KM        |    1     
+  8   |                Karauta                 |        KWO         |     16:26     |     16:28     |     2:00      |       63 KM        |    1     
+  9   |               Khusropur                |        KOO         |     16:35     |     16:37     |     2:00      |       68 KM        |    1     
+  10  |                 Fatwa                  |        FUT         |     16:45     |     16:47     |     2:00      |       77 KM        |    1     
+  11  |              Patna Saheb               |        PNC         |     17:03     |     17:05     |     2:00      |       89 KM        |    1     
+  12  |              Gulzarbagh                |        GZH         |     17:12     |     17:14     |     2:00      |       92 KM        |    1     
+  13  |            Rjndr Ngr Bihar             |        RJPB        |     17:23     |     17:25     |     2:00      |       97 KM        |    1     
+  14  |            Patna Junction              |        PNBE        |     17:32     |     17:42     |     10:00     |       99 KM        |    1     
+  15  |                Danapur                 |        DNR         |     18:05     |     Ends      |       -       |       109 KM       |    1     

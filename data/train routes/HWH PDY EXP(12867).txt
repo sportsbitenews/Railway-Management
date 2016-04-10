@@ -1,0 +1,17 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Howrah Junction             |        HWH         |     Start     |     23:30     |       -       |        0 KM        |    1     
+  2   |          Kharagpur Junction            |        KGP         |     01:10     |     01:15     |     5:00      |       116 KM       |    2     
+  3   |               Balasore                 |        BLS         |     02:40     |     02:42     |     2:00      |       234 KM       |    2     
+  4   |              Bhubaneswar               |        BBS         |     05:55     |     06:00     |     5:00      |       439 KM       |    2     
+  5   |         Khurda Road Junction           |        KUR         |     06:35     |     06:50     |     15:00     |       458 KM       |    2     
+  6   |         Vizianagram Junction           |        VZM         |     11:35     |     11:37     |     2:00      |       821 KM       |    2     
+  7   |             Vishakapatnam              |        VSKP        |     12:35     |     12:55     |     20:00     |       882 KM       |    2     
+  8   |                Duvvada                 |        DVD         |     13:25     |     13:27     |     2:00      |       900 KM       |    2     
+  9   |          Vijayawada Junction           |        BZA         |     18:45     |     19:05     |     20:00     |      1232 KM       |    2     
+  10  |                Nellore                 |        NLR         |     22:13     |     22:15     |     2:00      |      1487 KM       |    2     
+  11  |          Renigunta Junction            |         RU         |     00:55     |     01:05     |     10:00     |      1608 KM       |    3     
+  12  |               Tirupati                 |        TPTY        |     01:20     |     01:22     |     2:00      |      1618 KM       |    3     
+  13  |           Katpadi Junction             |        KPD         |     03:48     |     03:50     |     2:00      |      1722 KM       |    3     
+  14  |             Vellore Cant               |        VLR         |     04:03     |     04:05     |     2:00      |      1732 KM       |    3     
+  15  |          Villuparam Junction           |         VM         |     07:45     |     07:50     |     5:00      |      1883 KM       |    3     
+  16  |              Puducherry                |        PDY         |     08:50     |     Ends      |       -       |      1920 KM       |    3     

@@ -1,0 +1,4 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Darjeeling                |         DJ         |     Start     |     11:00     |       -       |        0 KM        |    1     
+  2   |                 Ghum                   |        GHUM        |     11:50     |     12:20     |     30:00     |        7 KM        |    1     
+  3   |             To Darjeeling              |        DJRZ        |     13:00     |     Ends      |       -       |       14 KM        |    1     

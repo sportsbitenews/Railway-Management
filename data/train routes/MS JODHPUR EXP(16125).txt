@@ -1,0 +1,26 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Chennai Egmore              |         MS         |     Start     |     15:10     |       -       |        0 KM        |    1     
+  2   |            Gudur Junction              |        GDR         |     17:40     |     17:42     |     2:00      |       142 KM       |    1     
+  3   |                Nellore                 |        NLR         |     18:06     |     18:08     |     2:00      |       181 KM       |    1     
+  4   |          Vijayawada Junction           |        BZA         |     22:00     |     22:10     |     10:00     |       435 KM       |    1     
+  5   |                Khammam                 |        KMT         |     23:30     |     23:31     |     1:00      |       536 KM       |    1     
+  6   |               Warangal                 |         WL         |     01:18     |     01:20     |     2:00      |       643 KM       |    2     
+  7   |              Balharshah                |        BPQ         |     05:40     |     05:50     |     10:00     |       886 KM       |    2     
+  8   |            Wardha Junction             |         WR         |     08:00     |     08:05     |     5:00      |      1018 KM       |    2     
+  9   |           Badnera Junction             |         BD         |     09:45     |     09:50     |     5:00      |      1114 KM       |    2     
+  10  |            Akola Junction              |         AK         |     10:40     |     10:45     |     5:00      |      1192 KM       |    2     
+  11  |           Bhusaval Junction            |        BSL         |     12:50     |     13:00     |     10:00     |      1332 KM       |    2     
+  12  |           Jalgaon Junction             |         JL         |     13:59     |     14:00     |     1:00      |      1356 KM       |    2     
+  13  |               Nandurbar                |        NDB         |     16:55     |     17:00     |     5:00      |      1507 KM       |    2     
+  14  |                 Surat                  |         ST         |     20:20     |     20:25     |     5:00      |      1667 KM       |    2     
+  15  |           Vadodara Junction            |        BRC         |     22:10     |     22:15     |     5:00      |      1796 KM       |    2     
+  16  |          Ahmedabad Junction            |        ADI         |     00:20     |     00:50     |     30:00     |      1896 KM       |    3     
+  17  |           Mahesana Junction            |        MSH         |     02:38     |     02:40     |     2:00      |      1969 KM       |    3     
+  18  |           Palanpur Junction            |        PNU         |     05:01     |     05:03     |     2:00      |      2034 KM       |    3     
+  19  |               Abu Road                 |        ABR         |     05:58     |     06:08     |     10:00     |      2087 KM       |    3     
+  20  |              Sirohi Road               |        SOH         |     06:50     |     06:52     |     2:00      |      2130 KM       |    3     
+  21  |                 Falna                  |         FA         |     07:43     |     07:45     |     2:00      |      2185 KM       |    3     
+  22  |            Marwar Junction             |         MJ         |     09:05     |     09:10     |     5:00      |      2252 KM       |    3     
+  23  |              Pali Marwar               |        PMY         |     09:38     |     09:40     |     2:00      |      2282 KM       |    3     
+  24  |             Luni Junction              |        LUNI        |     10:11     |     10:14     |     3:00      |      2323 KM       |    3     
+  25  |           Jodhpur Junction             |         JU         |     10:50     |     Ends      |       -       |      2355 KM       |    3     

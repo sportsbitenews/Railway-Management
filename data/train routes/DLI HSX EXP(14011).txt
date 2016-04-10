@@ -1,0 +1,8 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Delhi                  |        DLI         |     Start     |     21:00     |       -       |        0 KM        |    1     
+  2   |           Panipat Junction             |        PNP         |     22:33     |     22:35     |     2:00      |       89 KM        |    1     
+  3   |         Ambala Cant Junction           |        UMB         |     00:40     |     00:50     |     10:00     |       198 KM       |    2     
+  4   |           Ludhiana Junction            |        LDH         |     02:30     |     02:40     |     10:00     |       311 KM       |    2     
+  5   |           Phagwara Junction            |        PGW         |     03:08     |     03:10     |     2:00      |       347 KM       |    2     
+  6   |            Jalandhar Cant              |        JRC         |     03:30     |     04:05     |     35:00     |       363 KM       |    2     
+  7   |              Hoshiarpur                |        HSX         |     05:15     |     Ends      |       -       |       402 KM       |    2     

@@ -1,0 +1,30 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            C Shahumharaj T             |        KOP         |     Start     |     14:05     |       -       |        0 KM        |    1     
+  2   |              Hatkanagale               |        HTK         |     14:29     |     14:30     |     1:00      |       21 KM        |    1     
+  3   |            Miraj Junction              |        MRJ         |     15:25     |     15:35     |     10:00     |       48 KM        |    1     
+  4   |              Ugar Khurd                |        UGR         |     15:58     |     16:00     |     2:00      |       74 KM        |    1     
+  5   |                Kudachi                 |        KUD         |     16:08     |     16:10     |     2:00      |       81 KM        |    1     
+  6   |               Chinchli                 |        CNC         |     16:18     |     16:20     |     2:00      |       87 KM        |    1     
+  7   |                Raybag                  |        RBG         |     16:28     |     16:30     |     2:00      |       98 KM        |    1     
+  8   |             Chikodi Road               |        CKR         |     16:38     |     16:40     |     2:00      |       112 KM       |    1     
+  9   |              Ghatprabha                |        GPB         |     17:08     |     17:10     |     2:00      |       127 KM       |    1     
+  10  |              Gokak Road                |        GKK         |     17:15     |     17:17     |     2:00      |       132 KM       |    1     
+  11  |               Pachhapur                |        PCH         |     17:33     |     17:35     |     2:00      |       149 KM       |    1     
+  12  |                Belgaum                 |        BGM         |     18:35     |     18:40     |     5:00      |       185 KM       |    1     
+  13  |               Khanapur                 |        KNP         |     18:58     |     19:00     |     2:00      |       210 KM       |    1     
+  14  |            Londa Junction              |         LD         |     19:45     |     19:50     |     5:00      |       236 KM       |    1     
+  15  |           Alnavar Junction             |        LWR         |     20:43     |     20:45     |     2:00      |       270 KM       |    1     
+  16  |                Dharwar                 |        DWR         |     21:43     |     21:45     |     2:00      |       306 KM       |    1     
+  17  |            Hubli Junction              |        UBL         |     22:35     |     22:45     |     10:00     |       326 KM       |    1     
+  18  |                Haveri                  |        HVR         |     23:48     |     23:50     |     2:00      |       401 KM       |    1     
+  19  |              Ranibennur                |        RNR         |     00:18     |     00:20     |     2:00      |       434 KM       |    2     
+  20  |                Harihar                 |        HRR         |     00:43     |     00:45     |     2:00      |       457 KM       |    2     
+  21  |               Davangere                |        DVG         |     01:07     |     01:10     |     3:00      |       470 KM       |    2     
+  22  |            Birur Junction              |        RRB         |     02:48     |     02:50     |     2:00      |       585 KM       |    2     
+  23  |                 Kadur                  |        DRU         |     02:58     |     03:00     |     2:00      |       591 KM       |    2     
+  24  |           Arsikere Junction            |        ASK         |     03:45     |     03:50     |     5:00      |       630 KM       |    2     
+  25  |                Tiptur                  |        TTR         |     04:15     |     04:17     |     2:00      |       655 KM       |    2     
+  26  |              Ammasandra                |        AMSA        |     04:43     |     04:45     |     2:00      |       682 KM       |    2     
+  27  |                Tumkur                  |         TK         |     05:28     |     05:30     |     2:00      |       726 KM       |    2     
+  28  |          Yesvantpur Junction           |        YPR         |     06:39     |     06:41     |     2:00      |       790 KM       |    2     
+  29  |         Bangalore Cy Junction          |        SBC         |     07:00     |     Ends      |       -       |       795 KM       |    2     

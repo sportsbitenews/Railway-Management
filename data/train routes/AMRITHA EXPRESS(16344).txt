@@ -1,0 +1,19 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Palghat Town               |        PGTN        |     Start     |     21:45     |       -       |        0 KM        |    1     
+  2   |               Palakkad                 |        PGT         |     22:00     |     22:10     |     10:00     |        5 KM        |    1     
+  3   |              Ottappalam                |        OTP         |     22:34     |     22:35     |     1:00      |       36 KM        |    1     
+  4   |           Shoranur Junction            |        SRR         |     23:15     |     23:25     |     10:00     |       49 KM        |    1     
+  5   |                Thrisur                 |        TCR         |     00:07     |     00:10     |     3:00      |       82 KM        |    2     
+  6   |                 Aluva                  |        AWY         |     00:50     |     00:52     |     2:00      |       136 KM       |    2     
+  7   |                Idaplli                 |        IPL         |     01:04     |     01:05     |     1:00      |       147 KM       |    2     
+  8   |            Ernakulam Town              |        ERN         |     01:30     |     01:35     |     5:00      |       153 KM       |    2     
+  9   |               Kottayam                 |        KTYM        |     02:33     |     02:35     |     2:00      |       215 KM       |    2     
+  10  |             Changanaseri               |        CGY         |     02:53     |     02:55     |     2:00      |       233 KM       |    2     
+  11  |               Tiruvalla                |        TRVL        |     03:03     |     03:05     |     2:00      |       241 KM       |    2     
+  12  |              Chengannur                |        CNGR        |     03:13     |     03:15     |     2:00      |       250 KM       |    2     
+  13  |              Mavelikara                |        MVLK        |     03:25     |     03:27     |     2:00      |       262 KM       |    2     
+  14  |          Kayankulam Junction           |        KYJ         |     03:40     |     03:42     |     2:00      |       270 KM       |    2     
+  15  |             Karunagapalli              |        KPY         |     03:58     |     04:00     |     2:00      |       284 KM       |    2     
+  16  |            Kollam Junction             |        QLN         |     04:35     |     04:40     |     5:00      |       311 KM       |    2     
+  17  |                Varkala                 |        VAK         |     04:58     |     05:00     |     2:00      |       335 KM       |    2     
+  18  |            Trivandrum Cntl             |        TVC         |     06:25     |     Ends      |       -       |       376 KM       |    2     

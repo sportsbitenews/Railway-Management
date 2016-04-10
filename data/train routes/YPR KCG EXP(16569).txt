@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Yesvantpur Junction           |        YPR         |     Start     |     14:30     |       -       |        0 KM        |    1     
+  2   |           Yelhanka Junction            |        YNK         |     14:48     |     14:50     |     2:00      |       13 KM        |    1     
+  3   |             Gauribidanur               |        GBD         |     15:43     |     15:45     |     2:00      |       73 KM        |    1     
+  4   |               Hindupur                 |        HUP         |     16:13     |     16:15     |     2:00      |       96 KM        |    1     
+  5   |         Dharmavaram Junction           |        DMM         |     18:25     |     18:30     |     5:00      |       175 KM       |    1     
+  6   |               Anantapur                |        ATP         |     19:03     |     19:05     |     2:00      |       209 KM       |    1     
+  7   |                 Gooty                  |         GY         |     20:03     |     20:05     |     2:00      |       266 KM       |    1     
+  8   |                 Dhone                  |        DHNE        |     21:25     |     21:30     |     5:00      |       321 KM       |    1     
+  9   |             Kurnool Town               |        KRNT        |     22:30     |     22:32     |     2:00      |       374 KM       |    1     
+  10  |                Gadwal                  |        GWD         |     00:00     |     00:02     |     2:00      |       430 KM       |    2     
+  11  |              Sriramnagar               |        SRNR        |     00:10     |     00:12     |     2:00      |       442 KM       |    2     
+  12  |              Mahbubnagar               |        MBNR        |     01:00     |     01:02     |     2:00      |       505 KM       |    2     
+  13  |               Jadcherla                |        JCL         |     01:18     |     01:20     |     2:00      |       522 KM       |    2     
+  14  |               Shadnagar                |        SHNR        |     01:53     |     01:55     |     2:00      |       559 KM       |    2     
+  15  |               Kacheguda                |        KCG         |     03:40     |     Ends      |       -       |       610 KM       |    2     

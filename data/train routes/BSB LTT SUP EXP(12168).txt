@@ -1,0 +1,14 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Varanasi Junction            |        BSB         |     Start     |     10:25     |       -       |        0 KM        |    1     
+  2   |                Cheoki                  |        COI         |     12:57     |     13:02     |     5:00      |       134 KM       |    1     
+  3   |           Manikpur Junction            |        MKP         |     14:28     |     14:30     |     2:00      |       226 KM       |    1     
+  4   |                 Satna                  |        STA         |     16:00     |     16:10     |     10:00     |       303 KM       |    1     
+  5   |                 Katni                  |        KTE         |     17:20     |     17:25     |     5:00      |       401 KM       |    1     
+  6   |               Jabalpur                 |        JBP         |     18:45     |     18:55     |     10:00     |       492 KM       |    1     
+  7   |            Itarsi Junction             |         ET         |     23:10     |     23:20     |     10:00     |       737 KM       |    1     
+  8   |                Khandwa                 |        KNW         |     03:05     |     03:10     |     5:00      |       921 KM       |    2     
+  9   |           Bhusaval Junction            |        BSL         |     04:45     |     04:55     |     10:00     |      1044 KM       |    2     
+  10  |              Nasik Road                |         NK         |     07:58     |     08:00     |     2:00      |      1301 KM       |    2     
+  11  |               Igatpuri                 |        IGP         |     09:43     |     09:45     |     2:00      |      1352 KM       |    2     
+  12  |            Kalyan Junction             |        KYN         |     11:22     |     11:25     |     3:00      |      1435 KM       |    2     
+  13  |            Lokmanyatilak T             |        LTT         |     12:25     |     Ends      |       -       |      1472 KM       |    2     

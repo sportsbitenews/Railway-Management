@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               New Delhi                |        NDLS        |     Start     |     15:50     |       -       |        0 KM        |    1     
+  2   |            Kanpur Central              |        CNB         |     20:50     |     20:55     |     5:00      |       440 KM       |    1     
+  3   |              Lucknow Nr                |        LKO         |     22:10     |     22:35     |     25:00     |       513 KM       |    1     
+  4   |          Gorakhpur Junction            |        GKP         |     03:10     |     03:25     |     15:00     |       784 KM       |    2     
+  5   |            Siwan Junction              |         SV         |     05:05     |     05:10     |     5:00      |       903 KM       |    2     
+  6   |                Chhapra                 |        CPR         |     06:40     |     06:50     |     10:00     |       964 KM       |    2     
+  7   |           Hajipur Junction             |        HJP         |     08:18     |     08:20     |     2:00      |      1023 KM       |    2     
+  8   |           Barauni Junction             |        BJU         |     09:40     |     09:50     |     10:00     |      1111 KM       |    2     
+  9   |           Katihar Junction             |        KIR         |     13:10     |     13:20     |     10:00     |      1290 KM       |    2     
+  10  |            New Jalpaiguri              |        NJP         |     16:50     |     17:05     |     15:00     |      1473 KM       |    2     
+  11  |            New Cooch Behar             |        NCB         |     19:28     |     19:30     |     2:00      |      1600 KM       |    2     
+  12  |            New Bongaigaon              |        NBQ         |     21:30     |     21:35     |     5:00      |      1725 KM       |    2     
+  13  |           Rangiya Junction             |        RNY         |     23:30     |     23:40     |     10:00     |      1834 KM       |    2     
+  14  |            Rangapara North             |        RPAN        |     02:45     |     03:00     |     15:00     |      1957 KM       |    3     
+  15  |                Harmuti                 |        HMY         |     05:30     |     05:33     |     3:00      |      2100 KM       |    3     

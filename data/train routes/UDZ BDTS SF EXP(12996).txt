@@ -1,0 +1,19 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Udaipur City               |        UDZ         |     Start     |     21:35     |       -       |        0 KM        |    1     
+  2   |            Ranapratapnagar             |        RPZ         |     21:40     |     21:42     |     2:00      |        5 KM        |    1     
+  3   |            Mavli Junction              |        MVJ         |     22:20     |     22:22     |     2:00      |       43 KM        |    1     
+  4   |              Fatehnagar                |        FAN         |     22:33     |     22:35     |     2:00      |       56 KM        |    1     
+  5   |             Chittaurgarh               |        COR         |     23:30     |     00:10     |     40:00     |       115 KM       |    2     
+  6   |                Nimach                  |        NMH         |     01:09     |     01:20     |     11:00     |       170 KM       |    2     
+  7   |               Mandasor                 |        MDS         |     02:01     |     02:03     |     2:00      |       219 KM       |    2     
+  8   |                 Jaora                  |        JAO         |     02:43     |     02:45     |     2:00      |       270 KM       |    2     
+  9   |            Ratlam Junction             |        RTM         |     03:40     |     03:50     |     10:00     |       303 KM       |    2     
+  10  |                 Dahod                  |        DHD         |     05:20     |     05:22     |     2:00      |       417 KM       |    2     
+  11  |            Godhra Junction             |        GDA         |     06:50     |     06:52     |     2:00      |       491 KM       |    2     
+  12  |           Vadodara Junction            |        BRC         |     07:55     |     08:13     |     18:00     |       565 KM       |    2     
+  13  |           Bharuch Junction             |         BH         |     09:00     |     09:02     |     2:00      |       635 KM       |    2     
+  14  |                 Surat                  |         ST         |     10:08     |     10:13     |     5:00      |       694 KM       |    2     
+  15  |                Valsad                  |         BL         |     11:13     |     11:15     |     2:00      |       762 KM       |    2     
+  16  |                 Vapi                   |        VAPI        |     11:38     |     11:40     |     2:00      |       786 KM       |    2     
+  17  |               Borivali                 |        BVI         |     13:30     |     13:32     |     2:00      |       927 KM       |    2     
+  18  |            Bandra Terminus             |        BDTS        |     14:20     |     Ends      |       -       |       945 KM       |    2     

@@ -1,0 +1,22 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Khajuraho                |        KURJ        |     Start     |     23:40     |       -       |        0 KM        |    1     
+  2   |                Mahoba                  |        MBA         |     01:08     |     01:10     |     2:00      |       64 KM        |    2     
+  3   |            Banda Junction              |        BNDA        |     02:20     |     02:30     |     10:00     |       117 KM       |    2     
+  4   |               Khurhand                 |        KHU         |     02:50     |     02:52     |     2:00      |       136 KM       |    2     
+  5   |                Atarra                  |        ATE         |     03:09     |     03:11     |     2:00      |       149 KM       |    2     
+  6   |              Bharat Kup                |        BTKP        |     03:33     |     03:35     |     2:00      |       171 KM       |    2     
+  7   |               Chitrakot                |        CKTD        |     03:51     |     03:53     |     2:00      |       186 KM       |    2     
+  8   |           Manikpur Junction            |        MKP         |     04:35     |     04:40     |     5:00      |       217 KM       |    2     
+  9   |               Dabhaura                 |        DBR         |     04:58     |     05:00     |     2:00      |       240 KM       |    2     
+  10  |                Bargarh                 |        BRG         |     05:16     |     05:18     |     2:00      |       256 KM       |    2     
+  11  |              Shankargarh               |        SRJ         |     05:35     |     05:37     |     2:00      |       273 KM       |    2     
+  12  |                 Naini                  |        NYN         |     06:22     |     06:25     |     3:00      |       310 KM       |    2     
+  13  |          Allahabad Junction            |        ALD         |     06:50     |     07:10     |     20:00     |       318 KM       |    2     
+  14  |                Prayag                  |        PRG         |     07:21     |     07:23     |     2:00      |       324 KM       |    2     
+  15  |          Phaphamau Junction            |        PFM         |     07:40     |     07:42     |     2:00      |       331 KM       |    2     
+  16  |                Phulpur                 |        PLP         |     08:06     |     08:08     |     2:00      |       354 KM       |    2     
+  17  |              Ugrasenpur                |        URPR        |     08:17     |     08:19     |     2:00      |       363 KM       |    2     
+  18  |           Janghai Junction             |        JNH         |     08:37     |     08:39     |     2:00      |       377 KM       |    2     
+  19  |               Suriawan                 |        SAW         |     08:57     |     08:59     |     2:00      |       393 KM       |    2     
+  20  |                Bhadohi                 |        BOY         |     09:13     |     09:15     |     2:00      |       408 KM       |    2     
+  21  |           Varanasi Junction            |        BSB         |     10:50     |     Ends      |       -       |       453 KM       |    2     

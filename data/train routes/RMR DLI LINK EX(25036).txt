@@ -1,0 +1,6 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Ramnagar                 |        RMR         |     Start     |     09:50     |       -       |        0 KM        |    1     
+  2   |               Kashipur                 |        KPV         |     10:15     |     10:20     |     5:00      |       28 KM        |    1     
+  3   |               Moradabad                |         MB         |     11:45     |     12:25     |     40:00     |       78 KM        |    1     
+  4   |                Amroha                  |        AMRO        |     12:52     |     12:54     |     2:00      |       109 KM       |    1     
+  5   |                 Delhi                  |        DLI         |     15:20     |     Ends      |       -       |       239 KM       |    1     

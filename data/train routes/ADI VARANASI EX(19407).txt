@@ -1,0 +1,22 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Ahmedabad Junction            |        ADI         |     Start     |     21:00     |       -       |        0 KM        |    1     
+  2   |          Sabarmati Junction            |        SBI         |     21:17     |     21:19     |     2:00      |        7 KM        |    1     
+  3   |           Mahesana Junction            |        MSH         |     22:17     |     22:19     |     2:00      |       70 KM        |    1     
+  4   |           Palanpur Junction            |        PNU         |     23:59     |     00:04     |     5:00      |       135 KM       |    2     
+  5   |               Abu Road                 |        ABR         |     01:08     |     01:18     |     10:00     |       187 KM       |    2     
+  6   |                 Falna                  |         FA         |     03:00     |     03:02     |     2:00      |       286 KM       |    2     
+  7   |            Marwar Junction             |         MJ         |     04:07     |     04:13     |     6:00      |       353 KM       |    2     
+  8   |            Ajmer Junction              |        AII         |     06:20     |     06:30     |     10:00     |       492 KM       |    2     
+  9   |                Jaipur                  |         JP         |     09:00     |     09:10     |     10:00     |       627 KM       |    2     
+  10  |                 Alwar                  |        AWR         |     11:31     |     11:34     |     3:00      |       778 KM       |    2     
+  11  |                Rewari                  |         RE         |     12:50     |     12:55     |     5:00      |       852 KM       |    2     
+  12  |                Gurgaon                 |        GGN         |     13:36     |     13:38     |     2:00      |       903 KM       |    2     
+  13  |              Delhi Cantt               |        DEC         |     14:04     |     14:06     |     2:00      |       920 KM       |    2     
+  14  |                 Delhi                  |        DLI         |     14:45     |     15:05     |     20:00     |       934 KM       |    2     
+  15  |               Moradabad                |         MB         |     18:28     |     18:30     |     2:00      |      1095 KM       |    2     
+  16  |               Bareilly                 |         BE         |     19:50     |     19:55     |     5:00      |      1186 KM       |    2     
+  17  |              Lucknow Nr                |        LKO         |     23:35     |     23:45     |     10:00     |      1421 KM       |    2     
+  18  |               Nihalgarh                |        NHH         |     01:16     |     01:18     |     2:00      |      1510 KM       |    3     
+  19  |               Sultanpur                |        SLN         |     02:05     |     02:10     |     5:00      |      1560 KM       |    3     
+  20  |             Jaunpur City               |        JOP         |     03:33     |     03:35     |     2:00      |      1646 KM       |    3     
+  21  |           Varanasi Junction            |        BSB         |     05:40     |     Ends      |       -       |      1704 KM       |    3     

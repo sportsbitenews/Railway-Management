@@ -1,0 +1,19 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Durg                   |        DURG        |     Start     |     12:00     |       -       |        0 KM        |    1     
+  2   |            Raipur Junction             |         R          |     12:35     |     12:40     |     5:00      |       37 KM        |    1     
+  3   |               Bhatapara                |        BYT         |     13:33     |     13:35     |     2:00      |       101 KM       |    1     
+  4   |           Bilaspur Junction            |        BSP         |     14:30     |     14:50     |     20:00     |       147 KM       |    1     
+  5   |              Pendra Road               |        PND         |     16:25     |     16:27     |     2:00      |       248 KM       |    1     
+  6   |           Anuppur Junction             |        APR         |     17:20     |     17:25     |     5:00      |       298 KM       |    1     
+  7   |                Shahdol                 |        SDL         |     18:05     |     18:07     |     2:00      |       339 KM       |    1     
+  8   |                Umaria                  |        UMR         |     19:04     |     19:06     |     2:00      |       406 KM       |    1     
+  9   |             Katni Murwara              |        KMZ         |     20:35     |     20:45     |     10:00     |       465 KM       |    1     
+  10  |                Saugor                  |        SGO         |     23:15     |     23:20     |     5:00      |       652 KM       |    1     
+  11  |            Jhansi Junction             |        JHS         |     02:30     |     02:40     |     10:00     |       879 KM       |    2     
+  12  |              Agra Cantt                |        AGC         |     05:33     |     05:36     |     3:00      |      1094 KM       |    2     
+  13  |            Delhi Safdarjng             |        DSJ         |     09:29     |     09:30     |     1:00      |      1286 KM       |    2     
+  14  |         Ambala Cant Junction           |        UMB         |     12:55     |     13:10     |     15:00     |      1495 KM       |    2     
+  15  |           Ludhiana Junction            |        LDH         |     15:10     |     15:20     |     10:00     |      1608 KM       |    2     
+  16  |            Jalandhar Cant              |        JRC         |     16:10     |     16:15     |     5:00      |      1661 KM       |    2     
+  17  |            Pathankot Cantt             |        PTKC        |     18:00     |     18:05     |     5:00      |      1773 KM       |    2     
+  18  |              Jammu Tawi                |        JAT         |     21:10     |     Ends      |       -       |      1873 KM       |    2     

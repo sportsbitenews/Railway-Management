@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Gandhidham Bg              |        GIMB        |     Start     |     06:30     |       -       |        0 KM        |    1     
+  2   |              Bhachau Bg                |        BCOB        |     07:03     |     07:05     |     2:00      |       38 KM        |    1     
+  3   |            Samakhiali B G              |        SIOB        |     07:30     |     07:32     |     2:00      |       53 KM        |    1     
+  4   |             Maliya Miyana              |        MALB        |     08:12     |     08:14     |     2:00      |       94 KM        |    1     
+  5   |                 Morbi                  |        MVI         |     09:15     |     09:20     |     5:00      |       145 KM       |    1     
+  6   |           Wankaner Junction            |        WKR         |     10:12     |     10:17     |     5:00      |       174 KM       |    1     
+  7   |             Surendranagar              |        SUNR        |     11:21     |     11:23     |     2:00      |       248 KM       |    1     
+  8   |           Viramgam Junction            |         VG         |     12:40     |     12:42     |     2:00      |       314 KM       |    1     
+  9   |          Ahmedabad Junction            |        ADI         |     13:50     |     14:10     |     20:00     |       379 KM       |    1     
+  10  |           Vadodara Junction            |        BRC         |     15:58     |     16:03     |     5:00      |       479 KM       |    1     
+  11  |                 Surat                  |         ST         |     18:30     |     18:35     |     5:00      |       608 KM       |    1     
+  12  |                Valsad                  |         BL         |     19:31     |     19:33     |     2:00      |       676 KM       |    1     
+  13  |                 Vapi                   |        VAPI        |     19:52     |     19:54     |     2:00      |       700 KM       |    1     
+  14  |               Borivali                 |        BVI         |     21:43     |     21:45     |     2:00      |       840 KM       |    1     
+  15  |            Bandra Terminus             |        BDTS        |     22:25     |     Ends      |       -       |       859 KM       |    1     

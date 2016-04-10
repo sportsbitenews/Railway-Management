@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Chennai Central             |        MAS         |     Start     |     07:50     |       -       |        0 KM        |    1     
+  2   |               Arakkonam                |        AJJ         |     08:53     |     08:55     |     2:00      |       69 KM        |    1     
+  3   |         Walajah Road Junction          |        WJR         |     09:29     |     09:30     |     1:00      |       105 KM       |    1     
+  4   |           Katpadi Junction             |        KPD         |     09:53     |     09:55     |     2:00      |       130 KM       |    1     
+  5   |                 Ambur                  |         AB         |     10:29     |     10:30     |     1:00      |       182 KM       |    1     
+  6   |              Vaniyambadi               |         VN         |     10:44     |     10:45     |     1:00      |       198 KM       |    1     
+  7   |              Jolarpettai               |        JTJ         |     11:05     |     11:07     |     2:00      |       214 KM       |    1     
+  8   |                Kuppam                  |        KPN         |     11:34     |     11:35     |     1:00      |       257 KM       |    1     
+  9   |              Bangarapet                |        BWT         |     12:03     |     12:05     |     2:00      |       292 KM       |    1     
+  10  |            Krishnarajapurm             |        KJM         |     12:48     |     12:50     |     2:00      |       348 KM       |    1     
+  11  |            Bangalore Cant              |        BNC         |     13:18     |     13:20     |     2:00      |       357 KM       |    1     
+  12  |         Bangalore Cy Junction          |        SBC         |     14:00     |     Ends      |       -       |       362 KM       |    1     

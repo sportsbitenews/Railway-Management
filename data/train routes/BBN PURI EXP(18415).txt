@@ -1,0 +1,28 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Barabil                 |        BBN         |     Start     |     09:25     |       -       |        0 KM        |    1     
+  2   |              Bara Jamda                |        BJMD        |     09:42     |     09:43     |     1:00      |       10 KM        |    1     
+  3   |               Noamundi                 |        NOMD        |     10:04     |     10:05     |     1:00      |       24 KM        |    1     
+  4   |              Dangoaposi                |        DPS         |     10:24     |     10:54     |     30:00     |       32 KM        |    1     
+  7   |               Banspani                 |        BSPX        |     11:50     |     11:51     |     1:00      |       64 KM        |    1     
+  8   |                Jaroli                  |        JRLI        |     12:49     |     12:50     |     1:00      |       74 KM        |    1     
+  9   |               Nayagarh                 |        NYG         |     13:04     |     13:05     |     1:00      |       89 KM        |    1     
+  10  |               Porjanpur                |        PRNR        |     13:19     |     13:20     |     1:00      |       103 KM       |    1     
+  11  |                Goaldih                 |        GADH        |     13:32     |     13:33     |     1:00      |       110 KM       |    1     
+  12  |             Kendujhargarh              |        KDJR        |     13:45     |     13:50     |     5:00      |       121 KM       |    1     
+  13  |               Naranpur                 |        NANR        |     13:58     |     13:59     |     1:00      |       127 KM       |    1     
+  14  |              Basantapur                |        BSTP        |     14:09     |     14:10     |     1:00      |       136 KM       |    1     
+  15  |               Sitabinj                 |        STBJ        |     14:23     |     14:24     |     1:00      |       149 KM       |    1     
+  16  |            Nilakantheswar              |        NKW         |     14:35     |     14:36     |     1:00      |       160 KM       |    1     
+  17  |            Harichandanpur              |        HCNR        |     14:55     |     14:56     |     1:00      |       171 KM       |    1     
+  18  |              Chilikidara               |        CLDR        |     15:10     |     15:11     |     1:00      |       181 KM       |    1     
+  19  |              Sagadapata                |        SGDP        |     15:21     |     15:22     |     1:00      |       193 KM       |    1     
+  20  |              Tangiriapal               |        TGRL        |     15:39     |     15:40     |     1:00      |       209 KM       |    1     
+  21  |                 Tomka                  |        TMKA        |     15:51     |     15:52     |     1:00      |       219 KM       |    1     
+  22  |               Baghuapal                |        BGPL        |     16:02     |     16:03     |     1:00      |       228 KM       |    1     
+  23  |             Sukinda Road               |        SKND        |     16:13     |     16:14     |     1:00      |       236 KM       |    1     
+  24  |               Jakhapura                |        JKPR        |     16:34     |     16:36     |     2:00      |       244 KM       |    1     
+  25  |                Cuttack                 |        CTC         |     17:30     |     17:35     |     5:00      |       308 KM       |    1     
+  26  |              Bhubaneswar               |        BBS         |     18:20     |     18:25     |     5:00      |       336 KM       |    1     
+  27  |         Khurda Road Junction           |        KUR         |     18:50     |     18:55     |     5:00      |       355 KM       |    1     
+  28  |              Sakhi Gopal               |        SIL         |     19:45     |     19:46     |     1:00      |       382 KM       |    1     
+  29  |                 Puri                   |        PURI        |     20:15     |     Ends      |       -       |       398 KM       |    1     

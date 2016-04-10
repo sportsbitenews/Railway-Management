@@ -1,0 +1,29 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Bhagalpur                |        BGP         |     Start     |     13:30     |       -       |        0 KM        |    1     
+  2   |           Jamalpur Junction            |        JMP         |     14:35     |     14:40     |     5:00      |       53 KM        |    1     
+  3   |               Abhaipur                 |        AHA         |     14:59     |     15:00     |     1:00      |       75 KM        |    1     
+  4   |             Kiul Junction              |        KIUL        |     16:10     |     16:40     |     30:00     |       99 KM        |    1     
+  5   |           Jasidih Junction             |        JSME        |     18:12     |     18:15     |     3:00      |       196 KM       |    1     
+  6   |           Madhupur Junction            |        MDP         |     18:41     |     18:43     |     2:00      |       225 KM       |    1     
+  7   |           Asansol Junction             |        ASN         |     19:58     |     20:03     |     5:00      |       307 KM       |    1     
+  8   |          Barddhaman Junction           |        BWN         |     21:37     |     21:39     |     2:00      |       412 KM       |    1     
+  9   |            Howrah Junction             |        HWH         |     23:05     |     23:30     |     25:00     |       507 KM       |    1     
+  10  |          Kharagpur Junction            |        KGP         |     01:10     |     01:15     |     5:00      |       622 KM       |    2     
+  11  |               Balasore                 |        BLS         |     02:40     |     02:42     |     2:00      |       740 KM       |    2     
+  12  |               Bhadrakh                 |        BHC         |     03:40     |     03:42     |     2:00      |       802 KM       |    2     
+  13  |                Cuttack                 |        CTC         |     05:10     |     05:15     |     5:00      |       918 KM       |    2     
+  14  |              Bhubaneswar               |        BBS         |     05:55     |     06:00     |     5:00      |       946 KM       |    2     
+  15  |         Khurda Road Junction           |        KUR         |     06:35     |     06:50     |     15:00     |       964 KM       |    2     
+  16  |               Brahmapur                |        BAM         |     08:38     |     08:40     |     2:00      |      1111 KM       |    2     
+  17  |         Vizianagram Junction           |        VZM         |     11:35     |     11:37     |     2:00      |      1327 KM       |    2     
+  18  |             Vishakapatnam              |        VSKP        |     12:35     |     12:55     |     20:00     |      1388 KM       |    2     
+  19  |                Duvvada                 |        DVD         |     13:26     |     13:27     |     1:00      |      1406 KM       |    2     
+  20  |              Rajamundry                |        RJY         |     15:51     |     15:53     |     2:00      |      1589 KM       |    2     
+  21  |          Vijayawada Junction           |        BZA         |     18:45     |     19:05     |     20:00     |      1738 KM       |    2     
+  22  |                Ongole                  |        OGL         |     20:59     |     21:00     |     1:00      |      1877 KM       |    2     
+  23  |                Nellore                 |        NLR         |     22:14     |     22:15     |     1:00      |      1993 KM       |    2     
+  24  |            Gudur Junction              |        GDR         |     23:41     |     23:43     |     2:00      |      2031 KM       |    2     
+  25  |           Katpadi Junction             |        KPD         |     03:35     |     03:37     |     2:00      |      2247 KM       |    3     
+  26  |              Jolarpettai               |        JTJ         |     04:50     |     04:55     |     5:00      |      2331 KM       |    3     
+  27  |            Krishnarajapurm             |        KJM         |     07:28     |     07:30     |     2:00      |      2465 KM       |    3     
+  28  |          Yesvantpur Junction           |        YPR         |     09:05     |     Ends      |       -       |      2488 KM       |    3     

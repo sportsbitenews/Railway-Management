@@ -1,0 +1,27 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Mysore Junction             |        MYS         |     Start     |     06:05     |       -       |        0 KM        |    1     
+  2   |            Krishanrajanaga             |        KRNR        |     06:39     |     06:40     |     1:00      |       35 KM        |    1     
+  3   |             Hole Narsipur              |        HLN         |     07:29     |     07:30     |     1:00      |       89 KM        |    1     
+  4   |                Hassan                  |        HAS         |     07:58     |     08:00     |     2:00      |       121 KM       |    1     
+  5   |           Arsikere Junction            |        ASK         |     09:10     |     09:15     |     5:00      |       168 KM       |    1     
+  6   |                 Kadur                  |        DRU         |     09:49     |     09:50     |     1:00      |       207 KM       |    1     
+  7   |            Birur Junction              |        RRB         |     10:03     |     10:05     |     2:00      |       213 KM       |    1     
+  8   |               Davangere                |        DVG         |     11:43     |     11:45     |     2:00      |       328 KM       |    1     
+  9   |                Harihar                 |        HRR         |     12:03     |     12:05     |     2:00      |       341 KM       |    1     
+  10  |              Ranibennur                |        RNR         |     12:28     |     12:30     |     2:00      |       364 KM       |    1     
+  11  |                Haveri                  |        HVR         |     13:00     |     13:02     |     2:00      |       396 KM       |    1     
+  12  |            Hubli Junction              |        UBL         |     15:05     |     15:15     |     10:00     |       471 KM       |    1     
+  13  |                Dharwar                 |        DWR         |     15:38     |     15:40     |     2:00      |       491 KM       |    1     
+  14  |           Alnavar Junction             |        LWR         |     16:19     |     16:20     |     1:00      |       528 KM       |    1     
+  15  |            Londa Junction              |         LD         |     17:08     |     17:10     |     2:00      |       562 KM       |    1     
+  16  |                Belgaum                 |        BGM         |     18:03     |     18:05     |     2:00      |       613 KM       |    1     
+  17  |              Ghatprabha                |        GPB         |     18:54     |     18:55     |     1:00      |       671 KM       |    1     
+  18  |                Kudachi                 |        KUD         |     19:39     |     19:40     |     1:00      |       717 KM       |    1     
+  19  |            Miraj Junction              |        MRJ         |     20:45     |     20:50     |     5:00      |       750 KM       |    1     
+  20  |                Sangli                  |        SLI         |     21:02     |     21:05     |     3:00      |       757 KM       |    1     
+  21  |                 Karad                  |        KRD         |     22:05     |     22:08     |     3:00      |       825 KM       |    1     
+  22  |                Satara                  |        STR         |     23:05     |     23:08     |     3:00      |       884 KM       |    1     
+  23  |             Pune Junction              |        PUNE        |     02:10     |     02:20     |     10:00     |      1029 KM       |    2     
+  24  |               Lonavala                 |        LNL         |     03:24     |     03:25     |     1:00      |      1093 KM       |    2     
+  25  |            Kalyan Junction             |        KYN         |     04:47     |     04:50     |     3:00      |      1167 KM       |    2     
+  26  |                 Dadar                  |         DR         |     05:45     |     Ends      |       -       |      1212 KM       |    2     

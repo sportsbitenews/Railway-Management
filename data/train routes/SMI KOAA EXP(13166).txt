@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Sitamarhi                |        SMI         |     Start     |     22:15     |       -       |        0 KM        |    1     
+  2   |             Janakpur Road              |        JNR         |     22:46     |     22:47     |     1:00      |       26 KM        |    1     
+  3   |                Kamtaul                 |        KML         |     23:14     |     23:15     |     1:00      |       45 KM        |    1     
+  4   |          Darbhanga Junction            |        DBG         |     00:05     |     00:15     |     10:00     |       68 KM        |    2     
+  5   |          Samastipur Junction           |        SPJ         |     01:37     |     01:45     |     8:00      |       106 KM       |    2     
+  6   |            Dalsingh Sarai              |        DSS         |     02:05     |     02:07     |     2:00      |       129 KM       |    2     
+  7   |           Barauni Junction             |        BJU         |     02:50     |     03:10     |     20:00     |       157 KM       |    2     
+  8   |             Kiul Junction              |        KIUL        |     04:38     |     04:40     |     2:00      |       196 KM       |    2     
+  9   |                Jhajha                  |        JAJ         |     05:40     |     05:45     |     5:00      |       250 KM       |    2     
+  10  |           Jasidih Junction             |        JSME        |     06:20     |     06:22     |     2:00      |       294 KM       |    2     
+  11  |           Madhupur Junction            |        MDP         |     06:47     |     06:49     |     2:00      |       323 KM       |    2     
+  12  |           Asansol Junction             |        ASN         |     08:05     |     08:20     |     15:00     |       404 KM       |    2     
+  13  |               Durgapur                 |        DGR         |     08:59     |     09:01     |     2:00      |       446 KM       |    2     
+  14  |          Barddhaman Junction           |        BWN         |     09:51     |     09:53     |     2:00      |       510 KM       |    2     
+  15  |                Kolkata                 |        KOAA        |     12:25     |     Ends      |       -       |       607 KM       |    2     

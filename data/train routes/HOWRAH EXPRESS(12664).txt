@@ -1,0 +1,24 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Tiruchchirapali             |        TPJ         |     Start     |     16:00     |       -       |        0 KM        |    1     
+  2   |               Srirangam                |        SRGM        |     16:16     |     16:18     |     2:00      |       12 KM        |    1     
+  3   |               Ariyalur                 |        ALU         |     17:04     |     17:05     |     1:00      |       70 KM        |    1     
+  4   |         Vridhachalam Junction          |        VRI         |     17:53     |     17:55     |     2:00      |       123 KM       |    1     
+  5   |          Villuparam Junction           |         VM         |     18:50     |     18:55     |     5:00      |       178 KM       |    1     
+  6   |             Melmaruvattur              |        MLMR        |     19:58     |     20:00     |     2:00      |       245 KM       |    1     
+  7   |             Chengalpattu               |        CGL         |     20:38     |     20:40     |     2:00      |       281 KM       |    1     
+  8   |               Tambaram                 |        TBM         |     21:08     |     21:10     |     2:00      |       312 KM       |    1     
+  9   |            Chennai Egmore              |         MS         |     22:10     |     22:30     |     20:00     |       336 KM       |    1     
+  10  |                Nellore                 |        NLR         |     01:42     |     01:43     |     1:00      |       517 KM       |    2     
+  11  |                Ongole                  |        OGL         |     03:09     |     03:10     |     1:00      |       633 KM       |    2     
+  12  |          Vijayawada Junction           |        BZA         |     05:30     |     05:40     |     10:00     |       771 KM       |    2     
+  13  |                 Eluru                  |         EE         |     06:26     |     06:27     |     1:00      |       830 KM       |    2     
+  14  |              Rajamundry                |        RJY         |     07:51     |     07:53     |     2:00      |       920 KM       |    2     
+  15  |             Vishakapatnam              |        VSKP        |     11:45     |     12:05     |     20:00     |      1121 KM       |    2     
+  16  |         Vizianagram Junction           |        VZM         |     13:02     |     13:04     |     2:00      |      1182 KM       |    2     
+  17  |               Brahmapur                |        BAM         |     16:00     |     16:05     |     5:00      |      1398 KM       |    2     
+  18  |         Khurda Road Junction           |        KUR         |     18:10     |     18:25     |     15:00     |      1545 KM       |    2     
+  19  |              Bhubaneswar               |        BBS         |     18:45     |     18:50     |     5:00      |      1564 KM       |    2     
+  20  |               Bhadrakh                 |        BHC         |     22:00     |     22:02     |     2:00      |      1729 KM       |    2     
+  21  |               Balasore                 |        BLS         |     22:46     |     22:48     |     2:00      |      1791 KM       |    2     
+  22  |          Kharagpur Junction            |        KGP         |     00:30     |     01:00     |     30:00     |      1910 KM       |    3     
+  23  |            Howrah Junction             |        HWH         |     03:20     |     Ends      |       -       |      2025 KM       |    3     

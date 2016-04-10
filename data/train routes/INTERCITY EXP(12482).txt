@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Shri Ganganagar             |        SGNR        |     Start     |     05:45     |       -       |        0 KM        |    1     
+  2   |                Abohar                  |        ABS         |     06:26     |     06:28     |     2:00      |       54 KM        |    1     
+  3   |                Malout                  |        MOT         |     06:52     |     06:54     |     2:00      |       83 KM        |    1     
+  4   |              Giddarbaha                |        GDB         |     07:10     |     07:12     |     2:00      |       99 KM        |    1     
+  5   |           Bhatinda Junction            |        BTI         |     07:55     |     08:00     |     5:00      |       127 KM       |    1     
+  6   |                 Maur                   |        MAUR        |     08:24     |     08:26     |     2:00      |       161 KM       |    1     
+  7   |                 Mansa                  |        MSZ         |     08:43     |     08:45     |     2:00      |       180 KM       |    1     
+  8   |            Jakhal Junction             |        JHL         |     09:30     |     09:32     |     2:00      |       225 KM       |    1     
+  9   |           Narwana Junction             |        NRW         |     10:03     |     10:05     |     2:00      |       263 KM       |    1     
+  10  |             Jind Junction              |        JIND        |     10:36     |     10:39     |     3:00      |       297 KM       |    1     
+  11  |            Rohtak Junction             |        ROK         |     11:38     |     11:40     |     2:00      |       354 KM       |    1     
+  12  |                Sampla                  |        SPZ         |     11:58     |     12:00     |     2:00      |       377 KM       |    1     
+  13  |              Bahadurgarh               |        BGZ         |     12:15     |     12:17     |     2:00      |       394 KM       |    1     
+  14  |              Shakurbasti               |        SSB         |     12:56     |     12:58     |     2:00      |       414 KM       |    1     
+  15  |                 Delhi                  |        DLI         |     13:35     |     Ends      |       -       |       424 KM       |    1     

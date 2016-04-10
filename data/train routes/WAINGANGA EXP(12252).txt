@@ -1,0 +1,27 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Korba                  |        KRBA        |     Start     |     08:00     |       -       |        0 KM        |    1     
+  2   |                Champa                  |        CPH         |     08:36     |     08:41     |     5:00      |       40 KM        |    1     
+  3   |                 Naila                  |        NIA         |     08:50     |     08:52     |     2:00      |       51 KM        |    1     
+  4   |               Akaltara                 |        AKT         |     09:04     |     09:06     |     2:00      |       66 KM        |    1     
+  5   |           Bilaspur Junction            |        BSP         |     09:50     |     10:05     |     15:00     |       93 KM        |    1     
+  6   |               Bhatapara                |        BYT         |     10:41     |     10:43     |     2:00      |       139 KM       |    1     
+  7   |            Raipur Junction             |         R          |     11:45     |     11:55     |     10:00     |       203 KM       |    1     
+  8   |                 Durg                   |        DURG        |     12:50     |     12:55     |     5:00      |       240 KM       |    1     
+  9   |             Raj Nandgaon               |        RJN         |     13:16     |     13:18     |     2:00      |       270 KM       |    1     
+  10  |              Dongargarh                |        DGG         |     13:40     |     13:42     |     2:00      |       301 KM       |    1     
+  11  |            Gondia Junction             |         G          |     14:50     |     15:00     |     10:00     |       374 KM       |    1     
+  12  |                Sondad                  |        SNV         |     15:38     |     15:40     |     2:00      |       420 KM       |    1     
+  13  |                 Wadsa                  |        WSA         |     16:28     |     16:30     |     2:00      |       477 KM       |    1     
+  14  |           Nagbhir Junction             |        NAB         |     16:56     |     16:58     |     2:00      |       506 KM       |    1     
+  15  |              Mul Marora                |        MME         |     17:48     |     17:50     |     2:00      |       572 KM       |    1     
+  16  |              Chanda Fort               |        CAF         |     18:26     |     18:28     |     2:00      |       613 KM       |    1     
+  17  |              Balharshah                |        BPQ         |     19:00     |     19:10     |     10:00     |       624 KM       |    1     
+  18  |           Kazipet Junction             |        KZJ         |     22:10     |     22:12     |     2:00      |       858 KM       |    1     
+  19  |               Kacheguda                |        KCG         |     01:25     |     01:35     |     10:00     |       996 KM       |    2     
+  20  |              Mahbubnagar               |        MBNR        |     03:07     |     03:09     |     2:00      |      1101 KM       |    2     
+  21  |             Kurnool Town               |        KRNT        |     05:45     |     05:47     |     2:00      |      1232 KM       |    2     
+  22  |                 Dhone                  |        DHNE        |     07:00     |     07:05     |     5:00      |      1285 KM       |    2     
+  23  |               Anantapur                |        ATP         |     09:14     |     09:15     |     1:00      |      1397 KM       |    2     
+  24  |         Dharmavaram Junction           |        DMM         |     10:15     |     10:20     |     5:00      |      1431 KM       |    2     
+  25  |           Yelhanka Junction            |        YNK         |     12:53     |     12:55     |     2:00      |      1593 KM       |    2     
+  26  |          Yesvantpur Junction           |        YPR         |     13:30     |     Ends      |       -       |      1605 KM       |    2     

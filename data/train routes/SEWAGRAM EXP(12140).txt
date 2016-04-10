@@ -1,0 +1,34 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Nagpur                  |        NGP         |     Start     |     21:00     |       -       |        0 KM        |    1     
+  2   |                 Ajni                   |        AJNI        |     21:06     |     21:08     |     2:00      |        3 KM        |    1     
+  3   |                 Sindi                  |        SNI         |     21:37     |     21:39     |     2:00      |       46 KM        |    1     
+  4   |               Sevagram                 |        SEGM        |     22:03     |     22:05     |     2:00      |       77 KM        |    1     
+  5   |            Wardha Junction             |         WR         |     22:10     |     22:35     |     25:00     |       79 KM        |    1     
+  6   |           Pulgaon Junction             |        PLO         |     22:58     |     23:00     |     2:00      |       109 KM       |    1     
+  7   |              Dhamangaon                |        DMN         |     23:17     |     23:19     |     2:00      |       129 KM       |    1     
+  8   |                Chandur                 |        CND         |     23:33     |     23:35     |     2:00      |       145 KM       |    1     
+  9   |           Badnera Junction             |         BD         |     00:20     |     00:23     |     3:00      |       175 KM       |    2     
+  10  |              Murtajapur                |        MZR         |     00:54     |     00:55     |     1:00      |       216 KM       |    2     
+  11  |            Akola Junction              |         AK         |     01:20     |     01:25     |     5:00      |       253 KM       |    2     
+  12  |                Shegaon                 |        SEG         |     01:53     |     01:55     |     2:00      |       291 KM       |    2     
+  13  |            Jalamb Junction             |         JM         |     02:03     |     02:05     |     2:00      |       303 KM       |    2     
+  14  |                Nandura                 |         NN         |     02:13     |     02:15     |     2:00      |       315 KM       |    2     
+  15  |               Malkapur                 |        MKU         |     02:38     |     02:40     |     2:00      |       343 KM       |    2     
+  16  |                Bodwad                  |        BDWD        |     02:55     |     02:57     |     2:00      |       363 KM       |    2     
+  17  |               Varangaon                |        VNA         |     03:13     |     03:15     |     2:00      |       381 KM       |    2     
+  18  |           Bhusaval Junction            |        BSL         |     03:40     |     03:50     |     10:00     |       393 KM       |    2     
+  19  |           Jalgaon Junction             |         JL         |     04:18     |     04:20     |     2:00      |       417 KM       |    2     
+  20  |           Pachora Junction             |         PC         |     04:53     |     04:55     |     2:00      |       465 KM       |    2     
+  21  |          Chalisgaon Junction           |        CSN         |     05:27     |     05:30     |     3:00      |       510 KM       |    2     
+  22  |               Nandgaon                 |        NGN         |     05:58     |     06:00     |     2:00      |       552 KM       |    2     
+  23  |            Manmad Junction             |        MMR         |     06:22     |     06:25     |     3:00      |       577 KM       |    2     
+  24  |               Lasalgaon                |         LS         |     06:43     |     06:45     |     2:00      |       602 KM       |    2     
+  25  |                Niphad                  |         NR         |     06:58     |     07:00     |     2:00      |       619 KM       |    2     
+  26  |              Nasik Road                |         NK         |     07:27     |     07:30     |     3:00      |       650 KM       |    2     
+  27  |                Devlali                 |        DVL         |     07:38     |     07:40     |     2:00      |       656 KM       |    2     
+  28  |               Igatpuri                 |        IGP         |     08:50     |     08:55     |     5:00      |       701 KM       |    2     
+  29  |                Kasara                  |        KSRA        |     09:33     |     09:35     |     2:00      |       717 KM       |    2     
+  30  |            Kalyan Junction             |        KYN         |     10:37     |     10:40     |     3:00      |       784 KM       |    2     
+  31  |                 Thane                  |        TNA         |     11:03     |     11:05     |     2:00      |       804 KM       |    2     
+  32  |                 Dadar                  |         DR         |     11:30     |     11:33     |     3:00      |       828 KM       |    2     
+  33  |              Mumbai Cst                |        CSTM        |     12:00     |     Ends      |       -       |       837 KM       |    2     

@@ -1,0 +1,31 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Kanpur Anwrganj             |        CPA         |     Start     |     16:45     |       -       |        0 KM        |    1     
+  2   |            Kanpur Central              |        CNB         |     17:00     |     17:30     |     30:00     |        3 KM        |    1     
+  3   |               Fatehpur                 |        FTP         |     18:33     |     18:35     |     2:00      |       81 KM        |    1     
+  4   |                 Khaga                  |        KGA         |     18:58     |     19:00     |     2:00      |       115 KM       |    1     
+  5   |                Sirathu                 |        SRO         |     19:19     |     19:21     |     2:00      |       140 KM       |    1     
+  6   |               Bharwari                 |        BRE         |     19:39     |     19:41     |     2:00      |       160 KM       |    1     
+  7   |          Allahabad Junction            |        ALD         |     21:00     |     21:10     |     10:00     |       197 KM       |    1     
+  8   |            Allahabad City              |        ALY         |     21:18     |     21:20     |     2:00      |       200 KM       |    1     
+  9   |              Handia Khas               |        HDK         |     22:08     |     22:10     |     2:00      |       236 KM       |    1     
+  10  |             Gyanpur Road               |        GYN         |     22:38     |     22:40     |     2:00      |       262 KM       |    1     
+  11  |              Madhosingh                |        MBS         |     22:58     |     23:00     |     2:00      |       274 KM       |    1     
+  12  |               Bhulanpur                |        BHLP        |     23:54     |     23:56     |     2:00      |       316 KM       |    1     
+  13  |               Manduadih                |        MUV         |     00:06     |     00:08     |     2:00      |       318 KM       |    2     
+  14  |           Varanasi Junction            |        BSB         |     00:25     |     00:35     |     10:00     |       321 KM       |    2     
+  15  |             Varanasi City              |        BCY         |     00:43     |     00:45     |     2:00      |       325 KM       |    2     
+  16  |           Aunrihar Junction            |        ARJ         |     01:26     |     01:28     |     2:00      |       356 KM       |    2     
+  17  |              Dullahapur                |        DLR         |     01:56     |     01:58     |     2:00      |       393 KM       |    2     
+  18  |             Mau Junction               |        MAU         |     02:20     |     02:25     |     5:00      |       414 KM       |    2     
+  19  |            Indara Junction             |        IAA         |     02:41     |     02:43     |     2:00      |       422 KM       |    2     
+  20  |             Belthara Road              |        BLTR        |     03:03     |     03:05     |     2:00      |       449 KM       |    2     
+  21  |               Lar Road                 |        LRD         |     03:23     |     03:25     |     2:00      |       462 KM       |    2     
+  22  |           Salempur Junction            |        SRU         |     03:48     |     03:50     |     2:00      |       472 KM       |    2     
+  23  |            Bhatni Junction             |        BTT         |     04:15     |     04:20     |     5:00      |       482 KM       |    2     
+  24  |             Deoria Sadar               |        DEOS        |     04:38     |     04:40     |     2:00      |       503 KM       |    2     
+  25  |              Gauri Bazar               |         GB         |     05:28     |     05:30     |     2:00      |       518 KM       |    2     
+  26  |             Chauri Chaura              |         CC         |     05:46     |     05:48     |     2:00      |       528 KM       |    2     
+  27  |              Sardarnagar               |        SANR        |     05:56     |     05:58     |     2:00      |       533 KM       |    2     
+  28  |                Kusmhi                  |        KHM         |     06:13     |     06:15     |     2:00      |       539 KM       |    2     
+  29  |            Gorakhpur Cant              |        GKC         |     06:36     |     06:38     |     2:00      |       549 KM       |    2     
+  30  |          Gorakhpur Junction            |        GKP         |     06:55     |     Ends      |       -       |       552 KM       |    2     

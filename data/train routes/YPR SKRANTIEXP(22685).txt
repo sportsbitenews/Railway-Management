@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Yesvantpur Junction           |        YPR         |     Start     |     13:45     |       -       |        0 KM        |    1     
+  2   |                Tumkur                  |         TK         |     14:48     |     14:50     |     2:00      |       65 KM        |    1     
+  3   |               Davangere                |        DVG         |     18:37     |     18:40     |     3:00      |       320 KM       |    1     
+  4   |            Hubli Junction              |        UBL         |     21:40     |     21:50     |     10:00     |       464 KM       |    1     
+  5   |                Dharwar                 |        DWR         |     22:17     |     22:18     |     1:00      |       484 KM       |    1     
+  6   |                Belgaum                 |        BGM         |     00:30     |     00:32     |     2:00      |       606 KM       |    2     
+  7   |            Miraj Junction              |        MRJ         |     03:15     |     03:20     |     5:00      |       743 KM       |    2     
+  8   |             Pune Junction              |        PUNE        |     08:45     |     09:00     |     15:00     |      1022 KM       |    2     
+  9   |           Bhopal  Junction             |        BPL         |     00:35     |     00:45     |     10:00     |      1917 KM       |    3     
+  10  |            Jhansi Junction             |        JHS         |     05:55     |     06:05     |     10:00     |      2208 KM       |    3     
+  11  |             H Nizamuddin               |        NZM         |     13:00     |     13:02     |     2:00      |      2610 KM       |    3     
+  12  |               New Delhi                |        NDLS        |     13:35     |     13:55     |     20:00     |      2618 KM       |    3     
+  13  |           Panipat Junction             |        PNP         |     15:48     |     15:50     |     2:00      |      2707 KM       |    3     
+  14  |         Ambala Cant Junction           |        UMB         |     17:30     |     17:35     |     5:00      |      2816 KM       |    3     
+  15  |              Chandigarh                |        CDG         |     18:20     |     Ends      |       -       |      2883 KM       |    3     

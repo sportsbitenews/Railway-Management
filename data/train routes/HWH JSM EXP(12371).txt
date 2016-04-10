@@ -1,0 +1,30 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Howrah Junction             |        HWH         |     Start     |     08:15     |       -       |        0 KM        |    1     
+  2   |               Durgapur                 |        DGR         |     10:17     |     10:19     |     2:00      |       158 KM       |    1     
+  3   |           Asansol Junction             |        ASN         |     10:48     |     10:53     |     5:00      |       200 KM       |    1     
+  4   |           Dhanbad Junction             |        DHN         |     12:00     |     12:05     |     5:00      |       259 KM       |    1     
+  5   |             Gaya Junction              |        GAYA        |     14:50     |     14:55     |     5:00      |       458 KM       |    1     
+  6   |         Mughal Sarai Junction          |        MGS         |     17:57     |     18:17     |     20:00     |       661 KM       |    1     
+  7   |           Varanasi Junction            |        BSB         |     19:05     |     19:30     |     25:00     |       678 KM       |    1     
+  8   |          Partapgarh Junction           |        PBH         |     21:20     |     21:28     |     8:00      |       806 KM       |    1     
+  9   |                Amethi                  |        AME         |     22:10     |     22:11     |     1:00      |       841 KM       |    1     
+  10  |          Rae Bareli Junction           |        RBL         |     23:20     |     23:28     |     8:00      |       901 KM       |    1     
+  11  |              Lucknow Nr                |        LKO         |     01:20     |     01:30     |     10:00     |       979 KM       |    2     
+  12  |               Bareilly                 |         BE         |     04:57     |     05:02     |     5:00      |      1214 KM       |    2     
+  13  |               Moradabad                |         MB         |     06:50     |     07:05     |     15:00     |      1304 KM       |    2     
+  14  |               Ghaziabad                |        GZB         |     09:38     |     09:40     |     2:00      |      1445 KM       |    2     
+  15  |                 Delhi                  |        DLI         |     10:20     |     10:40     |     20:00     |      1465 KM       |    2     
+  16  |              Delhi Cantt               |        DEC         |     11:09     |     11:10     |     1:00      |      1479 KM       |    2     
+  17  |                Gurgaon                 |        GGN         |     11:27     |     11:28     |     1:00      |      1496 KM       |    2     
+  18  |                Rewari                  |         RE         |     12:35     |     12:37     |     2:00      |      1547 KM       |    2     
+  19  |             Mahendragarh               |        MHRG        |     13:15     |     13:16     |     1:00      |      1598 KM       |    2     
+  20  |           Sadulpur Junction            |        SDLP        |     14:33     |     14:38     |     5:00      |      1689 KM       |    2     
+  21  |                 Churu                  |        CUR         |     15:20     |     15:25     |     5:00      |      1746 KM       |    2     
+  22  |          Ratangarh Junction            |        RTGH        |     16:00     |     16:05     |     5:00      |      1789 KM       |    2     
+  23  |              Rajaldesar                |        RJR         |     16:19     |     16:20     |     1:00      |      1807 KM       |    2     
+  24  |            Sri Dungargarh              |        SDGH        |     16:59     |     17:00     |     1:00      |      1853 KM       |    2     
+  25  |                Napasar                 |        NPS         |     17:34     |     17:35     |     1:00      |      1900 KM       |    2     
+  26  |           Bikaner Junction             |        BKN         |     18:20     |     18:30     |     10:00     |      1927 KM       |    2     
+  27  |           Phalodi Junction             |        PLCJ        |     21:02     |     21:05     |     3:00      |      2089 KM       |    2     
+  28  |               Ramdevra                 |        RDRA        |     21:45     |     21:46     |     1:00      |      2135 KM       |    2     
+  29  |               Jaisalmer                |        JSM         |     23:40     |     Ends      |       -       |      2245 KM       |    2     

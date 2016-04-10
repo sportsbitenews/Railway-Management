@@ -1,0 +1,17 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Nagercoil Junction            |        NCJ         |     Start     |     19:05     |       -       |        0 KM        |    1     
+  2   |               Valliyur                 |        VLY         |     19:43     |     19:45     |     2:00      |       32 KM        |    1     
+  3   |              Tirunelveli               |        TEN         |     20:50     |     20:55     |     5:00      |       74 KM        |    1     
+  4   |              Kovilpatti                |        CVP         |     21:54     |     21:55     |     1:00      |       139 KM       |    1     
+  5   |                 Satur                  |        SRT         |     22:14     |     22:15     |     1:00      |       160 KM       |    1     
+  6   |         Virudunagar Junction           |        VPT         |     22:40     |     22:42     |     2:00      |       187 KM       |    1     
+  7   |           Madurai Junction             |        MDU         |     23:45     |     23:50     |     5:00      |       230 KM       |    1     
+  8   |           Dindigul Junction            |         DG         |     00:55     |     01:00     |     5:00      |       296 KM       |    2     
+  9   |                 Karur                  |        KRR         |     02:07     |     02:10     |     3:00      |       370 KM       |    2     
+  10  |               Namakkal                 |        NMKL        |     02:44     |     02:45     |     1:00      |       404 KM       |    2     
+  11  |               Rasipuram                |        RASP        |     03:09     |     03:10     |     1:00      |       429 KM       |    2     
+  12  |            Salem Junction              |         SA         |     03:45     |     03:50     |     5:00      |       455 KM       |    2     
+  13  |              Dharmapuri                |        DPJ         |     05:28     |     05:30     |     2:00      |       522 KM       |    2     
+  14  |                 Hosur                  |        HSRA        |     06:58     |     07:00     |     2:00      |       614 KM       |    2     
+  15  |            Bangalore Cant              |        BNC         |     08:25     |     08:30     |     5:00      |       669 KM       |    2     
+  16  |         Bangalore Cy Junction          |        SBC         |     09:05     |     Ends      |       -       |       673 KM       |    2     

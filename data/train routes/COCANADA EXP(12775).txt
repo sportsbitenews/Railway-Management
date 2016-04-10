@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Kakinada Town              |        CCT         |     Start     |     20:10     |       -       |        0 KM        |    1     
+  2   |              Rajamundry                |        RJY         |     21:05     |     21:08     |     3:00      |       63 KM        |    1     
+  3   |                Tanuku                  |        TNKU        |     21:48     |     21:50     |     2:00      |       102 KM       |    1     
+  4   |            Bhimavaram Town             |        BVRT        |     22:28     |     22:30     |     2:00      |       133 KM       |    1     
+  5   |                Akividu                 |        AKVD        |     22:54     |     22:55     |     1:00      |       151 KM       |    1     
+  6   |               Kaikolur                 |        KKLR        |     23:15     |     23:16     |     1:00      |       168 KM       |    1     
+  7   |           Gudivada Junction            |        GDV         |     23:57     |     23:58     |     1:00      |       197 KM       |    1     
+  8   |          Vijayawada Junction           |        BZA         |     01:00     |     01:15     |     15:00     |       240 KM       |    2     
+  9   |                Khammam                 |        KMT         |     02:19     |     02:20     |     1:00      |       342 KM       |    2     
+  10  |               Warangal                 |         WL         |     03:55     |     03:57     |     2:00      |       449 KM       |    2     
+  11  |         Secunderabad Junction          |         SC         |     06:55     |     Ends      |       -       |       591 KM       |    2     

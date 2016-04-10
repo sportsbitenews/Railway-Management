@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Chennai Egmore              |         MS         |     Start     |     23:15     |       -       |        0 KM        |    1     
+  2   |               Tambaram                 |        TBM         |     23:43     |     23:45     |     2:00      |       25 KM        |    1     
+  3   |             Chengalpattu               |        CGL         |     00:13     |     00:15     |     2:00      |       56 KM        |    2     
+  4   |             Melmaruvattur              |        MLMR        |     00:43     |     00:45     |     2:00      |       92 KM        |    2     
+  5   |              Tindivanam                |        TMV         |     01:09     |     01:10     |     1:00      |       122 KM       |    2     
+  6   |          Villuparam Junction           |         VM         |     02:00     |     02:10     |     10:00     |       159 KM       |    2     
+  7   |            Tirupadripulyur             |        TDPR        |     02:54     |     02:55     |     1:00      |       201 KM       |    2     
+  8   |            Cuddalore Port              |        CUPJ        |     03:01     |     03:02     |     1:00      |       205 KM       |    2     
+  9   |              Chidambaram               |        CDM         |     03:44     |     03:45     |     1:00      |       244 KM       |    2     
+  10  |               Sirkazhi                 |         SY         |     04:01     |     04:02     |     1:00      |       261 KM       |    2     
+  11  |            Mayiladuturai J             |         MV         |     04:35     |     04:37     |     2:00      |       281 KM       |    2     
+  12  |              Peralam Jn                |        PEM         |     04:51     |     04:52     |     1:00      |       296 KM       |    2     
+  13  |          Thiruvarur Junction           |        TVR         |     06:05     |     06:15     |     10:00     |       319 KM       |    2     
+  14  |             Nagappattinam              |        NGT         |     06:45     |     06:55     |     10:00     |       343 KM       |    2     
+  15  |              Vellankanni               |        VLNK        |     07:45     |     Ends      |       -       |       353 KM       |    2     

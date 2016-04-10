@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |         Secunderabad Junction          |         SC         |     Start     |     23:45     |       -       |        0 KM        |    1     
+  2   |                Jangaon                 |         ZN         |     00:49     |     00:50     |     1:00      |       84 KM        |    2     
+  3   |           Kazipet Junction             |        KZJ         |     01:51     |     01:52     |     1:00      |       132 KM       |    2     
+  4   |               Warangal                 |         WL         |     02:10     |     02:11     |     1:00      |       142 KM       |    2     
+  5   |              Kesamudram                |        KDM         |     02:46     |     02:47     |     1:00      |       188 KM       |    2     
+  6   |              Mahbubabad                |        MABD        |     03:01     |     03:02     |     1:00      |       203 KM       |    2     
+  7   |           Dornakal Junction            |        DKJ         |     03:28     |     03:30     |     2:00      |       227 KM       |    2     
+  8   |               Pocharam                 |        PCZ         |     03:39     |     03:40     |     1:00      |       234 KM       |    2     
+  9   |               Karepalli                |        KRA         |     03:51     |     03:52     |     1:00      |       242 KM       |    2     
+  11  |              Chima Pahad               |        CMW         |     04:04     |     04:05     |     1:00      |       255 KM       |    2     
+  12  |              Tadakalpudi               |        TPY         |     04:14     |     04:15     |     1:00      |       265 KM       |    2     
+  13  |              Bethampurdi               |        BTPD        |     04:24     |     04:25     |     1:00      |       272 KM       |    2     
+  14  |           Bhadrachalam Road            |        BDCR        |     05:10     |     05:30     |     20:00     |       282 KM       |    2     
+  15  |               Manuguru                 |        MUGR        |     07:00     |     Ends      |       -       |       331 KM       |    2     

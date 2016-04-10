@@ -1,0 +1,20 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Bhagalpur                |        BGP         |     Start     |     11:15     |       -       |        0 KM        |    1     
+  2   |              Sultanganj                |        SGG         |     11:35     |     11:36     |     1:00      |       25 KM        |    1     
+  3   |               Bariarpur                |        BUP         |     12:00     |     12:01     |     1:00      |       43 KM        |    1     
+  4   |           Jamalpur Junction            |        JMP         |     12:25     |     12:35     |     10:00     |       53 KM        |    1     
+  5   |               Dharhara                 |        DRH         |     12:47     |     12:48     |     1:00      |       65 KM        |    1     
+  6   |               Abhaipur                 |        AHA         |     13:00     |     13:01     |     1:00      |       75 KM        |    1     
+  7   |                 Kajra                  |        KJH         |     13:12     |     13:13     |     1:00      |       83 KM        |    1     
+  8   |             Kiul Junction              |        KIUL        |     13:57     |     14:17     |     20:00     |       99 KM        |    1     
+  9   |         Luckeesarai Junction           |        LKR         |     14:24     |     14:25     |     1:00      |       100 KM       |    1     
+  10  |                Barhiya                 |        BRYA        |     14:39     |     14:40     |     1:00      |       115 KM       |    1     
+  11  |           Hathidah Junction            |        HTZ         |     14:50     |     14:51     |     1:00      |       125 KM       |    1     
+  12  |           Mokameh Junction             |        MKA         |     15:02     |     15:04     |     2:00      |       133 KM       |    1     
+  13  |                 Barh                   |        BARH        |     15:22     |     15:23     |     1:00      |       158 KM       |    1     
+  14  |         Bakhtiyarpur Junction          |        BKP         |     15:39     |     15:41     |     2:00      |       176 KM       |    1     
+  15  |               Khusropur                |        KOO         |     15:52     |     15:53     |     1:00      |       191 KM       |    1     
+  16  |                 Fatwa                  |        FUT         |     16:02     |     16:03     |     1:00      |       200 KM       |    1     
+  17  |              Patna Saheb               |        PNC         |     16:13     |     16:14     |     1:00      |       212 KM       |    1     
+  18  |            Patna Junction              |        PNBE        |     16:55     |     17:05     |     10:00     |       222 KM       |    1     
+  19  |            Anand Vihar Trm             |        ANVT        |     08:00     |     Ends      |       -       |      1205 KM       |    2     

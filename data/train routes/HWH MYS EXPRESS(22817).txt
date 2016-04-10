@@ -1,0 +1,22 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Howrah Junction             |        HWH         |     Start     |     16:10     |       -       |        0 KM        |    1     
+  2   |          Kharagpur Junction            |        KGP         |     17:55     |     18:00     |     5:00      |       116 KM       |    1     
+  3   |               Balasore                 |        BLS         |     19:25     |     19:27     |     2:00      |       234 KM       |    1     
+  4   |               Bhadrakh                 |        BHC         |     20:23     |     20:25     |     2:00      |       296 KM       |    1     
+  5   |                Cuttack                 |        CTC         |     21:50     |     21:55     |     5:00      |       412 KM       |    1     
+  6   |              Bhubaneswar               |        BBS         |     22:45     |     22:50     |     5:00      |       439 KM       |    1     
+  7   |         Khurda Road Junction           |        KUR         |     23:20     |     23:30     |     10:00     |       458 KM       |    1     
+  8   |               Brahmapur                |        BAM         |     01:15     |     01:20     |     5:00      |       605 KM       |    2     
+  9   |                Palasa                  |        PSA         |     02:43     |     02:45     |     2:00      |       679 KM       |    2     
+  10  |         Vizianagram Junction           |        VZM         |     04:33     |     04:35     |     2:00      |       821 KM       |    2     
+  11  |             Vishakapatnam              |        VSKP        |     05:35     |     05:55     |     20:00     |       882 KM       |    2     
+  12  |              Rajamundry                |        RJY         |     08:50     |     08:52     |     2:00      |      1083 KM       |    2     
+  13  |                 Eluru                  |         EE         |     09:59     |     10:00     |     1:00      |      1173 KM       |    2     
+  14  |          Vijayawada Junction           |        BZA         |     11:40     |     11:55     |     15:00     |      1232 KM       |    2     
+  15  |          Renigunta Junction            |         RU         |     18:15     |     18:30     |     15:00     |      1608 KM       |    2     
+  16  |           Katpadi Junction             |        KPD         |     20:28     |     20:30     |     2:00      |      1722 KM       |    2     
+  17  |              Jolarpettai               |        JTJ         |     21:45     |     21:50     |     5:00      |      1806 KM       |    2     
+  18  |              Bangarapet                |        BWT         |     22:53     |     22:55     |     2:00      |      1884 KM       |    2     
+  19  |            Krishnarajapurm             |        KJM         |     23:43     |     23:45     |     2:00      |      1940 KM       |    2     
+  20  |         Bangalore Cy Junction          |        SBC         |     00:30     |     01:00     |     30:00     |      1954 KM       |    3     
+  21  |            Mysore Junction             |        MYS         |     04:15     |     Ends      |       -       |      2093 KM       |    3     

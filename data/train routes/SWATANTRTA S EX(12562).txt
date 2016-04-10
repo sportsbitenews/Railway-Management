@@ -1,0 +1,22 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               New Delhi                |        NDLS        |     Start     |     20:35     |       -       |        0 KM        |    1     
+  2   |           Aligarh Junction             |        ALJN        |     22:32     |     22:34     |     2:00      |       132 KM       |    1     
+  3   |            Kanpur Central              |        CNB         |     02:40     |     02:45     |     5:00      |       440 KM       |    2     
+  4   |          Allahabad Junction            |        ALD         |     05:30     |     05:55     |     25:00     |       634 KM       |    2     
+  5   |             Gyanpur Road               |        GYN         |     07:06     |     07:08     |     2:00      |       698 KM       |    2     
+  6   |               Bhulanpur                |        BHLP        |     07:59     |     08:00     |     1:00      |       752 KM       |    2     
+  7   |           Varanasi Junction            |        BSB         |     08:30     |     08:40     |     10:00     |       758 KM       |    2     
+  8   |           Aunrihar Junction            |        ARJ         |     09:18     |     09:20     |     2:00      |       793 KM       |    2     
+  9   |             Ghazipur City              |        GCT         |     09:53     |     09:58     |     5:00      |       833 KM       |    2     
+  10  |               Yusufpur                 |        YFP         |     10:15     |     10:17     |     2:00      |       853 KM       |    2     
+  11  |                Ballia                  |        BUI         |     11:10     |     11:15     |     5:00      |       899 KM       |    2     
+  12  |              Suraimanpur               |        SIP         |     11:48     |     11:50     |     2:00      |       935 KM       |    2     
+  13  |                Chhapra                 |        CPR         |     12:45     |     13:00     |     15:00     |       964 KM       |    2     
+  14  |            Sonpur Junction             |        SEE         |     13:55     |     14:00     |     5:00      |      1017 KM       |    2     
+  15  |           Hajipur Junction             |        HJP         |     14:13     |     14:15     |     2:00      |      1023 KM       |    2     
+  16  |         Muzaffarpur Junction           |        MFP         |     15:25     |     15:30     |     5:00      |      1077 KM       |    2     
+  17  |          Samastipur Junction           |        SPJ         |     16:35     |     17:00     |     25:00     |      1128 KM       |    2     
+  18  |          Darbhanga Junction            |        DBG         |     17:50     |     17:55     |     5:00      |      1166 KM       |    2     
+  19  |            Sakri Junction              |        SKI         |     18:15     |     18:17     |     2:00      |      1185 KM       |    2     
+  20  |               Madhubani                |        MBI         |     18:33     |     18:35     |     2:00      |      1202 KM       |    2     
+  21  |               Jaynagar                 |        JYG         |     19:15     |     Ends      |       -       |      1234 KM       |    2     

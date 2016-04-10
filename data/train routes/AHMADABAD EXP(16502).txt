@@ -1,0 +1,26 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Yesvantpur Junction           |        YPR         |     Start     |     13:30     |       -       |        0 KM        |    1     
+  2   |               Hindupur                 |        HUP         |     15:03     |     15:05     |     2:00      |       96 KM        |    1     
+  3   |         Dharmavaram Junction           |        DMM         |     17:00     |     17:05     |     5:00      |       175 KM       |    1     
+  4   |               Anantapur                |        ATP         |     17:39     |     17:40     |     1:00      |       209 KM       |    1     
+  5   |                 Gooty                  |         GY         |     18:38     |     18:40     |     2:00      |       266 KM       |    1     
+  6   |           Guntakal Junction            |        GTL         |     19:15     |     19:30     |     15:00     |       294 KM       |    1     
+  7   |                 Adoni                  |         AD         |     20:13     |     20:15     |     2:00      |       346 KM       |    1     
+  8   |                Raichur                 |         RC         |     21:23     |     21:25     |     2:00      |       415 KM       |    1     
+  9   |                 Wadi                   |        WADI        |     01:00     |     01:05     |     5:00      |       522 KM       |    2     
+  10  |               Gulbarga                 |         GR         |     01:42     |     01:45     |     3:00      |       559 KM       |    2     
+  11  |           Solapur Junction             |        SUR         |     03:50     |     04:00     |     10:00     |       672 KM       |    2     
+  12  |            Daund Junction              |         DD         |     06:45     |     06:55     |     10:00     |       860 KM       |    2     
+  13  |              Ahmadnagar                |        ANG         |     08:47     |     08:50     |     3:00      |       944 KM       |    2     
+  14  |                Belapur                 |        BAP         |     10:04     |     10:05     |     1:00      |      1011 KM       |    2     
+  15  |               Kopargaon                |        KPG         |     10:59     |     11:00     |     1:00      |      1055 KM       |    2     
+  16  |            Manmad Junction             |        MMR         |     12:30     |     12:35     |     5:00      |      1097 KM       |    2     
+  17  |           Jalgaon Junction             |         JL         |     15:48     |     15:50     |     2:00      |      1256 KM       |    2     
+  18  |                Amalner                 |         AN         |     17:08     |     17:15     |     7:00      |      1312 KM       |    2     
+  19  |               Nandurbar                |        NDB         |     18:43     |     18:48     |     5:00      |      1407 KM       |    2     
+  20  |                 Surat                  |         ST         |     22:10     |     22:20     |     10:00     |      1567 KM       |    2     
+  21  |          Ankleshwar Junction           |        AKV         |     23:05     |     23:07     |     2:00      |      1617 KM       |    2     
+  22  |           Vadodara Junction            |        BRC         |     00:18     |     00:28     |     10:00     |      1696 KM       |    3     
+  23  |            Anand Junction              |        ANND        |     00:58     |     01:00     |     2:00      |      1732 KM       |    3     
+  24  |               Maninagar                |        MAN         |     02:00     |     02:02     |     2:00      |      1793 KM       |    3     
+  25  |          Ahmedabad Junction            |        ADI         |     02:30     |     Ends      |       -       |      1796 KM       |    3     

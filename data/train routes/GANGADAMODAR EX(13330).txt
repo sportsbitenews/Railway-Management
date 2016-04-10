@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Patna Junction              |        PNBE        |     Start     |     23:30     |       -       |        0 KM        |    1     
+  2   |                Taregna                 |        TEA         |     23:56     |     23:57     |     1:00      |       30 KM        |    1     
+  3   |               Jehanabad                |        JHD         |     00:14     |     00:15     |     1:00      |       45 KM        |    2     
+  4   |             Gaya Junction              |        GAYA        |     01:25     |     01:50     |     25:00     |       92 KM        |    2     
+  5   |                Koderma                 |        KQR         |     03:09     |     03:10     |     1:00      |       168 KM       |    2     
+  6   |               Parsabad                 |        PSB         |     03:31     |     03:32     |     1:00      |       195 KM       |    2     
+  7   |            Hazaribagh Road             |        HZD         |     03:50     |     03:51     |     1:00      |       217 KM       |    2     
+  8   |               Parasnath                |        PNME        |     04:11     |     04:12     |     1:00      |       244 KM       |    2     
+  9   |            Gomoh Junction              |        GMO         |     04:32     |     04:37     |     5:00      |       262 KM       |    2     
+  10  |               Tetulmari                |        TET         |     04:51     |     04:52     |     1:00      |       282 KM       |    2     
+  11  |           Dhanbad Junction             |        DHN         |     05:20     |     Ends      |       -       |       291 KM       |    2     

@@ -1,0 +1,25 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Lokmanyatilak T             |        LTT         |     Start     |     15:20     |       -       |        0 KM        |    1     
+  2   |                 Thane                  |        TNA         |     15:43     |     15:45     |     2:00      |       18 KM        |    1     
+  3   |                Panvel                  |        PNVL        |     16:22     |     16:25     |     3:00      |       53 KM        |    1     
+  4   |                Mangaon                 |        MNI         |     18:30     |     18:32     |     2:00      |       173 KM       |    1     
+  5   |                 Khed                   |        KHED        |     19:36     |     19:38     |     2:00      |       268 KM       |    1     
+  6   |                Chiplun                 |        CHI         |     20:00     |     20:02     |     2:00      |       309 KM       |    1     
+  7   |               Ratnagiri                |         RN         |     21:30     |     21:35     |     5:00      |       415 KM       |    1     
+  8   |                 Kudal                  |        KUDL        |     23:40     |     23:42     |     2:00      |       610 KM       |    1     
+  9   |                Madgaon                 |        MAO         |     01:25     |     01:35     |     10:00     |       750 KM       |    2     
+  10  |                Cancona                 |        CNO         |     02:04     |     02:06     |     2:00      |       795 KM       |    2     
+  11  |                Karwar                  |        KAWR        |     02:30     |     02:32     |     2:00      |       832 KM       |    2     
+  12  |                Ankola                  |        ANKL        |     02:54     |     02:56     |     2:00      |       871 KM       |    2     
+  13  |             Gokarna Road               |        GOK         |     03:06     |     03:08     |     2:00      |       882 KM       |    2     
+  14  |                 Kumta                  |         KT         |     03:22     |     03:24     |     2:00      |       909 KM       |    2     
+  15  |               Honnavar                 |        HNA         |     03:42     |     03:44     |     2:00      |       928 KM       |    2     
+  16  |              Murdeshwar                |        MRDW        |     04:08     |     04:10     |     2:00      |       965 KM       |    2     
+  17  |                Bhatkal                 |        BTJL        |     04:24     |     04:26     |     2:00      |       985 KM       |    2     
+  18  |                Byndoor                 |        BYNR        |     04:36     |     04:38     |     2:00      |      1007 KM       |    2     
+  19  |               Kundapura                |        KUDA        |     05:06     |     05:08     |     2:00      |      1054 KM       |    2     
+  20  |                Barkur                  |        BKJ         |     05:22     |     05:24     |     2:00      |      1076 KM       |    2     
+  21  |                 Udupi                  |         UD         |     05:38     |     05:40     |     2:00      |      1099 KM       |    2     
+  22  |                 Mulki                  |        MULK        |     06:06     |     06:08     |     2:00      |      1145 KM       |    2     
+  23  |               Surathkal                |         SL         |     06:22     |     06:24     |     2:00      |      1158 KM       |    2     
+  24  |            Mangalore Cntl              |        MAQ         |     07:30     |     Ends      |       -       |      1186 KM       |    2     

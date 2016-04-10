@@ -1,0 +1,17 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Gaya Junction              |        GAYA        |     Start     |     05:45     |       -       |        0 KM        |    1     
+  2   |             Dehri On Sone              |        DOS         |     06:47     |     06:49     |     2:00      |       86 KM        |    1     
+  3   |                Sasaram                 |        SSM         |     07:07     |     07:08     |     1:00      |       103 KM       |    1     
+  4   |              Bhabua Road               |        BBU         |     07:43     |     07:44     |     1:00      |       151 KM       |    1     
+  5   |         Mughal Sarai Junction          |        MGS         |     08:37     |     08:57     |     20:00     |       204 KM       |    1     
+  6   |           Manikpur Junction            |        MKP         |     12:33     |     12:35     |     2:00      |       439 KM       |    1     
+  7   |                 Satna                  |        STA         |     13:50     |     14:00     |     10:00     |       517 KM       |    1     
+  8   |                 Katni                  |        KTE         |     15:15     |     15:20     |     5:00      |       615 KM       |    1     
+  9   |               Jabalpur                 |        JBP         |     16:40     |     16:50     |     10:00     |       706 KM       |    1     
+  10  |            Itarsi Junction             |         ET         |     20:50     |     21:00     |     10:00     |       951 KM       |    1     
+  11  |                Nagpur                  |        NGP         |     01:40     |     01:50     |     10:00     |      1248 KM       |    2     
+  12  |              Balharshah                |        BPQ         |     05:05     |     05:15     |     10:00     |      1459 KM       |    2     
+  13  |               Warangal                 |         WL         |     08:48     |     08:53     |     5:00      |      1701 KM       |    2     
+  14  |          Vijayawada Junction           |        BZA         |     12:40     |     12:55     |     15:00     |      1910 KM       |    2     
+  15  |                Ongole                  |        OGL         |     14:43     |     14:44     |     1:00      |      2048 KM       |    2     
+  16  |            Chennai Egmore              |         MS         |     20:30     |     Ends      |       -       |      2344 KM       |    2     

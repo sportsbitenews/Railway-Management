@@ -1,0 +1,18 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Jaipur                  |         JP         |     Start     |     21:00     |       -       |        0 KM        |    1     
+  2   |            Gandhinagar Jpr             |        GADJ        |     21:08     |     21:10     |     2:00      |        6 KM        |    1     
+  3   |                 Dausa                  |         DO         |     21:49     |     21:51     |     2:00      |       62 KM        |    1     
+  4   |           Bandikui Junction            |        BKI         |     22:35     |     22:37     |     2:00      |       91 KM        |    1     
+  5   |                Kheril                  |         KL         |     23:12     |     23:14     |     2:00      |       142 KM       |    1     
+  6   |                Nadbai                  |        NBI         |     23:28     |     23:30     |     2:00      |       159 KM       |    1     
+  7   |          Bharatpur Junction            |        BTE         |     00:04     |     00:06     |     2:00      |       188 KM       |    2     
+  8   |           Achhnera Junction            |         AH         |     00:40     |     01:05     |     25:00     |       215 KM       |    2     
+  9   |           Mathura Junction             |        MTJ         |     02:10     |     02:15     |     5:00      |       250 KM       |    2     
+  10  |             Mathura Cant               |        MRT         |     02:25     |     02:27     |     2:00      |       252 KM       |    2     
+  11  |             Hathras City               |        HTC         |     03:01     |     03:03     |     2:00      |       292 KM       |    2     
+  12  |                Kasganj                 |        KSJ         |     03:57     |     04:07     |     10:00     |       355 KM       |    2     
+  13  |              Farrukhabad               |        FBD         |     05:45     |     05:50     |     5:00      |       463 KM       |    2     
+  14  |                Kannauj                 |        KJN         |     06:41     |     06:43     |     2:00      |       522 KM       |    2     
+  15  |            Kanpur Anwrganj             |        CPA         |     08:35     |     08:40     |     5:00      |       600 KM       |    2     
+  16  |            Kanpur Central              |        CNB         |     08:50     |     08:55     |     5:00      |       602 KM       |    2     
+  17  |              Lucknow Ne                |        LJN         |     10:25     |     Ends      |       -       |       676 KM       |    2     

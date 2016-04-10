@@ -1,0 +1,38 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Barmer                  |        BME         |     Start     |     01:00     |       -       |        0 KM        |    1     
+  2   |                Utarlai                 |        UTL         |     01:09     |     01:11     |     2:00      |       11 KM        |    1     
+  3   |                 Baytu                  |        BUT         |     01:40     |     01:42     |     2:00      |       47 KM        |    1     
+  4   |           Balotra Junction             |        BLT         |     02:40     |     02:42     |     2:00      |       97 KM        |    1     
+  5   |           Samdhari Junction            |        SMR         |     03:20     |     04:00     |     40:00     |       130 KM       |    1     
+  6   |               Mokalsar                 |        MKSR        |     04:18     |     04:20     |     2:00      |       156 KM       |    1     
+  7   |                 Jalor                  |        JOR         |     04:47     |     04:49     |     2:00      |       189 KM       |    1     
+  8   |                Modran                  |        MON         |     05:29     |     05:31     |     2:00      |       223 KM       |    1     
+  9   |            Marwar Bhinmal              |        MBNL        |     06:00     |     06:02     |     2:00      |       251 KM       |    1     
+  10  |               Raniwara                 |        RNV         |     06:29     |     06:31     |     2:00      |       283 KM       |    1     
+  11  |                Dhanera                 |        DQN         |     07:26     |     07:28     |     2:00      |       318 KM       |    1     
+  12  |                Bhildi                  |        BLDI        |     08:50     |     09:10     |     20:00     |       353 KM       |    1     
+  13  |                 Disa                   |        DISA        |     09:28     |     09:30     |     2:00      |       371 KM       |    1     
+  14  |           Palanpur Junction            |        PNU         |     10:00     |     10:27     |     27:00     |       399 KM       |    1     
+  15  |               Siddhpur                 |        SID         |     10:52     |     10:54     |     2:00      |       428 KM       |    1     
+  16  |                 Unjha                  |        UJA         |     11:12     |     11:14     |     2:00      |       442 KM       |    1     
+  17  |           Mahesana Junction            |        MSH         |     11:34     |     11:36     |     2:00      |       464 KM       |    1     
+  18  |          Sabarmati Junction            |        SBI         |     12:58     |     13:00     |     2:00      |       526 KM       |    1     
+  19  |          Ahmedabad Junction            |        ADI         |     13:30     |     14:00     |     30:00     |       533 KM       |    1     
+  20  |            Anand Junction              |        ANND        |     15:13     |     15:15     |     2:00      |       597 KM       |    1     
+  21  |           Vadodara Junction            |        BRC         |     15:58     |     16:03     |     5:00      |       632 KM       |    1     
+  22  |          Ankleshwar Junction           |        AKV         |     16:56     |     16:58     |     2:00      |       712 KM       |    1     
+  23  |                 Surat                  |         ST         |     18:30     |     18:35     |     5:00      |       761 KM       |    1     
+  24  |                 Vapi                   |        VAPI        |     19:48     |     19:50     |     2:00      |       854 KM       |    1     
+  25  |              Vasai Road                |        BSR         |     21:35     |     21:45     |     10:00     |       976 KM       |    1     
+  26  |            Kalyan Junction             |        KYN         |     22:42     |     22:45     |     3:00      |      1029 KM       |    1     
+  27  |               Lonavala                 |        LNL         |     00:23     |     00:25     |     2:00      |      1103 KM       |    2     
+  28  |             Pune Junction              |        PUNE        |     01:40     |     02:00     |     20:00     |      1167 KM       |    2     
+  29  |           Solapur Junction             |        SUR         |     08:40     |     08:45     |     5:00      |      1430 KM       |    2     
+  30  |                Bijapur                 |        BJP         |     11:25     |     11:30     |     5:00      |      1539 KM       |    2     
+  31  |               Bagalkot                 |        BGK         |     13:18     |     13:20     |     2:00      |      1636 KM       |    2     
+  32  |                Badami                  |        BDM         |     13:55     |     13:57     |     2:00      |      1662 KM       |    2     
+  33  |            Gadag Junction              |        GDG         |     15:45     |     15:50     |     5:00      |      1730 KM       |    2     
+  34  |            Hubli Junction              |        UBL         |     18:10     |     18:20     |     10:00     |      1788 KM       |    2     
+  35  |               Davangere                |        DVG         |     21:03     |     21:05     |     2:00      |      1931 KM       |    2     
+  36  |           Arsikere Junction            |        ASK         |     00:02     |     00:07     |     5:00      |      2091 KM       |    3     
+  37  |          Yesvantpur Junction           |        YPR         |     03:15     |     Ends      |       -       |      2251 KM       |    3     

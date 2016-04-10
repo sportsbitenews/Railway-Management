@@ -1,0 +1,18 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Hatia                  |        HTE         |     Start     |     21:10     |       -       |        0 KM        |    1     
+  2   |                Ranchi                  |        RNC         |     21:25     |     21:40     |     15:00     |        7 KM        |    1     
+  3   |                Namkon                  |        NKM         |     21:49     |     21:50     |     1:00      |       12 KM        |    1     
+  4   |              Tatisilwai                |        TIS         |     22:00     |     22:01     |     1:00      |       18 KM        |    1     
+  5   |                 Muri                   |        MURI        |     23:05     |     23:25     |     20:00     |       69 KM        |    1     
+  6   |                Torang                  |        TRAN        |     23:44     |     23:45     |     1:00      |       82 KM        |    1     
+  7   |                 Suisa                  |        SSIA        |     00:02     |     00:03     |     1:00      |       93 KM        |    2     
+  8   |               Tiraldih                 |        TUL         |     00:14     |     00:15     |     1:00      |       100 KM       |    2     
+  9   |           Chandil Junction             |        CNI         |     01:01     |     01:03     |     2:00      |       137 KM       |    2     
+  10  |                Kandra                  |        KND         |     01:23     |     01:24     |     1:00      |       151 KM       |    2     
+  11  |          Tatanagar Junction            |        TATA        |     02:00     |     02:10     |     10:00     |       173 KM       |    2     
+  12  |               Ghatsila                 |        GTS         |     02:46     |     02:47     |     1:00      |       210 KM       |    2     
+  13  |               Chakulia                 |        CKU         |     03:09     |     03:11     |     2:00      |       240 KM       |    2     
+  14  |               Jhargram                 |        JGM         |     03:33     |     03:35     |     2:00      |       269 KM       |    2     
+  15  |          Kharagpur Junction            |        KGP         |     04:15     |     04:20     |     5:00      |       308 KM       |    2     
+  16  |         Santragachi Junction           |        SRC         |     05:50     |     05:51     |     1:00      |       415 KM       |    2     
+  17  |            Howrah Junction             |        HWH         |     06:35     |     Ends      |       -       |       423 KM       |    2     

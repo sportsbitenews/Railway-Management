@@ -1,0 +1,9 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Nanded                  |        NED         |     Start     |     11:50     |       -       |        0 KM        |    1     
+  2   |            Purna Junction              |        PAU         |     12:28     |     12:30     |     2:00      |       31 KM        |    1     
+  3   |           Parbhani Junction            |        PBN         |     13:08     |     13:10     |     2:00      |       59 KM        |    1     
+  4   |             Manwath Road               |        MVO         |     13:28     |     13:30     |     2:00      |       87 KM        |    1     
+  5   |                 Selu                   |        SELU        |     13:48     |     13:50     |     2:00      |       102 KM       |    1     
+  6   |                Partur                  |        PTU         |     14:18     |     14:20     |     2:00      |       129 KM       |    1     
+  7   |                 Jalna                  |         J          |     15:28     |     15:30     |     2:00      |       174 KM       |    1     
+  8   |              Aurangabad                |        AWB         |     17:20     |     Ends      |       -       |       237 KM       |    1     

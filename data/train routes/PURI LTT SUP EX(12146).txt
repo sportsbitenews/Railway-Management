@@ -1,0 +1,28 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Puri                   |        PURI        |     Start     |     21:25     |       -       |        0 KM        |    1     
+  2   |         Khurda Road Junction           |        KUR         |     22:35     |     22:40     |     5:00      |       44 KM        |    1     
+  3   |              Bhubaneswar               |        BBS         |     23:00     |     23:05     |     5:00      |       63 KM        |    1     
+  4   |                Cuttack                 |        CTC         |     23:35     |     23:40     |     5:00      |       91 KM        |    1     
+  5   |               Dhenkanal                |        DNKL        |     00:46     |     00:47     |     1:00      |       148 KM       |    2     
+  6   |                Talcher                 |        TLHR        |     01:35     |     02:00     |     25:00     |       200 KM       |    2     
+  7   |                 Angul                  |        ANGL        |     02:43     |     02:45     |     2:00      |       218 KM       |    2     
+  8   |            Sambalpur Road              |        SBPD        |     04:29     |     04:30     |     1:00      |       373 KM       |    2     
+  9   |               Sambalpur                |        SBP         |     05:10     |     05:20     |     10:00     |       375 KM       |    2     
+  10  |             Bargarh Road               |        BRGA        |     05:55     |     05:57     |     2:00      |       417 KM       |    2     
+  11  |               Balangir                 |        BLGR        |     06:53     |     06:58     |     5:00      |       493 KM       |    2     
+  12  |                Badmal                  |        BUDM        |     07:29     |     07:30     |     1:00      |       536 KM       |    2     
+  13  |               Titlagarh                |        TIG         |     08:15     |     08:40     |     25:00     |       556 KM       |    2     
+  14  |              Kantabanji                |        KBJ         |     09:07     |     09:12     |     5:00      |       589 KM       |    2     
+  15  |             Khariar Road               |        KRAR        |     10:11     |     10:12     |     1:00      |       654 KM       |    2     
+  16  |              Mahasamund                |        MSMD        |     11:01     |     11:02     |     1:00      |       705 KM       |    2     
+  17  |            Raipur Junction             |         R          |     12:30     |     12:55     |     25:00     |       759 KM       |    2     
+  18  |                 Durg                   |        DURG        |     13:45     |     13:50     |     5:00      |       796 KM       |    2     
+  19  |            Gondia Junction             |         G          |     15:38     |     15:40     |     2:00      |       929 KM       |    2     
+  20  |                Nagpur                  |        NGP         |     17:50     |     18:00     |     10:00     |      1059 KM       |    2     
+  21  |           Badnera Junction             |         BD         |     20:45     |     20:48     |     3:00      |      1234 KM       |    2     
+  22  |            Akola Junction              |         AK         |     21:40     |     21:45     |     5:00      |      1312 KM       |    2     
+  23  |           Bhusaval Junction            |        BSL         |     23:40     |     23:50     |     10:00     |      1452 KM       |    2     
+  24  |              Nasik Road                |         NK         |     03:24     |     03:25     |     1:00      |      1709 KM       |    3     
+  25  |               Igatpuri                 |        IGP         |     04:39     |     04:40     |     1:00      |      1760 KM       |    3     
+  26  |            Kalyan Junction             |        KYN         |     06:27     |     06:30     |     3:00      |      1843 KM       |    3     
+  27  |            Lokmanyatilak T             |        LTT         |     07:30     |     Ends      |       -       |      1880 KM       |    3     

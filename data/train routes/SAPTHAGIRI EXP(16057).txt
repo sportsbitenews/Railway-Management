@@ -1,0 +1,9 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Chennai Central             |        MAS         |     Start     |     06:25     |       -       |        0 KM        |    1     
+  2   |              Trivellore                |        TRL         |     06:58     |     07:00     |     2:00      |       42 KM        |    1     
+  3   |               Arakkonam                |        AJJ         |     07:28     |     07:30     |     2:00      |       69 KM        |    1     
+  4   |               Tiruttani                |        TRT         |     07:47     |     07:48     |     1:00      |       83 KM        |    1     
+  5   |            Ekambarakuppam              |        EKM         |     08:04     |     08:05     |     1:00      |       101 KM       |    1     
+  6   |                Puttur                  |        PUT         |     08:19     |     08:20     |     1:00      |       115 KM       |    1     
+  7   |          Renigunta Junction            |         RU         |     09:05     |     09:15     |     10:00     |       141 KM       |    1     
+  8   |               Tirupati                 |        TPTY        |     09:40     |     Ends      |       -       |       151 KM       |    1     

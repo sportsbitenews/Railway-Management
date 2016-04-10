@@ -1,0 +1,17 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Faizabad Junction            |         FD         |     Start     |     23:55     |       -       |        0 KM        |    1     
+  2   |               Akbarpur                 |        ABP         |     01:13     |     01:15     |     2:00      |       62 KM        |    2     
+  3   |           Shahganj Junction            |        SHG         |     02:24     |     02:26     |     2:00      |       106 KM       |    2     
+  4   |           Jaunpur Junction             |        JNU         |     02:55     |     02:57     |     2:00      |       139 KM       |    2     
+  5   |                Mariahu                 |        MAY         |     03:37     |     03:39     |     2:00      |       163 KM       |    2     
+  6   |           Janghai Junction             |        JNH         |     04:23     |     04:25     |     2:00      |       193 KM       |    2     
+  7   |          Allahabad Junction            |        ALD         |     06:30     |     07:03     |     33:00     |       253 KM       |    2     
+  8   |           Manikpur Junction            |        MKP         |     08:58     |     09:00     |     2:00      |       353 KM       |    2     
+  9   |                 Satna                  |        STA         |     10:15     |     10:25     |     10:00     |       430 KM       |    2     
+  10  |                 Katni                  |        KTE         |     11:30     |     11:35     |     5:00      |       529 KM       |    2     
+  11  |               Jabalpur                 |        JBP         |     12:55     |     13:05     |     10:00     |       619 KM       |    2     
+  12  |            Itarsi Junction             |         ET         |     17:10     |     17:20     |     10:00     |       865 KM       |    2     
+  13  |           Jalgaon Junction             |         JL         |     22:08     |     22:10     |     2:00      |      1196 KM       |    2     
+  14  |              Nasik Road                |         NK         |     00:58     |     01:00     |     2:00      |      1429 KM       |    3     
+  15  |            Kalyan Junction             |        KYN         |     03:57     |     04:00     |     3:00      |      1563 KM       |    3     
+  16  |            Lokmanyatilak T             |        LTT         |     05:00     |     Ends      |       -       |      1600 KM       |    3     

@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Bhubaneswar               |        BBS         |     Start     |     15:30     |       -       |        0 KM        |    1     
+  2   |                Cuttack                 |        CTC         |     16:10     |     16:15     |     5:00      |       28 KM        |    1     
+  3   |             Jajpur K Road              |        JJKR        |     17:12     |     17:13     |     1:00      |       100 KM       |    1     
+  4   |               Bhadrakh                 |        BHC         |     18:13     |     18:15     |     2:00      |       144 KM       |    1     
+  5   |                 Soro                   |        SORO        |     18:39     |     18:40     |     1:00      |       173 KM       |    1     
+  6   |               Balasore                 |        BLS         |     19:07     |     19:12     |     5:00      |       206 KM       |    1     
+  7   |               Jaleswar                 |        JER         |     19:47     |     19:48     |     1:00      |       253 KM       |    1     
+  8   |                Hijilli                 |        HIJ         |     20:41     |     20:42     |     1:00      |       318 KM       |    1     
+  9   |          Tatanagar Junction            |        TATA        |     22:55     |     23:15     |     20:00     |       452 KM       |    1     
+  10  |            Kanpur Central              |        CNB         |     13:40     |     13:55     |     15:00     |      1354 KM       |    2     
+  11  |            Anand Vihar Trm             |        ANVT        |     20:50     |     Ends      |       -       |      1780 KM       |    2     

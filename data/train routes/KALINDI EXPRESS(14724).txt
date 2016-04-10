@@ -1,0 +1,31 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Bhiwani                 |        BNW         |     Start     |     18:35     |       -       |        0 KM        |    1     
+  2   |             Bhiwani City               |        BNWC        |     18:39     |     18:41     |     2:00      |        6 KM        |    1     
+  3   |                 Bamla                  |        BMLL        |     18:51     |     18:53     |     2:00      |       14 KM        |    1     
+  4   |                Kharak                  |        KHRK        |     19:02     |     19:04     |     2:00      |       22 KM        |    1     
+  5   |            Kalanaur Kalan              |        KLNK        |     19:12     |     19:14     |     2:00      |       29 KM        |    1     
+  6   |                 Lahli                  |        LHLL        |     19:22     |     19:24     |     2:00      |       36 KM        |    1     
+  7   |            Rohtak Junction             |        ROK         |     19:55     |     19:57     |     2:00      |       50 KM        |    1     
+  8   |                Sampla                  |        SPZ         |     20:14     |     20:16     |     2:00      |       72 KM        |    1     
+  9   |              Bahadurgarh               |        BGZ         |     20:31     |     20:33     |     2:00      |       90 KM        |    1     
+  10  |              Shakurbasti               |        SSB         |     20:53     |     20:55     |     2:00      |       110 KM       |    1     
+  11  |            Delhi Kishangnj             |        DKZ         |     21:08     |     21:10     |     2:00      |       117 KM       |    1     
+  12  |                 Delhi                  |        DLI         |     21:30     |     21:50     |     20:00     |       120 KM       |    1     
+  13  |            Delhi Shahdara              |        DSA         |     22:04     |     22:06     |     2:00      |       126 KM       |    1     
+  14  |               Ghaziabad                |        GZB         |     22:37     |     22:39     |     2:00      |       140 KM       |    1     
+  15  |            Khurja Junction             |        KRJ         |     23:25     |     23:27     |     2:00      |       202 KM       |    1     
+  16  |           Aligarh Junction             |        ALJN        |     00:50     |     00:55     |     5:00      |       245 KM       |    2     
+  17  |            Tundla Junction             |        TDL         |     02:00     |     02:10     |     10:00     |       323 KM       |    2     
+  18  |               Firozabad                |        FZD         |     02:28     |     02:30     |     2:00      |       340 KM       |    2     
+  19  |          Shikohabad Junction           |        SKB         |     02:58     |     03:00     |     2:00      |       360 KM       |    2     
+  20  |               Mainpuri                 |        MNQ         |     03:45     |     03:50     |     5:00      |       408 KM       |    2     
+  21  |               Bhongaon                 |        BGQ         |     04:08     |     04:10     |     2:00      |       422 KM       |    2     
+  22  |              Farrukhabad               |        FBD         |     07:00     |     07:35     |     35:00     |       466 KM       |    2     
+  23  |               Fatehgarh                |        FGR         |     08:00     |     08:02     |     2:00      |       471 KM       |    2     
+  24  |               Kamalganj                |        KLJ         |     08:14     |     08:16     |     2:00      |       484 KM       |    2     
+  25  |             Gursahaiganj               |        GHJ         |     08:31     |     08:33     |     2:00      |       503 KM       |    2     
+  26  |                Kannauj                 |        KJN         |     09:05     |     09:07     |     2:00      |       525 KM       |    2     
+  27  |                Bilhaur                 |        BLU         |     09:34     |     09:36     |     2:00      |       550 KM       |    2     
+  28  |               Barrajpur                |        BJR         |     09:51     |     09:53     |     2:00      |       570 KM       |    2     
+  29  |            Kanpur Anwrganj             |        CPA         |     10:50     |     11:00     |     10:00     |       603 KM       |    2     
+  30  |            Kanpur Central              |        CNB         |     11:10     |     Ends      |       -       |       605 KM       |    2     

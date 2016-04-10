@@ -1,0 +1,22 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Dadar                  |         DR         |     Start     |     00:05     |       -       |        0 KM        |    1     
+  2   |                 Thane                  |        TNA         |     00:27     |     00:30     |     3:00      |       25 KM        |    1     
+  3   |                Panvel                  |        PNVL        |     01:15     |     01:20     |     5:00      |       60 KM        |    1     
+  4   |                 Roha                   |        ROHA        |     03:15     |     03:20     |     5:00      |       137 KM       |    1     
+  5   |                Mangaon                 |        MNI         |     03:46     |     03:48     |     2:00      |       180 KM       |    1     
+  6   |                 Veer                   |        VEER        |     04:02     |     04:04     |     2:00      |       203 KM       |    1     
+  7   |                 Khed                   |        KHED        |     04:54     |     04:56     |     2:00      |       275 KM       |    1     
+  8   |                Chiplun                 |        CHI         |     05:30     |     05:32     |     2:00      |       316 KM       |    1     
+  9   |                Savarda                 |        SVX         |     05:58     |     06:00     |     2:00      |       342 KM       |    1     
+  10  |             Aravali Road               |        AVRD        |     06:18     |     06:20     |     2:00      |       356 KM       |    1     
+  11  |              Sangmeshwar               |        SGR         |     06:32     |     06:34     |     2:00      |       376 KM       |    1     
+  12  |               Ratnagiri                |         RN         |     07:35     |     07:40     |     5:00      |       422 KM       |    1     
+  13  |                Adavali                 |        ADVI        |     08:08     |     08:10     |     2:00      |       467 KM       |    1     
+  14  |               Vilavade                 |        VID         |     08:25     |     08:27     |     2:00      |       488 KM       |    1     
+  15  |             Rajapur Road               |        RAJP        |     08:40     |     08:42     |     2:00      |       511 KM       |    1     
+  16  |           Vaibhavwadi Road             |        VBW         |     09:08     |     09:10     |     2:00      |       535 KM       |    1     
+  17  |             Nandgaon Road              |        NAN         |     09:23     |     09:25     |     2:00      |       556 KM       |    1     
+  18  |               Kankavali                |        KKW         |     09:38     |     09:40     |     2:00      |       578 KM       |    1     
+  19  |              Sindhudurg                |        SNDD        |     09:58     |     10:00     |     2:00      |       603 KM       |    1     
+  20  |                 Kudal                  |        KUDL        |     10:10     |     10:12     |     2:00      |       617 KM       |    1     
+  21  |            Sawantwadi Road             |        SWV         |     11:25     |     Ends      |       -       |       647 KM       |    1     

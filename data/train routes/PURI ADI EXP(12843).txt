@@ -1,0 +1,44 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Puri                   |        PURI        |     Start     |     17:30     |       -       |        0 KM        |    1     
+  2   |              Sakhi Gopal               |        SIL         |     17:53     |     17:54     |     1:00      |       17 KM        |    1     
+  3   |         Khurda Road Junction           |        KUR         |     18:30     |     19:00     |     30:00     |       44 KM        |    1     
+  4   |             Kalupara Ghat              |        KAPG        |     19:31     |     19:33     |     2:00      |       87 KM        |    1     
+  5   |                Balugan                 |        BALU        |     19:53     |     19:55     |     2:00      |       115 KM       |    1     
+  6   |               Khallikot                |        KIT         |     20:08     |     20:10     |     2:00      |       132 KM       |    1     
+  7   |               Chatrapur                |        CAP         |     20:36     |     20:38     |     2:00      |       169 KM       |    1     
+  8   |               Brahmapur                |        BAM         |     20:55     |     21:05     |     10:00     |       191 KM       |    1     
+  9   |                Palasa                  |        PSA         |     22:23     |     22:25     |     2:00      |       265 KM       |    1     
+  10  |            Srikakulam Road             |        CHE         |     23:18     |     23:20     |     2:00      |       338 KM       |    1     
+  11  |         Vizianagram Junction           |        VZM         |     00:15     |     00:40     |     25:00     |       407 KM       |    2     
+  12  |                Bobbili                 |        VBL         |     01:28     |     01:30     |     2:00      |       460 KM       |    2     
+  13  |            Parvatipuram Tn             |        PVPT        |     01:54     |     01:55     |     1:00      |       486 KM       |    2     
+  14  |               Rayagada                 |        RGDA        |     02:40     |     02:50     |     10:00     |       531 KM       |    2     
+  15  |               Muniguda                 |        MNGD        |     03:50     |     03:52     |     2:00      |       585 KM       |    2     
+  16  |              Norla Road                |        NRLR        |     04:32     |     04:34     |     2:00      |       635 KM       |    2     
+  17  |                Kesinga                 |        KSNG        |     04:53     |     04:55     |     2:00      |       658 KM       |    2     
+  18  |               Titlagarh                |        TIG         |     05:20     |     05:30     |     10:00     |       671 KM       |    2     
+  19  |              Kantabanji                |        KBJ         |     06:06     |     06:21     |     15:00     |       704 KM       |    2     
+  20  |             Khariar Road               |        KRAR        |     07:05     |     07:07     |     2:00      |       768 KM       |    2     
+  21  |               Bagbahra                 |        BGBR        |     07:28     |     07:30     |     2:00      |       789 KM       |    2     
+  22  |              Mahasamund                |        MSMD        |     08:00     |     08:02     |     2:00      |       820 KM       |    2     
+  23  |            Raipur Junction             |         R          |     09:35     |     09:55     |     20:00     |       873 KM       |    2     
+  24  |             Bhilai Pwr Hs              |        BPHB        |     10:15     |     10:17     |     2:00      |       901 KM       |    2     
+  25  |                 Durg                   |        DURG        |     10:40     |     10:45     |     5:00      |       910 KM       |    2     
+  26  |             Raj Nandgaon               |        RJN         |     11:05     |     11:07     |     2:00      |       940 KM       |    2     
+  27  |              Dongargarh                |        DGG         |     11:28     |     11:30     |     2:00      |       971 KM       |    2     
+  28  |            Gondia Junction             |         G          |     12:35     |     12:37     |     2:00      |      1044 KM       |    2     
+  29  |             Bhandara Road              |        BRD         |     13:21     |     13:23     |     2:00      |      1112 KM       |    2     
+  30  |                Nagpur                  |        NGP         |     14:35     |     14:45     |     10:00     |      1174 KM       |    2     
+  31  |            Wardha Junction             |         WR         |     15:52     |     15:54     |     2:00      |      1253 KM       |    2     
+  32  |           Badnera Junction             |         BD         |     17:30     |     17:33     |     3:00      |      1348 KM       |    2     
+  33  |            Akola Junction              |         AK         |     18:25     |     18:30     |     5:00      |      1427 KM       |    2     
+  34  |               Malkapur                 |        MKU         |     19:39     |     19:40     |     1:00      |      1516 KM       |    2     
+  35  |           Bhusaval Junction            |        BSL         |     20:40     |     20:50     |     10:00     |      1566 KM       |    2     
+  36  |           Jalgaon Junction             |         JL         |     21:24     |     21:25     |     1:00      |      1591 KM       |    2     
+  37  |               Nandurbar                |        NDB         |     00:10     |     00:15     |     5:00      |      1741 KM       |    3     
+  38  |                 Surat                  |         ST         |     03:37     |     03:42     |     5:00      |      1902 KM       |    3     
+  39  |           Bharuch Junction             |         BH         |     04:30     |     04:31     |     1:00      |      1960 KM       |    3     
+  40  |           Vadodara Junction            |        BRC         |     05:29     |     05:34     |     5:00      |      2030 KM       |    3     
+  41  |            Anand Junction              |        ANND        |     06:04     |     06:05     |     1:00      |      2066 KM       |    3     
+  42  |            Nadiad Junction             |         ND         |     06:21     |     06:22     |     1:00      |      2085 KM       |    3     
+  43  |          Ahmedabad Junction            |        ADI         |     07:25     |     Ends      |       -       |      2130 KM       |    3     

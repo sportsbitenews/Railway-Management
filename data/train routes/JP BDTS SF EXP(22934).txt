@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Jaipur                  |         JP         |     Start     |     12:45     |       -       |        0 KM        |    1     
+  2   |               Durgapura                |        DPA         |     12:52     |     12:54     |     2:00      |        8 KM        |    1     
+  3   |            Sawai Madhopur              |        SWM         |     15:15     |     15:30     |     15:00     |       132 KM       |    1     
+  4   |             Kota Junction              |        KOTA        |     17:00     |     17:05     |     5:00      |       240 KM       |    1     
+  5   |             Ramganj Mandi              |        RMA         |     18:03     |     18:05     |     2:00      |       312 KM       |    1     
+  6   |             Bhawani Mandi              |        BWM         |     18:26     |     18:28     |     2:00      |       340 KM       |    1     
+  7   |            Nagda Junction              |        NAD         |     20:20     |     20:22     |     2:00      |       465 KM       |    1     
+  8   |            Ratlam Junction             |        RTM         |     21:15     |     21:25     |     10:00     |       506 KM       |    1     
+  9   |                 Dahod                  |        DHD         |     22:50     |     22:52     |     2:00      |       619 KM       |    1     
+  10  |           Vadodara Junction            |        BRC         |     01:28     |     01:38     |     10:00     |       767 KM       |    2     
+  11  |           Bharuch Junction             |         BH         |     02:25     |     02:27     |     2:00      |       838 KM       |    2     
+  12  |                 Surat                  |         ST         |     03:22     |     03:27     |     5:00      |       896 KM       |    2     
+  13  |                 Vapi                   |        VAPI        |     04:36     |     04:43     |     7:00      |       989 KM       |    2     
+  14  |               Borivali                 |        BVI         |     06:57     |     07:00     |     3:00      |      1129 KM       |    2     
+  15  |            Bandra Terminus             |        BDTS        |     07:35     |     Ends      |       -       |      1148 KM       |    2     

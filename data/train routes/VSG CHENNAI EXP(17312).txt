@@ -1,0 +1,26 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Vasco Da Gama              |        VSG         |     Start     |     14:30     |       -       |        0 KM        |    1     
+  2   |                Madgaon                 |        MAO         |     15:15     |     15:20     |     5:00      |       28 KM        |    1     
+  3   |            Sanverdam Chuch             |        SVM         |     15:28     |     15:30     |     2:00      |       44 KM        |    1     
+  4   |                 Kulem                  |        QLM         |     16:05     |     16:10     |     5:00      |       62 KM        |    1     
+  5   |              Castle Rock               |        CLR         |     17:05     |     17:10     |     5:00      |       121 KM       |    1     
+  6   |            Londa Junction              |         LD         |     17:45     |     17:50     |     5:00      |       146 KM       |    1     
+  7   |                Dharwar                 |        DWR         |     19:18     |     19:20     |     2:00      |       216 KM       |    1     
+  8   |            Hubli Junction              |        UBL         |     20:15     |     20:25     |     10:00     |       236 KM       |    1     
+  9   |                Haveri                  |        HVR         |     21:28     |     21:30     |     2:00      |       311 KM       |    1     
+  10  |              Ranibennur                |        RNR         |     22:06     |     22:07     |     1:00      |       344 KM       |    1     
+  11  |                Harihar                 |        HRR         |     22:33     |     22:35     |     2:00      |       367 KM       |    1     
+  12  |               Davangere                |        DVG         |     22:50     |     22:53     |     3:00      |       380 KM       |    1     
+  13  |            Birur Junction              |        RRB         |     00:38     |     00:40     |     2:00      |       495 KM       |    2     
+  14  |           Arsikere Junction            |        ASK         |     01:30     |     01:35     |     5:00      |       540 KM       |    2     
+  15  |                Tiptur                  |        TTR         |     02:09     |     02:10     |     1:00      |       565 KM       |    2     
+  16  |                Tumkur                  |         TK         |     03:23     |     03:25     |     2:00      |       636 KM       |    2     
+  17  |          Yesvantpur Junction           |        YPR         |     05:00     |     05:30     |     30:00     |       700 KM       |    2     
+  18  |               Banaswadi                |        BAND        |     05:53     |     05:55     |     2:00      |       715 KM       |    2     
+  19  |            Krishnarajapurm             |        KJM         |     06:08     |     06:10     |     2:00      |       722 KM       |    2     
+  20  |              Bangarapet                |        BWT         |     07:08     |     07:10     |     2:00      |       779 KM       |    2     
+  21  |              Jolarpettai               |        JTJ         |     08:23     |     08:25     |     2:00      |       857 KM       |    2     
+  22  |           Katpadi Junction             |        KPD         |     09:28     |     09:30     |     2:00      |       940 KM       |    2     
+  23  |               Arakkonam                |        AJJ         |     10:23     |     10:25     |     2:00      |      1001 KM       |    2     
+  24  |               Perambur                 |        PER         |     11:13     |     11:15     |     2:00      |      1064 KM       |    2     
+  25  |            Chennai Central             |        MAS         |     11:55     |     Ends      |       -       |      1070 KM       |    2     

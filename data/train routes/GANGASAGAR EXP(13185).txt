@@ -1,0 +1,23 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Sealdah                 |        SDAH        |     Start     |     17:45     |       -       |        0 KM        |    1     
+  2   |             Bidhan Nagar               |        BNXR        |     17:53     |     17:54     |     1:00      |        4 KM        |    1     
+  3   |           Naihati Junction             |         NH         |     18:43     |     18:48     |     5:00      |       38 KM        |    1     
+  4   |            Bandel Junction             |        BDC         |     19:11     |     19:15     |     4:00      |       47 KM        |    1     
+  5   |          Barddhaman Junction           |        BWN         |     20:36     |     20:40     |     4:00      |       114 KM       |    1     
+  6   |               Durgapur                 |        DGR         |     21:27     |     21:32     |     5:00      |       178 KM       |    1     
+  7   |               Raniganj                 |        RNG         |     21:50     |     21:51     |     1:00      |       202 KM       |    1     
+  8   |           Asansol Junction             |        ASN         |     22:09     |     22:14     |     5:00      |       220 KM       |    1     
+  9   |             Chittaranjan               |        CRJ         |     22:38     |     22:39     |     1:00      |       245 KM       |    1     
+  10  |           Madhupur Junction            |        MDP         |     23:18     |     23:21     |     3:00      |       301 KM       |    1     
+  11  |           Jasidih Junction             |        JSME        |     23:45     |     23:50     |     5:00      |       330 KM       |    1     
+  12  |                Jhajha                  |        JAJ         |     01:00     |     01:05     |     5:00      |       374 KM       |    2     
+  13  |           Barauni Junction             |        BJU         |     03:35     |     04:00     |     25:00     |       467 KM       |    2     
+  14  |            Dalsingh Sarai              |        DSS         |     04:30     |     04:31     |     1:00      |       495 KM       |    2     
+  15  |          Samastipur Junction           |        SPJ         |     05:00     |     05:05     |     5:00      |       518 KM       |    2     
+  16  |               Haiaghat                 |        HYT         |     05:37     |     05:38     |     1:00      |       540 KM       |    2     
+  17  |             Laheria Sarai              |        LSI         |     05:59     |     06:04     |     5:00      |       551 KM       |    2     
+  18  |          Darbhanga Junction            |        DBG         |     06:15     |     06:25     |     10:00     |       556 KM       |    2     
+  19  |            Sakri Junction              |        SKI         |     06:50     |     06:55     |     5:00      |       575 KM       |    2     
+  20  |               Madhubani                |        MBI         |     07:19     |     07:20     |     1:00      |       592 KM       |    2     
+  21  |               Rajanagar                |        RJA         |     07:37     |     07:38     |     1:00      |       602 KM       |    2     
+  22  |               Jaynagar                 |        JYG         |     08:40     |     Ends      |       -       |       624 KM       |    2     

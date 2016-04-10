@@ -1,0 +1,25 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Lokmanyatilak T             |        LTT         |     Start     |     05:20     |       -       |        0 KM        |    1     
+  2   |                 Thane                  |        TNA         |     05:38     |     05:40     |     2:00      |       18 KM        |    1     
+  3   |            Kalyan Junction             |        KYN         |     06:05     |     06:08     |     3:00      |       38 KM        |    1     
+  4   |               Igatpuri                 |        IGP         |     07:53     |     07:55     |     2:00      |       121 KM       |    1     
+  5   |              Nasik Road                |         NK         |     08:43     |     08:45     |     2:00      |       172 KM       |    1     
+  6   |            Manmad Junction             |        MMR         |     09:35     |     09:40     |     5:00      |       245 KM       |    1     
+  7   |           Bhusaval Junction            |        BSL         |     11:50     |     12:00     |     10:00     |       429 KM       |    1     
+  8   |               Burhanpur                |        BAU         |     12:43     |     12:45     |     2:00      |       483 KM       |    1     
+  9   |                Khandwa                 |        KNW         |     14:15     |     14:20     |     5:00      |       552 KM       |    1     
+  10  |            Itarsi Junction             |         ET         |     17:00     |     17:10     |     10:00     |       736 KM       |    1     
+  11  |               Pipariya                 |        PPI         |     18:03     |     18:05     |     2:00      |       803 KM       |    1     
+  12  |              Narsinghpur               |         NU         |     19:10     |     19:12     |     2:00      |       897 KM       |    1     
+  13  |               Jabalpur                 |        JBP         |     20:40     |     20:50     |     10:00     |       981 KM       |    1     
+  14  |                 Katni                  |        KTE         |     22:05     |     22:10     |     5:00      |      1072 KM       |    1     
+  15  |                 Satna                  |        STA         |     00:01     |     00:10     |     9:00      |      1170 KM       |    2     
+  16  |           Manikpur Junction            |        MKP         |     01:40     |     01:45     |     5:00      |      1247 KM       |    2     
+  17  |          Allahabad Junction            |        ALD         |     03:50     |     04:15     |     25:00     |      1348 KM       |    2     
+  18  |          Partapgarh Junction           |        PBH         |     05:55     |     06:13     |     18:00     |      1407 KM       |    2     
+  19  |               Sultanpur                |        SLN         |     07:40     |     07:45     |     5:00      |      1446 KM       |    2     
+  20  |           Faizabad Junction            |         FD         |     09:25     |     Ends      |       -       |      1505 KM       |    2     
+  21  |          Partapgarh Junction           |        PBH         |     05:55     |     06:40     |     45:00     |      1407 KM       |    2     
+  22  |                Amethi                  |        AME         |     07:16     |     07:18     |     2:00      |      1442 KM       |    2     
+  23  |               Gauriganj                |        GNG         |     07:33     |     07:35     |     2:00      |      1455 KM       |    2     
+  24  |          Rae Bareli Junction           |        RBL         |     08:20     |     Ends      |       -       |      1502 KM       |    2     

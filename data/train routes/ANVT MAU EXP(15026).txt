@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Anand Vihar Trm             |        ANVT        |     Start     |     12:55     |       -       |        0 KM        |    1     
+  2   |               Ghaziabad                |        GZB         |     13:22     |     13:24     |     2:00      |       13 KM        |    1     
+  3   |           Aligarh Junction             |        ALJN        |     14:41     |     14:43     |     2:00      |       119 KM       |    1     
+  4   |            Kanpur Central              |        CNB         |     19:15     |     19:30     |     15:00     |       427 KM       |    1     
+  5   |              Lucknow Nr                |        LKO         |     20:50     |     21:15     |     25:00     |       500 KM       |    1     
+  6   |           Faizabad Junction            |         FD         |     00:24     |     00:26     |     2:00      |       628 KM       |    2     
+  7   |               Akbarpur                 |        ABP         |     01:37     |     01:39     |     2:00      |       689 KM       |    2     
+  8   |           Shahganj Junction            |        SHG         |     02:55     |     03:25     |     30:00     |       733 KM       |    2     
+  9   |               Azamgarh                 |        AMH         |     05:15     |     05:20     |     5:00      |       790 KM       |    2     
+  10  |             Muhammadabad               |        MMA         |     06:03     |     06:05     |     2:00      |       811 KM       |    2     
+  11  |             Mau Junction               |        MAU         |     06:40     |     Ends      |       -       |       833 KM       |    2     

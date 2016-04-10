@@ -1,0 +1,28 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Ajmer Junction              |        AII         |     Start     |     19:25     |       -       |        0 KM        |    1     
+  2   |               Bhilwara                 |        BHL         |     21:30     |     21:35     |     5:00      |       132 KM       |    1     
+  3   |             Chittaurgarh               |        COR         |     23:00     |     23:20     |     20:00     |       186 KM       |    1     
+  4   |                 Bundi                  |        BUDI        |     01:04     |     01:06     |     2:00      |       320 KM       |    2     
+  5   |             Kota Junction              |        KOTA        |     02:20     |     02:30     |     10:00     |       358 KM       |    2     
+  6   |                 Guna                   |        GUNA        |     06:00     |     06:10     |     10:00     |       543 KM       |    2     
+  7   |              Ashok Nagar               |        ASKN        |     06:58     |     07:00     |     2:00      |       587 KM       |    2     
+  8   |               Mungaoli                 |        MNV         |     07:39     |     07:41     |     2:00      |       633 KM       |    2     
+  9   |                Saugor                  |        SGO         |     10:30     |     10:35     |     5:00      |       735 KM       |    2     
+  10  |                 Damoh                  |        DMO         |     12:18     |     12:20     |     2:00      |       813 KM       |    2     
+  11  |             Katni Murwara              |        KMZ         |     14:15     |     14:25     |     10:00     |       922 KM       |    2     
+  12  |                Beohari                 |        BEHR        |     16:45     |     16:50     |     5:00      |      1033 KM       |    2     
+  13  |               Singrauli                |        SGRL        |     21:15     |     21:25     |     10:00     |      1181 KM       |    2     
+  14  |                Chopan                  |        CPU         |     22:43     |     23:08     |     25:00     |      1245 KM       |    2     
+  15  |                Renukut                 |        RNQ         |     00:13     |     00:15     |     2:00      |      1287 KM       |    3     
+  16  |              Garwa Road                |        GHD         |     02:15     |     02:20     |     5:00      |      1386 KM       |    3     
+  17  |              Daltonganj                |        DTO         |     03:00     |     03:05     |     5:00      |      1420 KM       |    3     
+  18  |              Barka Kana                |        BRKA        |     06:15     |     06:40     |     25:00     |      1605 KM       |    3     
+  19  |                Phusro                  |        PUS         |     08:23     |     08:25     |     2:00      |      1675 KM       |    3     
+  20  |           Dhanbad Junction             |        DHN         |     10:35     |     10:45     |     10:00     |      1723 KM       |    3     
+  21  |           Asansol Junction             |        ASN         |     11:55     |     12:25     |     30:00     |      1781 KM       |    3     
+  22  |               Raniganj                 |        RNG         |     12:40     |     12:42     |     2:00      |      1800 KM       |    3     
+  23  |               Durgapur                 |        DGR         |     13:04     |     13:06     |     2:00      |      1823 KM       |    3     
+  24  |          Barddhaman Junction           |        BWN         |     13:59     |     14:01     |     2:00      |      1887 KM       |    3     
+  25  |            Bandel Junction             |        BDC         |     15:13     |     15:15     |     2:00      |      1954 KM       |    3     
+  26  |           Naihati Junction             |         NH         |     15:40     |     15:42     |     2:00      |      1963 KM       |    3     
+  27  |                Kolkata                 |        KOAA        |     17:00     |     Ends      |       -       |      1997 KM       |    3     

@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Hubli Junction              |        UBL         |     Start     |     22:30     |       -       |        0 KM        |    1     
+  2   |            Gadag Junction              |        GDG         |     23:35     |     23:40     |     5:00      |       59 KM        |    1     
+  3   |                Badami                  |        BDM         |     00:58     |     01:00     |     2:00      |       126 KM       |    2     
+  4   |               Bagalkot                 |        BGK         |     01:23     |     01:25     |     2:00      |       152 KM       |    2     
+  5   |                Almatti                 |        LMT         |     02:14     |     02:15     |     1:00      |       187 KM       |    2     
+  6   |                Bijapur                 |        BJP         |     03:45     |     03:50     |     5:00      |       249 KM       |    2     
+  7   |           Solapur Junction             |        SUR         |     06:40     |     06:50     |     10:00     |       358 KM       |    2     
+  8   |            Daund Junction              |         DD         |     10:00     |     10:05     |     5:00      |       546 KM       |    2     
+  9   |             Pune Junction              |        PUNE        |     11:50     |     12:00     |     10:00     |       621 KM       |    2     
+  10  |                Panvel                  |        PNVL        |     15:20     |     15:25     |     5:00      |       741 KM       |    2     
+  11  |                 Thane                  |        TNA         |     16:13     |     16:15     |     2:00      |       776 KM       |    2     
+  12  |            Lokmanyatilak T             |        LTT         |     16:55     |     Ends      |       -       |       793 KM       |    2     

@@ -1,0 +1,17 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Digha Flag Stn              |        DGHA        |     Start     |     23:55     |       -       |        0 KM        |    1     
+  2   |              Kanthi P H                |        KATI        |     00:28     |     00:30     |     2:00      |       33 KM        |    2     
+  3   |                Tamluk                  |        TMZ         |     01:33     |     01:35     |     2:00      |       94 KM        |    2     
+  4   |               Panskura                 |        PKU         |     02:06     |     02:07     |     1:00      |       118 KM       |    2     
+  5   |          Kharagpur Junction            |        KGP         |     03:10     |     03:20     |     10:00     |       163 KM       |    2     
+  6   |               Midnapore                |        MDN         |     03:58     |     04:00     |     2:00      |       176 KM       |    2     
+  7   |               Bishnupur                |        VSU         |     04:44     |     04:45     |     1:00      |       248 KM       |    2     
+  8   |                Bankura                 |        BQA         |     05:08     |     05:10     |     2:00      |       278 KM       |    2     
+  9   |             Adra Junction              |        ADRA        |     06:15     |     06:25     |     10:00     |       331 KM       |    2     
+  10  |           Asansol Junction             |        ASN         |     07:45     |     07:55     |     10:00     |       372 KM       |    2     
+  11  |            Andal Junction              |        UDL         |     08:16     |     08:18     |     2:00      |       398 KM       |    2     
+  12  |               Durgapur                 |        DGR         |     08:35     |     08:55     |     20:00     |       414 KM       |    2     
+  13  |              Rampur Hat                |        RPH         |     11:57     |     12:02     |     5:00      |       532 KM       |    2     
+  14  |                 Pakur                  |        PKR         |     12:45     |     12:46     |     1:00      |       585 KM       |    2     
+  15  |         New Farakka Junction           |        NFK         |     13:36     |     13:38     |     2:00      |       619 KM       |    2     
+  16  |              Malda Town                |        MLDT        |     14:25     |     Ends      |       -       |       653 KM       |    2     

@@ -1,0 +1,9 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Mumbai Cst                |        CSTM        |     Start     |     16:25     |       -       |        0 KM        |    1     
+  2   |                 Dadar                  |         DR         |     16:37     |     16:38     |     1:00      |        9 KM        |    1     
+  3   |                 Thane                  |        TNA         |     16:54     |     16:55     |     1:00      |       34 KM        |    1     
+  4   |                Panvel                  |        PNVL        |     17:29     |     17:30     |     1:00      |       69 KM        |    1     
+  5   |                Karjat                  |        KJT         |     18:07     |     18:08     |     1:00      |       97 KM        |    1     
+  6   |               Lonavala                 |        LNL         |     18:49     |     18:50     |     1:00      |       125 KM       |    1     
+  7   |              Sivajinagar               |        SVJR        |     19:38     |     19:39     |     1:00      |       186 KM       |    1     
+  8   |             Pune Junction              |        PUNE        |     19:50     |     Ends      |       -       |       189 KM       |    1     

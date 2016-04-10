@@ -1,0 +1,24 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Guruvayur                |        GUV         |     Start     |     03:15     |       -       |        0 KM        |    1     
+  2   |               Punkunnam                |        PNQ         |     03:33     |     03:35     |     2:00      |       20 KM        |    1     
+  3   |                Thrisur                 |        TCR         |     03:43     |     03:45     |     2:00      |       23 KM        |    1     
+  4   |             Irinjalakuda               |        IJK         |     04:02     |     04:04     |     2:00      |       47 KM        |    1     
+  5   |               Chalakudi                |        CKI         |     04:10     |     04:12     |     2:00      |       53 KM        |    1     
+  6   |               Angamali                 |        AFK         |     04:23     |     04:25     |     2:00      |       69 KM        |    1     
+  7   |                 Aluva                  |        AWY         |     04:39     |     04:40     |     1:00      |       78 KM        |    1     
+  8   |          Eranakulam Junction           |        ERS         |     05:25     |     05:30     |     5:00      |       97 KM        |    1     
+  9   |                Turavur                 |        TUVR        |     05:43     |     05:45     |     2:00      |       120 KM       |    1     
+  10  |               Shertalai                |        SRTL        |     05:52     |     05:54     |     2:00      |       130 KM       |    1     
+  11  |              Mararikulam               |        MAKM        |     06:01     |     06:03     |     2:00      |       141 KM       |    1     
+  12  |               Alleppey                 |        ALLP        |     06:28     |     06:30     |     2:00      |       154 KM       |    1     
+  13  |              Ambalapuzha               |        AMPA        |     06:38     |     06:40     |     2:00      |       166 KM       |    1     
+  14  |               Harippad                 |        HAD         |     06:50     |     06:52     |     2:00      |       184 KM       |    1     
+  15  |          Kayankulam Junction           |        KYJ         |     07:00     |     07:02     |     2:00      |       197 KM       |    1     
+  16  |             Karunagapalli              |        KPY         |     07:13     |     07:15     |     2:00      |       211 KM       |    1     
+  17  |             Munroturuttu               |        MQO         |     07:23     |     07:25     |     2:00      |       223 KM       |    1     
+  18  |            Kollam Junction             |        QLN         |     08:18     |     08:20     |     2:00      |       238 KM       |    1     
+  19  |               Mayyanad                 |        MYY         |     08:28     |     08:30     |     2:00      |       247 KM       |    1     
+  20  |                Paravur                 |        PVU         |     08:33     |     08:35     |     2:00      |       250 KM       |    1     
+  21  |                Varkala                 |        VAK         |     08:41     |     08:43     |     2:00      |       262 KM       |    1     
+  22  |            Trivandrum Pett             |        TVP         |     09:13     |     09:15     |     2:00      |       300 KM       |    1     
+  23  |            Trivandrum Cntl             |        TVC         |     09:45     |     Ends      |       -       |       303 KM       |    1     

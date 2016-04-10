@@ -1,0 +1,24 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Mysore Junction             |        MYS         |     Start     |     05:00     |       -       |        0 KM        |    1     
+  2   |                Mandya                  |        MYA         |     05:38     |     05:40     |     2:00      |       46 KM        |    1     
+  3   |                Kengeri                 |        KGI         |     07:03     |     07:05     |     2:00      |       127 KM       |    1     
+  4   |         Bangalore Cy Junction          |        SBC         |     07:55     |     08:15     |     20:00     |       139 KM       |    1     
+  5   |            Bangalore Cant              |        BNC         |     08:25     |     08:27     |     2:00      |       143 KM       |    1     
+  6   |           Yelhanka Junction            |        YNK         |     08:56     |     08:58     |     2:00      |       165 KM       |    1     
+  7   |               Hindupur                 |        HUP         |     10:13     |     10:15     |     2:00      |       248 KM       |    1     
+  8   |         Dharmavaram Junction           |        DMM         |     12:20     |     12:25     |     5:00      |       327 KM       |    1     
+  9   |               Anantapur                |        ATP         |     13:10     |     13:12     |     2:00      |       361 KM       |    1     
+  10  |           Guntakal Junction            |        GTL         |     14:20     |     14:25     |     5:00      |       429 KM       |    1     
+  11  |           Bellary Junction             |        BAY         |     15:45     |     15:50     |     5:00      |       479 KM       |    1     
+  12  |            Hospet Junction             |        HPT         |     16:55     |     17:00     |     5:00      |       544 KM       |    1     
+  13  |                Koppal                  |        KBL         |     17:31     |     17:32     |     1:00      |       572 KM       |    1     
+  14  |            Gadag Junction              |        GDG         |     18:55     |     19:00     |     5:00      |       629 KM       |    1     
+  15  |               Bagalkot                 |        BGK         |     20:40     |     20:45     |     5:00      |       723 KM       |    1     
+  16  |                Bijapur                 |        BJP         |     23:50     |     00:10     |     20:00     |       819 KM       |    2     
+  17  |           Solapur Junction             |        SUR         |     03:00     |     03:10     |     10:00     |       929 KM       |    2     
+  18  |               Kurduvadi                |        KWV         |     04:10     |     04:11     |     1:00      |      1007 KM       |    2     
+  19  |            Daund Junction              |         DD         |     06:25     |     06:35     |     10:00     |      1116 KM       |    2     
+  20  |              Ahmadnagar                |        ANG         |     08:47     |     08:50     |     3:00      |      1200 KM       |    2     
+  21  |                Belapur                 |        BAP         |     10:03     |     10:05     |     2:00      |      1267 KM       |    2     
+  22  |               Puntamba                 |         PB         |     10:30     |     10:45     |     15:00     |      1287 KM       |    2     
+  23  |            Sainagar Shirdi             |        SNSI        |     11:30     |     Ends      |       -       |      1304 KM       |    2     

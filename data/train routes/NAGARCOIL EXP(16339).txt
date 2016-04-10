@@ -1,0 +1,41 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Mumbai Cst                |        CSTM        |     Start     |     12:10     |       -       |        0 KM        |    1     
+  2   |                 Dadar                  |         DR         |     12:18     |     12:20     |     2:00      |        9 KM        |    1     
+  3   |                 Thane                  |        TNA         |     12:43     |     12:45     |     2:00      |       34 KM        |    1     
+  4   |            Kalyan Junction             |        KYN         |     13:06     |     13:08     |     2:00      |       54 KM        |    1     
+  5   |                Karjat                  |        KJT         |     13:48     |     13:50     |     2:00      |       100 KM       |    1     
+  6   |               Lonavala                 |        LNL         |     14:38     |     14:40     |     2:00      |       128 KM       |    1     
+  7   |             Pune Junction              |        PUNE        |     15:45     |     15:50     |     5:00      |       192 KM       |    1     
+  8   |            Daund Junction              |         DD         |     17:00     |     17:05     |     5:00      |       268 KM       |    1     
+  9   |               Kurduvadi                |        KWV         |     18:58     |     19:00     |     2:00      |       377 KM       |    1     
+  10  |           Solapur Junction             |        SUR         |     20:15     |     20:25     |     10:00     |       455 KM       |    1     
+  11  |               Gulbarga                 |         GR         |     22:28     |     22:30     |     2:00      |       568 KM       |    1     
+  12  |               Shahabad                 |        SDB         |     23:00     |     23:02     |     2:00      |       595 KM       |    1     
+  13  |                 Wadi                   |        WADI        |     23:15     |     23:20     |     5:00      |       605 KM       |    1     
+  14  |                Yadgir                  |         YG         |     23:53     |     23:55     |     2:00      |       644 KM       |    1     
+  15  |                Raichur                 |         RC         |     00:48     |     00:50     |     2:00      |       713 KM       |    2     
+  16  |           Manthralayam Road            |        MALM        |     01:28     |     01:30     |     2:00      |       741 KM       |    2     
+  17  |                 Adoni                  |         AD         |     02:28     |     02:30     |     2:00      |       782 KM       |    2     
+  18  |           Guntakal Junction            |        GTL         |     03:55     |     04:00     |     5:00      |       833 KM       |    2     
+  19  |                 Gooty                  |         GY         |     04:33     |     04:35     |     2:00      |       862 KM       |    2     
+  20  |               Anantapur                |        ATP         |     05:38     |     05:40     |     2:00      |       919 KM       |    2     
+  21  |         Dharmavaram Junction           |        DMM         |     06:50     |     06:55     |     5:00      |       953 KM       |    2     
+  22  |               Hindupur                 |        HUP         |     08:18     |     08:20     |     2:00      |      1031 KM       |    2     
+  23  |            Krishnarajapurm             |        KJM         |     10:28     |     10:30     |     2:00      |      1130 KM       |    2     
+  24  |              Bangarapet                |        BWT         |     11:55     |     12:05     |     10:00     |      1187 KM       |    2     
+  25  |                Kuppam                  |        KPN         |     12:33     |     12:35     |     2:00      |      1221 KM       |    2     
+  26  |          Tirupattur Junction           |        TPT         |     13:58     |     14:00     |     2:00      |      1272 KM       |    2     
+  27  |            Salem Junction              |         SA         |     15:35     |     15:40     |     5:00      |      1385 KM       |    2     
+  28  |            Erode Junction              |         ED         |     16:50     |     17:00     |     10:00     |      1447 KM       |    2     
+  29  |                 Karur                  |        KRR         |     18:17     |     18:20     |     3:00      |      1513 KM       |    2     
+  30  |           Dindigul Junction            |         DG         |     19:50     |     19:55     |     5:00      |      1587 KM       |    2     
+  31  |            Kodaikanal Road             |        KQN         |     20:13     |     20:14     |     1:00      |      1612 KM       |    2     
+  32  |           Madurai Junction             |        MDU         |     20:55     |     21:00     |     5:00      |      1653 KM       |    2     
+  33  |         Virudunagar Junction           |        VPT         |     22:23     |     22:25     |     2:00      |      1696 KM       |    2     
+  34  |                 Satur                  |        SRT         |     22:43     |     22:45     |     2:00      |      1723 KM       |    2     
+  35  |              Kovilpatti                |        CVP         |     23:03     |     23:05     |     2:00      |      1744 KM       |    2     
+  36  |         Maniyachchi Junction           |        MEJ         |     23:40     |     23:41     |     1:00      |      1780 KM       |    2     
+  37  |              Tirunelveli               |        TEN         |     01:25     |     01:30     |     5:00      |      1809 KM       |    3     
+  38  |               Nanguneri                |        NNN         |     01:48     |     01:50     |     2:00      |      1837 KM       |    3     
+  39  |               Valliyur                 |        VLY         |     02:08     |     02:10     |     2:00      |      1851 KM       |    3     
+  40  |          Nagercoil Junction            |        NCJ         |     03:20     |     Ends      |       -       |      1882 KM       |    3     

@@ -1,0 +1,14 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Dhanbad Junction             |        DHN         |     Start     |     16:00     |       -       |        0 KM        |    1     
+  2   |            Bokaro Stl City             |        BKSC        |     17:35     |     17:40     |     5:00      |       50 KM        |    1     
+  3   |                 Muri                   |        MURI        |     18:36     |     18:38     |     2:00      |       102 KM       |    1     
+  4   |                Ranchi                  |        RNC         |     19:55     |     20:10     |     15:00     |       164 KM       |    1     
+  5   |                 Hatia                  |        HTE         |     20:30     |     20:35     |     5:00      |       171 KM       |    1     
+  6   |               Rourkela                 |        ROU         |     23:30     |     23:40     |     10:00     |       338 KM       |    1     
+  7   |          Jharsuguda Junction           |        JSG         |     01:15     |     01:20     |     5:00      |       439 KM       |    2     
+  8   |            Sambalpur City              |        SBPY        |     02:09     |     02:10     |     1:00      |       484 KM       |    2     
+  9   |                 Angul                  |        ANGL        |     05:00     |     05:05     |     5:00      |       634 KM       |    2     
+  10  |             Talcher Road               |        TLHD        |     05:19     |     05:20     |     1:00      |       646 KM       |    2     
+  11  |               Dhenkanal                |        DNKL        |     06:04     |     06:05     |     1:00      |       695 KM       |    2     
+  12  |                Cuttack                 |        CTC         |     07:15     |     07:20     |     5:00      |       752 KM       |    2     
+  13  |              Bhubaneswar               |        BBS         |     08:10     |     Ends      |       -       |       780 KM       |    2     

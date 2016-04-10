@@ -1,0 +1,18 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Gudur Junction              |        GDR         |     Start     |     22:10     |       -       |        0 KM        |    1     
+  2   |              Vedayapalem               |        VDE         |     22:29     |     22:30     |     1:00      |       32 KM        |    1     
+  3   |                Nellore                 |        NLR         |     22:39     |     22:40     |     1:00      |       39 KM        |    1     
+  4   |              Bitragunta                |        BTTR        |     23:04     |     23:05     |     1:00      |       73 KM        |    1     
+  5   |                Kavali                  |        KVZ         |     23:19     |     23:20     |     1:00      |       89 KM        |    1     
+  6   |            Singarayakonda              |        SKM         |     23:44     |     23:45     |     1:00      |       127 KM       |    1     
+  7   |                Ongole                  |        OGL         |     00:14     |     00:15     |     1:00      |       155 KM       |    2     
+  8   |                Chirala                 |        CLX         |     00:49     |     00:50     |     1:00      |       204 KM       |    2     
+  9   |                Bapatla                 |        BPP         |     01:04     |     01:05     |     1:00      |       219 KM       |    2     
+  10  |            Tenali Junction             |        TEL         |     01:36     |     01:37     |     1:00      |       262 KM       |    2     
+  11  |          Vijayawada Junction           |        BZA         |     02:40     |     02:50     |     10:00     |       293 KM       |    2     
+  12  |                Madhira                 |        MDR         |     03:36     |     03:37     |     1:00      |       350 KM       |    2     
+  13  |                Khammam                 |        KMT         |     04:05     |     04:06     |     1:00      |       394 KM       |    2     
+  14  |              Mahbubabad                |        MABD        |     04:54     |     04:55     |     1:00      |       441 KM       |    2     
+  15  |               Warangal                 |         WL         |     05:48     |     05:50     |     2:00      |       502 KM       |    2     
+  16  |           Kazipet Junction             |        KZJ         |     06:04     |     06:05     |     1:00      |       512 KM       |    2     
+  17  |         Secunderabad Junction          |         SC         |     08:35     |     Ends      |       -       |       644 KM       |    2     

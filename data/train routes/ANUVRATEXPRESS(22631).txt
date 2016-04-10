@@ -1,0 +1,33 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Chennai Central             |        MAS         |     Start     |     21:10     |       -       |        0 KM        |    1     
+  2   |              Sullurupeta               |        SPE         |     22:18     |     22:20     |     2:00      |       83 KM        |    1     
+  3   |            Gudur Junction              |        GDR         |     23:30     |     23:35     |     5:00      |       138 KM       |    1     
+  4   |                Nellore                 |        NLR         |     00:01     |     00:03     |     2:00      |       176 KM       |    2     
+  5   |                Ongole                  |        OGL         |     01:26     |     01:28     |     2:00      |       292 KM       |    2     
+  6   |          Vijayawada Junction           |        BZA         |     03:55     |     04:05     |     10:00     |       431 KM       |    2     
+  7   |                Khammam                 |        KMT         |     05:15     |     05:17     |     2:00      |       532 KM       |    2     
+  8   |               Warangal                 |         WL         |     06:43     |     06:45     |     2:00      |       639 KM       |    2     
+  9   |               Ramgundam                |        RDM         |     08:08     |     08:10     |     2:00      |       740 KM       |    2     
+  10  |            Sirpur Kagazngr             |        SKZR        |     09:23     |     09:25     |     2:00      |       812 KM       |    2     
+  11  |              Balharshah                |        BPQ         |     11:25     |     11:40     |     15:00     |       881 KM       |    2     
+  12  |              Chandrapur                |         CD         |     11:58     |     11:59     |     1:00      |       895 KM       |    2     
+  13  |                Nagpur                  |        NGP         |     14:45     |     14:55     |     10:00     |      1093 KM       |    2     
+  14  |            Itarsi Junction             |         ET         |     20:00     |     20:05     |     5:00      |      1390 KM       |    2     
+  15  |           Bhopal  Junction             |        BPL         |     22:30     |     22:35     |     5:00      |      1481 KM       |    2     
+  16  |               Bairagarh                |        BIH         |     23:01     |     23:03     |     2:00      |      1492 KM       |    2     
+  17  |                Sehore                  |        SEH         |     23:24     |     23:26     |     2:00      |      1520 KM       |    2     
+  18  |               Shujalpur                |        SJP         |     00:06     |     00:08     |     2:00      |      1562 KM       |    3     
+  19  |            Ujjain Junction             |        UJN         |     02:00     |     02:10     |     10:00     |      1665 KM       |    3     
+  20  |            Nagda Junction              |        NAD         |     03:20     |     03:50     |     30:00     |      1720 KM       |    3     
+  21  |               Shamgarh                 |        SGZ         |     04:48     |     04:50     |     2:00      |      1811 KM       |    3     
+  22  |             Kota Junction              |        KOTA        |     06:20     |     06:30     |     10:00     |      1945 KM       |    3     
+  23  |            Sawai Madhopur              |        SWM         |     08:30     |     08:45     |     15:00     |      2053 KM       |    3     
+  24  |            Bansthali Niwai             |        BNLW        |     09:26     |     09:28     |     2:00      |      2118 KM       |    3     
+  25  |               Durgapura                |        DPA         |     10:16     |     10:18     |     2:00      |      2177 KM       |    3     
+  26  |                Jaipur                  |         JP         |     10:45     |     10:55     |     10:00     |      2184 KM       |    3     
+  27  |           Phulera Junction             |         FL         |     11:48     |     11:50     |     2:00      |      2239 KM       |    3     
+  28  |           Makrana Junction             |        MKN         |     12:52     |     12:54     |     2:00      |      2303 KM       |    3     
+  29  |            Degana Junction             |        DNA         |     13:28     |     13:32     |     4:00      |      2347 KM       |    3     
+  30  |                Nagaur                  |        NGO         |     15:22     |     15:24     |     2:00      |      2450 KM       |    3     
+  31  |                 Nokha                  |        NOK         |     16:04     |     16:06     |     2:00      |      2501 KM       |    3     
+  32  |           Bikaner Junction             |        BKN         |     18:00     |     Ends      |       -       |      2565 KM       |    3     

@@ -1,0 +1,24 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Sealdah                 |        SDAH        |     Start     |     07:40     |       -       |        0 KM        |    1     
+  2   |           Asansol Junction             |        ASN         |     10:35     |     10:40     |     5:00      |       207 KM       |    1     
+  3   |           Madhupur Junction            |        MDP         |     11:44     |     11:46     |     2:00      |       288 KM       |    1     
+  4   |           Jasidih Junction             |        JSME        |     12:13     |     12:15     |     2:00      |       317 KM       |    1     
+  5   |                Jhajha                  |        JAJ         |     13:12     |     13:17     |     5:00      |       361 KM       |    1     
+  6   |             Kiul Junction              |        KIUL        |     13:54     |     13:56     |     2:00      |       415 KM       |    1     
+  7   |           Mokameh Junction             |        MKA         |     14:27     |     14:29     |     2:00      |       449 KM       |    1     
+  8   |              Patna Saheb               |        PNC         |     15:21     |     15:22     |     1:00      |       528 KM       |    1     
+  9   |            Patna Junction              |        PNBE        |     16:05     |     16:15     |     10:00     |       538 KM       |    1     
+  10  |         Mughal Sarai Junction          |        MGS         |     19:32     |     19:47     |     15:00     |       750 KM       |    1     
+  11  |           Varanasi Junction            |        BSB         |     20:30     |     20:40     |     10:00     |       767 KM       |    1     
+  12  |               Sultanpur                |        SLN         |     22:48     |     22:50     |     2:00      |       910 KM       |    1     
+  13  |              Lucknow Nr                |        LKO         |     02:10     |     02:25     |     15:00     |      1050 KM       |    2     
+  14  |               Bareilly                 |         BE         |     06:15     |     06:20     |     5:00      |      1285 KM       |    2     
+  15  |               Moradabad                |         MB         |     08:05     |     08:15     |     10:00     |      1376 KM       |    2     
+  16  |          Najibabad Junction            |        NBD         |     09:32     |     09:34     |     2:00      |      1474 KM       |    2     
+  17  |              Saharanpur                |        SRE         |     11:20     |     11:30     |     10:00     |      1568 KM       |    2     
+  18  |         Ambala Cant Junction           |        UMB         |     12:50     |     13:00     |     10:00     |      1649 KM       |    2     
+  19  |           Sirhind Junction             |        SIR         |     13:41     |     13:43     |     2:00      |      1703 KM       |    2     
+  20  |           Ludhiana Junction            |        LDH         |     14:45     |     14:52     |     7:00      |      1763 KM       |    2     
+  21  |            Jalandhar City              |        JUC         |     15:43     |     15:48     |     5:00      |      1820 KM       |    2     
+  22  |                 Beas                   |        BEAS        |     16:21     |     16:22     |     1:00      |      1856 KM       |    2     
+  23  |           Amritsar Junction            |        ASR         |     17:20     |     Ends      |       -       |      1898 KM       |    2     

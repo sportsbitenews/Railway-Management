@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Gorakhpur Junction            |        GKP         |     Start     |     13:40     |       -       |        0 KM        |    1     
+  2   |             Deoria Sadar               |        DEOS        |     14:25     |     14:30     |     5:00      |       50 KM        |    1     
+  3   |            Bhatni Junction             |        BTT         |     14:50     |     14:55     |     5:00      |       71 KM        |    1     
+  4   |             Mau Junction               |        MAU         |     16:15     |     16:20     |     5:00      |       139 KM       |    1     
+  5   |           Aunrihar Junction            |        ARJ         |     17:12     |     17:14     |     2:00      |       196 KM       |    1     
+  6   |           Varanasi Junction            |        BSB         |     18:15     |     18:40     |     25:00     |       231 KM       |    1     
+  7   |         Mughal Sarai Junction          |        MGS         |     19:25     |     19:45     |     20:00     |       248 KM       |    1     
+  8   |                Sasaram                 |        SSM         |     20:52     |     20:54     |     2:00      |       348 KM       |    1     
+  9   |             Gaya Junction              |        GAYA        |     22:20     |     22:25     |     5:00      |       451 KM       |    1     
+  10  |            Gomoh Junction              |        GMO         |     01:55     |     02:00     |     5:00      |       621 KM       |    2     
+  11  |           Bhojudih Junction            |        BJE         |     02:48     |     02:50     |     2:00      |       664 KM       |    2     
+  12  |           Purulia Junction             |        PRR         |     03:53     |     03:55     |     2:00      |       713 KM       |    2     
+  13  |          Tatanagar Junction            |        TATA        |     05:40     |     06:00     |     20:00     |       803 KM       |    2     
+  14  |          Kharagpur Junction            |        KGP         |     07:50     |     07:55     |     5:00      |       937 KM       |    2     
+  15  |               Shalimar                 |        SHM         |     09:55     |     Ends      |       -       |      1050 KM       |    2     

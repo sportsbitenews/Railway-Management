@@ -1,0 +1,35 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Chennai Egmore              |         MS         |     Start     |     17:20     |       -       |        0 KM        |    1     
+  2   |             Gummidipundi               |        GPD         |     18:28     |     18:30     |     2:00      |       52 KM        |    1     
+  3   |              Sullurupeta               |        SPE         |     18:59     |     19:00     |     1:00      |       87 KM        |    1     
+  4   |              Nayadupeta                |        NYP         |     19:24     |     19:25     |     1:00      |       115 KM       |    1     
+  5   |            Gudur Junction              |        GDR         |     20:25     |     20:27     |     2:00      |       142 KM       |    1     
+  6   |                Nellore                 |        NLR         |     20:52     |     20:53     |     1:00      |       181 KM       |    1     
+  7   |              Bitragunta                |        BTTR        |     21:19     |     21:20     |     1:00      |       214 KM       |    1     
+  8   |                Kavali                  |        KVZ         |     21:37     |     21:38     |     1:00      |       231 KM       |    1     
+  9   |            Singarayakonda              |        SKM         |     22:03     |     22:04     |     1:00      |       269 KM       |    1     
+  10  |                Ongole                  |        OGL         |     22:36     |     22:37     |     1:00      |       297 KM       |    1     
+  11  |             Chinna Ganjam              |        CJM         |     23:09     |     23:10     |     1:00      |       326 KM       |    1     
+  12  |              Vetapalemu                |        VTM         |     23:26     |     23:27     |     1:00      |       338 KM       |    1     
+  13  |                Chirala                 |        CLX         |     23:34     |     23:35     |     1:00      |       346 KM       |    1     
+  14  |                Bapatla                 |        BPP         |     23:44     |     23:45     |     1:00      |       361 KM       |    1     
+  15  |               Nidubrolu                |        NDO         |     00:04     |     00:05     |     1:00      |       381 KM       |    2     
+  16  |            Tenali Junction             |        TEL         |     00:44     |     00:45     |     1:00      |       403 KM       |    2     
+  17  |              New Guntur                |        NGNT        |     01:22     |     01:24     |     2:00      |       428 KM       |    2     
+  18  |              Mangalagiri               |        MAG         |     01:52     |     01:53     |     1:00      |       446 KM       |    2     
+  19  |          Vijayawada Junction           |        BZA         |     02:35     |     02:55     |     20:00     |       458 KM       |    2     
+  20  |           Gudivada Junction            |        GDV         |     03:59     |     04:00     |     1:00      |       502 KM       |    2     
+  21  |               Kaikolur                 |        KKLR        |     04:24     |     04:25     |     1:00      |       531 KM       |    2     
+  22  |                Akividu                 |        AKVD        |     04:54     |     04:55     |     1:00      |       548 KM       |    2     
+  23  |            Bhimavaram Town             |        BVRT        |     05:24     |     05:25     |     1:00      |       566 KM       |    2     
+  24  |                Attili                  |         AL         |     06:04     |     06:05     |     1:00      |       586 KM       |    2     
+  25  |                Tanuku                  |        TNKU        |     06:19     |     06:20     |     1:00      |       596 KM       |    2     
+  26  |          Nidadavolu Junction           |        NDD         |     06:49     |     06:50     |     1:00      |       613 KM       |    2     
+  27  |                Kovvur                  |        KVR         |     07:09     |     07:10     |     1:00      |       628 KM       |    2     
+  28  |               Godavari                 |        GVN         |     07:14     |     07:15     |     1:00      |       632 KM       |    2     
+  29  |              Rajamundry                |        RJY         |     07:25     |     07:27     |     2:00      |       636 KM       |    2     
+  30  |               Dwarapudi                |        DWP         |     07:44     |     07:45     |     1:00      |       656 KM       |    2     
+  31  |               Anaparti                 |        APT         |     07:49     |     07:50     |     1:00      |       659 KM       |    2     
+  32  |           Samalkot Junction            |        SLO         |     08:13     |     08:15     |     2:00      |       686 KM       |    2     
+  33  |             Kakinada Town              |        CCT         |     09:40     |     09:45     |     5:00      |       698 KM       |    2     
+  34  |             Kakinada Port              |        COA         |     10:10     |     Ends      |       -       |       700 KM       |    2     

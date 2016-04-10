@@ -1,0 +1,37 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Porbandar                |        PBR         |     Start     |     07:55     |       -       |        0 KM        |    1     
+  2   |              Wansjaliya                |        WSJ         |     08:29     |     08:31     |     2:00      |       34 KM        |    1     
+  3   |                Upleta                  |         UA         |     09:17     |     09:18     |     1:00      |       92 KM        |    1     
+  4   |           Jetalsar Junction            |        JLR         |     10:00     |     10:05     |     5:00      |       125 KM       |    1     
+  5   |                Gondal                  |        GDL         |     10:35     |     10:37     |     2:00      |       161 KM       |    1     
+  6   |             Bhakti Nagar               |        BKNG        |     11:30     |     11:31     |     1:00      |       196 KM       |    1     
+  7   |            Rajkot Junction             |        RJT         |     11:42     |     11:47     |     5:00      |       202 KM       |    1     
+  8   |           Viramgam Junction            |         VG         |     14:55     |     14:57     |     2:00      |       383 KM       |    1     
+  9   |          Ahmedabad Junction            |        ADI         |     16:10     |     16:30     |     20:00     |       449 KM       |    1     
+  10  |            Anand Junction              |        ANND        |     17:40     |     17:42     |     2:00      |       512 KM       |    1     
+  11  |           Vadodara Junction            |        BRC         |     18:24     |     18:29     |     5:00      |       548 KM       |    1     
+  12  |           Bharuch Junction             |         BH         |     19:16     |     19:18     |     2:00      |       618 KM       |    1     
+  13  |                 Surat                  |         ST         |     20:15     |     20:25     |     10:00     |       677 KM       |    1     
+  14  |               Nandurbar                |        NDB         |     22:50     |     22:55     |     5:00      |       837 KM       |    1     
+  15  |           Jalgaon Junction             |         JL         |     02:33     |     02:35     |     2:00      |       988 KM       |    2     
+  16  |           Bhusaval Junction            |        BSL         |     03:00     |     03:10     |     10:00     |      1012 KM       |    2     
+  17  |               Malkapur                 |        MKU         |     03:53     |     03:55     |     2:00      |      1062 KM       |    2     
+  18  |            Akola Junction              |         AK         |     04:55     |     05:00     |     5:00      |      1152 KM       |    2     
+  19  |           Badnera Junction             |         BD         |     07:12     |     07:15     |     3:00      |      1231 KM       |    2     
+  20  |            Wardha Junction             |         WR         |     08:57     |     09:00     |     3:00      |      1326 KM       |    2     
+  21  |                Nagpur                  |        NGP         |     10:50     |     11:05     |     15:00     |      1405 KM       |    2     
+  22  |            Gondia Junction             |         G          |     12:41     |     12:43     |     2:00      |      1535 KM       |    2     
+  23  |                 Durg                   |        DURG        |     14:50     |     14:55     |     5:00      |      1669 KM       |    2     
+  24  |            Raipur Junction             |         R          |     15:30     |     15:40     |     10:00     |      1705 KM       |    2     
+  25  |           Bilaspur Junction            |        BSP         |     17:30     |     17:45     |     15:00     |      1816 KM       |    2     
+  26  |                Champa                  |        CPH         |     18:28     |     18:30     |     2:00      |      1869 KM       |    2     
+  27  |          Jharsuguda Junction           |        JSG         |     20:55     |     21:00     |     5:00      |      2021 KM       |    2     
+  28  |               Rourkela                 |        ROU         |     22:25     |     22:40     |     15:00     |      2123 KM       |    2     
+  29  |             Chakradharpur              |        CKP         |     00:10     |     00:15     |     5:00      |      2224 KM       |    3     
+  30  |           Purulia Junction             |        PRR         |     02:03     |     02:05     |     2:00      |      2342 KM       |    3     
+  31  |             Adra Junction              |        ADRA        |     03:00     |     03:05     |     5:00      |      2381 KM       |    3     
+  32  |                Bankura                 |        BQA         |     03:43     |     03:45     |     2:00      |      2434 KM       |    3     
+  33  |               Bishnupur                |        VSU         |     04:06     |     04:08     |     2:00      |      2464 KM       |    3     
+  34  |               Midnapore                |        MDN         |     05:18     |     05:20     |     2:00      |      2536 KM       |    3     
+  35  |          Kharagpur Junction            |        KGP         |     06:03     |     06:05     |     2:00      |      2549 KM       |    3     
+  36  |         Santragachi Junction           |        SRC         |     08:05     |     Ends      |       -       |      2657 KM       |    3     

@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Chandigarh                |        CDG         |     Start     |     21:30     |       -       |        0 KM        |    1     
+  2   |         Ambala Cant Junction           |        UMB         |     22:35     |     22:45     |     10:00     |       68 KM        |    1     
+  3   |              Saharanpur                |        SRE         |     00:20     |     00:30     |     10:00     |       149 KM       |    2     
+  4   |                Roorkee                 |         RK         |     01:00     |     01:02     |     2:00      |       184 KM       |    2     
+  5   |               Moradabad                |         MB         |     03:55     |     04:10     |     15:00     |       342 KM       |    2     
+  6   |               Bareilly                 |         BE         |     05:45     |     05:50     |     5:00      |       432 KM       |    2     
+  7   |                Hardoi                  |        HRI         |     07:46     |     07:48     |     2:00      |       566 KM       |    2     
+  8   |              Lucknow Nr                |        LKO         |     10:00     |     10:10     |     10:00     |       667 KM       |    2     
+  9   |               Sultanpur                |        SLN         |     12:22     |     12:27     |     5:00      |       807 KM       |    2     
+  10  |             Jaunpur City               |        JOP         |     13:36     |     13:38     |     2:00      |       893 KM       |    2     
+  11  |           Varanasi Junction            |        BSB         |     15:25     |     15:40     |     15:00     |       951 KM       |    2     
+  12  |         Mughal Sarai Junction          |        MGS         |     16:45     |     16:55     |     10:00     |       967 KM       |    2     
+  13  |                 Buxar                  |        BXR         |     18:13     |     18:15     |     2:00      |      1061 KM       |    2     
+  14  |                  Ara                   |        ARA         |     19:16     |     19:18     |     2:00      |      1130 KM       |    2     
+  15  |                Danapur                 |        DNR         |     20:15     |     Ends      |       -       |      1169 KM       |    2     

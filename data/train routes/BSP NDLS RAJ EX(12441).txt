@@ -1,0 +1,10 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Bilaspur Junction            |        BSP         |     Start     |     14:00     |       -       |        0 KM        |    1     
+  2   |            Raipur Junction             |         R          |     15:30     |     15:40     |     10:00     |       111 KM       |    1     
+  3   |                 Durg                   |        DURG        |     16:30     |     16:35     |     5:00      |       147 KM       |    1     
+  4   |             Raj Nandgaon               |        RJN         |     16:56     |     16:58     |     2:00      |       177 KM       |    1     
+  5   |            Gondia Junction             |         G          |     18:22     |     18:24     |     2:00      |       281 KM       |    1     
+  6   |                Nagpur                  |        NGP         |     20:25     |     20:45     |     20:00     |       411 KM       |    1     
+  7   |           Bhopal  Junction             |        BPL         |     02:00     |     02:10     |     10:00     |       800 KM       |    2     
+  8   |            Jhansi Junction             |        JHS         |     05:26     |     05:31     |     5:00      |      1091 KM       |    2     
+  9   |               New Delhi                |        NDLS        |     10:45     |     Ends      |       -       |      1501 KM       |    2     

@@ -1,0 +1,23 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Chhindwara Junction           |        CWA         |     Start     |     10:15     |       -       |        0 KM        |    1     
+  2   |                Parasia                 |        PUX         |     10:53     |     10:55     |     2:00      |       29 KM        |    1     
+  3   |              Junnor Deo                |        JNO         |     11:24     |     11:25     |     1:00      |       48 KM        |    1     
+  4   |               Nawagaon                 |        NVG         |     11:54     |     11:55     |     1:00      |       73 KM        |    1     
+  5   |             Amla Junction              |        AMLA        |     12:35     |     12:40     |     5:00      |       116 KM       |    1     
+  6   |                 Betul                  |        BZU         |     13:01     |     13:02     |     1:00      |       138 KM       |    1     
+  7   |              Ghoradongri               |        GDYA        |     13:36     |     13:37     |     1:00      |       175 KM       |    1     
+  8   |            Itarsi Junction             |         ET         |     14:55     |     15:05     |     10:00     |       245 KM       |    1     
+  9   |              Hoshangabad               |        HBD         |     15:23     |     15:25     |     2:00      |       263 KM       |    1     
+  10  |               Habibganj                |        HBJ         |     16:33     |     16:35     |     2:00      |       331 KM       |    1     
+  11  |           Bhopal  Junction             |        BPL         |     16:55     |     17:00     |     5:00      |       337 KM       |    1     
+  12  |                Vidisha                 |        BHS         |     17:37     |     17:39     |     2:00      |       390 KM       |    1     
+  13  |              Ganj Basoda               |        BAQ         |     18:16     |     18:18     |     2:00      |       430 KM       |    1     
+  14  |             Bina Junction              |        BINA        |     20:10     |     20:15     |     5:00      |       475 KM       |    1     
+  15  |               Lalitpur                 |        LAR         |     21:07     |     21:09     |     2:00      |       538 KM       |    1     
+  16  |            Jhansi Junction             |        JHS         |     22:25     |     22:35     |     10:00     |       628 KM       |    1     
+  17  |                 Dabra                  |        DBA         |     23:13     |     23:14     |     1:00      |       683 KM       |    1     
+  18  |                Gwalior                 |        GWL         |     23:51     |     23:56     |     5:00      |       725 KM       |    1     
+  19  |              Agra Cantt                |        AGC         |     01:50     |     01:55     |     5:00      |       843 KM       |    2     
+  20  |           Mathura Junction             |        MTJ         |     02:39     |     02:42     |     3:00      |       897 KM       |    2     
+  21  |            Delhi Safdarjng             |        DSJ         |     05:34     |     05:35     |     1:00      |      1035 KM       |    2     
+  22  |            Delhi S Rohilla             |        DEE         |     06:15     |     Ends      |       -       |      1050 KM       |    2     

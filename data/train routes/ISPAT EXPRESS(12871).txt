@@ -1,0 +1,31 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Howrah Junction             |        HWH         |     Start     |     06:55     |       -       |        0 KM        |    1     
+  2   |          Kharagpur Junction            |        KGP         |     08:33     |     08:35     |     2:00      |       116 KM       |    1     
+  3   |               Jhargram                 |        JGM         |     09:09     |     09:10     |     1:00      |       154 KM       |    1     
+  4   |               Chakulia                 |        CKU         |     09:31     |     09:32     |     1:00      |       183 KM       |    1     
+  5   |               Ghatsila                 |        GTS         |     09:52     |     09:53     |     1:00      |       214 KM       |    1     
+  6   |                Galudih                 |        GUD         |     10:02     |     10:03     |     1:00      |       224 KM       |    1     
+  7   |              Rakha Mines               |        RHE         |     10:11     |     10:12     |     1:00      |       231 KM       |    1     
+  8   |          Tatanagar Junction            |        TATA        |     10:40     |     10:45     |     5:00      |       250 KM       |    1     
+  9   |             Sini Junction              |        SINI        |     11:08     |     11:09     |     1:00      |       277 KM       |    1     
+  10  |         Rajkharsawan Junction          |        RKSN        |     11:22     |     11:23     |     1:00      |       292 KM       |    1     
+  11  |             Chakradharpur              |        CKP         |     11:45     |     11:50     |     5:00      |       312 KM       |    1     
+  12  |                 Sonua                  |        SWR         |     12:04     |     12:05     |     1:00      |       333 KM       |    1     
+  13  |               Goilkera                 |        GOL         |     12:15     |     12:16     |     1:00      |       346 KM       |    1     
+  14  |              Manoharpur                |        MOU         |     12:43     |     12:44     |     1:00      |       373 KM       |    1     
+  15  |              Bondamunda                |        BNDM        |     13:08     |     13:09     |     1:00      |       406 KM       |    1     
+  16  |               Rourkela                 |        ROU         |     13:25     |     13:45     |     20:00     |       413 KM       |    1     
+  17  |              Raj Gangpur               |         GP         |     14:14     |     14:15     |     1:00      |       443 KM       |    1     
+  18  |                Garpos                  |        GPH         |     14:33     |     14:34     |     1:00      |       462 KM       |    1     
+  19  |                 Bamra                  |        BMB         |     14:49     |     14:50     |     1:00      |       478 KM       |    1     
+  20  |                Bagdihi                 |        BEH         |     15:03     |     15:04     |     1:00      |       494 KM       |    1     
+  21  |          Jharsuguda Junction           |        JSG         |     15:40     |     15:45     |     5:00      |       515 KM       |    1     
+  22  |                Rengali                 |        RGL         |     16:11     |     16:12     |     1:00      |       541 KM       |    1     
+  23  |            Sambalpur Road              |        SBPD        |     16:31     |     16:32     |     1:00      |       562 KM       |    1     
+  24  |               Sambalpur                |        SBP         |     16:45     |     16:55     |     10:00     |       563 KM       |    1     
+  25  |                Hirakud                 |        HKG         |     17:06     |     17:07     |     1:00      |       570 KM       |    1     
+  26  |             Bargarh Road               |        BRGA        |     17:35     |     17:37     |     2:00      |       606 KM       |    1     
+  27  |                Barpali                 |        BRPL        |     17:53     |     17:54     |     1:00      |       625 KM       |    1     
+  28  |               Balangir                 |        BLGR        |     18:37     |     18:42     |     5:00      |       681 KM       |    1     
+  29  |               Saintala                 |        SFC         |     19:14     |     19:15     |     1:00      |       716 KM       |    1     
+  30  |               Titlagarh                |        TIG         |     20:20     |     Ends      |       -       |       745 KM       |    1     

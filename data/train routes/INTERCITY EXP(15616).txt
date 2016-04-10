@@ -1,0 +1,9 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  2   |            Rangapara North             |        RPAN        |     05:30     |     05:55     |     25:00     |       19 KM        |    1     
+  3   |             New Misamari               |        NMM         |     06:10     |     06:11     |     1:00      |       30 KM        |    1     
+  4   |                Majbat                  |        MJBT        |     06:42     |     06:44     |     2:00      |       60 KM        |    1     
+  5   |               Udalguri                 |        ULG         |     07:08     |     07:10     |     2:00      |       81 KM        |    1     
+  6   |                Tangla                  |        TNL         |     07:37     |     07:38     |     1:00      |       104 KM       |    1     
+  7   |               GORESUAR                 |        GVR         |     08:03     |     08:05     |     2:00      |       127 KM       |    1     
+  8   |           Rangiya Junction             |        RNY         |     08:40     |     09:05     |     25:00     |       142 KM       |    1     
+  9   |               Kamakhya                 |        KYQ         |     10:00     |     Ends      |       -       |       183 KM       |    1     

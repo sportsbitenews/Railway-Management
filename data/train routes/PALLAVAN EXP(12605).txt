@@ -1,0 +1,14 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Chennai Egmore              |         MS         |     Start     |     15:45     |       -       |        0 KM        |    1     
+  2   |               Tambaram                 |        TBM         |     16:14     |     16:15     |     1:00      |       25 KM        |    1     
+  3   |             Chengalpattu               |        CGL         |     16:43     |     16:45     |     2:00      |       56 KM        |    1     
+  4   |             Melmaruvattur              |        MLMR        |     17:14     |     17:15     |     1:00      |       92 KM        |    1     
+  5   |          Villuparam Junction           |         VM         |     18:10     |     18:15     |     5:00      |       159 KM       |    1     
+  6   |         Vridhachalam Junction          |        VRI         |     18:50     |     18:52     |     2:00      |       213 KM       |    1     
+  7   |               Ariyalur                 |        ALU         |     19:31     |     19:32     |     1:00      |       267 KM       |    1     
+  8   |                Lalgudi                 |        LLI         |     20:06     |     20:07     |     1:00      |       310 KM       |    1     
+  9   |               Srirangam                |        SRGM        |     20:16     |     20:17     |     1:00      |       325 KM       |    1     
+  10  |            Ponmlai Gld Rck             |        GOC         |     20:26     |     20:27     |     1:00      |       334 KM       |    1     
+  11  |            Tiruchchirapali             |        TPJ         |     21:20     |     21:25     |     5:00      |       336 KM       |    1     
+  12  |              Pudukkottai               |        PDKT        |     22:11     |     22:12     |     1:00      |       389 KM       |    1     
+  13  |          Karaikkudi Junction           |        KKDI        |     23:25     |     Ends      |       -       |       426 KM       |    1     

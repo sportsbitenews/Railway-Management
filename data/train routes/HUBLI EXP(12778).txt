@@ -1,0 +1,23 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Kochuveli                |        KCVL        |     Start     |     12:50     |       -       |        0 KM        |    1     
+  2   |            Kollam Junction             |        QLN         |     13:38     |     13:40     |     2:00      |       59 KM        |    1     
+  3   |              Chengannur                |        CNGR        |     14:38     |     14:40     |     2:00      |       120 KM       |    1     
+  4   |               Tiruvalla                |        TRVL        |     14:49     |     14:50     |     1:00      |       129 KM       |    1     
+  5   |               Kottayam                 |        KTYM        |     15:22     |     15:25     |     3:00      |       155 KM       |    1     
+  6   |            Ernakulam Town              |        ERN         |     16:50     |     16:55     |     5:00      |       217 KM       |    1     
+  7   |                Thrisur                 |        TCR         |     17:57     |     18:00     |     3:00      |       288 KM       |    1     
+  8   |               Palakkad                 |        PGT         |     19:40     |     19:45     |     5:00      |       365 KM       |    1     
+  9   |           Podanur Junction             |        PTJ         |     20:59     |     21:00     |     1:00      |       414 KM       |    1     
+  10  |               Tiruppur                 |        TUP         |     21:43     |     21:45     |     2:00      |       457 KM       |    1     
+  11  |            Erode Junction              |         ED         |     22:45     |     22:50     |     5:00      |       507 KM       |    1     
+  12  |            Salem Junction              |         SA         |     23:40     |     23:45     |     5:00      |       570 KM       |    1     
+  13  |              Bangarapet                |        BWT         |     02:33     |     02:35     |     2:00      |       768 KM       |    2     
+  14  |          Yesvantpur Junction           |        YPR         |     04:30     |     04:40     |     10:00     |       844 KM       |    2     
+  15  |                Tumkur                  |         TK         |     05:33     |     05:35     |     2:00      |       908 KM       |    2     
+  16  |           Arsikere Junction            |        ASK         |     07:15     |     07:20     |     5:00      |      1004 KM       |    2     
+  17  |            Birur Junction              |        RRB         |     08:08     |     08:10     |     2:00      |      1049 KM       |    2     
+  18  |               Davangere                |        DVG         |     09:43     |     09:45     |     2:00      |      1164 KM       |    2     
+  19  |                Harihar                 |        HRR         |     10:08     |     10:10     |     2:00      |      1177 KM       |    2     
+  20  |              Ranibennur                |        RNR         |     10:33     |     10:35     |     2:00      |      1200 KM       |    2     
+  21  |                Haveri                  |        HVR         |     10:58     |     11:00     |     2:00      |      1232 KM       |    2     
+  22  |            Hubli Junction              |        UBL         |     12:40     |     Ends      |       -       |      1307 KM       |    2     

@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Howrah Junction             |        HWH         |     Start     |     14:35     |       -       |        0 KM        |    1     
+  2   |          Kharagpur Junction            |        KGP         |     16:15     |     16:20     |     5:00      |       116 KM       |    1     
+  3   |          Tatanagar Junction            |        TATA        |     18:10     |     18:15     |     5:00      |       250 KM       |    1     
+  4   |             Chakradharpur              |        CKP         |     19:08     |     19:15     |     7:00      |       312 KM       |    1     
+  5   |               Rourkela                 |        ROU         |     20:35     |     20:50     |     15:00     |       413 KM       |    1     
+  6   |          Jharsuguda Junction           |        JSG         |     22:18     |     22:20     |     2:00      |       515 KM       |    1     
+  7   |           Bilaspur Junction            |        BSP         |     01:10     |     01:25     |     15:00     |       720 KM       |    2     
+  8   |            Raipur Junction             |         R          |     03:00     |     03:10     |     10:00     |       831 KM       |    2     
+  9   |                 Durg                   |        DURG        |     04:05     |     04:10     |     5:00      |       867 KM       |    2     
+  10  |            Gondia Junction             |         G          |     05:55     |     06:00     |     5:00      |      1001 KM       |    2     
+  11  |                Nagpur                  |        NGP         |     08:20     |     08:30     |     10:00     |      1131 KM       |    2     
+  12  |            Akola Junction              |         AK         |     12:19     |     12:24     |     5:00      |      1384 KM       |    2     
+  13  |            Manmad Junction             |        MMR         |     16:30     |     16:35     |     5:00      |      1708 KM       |    2     
+  14  |               Kopargaon                |        KPG         |     17:49     |     17:50     |     1:00      |      1750 KM       |    2     
+  15  |            Sainagar Shirdi             |        SNSI        |     20:00     |     Ends      |       -       |      1790 KM       |    2     

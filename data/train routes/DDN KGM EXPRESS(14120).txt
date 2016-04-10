@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Dehradun                 |        DDN         |     Start     |     23:00     |       -       |        0 KM        |    1     
+  2   |           Haridwar Junction            |         HW         |     00:15     |     00:25     |     10:00     |       52 KM        |    2     
+  3   |            Laksar Junction             |        LRJ         |     00:55     |     01:00     |     5:00      |       79 KM        |    2     
+  4   |          Najibabad Junction            |        NBD         |     01:37     |     01:42     |     5:00      |       121 KM       |    2     
+  5   |               Moradabad                |         MB         |     03:25     |     03:35     |     10:00     |       219 KM       |    2     
+  6   |                Rampur                  |        RMU         |     04:10     |     04:15     |     5:00      |       246 KM       |    2     
+  7   |             Bilaspur Road              |        BLQR        |     04:36     |     04:38     |     2:00      |       273 KM       |    2     
+  8   |             Rudrapur City              |        RUPC        |     05:03     |     05:05     |     2:00      |       291 KM       |    2     
+  9   |               Lal Kuan                 |        LKU         |     06:00     |     06:10     |     10:00     |       313 KM       |    2     
+  10  |               Haldwani                 |        HDW         |     06:48     |     06:50     |     2:00      |       329 KM       |    2     
+  11  |               Kathgodam                |        KGM         |     07:10     |     Ends      |       -       |       335 KM       |    2     

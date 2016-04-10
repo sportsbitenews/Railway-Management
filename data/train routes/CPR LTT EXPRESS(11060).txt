@@ -1,0 +1,25 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Chhapra                 |        CPR         |     Start     |     05:30     |       -       |        0 KM        |    1     
+  2   |            Siwan Junction              |         SV         |     06:20     |     06:25     |     5:00      |       61 KM        |    1     
+  3   |                Mairwa                  |         MW         |     06:43     |     06:45     |     2:00      |       83 KM        |    1     
+  4   |            Bhatni Junction             |        BTT         |     07:25     |     07:50     |     25:00     |       110 KM       |    1     
+  5   |             Belthara Road              |        BLTR        |     08:16     |     08:18     |     2:00      |       143 KM       |    1     
+  6   |             Mau Junction               |        MAU         |     09:10     |     09:20     |     10:00     |       178 KM       |    1     
+  7   |             Muhammadabad               |        MMA         |     09:46     |     09:48     |     2:00      |       200 KM       |    1     
+  8   |               Azamgarh                 |        AMH         |     10:10     |     10:15     |     5:00      |       221 KM       |    1     
+  9   |               Sarai Mir                |        SMZ         |     10:53     |     10:55     |     2:00      |       247 KM       |    1     
+  10  |             Khorason Road              |        KRND        |     11:08     |     11:10     |     2:00      |       256 KM       |    1     
+  11  |           Shahganj Junction            |        SHG         |     12:00     |     12:11     |     11:00     |       278 KM       |    1     
+  12  |           Jaunpur Junction             |        JNU         |     13:02     |     13:04     |     2:00      |       311 KM       |    1     
+  13  |          Zafarabad Junction            |        ZBD         |     13:16     |     13:18     |     2:00      |       317 KM       |    1     
+  14  |                Mariahu                 |        MAY         |     13:45     |     13:47     |     2:00      |       335 KM       |    1     
+  15  |           Janghai Junction             |        JNH         |     14:31     |     14:33     |     2:00      |       365 KM       |    1     
+  16  |                Phulpur                 |        PLP         |     14:56     |     14:58     |     2:00      |       388 KM       |    1     
+  17  |          Allahabad Junction            |        ALD         |     16:40     |     17:10     |     30:00     |       425 KM       |    1     
+  18  |                 Satna                  |        STA         |     20:30     |     20:40     |     10:00     |       602 KM       |    1     
+  19  |               Jabalpur                 |        JBP         |     23:10     |     23:20     |     10:00     |       791 KM       |    1     
+  20  |            Itarsi Junction             |         ET         |     03:40     |     03:50     |     10:00     |      1037 KM       |    2     
+  21  |           Bhusaval Junction            |        BSL         |     08:00     |     08:10     |     10:00     |      1344 KM       |    2     
+  22  |            Kalyan Junction             |        KYN         |     14:47     |     14:50     |     3:00      |      1734 KM       |    2     
+  23  |                 Thane                  |        TNA         |     15:13     |     15:15     |     2:00      |      1755 KM       |    2     
+  24  |            Lokmanyatilak T             |        LTT         |     15:55     |     Ends      |       -       |      1772 KM       |    2     

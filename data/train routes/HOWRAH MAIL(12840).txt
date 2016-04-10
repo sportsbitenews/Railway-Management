@@ -1,0 +1,37 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Chennai Central             |        MAS         |     Start     |     23:45     |       -       |        0 KM        |    1     
+  2   |            Gudur Junction              |        GDR         |     01:50     |     01:52     |     2:00      |       138 KM       |    2     
+  3   |                Nellore                 |        NLR         |     02:17     |     02:18     |     1:00      |       176 KM       |    2     
+  4   |                Ongole                  |        OGL         |     03:44     |     03:45     |     1:00      |       292 KM       |    2     
+  5   |                Chirala                 |        CLX         |     04:29     |     04:31     |     2:00      |       342 KM       |    2     
+  6   |                Bapatla                 |        BPP         |     04:42     |     04:44     |     2:00      |       357 KM       |    2     
+  7   |            Tenali Junction             |        TEL         |     05:14     |     05:16     |     2:00      |       399 KM       |    2     
+  8   |          Vijayawada Junction           |        BZA         |     06:25     |     06:40     |     15:00     |       431 KM       |    2     
+  9   |                 Eluru                  |         EE         |     07:26     |     07:27     |     1:00      |       490 KM       |    2     
+  10  |            Tadepalligudem              |        TDD         |     07:59     |     08:00     |     1:00      |       538 KM       |    2     
+  11  |          Nidadavolu Junction           |        NDD         |     08:22     |     08:23     |     1:00      |       558 KM       |    2     
+  12  |              Rajamundry                |        RJY         |     09:09     |     09:14     |     5:00      |       580 KM       |    2     
+  13  |           Samalkot Junction            |        SLO         |     09:52     |     09:53     |     1:00      |       630 KM       |    2     
+  14  |               Annavaram                |        ANV         |     10:19     |     10:20     |     1:00      |       667 KM       |    2     
+  15  |                 Tuni                   |        TUNI        |     10:35     |     10:36     |     1:00      |       684 KM       |    2     
+  16  |              Anakapalle                |        AKP         |     11:21     |     11:22     |     1:00      |       747 KM       |    2     
+  17  |             Vishakapatnam              |        VSKP        |     13:05     |     13:25     |     20:00     |       781 KM       |    2     
+  18  |         Vizianagram Junction           |        VZM         |     14:25     |     14:30     |     5:00      |       842 KM       |    2     
+  19  |             Chipurupalle               |        CPP         |     14:55     |     14:57     |     2:00      |       872 KM       |    2     
+  20  |            Srikakulam Road             |        CHE         |     15:28     |     15:30     |     2:00      |       911 KM       |    2     
+  21  |           Naupada Junction             |        NWP         |     16:05     |     16:07     |     2:00      |       958 KM       |    2     
+  22  |                Palasa                  |        PSA         |     16:33     |     16:35     |     2:00      |       984 KM       |    2     
+  23  |                Sompeta                 |        SPT         |     16:58     |     17:00     |     2:00      |      1015 KM       |    2     
+  24  |              Ichchpuram                |        IPM         |     17:14     |     17:16     |     2:00      |      1033 KM       |    2     
+  25  |               Brahmapur                |        BAM         |     17:35     |     17:40     |     5:00      |      1058 KM       |    2     
+  26  |               Chatrapur                |        CAP         |     17:56     |     17:58     |     2:00      |      1079 KM       |    2     
+  27  |                Balugan                 |        BALU        |     18:43     |     18:45     |     2:00      |      1134 KM       |    2     
+  28  |         Khurda Road Junction           |        KUR         |     19:55     |     20:10     |     15:00     |      1204 KM       |    2     
+  29  |              Bhubaneswar               |        BBS         |     20:35     |     20:40     |     5:00      |      1223 KM       |    2     
+  30  |                Cuttack                 |        CTC         |     21:15     |     21:20     |     5:00      |      1251 KM       |    2     
+  31  |             Jajpur K Road              |        JJKR        |     22:15     |     22:17     |     2:00      |      1323 KM       |    2     
+  32  |               Bhadrakh                 |        BHC         |     23:22     |     23:24     |     2:00      |      1367 KM       |    2     
+  33  |               Balasore                 |        BLS         |     00:09     |     00:14     |     5:00      |      1429 KM       |    3     
+  34  |          Kharagpur Junction            |        KGP         |     01:47     |     01:52     |     5:00      |      1547 KM       |    3     
+  35  |         Santragachi Junction           |        SRC         |     03:18     |     03:20     |     2:00      |      1655 KM       |    3     
+  36  |            Howrah Junction             |        HWH         |     04:10     |     Ends      |       -       |      1662 KM       |    3     

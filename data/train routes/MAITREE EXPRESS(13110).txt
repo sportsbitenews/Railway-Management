@@ -1,0 +1,2 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  2   |                Kolkata                 |        KOAA        |     18:10     |     Ends      |       -       |       375 KM       |    1     

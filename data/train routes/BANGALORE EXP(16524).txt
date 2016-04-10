@@ -1,0 +1,27 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Karwar                  |        KAWR        |     Start     |     14:40     |       -       |        0 KM        |    1     
+  2   |                Ankola                  |        ANKL        |     15:00     |     15:01     |     1:00      |       40 KM        |    1     
+  3   |             Gokarna Road               |        GOK         |     15:11     |     15:12     |     1:00      |       51 KM        |    1     
+  4   |                 Kumta                  |         KT         |     15:30     |     15:31     |     1:00      |       78 KM        |    1     
+  5   |               Honnavar                 |        HNA         |     15:47     |     15:48     |     1:00      |       97 KM        |    1     
+  6   |              Murdeshwar                |        MRDW        |     16:19     |     16:20     |     1:00      |       134 KM       |    1     
+  7   |                Bhatkal                 |        BTJL        |     16:35     |     16:36     |     1:00      |       154 KM       |    1     
+  8   |                Byndoor                 |        BYNR        |     16:55     |     16:56     |     1:00      |       176 KM       |    1     
+  9   |               Kundapura                |        KUDA        |     17:41     |     17:42     |     1:00      |       223 KM       |    1     
+  10  |                Barkur                  |        BKJ         |     17:57     |     17:58     |     1:00      |       245 KM       |    1     
+  11  |                 Udupi                  |         UD         |     18:15     |     18:16     |     1:00      |       268 KM       |    1     
+  12  |                 Mulki                  |        MULK        |     19:01     |     19:02     |     1:00      |       314 KM       |    1     
+  13  |               Surathkal                |         SL         |     19:21     |     19:22     |     1:00      |       326 KM       |    1     
+  14  |            Mangalore Cntl              |        MAQ         |     20:10     |     20:55     |     45:00     |       355 KM       |    1     
+  15  |          Mangalore Junction            |        MAJN        |     21:09     |     21:10     |     1:00      |       360 KM       |    1     
+  16  |               Bantawala                |        BNTL        |     21:43     |     21:45     |     2:00      |       379 KM       |    1     
+  17  |             Kabakaputtur               |        KBPR        |     22:13     |     22:15     |     2:00      |       404 KM       |    1     
+  18  |            Subrahmanya Roa             |        SBHR        |     22:50     |     23:00     |     10:00     |       446 KM       |    1     
+  19  |              Sakleshpur                |        SKLR        |     01:25     |     01:35     |     10:00     |       557 KM       |    2     
+  20  |                Hassan                  |        HAS         |     02:45     |     03:00     |     15:00     |       599 KM       |    2     
+  21  |             Hole Narsipur              |        HLN         |     03:28     |     03:30     |     2:00      |       630 KM       |    2     
+  22  |            Krishanrajanaga             |        KRNR        |     04:18     |     04:20     |     2:00      |       684 KM       |    2     
+  23  |            Mysore Junction             |        MYS         |     05:15     |     05:30     |     15:00     |       719 KM       |    2     
+  24  |                Mandya                  |        MYA         |     06:08     |     06:10     |     2:00      |       764 KM       |    2     
+  25  |                Kengeri                 |        KGI         |     07:34     |     07:35     |     1:00      |       845 KM       |    2     
+  26  |         Bangalore Cy Junction          |        SBC         |     08:20     |     Ends      |       -       |       857 KM       |    2     

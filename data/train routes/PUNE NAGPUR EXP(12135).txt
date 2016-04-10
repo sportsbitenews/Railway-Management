@@ -1,0 +1,19 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Pune Junction              |        PUNE        |     Start     |     17:40     |       -       |        0 KM        |    1     
+  2   |            Daund Junction              |         DD         |     18:55     |     19:10     |     15:00     |       76 KM        |    1     
+  3   |              Ahmadnagar                |        ANG         |     20:50     |     20:55     |     5:00      |       160 KM       |    1     
+  4   |                Belapur                 |        BAP         |     21:53     |     21:55     |     2:00      |       227 KM       |    1     
+  5   |               Kopargaon                |        KPG         |     22:43     |     22:45     |     2:00      |       271 KM       |    1     
+  6   |            Manmad Junction             |        MMR         |     00:01     |     00:05     |     4:00      |       313 KM       |    2     
+  7   |          Chalisgaon Junction           |        CSN         |     00:53     |     00:55     |     2:00      |       380 KM       |    2     
+  8   |           Jalgaon Junction             |         JL         |     01:58     |     02:00     |     2:00      |       473 KM       |    2     
+  9   |           Bhusaval Junction            |        BSL         |     02:30     |     02:40     |     10:00     |       497 KM       |    2     
+  10  |               Malkapur                 |        MKU         |     03:23     |     03:25     |     2:00      |       547 KM       |    2     
+  11  |                Shegaon                 |        SEG         |     04:03     |     04:05     |     2:00      |       599 KM       |    2     
+  12  |            Akola Junction              |         AK         |     04:30     |     04:35     |     5:00      |       636 KM       |    2     
+  13  |           Badnera Junction             |         BD         |     06:20     |     06:25     |     5:00      |       715 KM       |    2     
+  14  |              Dhamangaon                |        DMN         |     07:10     |     07:12     |     2:00      |       761 KM       |    2     
+  15  |           Pulgaon Junction             |        PLO         |     07:27     |     07:29     |     2:00      |       781 KM       |    2     
+  16  |            Wardha Junction             |         WR         |     08:04     |     08:07     |     3:00      |       811 KM       |    2     
+  17  |                 Ajni                   |        AJNI        |     09:08     |     09:10     |     2:00      |       886 KM       |    2     
+  18  |                Nagpur                  |        NGP         |     09:25     |     Ends      |       -       |       889 KM       |    2     

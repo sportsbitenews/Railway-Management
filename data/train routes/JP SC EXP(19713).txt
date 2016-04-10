@@ -1,0 +1,32 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Jaipur                  |         JP         |     Start     |     21:05     |       -       |        0 KM        |    1     
+  2   |               Durgapura                |        DPA         |     21:12     |     21:14     |     2:00      |        8 KM        |    1     
+  3   |            Bansthali Niwai             |        BNLW        |     21:56     |     21:58     |     2:00      |       66 KM        |    1     
+  4   |            Sawai Madhopur              |        SWM         |     23:05     |     23:15     |     10:00     |       132 KM       |    1     
+  5   |             Kota Junction              |        KOTA        |     00:25     |     00:35     |     10:00     |       240 KM       |    2     
+  6   |             Ramganj Mandi              |        RMA         |     01:38     |     01:40     |     2:00      |       312 KM       |    2     
+  7   |            Nagda Junction              |        NAD         |     03:55     |     04:20     |     25:00     |       465 KM       |    2     
+  8   |            Ujjain Junction             |        UJN         |     05:15     |     05:25     |     10:00     |       519 KM       |    2     
+  9   |                Berchha                 |        BCH         |     06:10     |     06:12     |     2:00      |       580 KM       |    2     
+  10  |               Shujalpur                |        SJP         |     06:50     |     06:52     |     2:00      |       623 KM       |    2     
+  11  |                Sehore                  |        SEH         |     07:25     |     07:27     |     2:00      |       664 KM       |    2     
+  12  |           Bhopal  Junction             |        BPL         |     09:30     |     09:35     |     5:00      |       703 KM       |    2     
+  13  |               Habibganj                |        HBJ         |     09:45     |     09:47     |     2:00      |       709 KM       |    2     
+  14  |            Itarsi Junction             |         ET         |     12:00     |     12:10     |     10:00     |       795 KM       |    2     
+  15  |                 Betul                  |        BZU         |     13:53     |     13:55     |     2:00      |       901 KM       |    2     
+  16  |             Amla Junction              |        AMLA        |     14:24     |     14:26     |     2:00      |       924 KM       |    2     
+  17  |                Narkher                 |        NRKR        |     15:48     |     15:50     |     2:00      |      1006 KM       |    2     
+  18  |             Chandur Bazar              |        CNDB        |     17:30     |     17:32     |     2:00      |      1102 KM       |    2     
+  19  |              New Amravat               |        NAVI        |     18:07     |     18:10     |     3:00      |      1138 KM       |    2     
+  20  |           Badnera Junction             |         BD         |     18:32     |     18:35     |     3:00      |      1144 KM       |    2     
+  21  |              Murtajapur                |        MZR         |     19:03     |     19:05     |     2:00      |      1185 KM       |    2     
+  22  |            Akola Junction              |         AK         |     20:00     |     20:10     |     10:00     |      1223 KM       |    2     
+  23  |                Washim                  |        WHM         |     21:14     |     21:15     |     1:00      |      1302 KM       |    2     
+  24  |            Hingoli Deccan              |        HNL         |     21:59     |     22:00     |     1:00      |      1350 KM       |    2     
+  25  |            Purna Junction              |        PAU         |     23:30     |     23:40     |     10:00     |      1430 KM       |    2     
+  26  |                Nanded                  |        NED         |     00:25     |     00:30     |     5:00      |      1461 KM       |    3     
+  27  |                Mudkhed                 |        MUE         |     01:23     |     01:25     |     2:00      |      1483 KM       |    3     
+  28  |               Nizamabad                |        NZB         |     03:15     |     03:20     |     5:00      |      1571 KM       |    3     
+  29  |               Kamareddi                |        KMC         |     04:05     |     04:06     |     1:00      |      1623 KM       |    3     
+  30  |                Medchal                 |        MED         |     05:55     |     05:56     |     1:00      |      1704 KM       |    3     
+  31  |         Secunderabad Junction          |         SC         |     07:30     |     Ends      |       -       |      1732 KM       |    3     

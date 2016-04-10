@@ -1,0 +1,14 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Howrah Junction             |        HWH         |     Start     |     15:50     |       -       |        0 KM        |    1     
+  2   |          Barddhaman Junction           |        BWN         |     17:04     |     17:06     |     2:00      |       95 KM        |    1     
+  3   |            Bolpur S Niktn              |        BHP         |     17:53     |     17:58     |     5:00      |       146 KM       |    1     
+  4   |              Rampur Hat                |        RPH         |     18:57     |     18:59     |     2:00      |       207 KM       |    1     
+  5   |         New Farakka Junction           |        NFK         |     20:43     |     20:45     |     2:00      |       293 KM       |    1     
+  6   |              Malda Town                |        MLDT        |     21:30     |     21:45     |     15:00     |       328 KM       |    1     
+  7   |              Kishanganj                |        KNE         |     23:35     |     23:37     |     2:00      |       473 KM       |    1     
+  8   |            New Jalpaiguri              |        NJP         |     01:40     |     02:00     |     20:00     |       561 KM       |    2     
+  9   |            New Cooch Behar             |        NCB         |     04:15     |     04:17     |     2:00      |       687 KM       |    2     
+  10  |            New Alipurdaur              |        NOQ         |     04:35     |     04:37     |     2:00      |       705 KM       |    2     
+  11  |            New Bongaigaon              |        NBQ         |     06:25     |     06:27     |     2:00      |       812 KM       |    2     
+  12  |               Kamakhya                 |        KYQ         |     09:12     |     09:14     |     2:00      |      1014 KM       |    2     
+  13  |               Guwahati                 |        GHY         |     09:35     |     Ends      |       -       |      1020 KM       |    2     

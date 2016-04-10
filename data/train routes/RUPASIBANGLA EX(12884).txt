@@ -1,0 +1,14 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Purulia Junction             |        PRR         |     Start     |     15:35     |       -       |        0 KM        |    1     
+  2   |                 Anara                  |        ANR         |     15:58     |     15:59     |     1:00      |       26 KM        |    1     
+  3   |             Adra Junction              |        ADRA        |     16:20     |     16:24     |     4:00      |       40 KM        |    1     
+  4   |                Chhatna                 |        CJN         |     16:51     |     16:52     |     1:00      |       79 KM        |    1     
+  5   |                Bankura                 |        BQA         |     17:03     |     17:05     |     2:00      |       93 KM        |    1     
+  6   |               Bishnupur                |        VSU         |     17:27     |     17:28     |     1:00      |       123 KM       |    1     
+  7   |               Garhbeta                 |        GBA         |     17:46     |     17:47     |     1:00      |       148 KM       |    1     
+  8   |           Chandrakona Road             |        CDGR        |     17:56     |     17:57     |     1:00      |       160 KM       |    1     
+  9   |                Salboni                 |        SLB         |     18:05     |     18:06     |     1:00      |       171 KM       |    1     
+  10  |               Midnapore                |        MDN         |     18:36     |     18:40     |     4:00      |       195 KM       |    1     
+  11  |          Kharagpur Junction            |        KGP         |     19:13     |     19:15     |     2:00      |       218 KM       |    1     
+  12  |         Santragachi Junction           |        SRC         |     20:34     |     20:36     |     2:00      |       326 KM       |    1     
+  13  |            Howrah Junction             |        HWH         |     21:15     |     Ends      |       -       |       333 KM       |    1     

@@ -1,0 +1,20 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Bhatinda Junction            |        BTI         |     Start     |     06:55     |       -       |        0 KM        |    1     
+  2   |                 Raman                  |        RMN         |     07:21     |     07:23     |     2:00      |       29 KM        |    1     
+  3   |               Kalanwali                |        KNL         |     07:40     |     07:42     |     2:00      |       43 KM        |    1     
+  4   |                 Sirsa                  |        SSA         |     08:10     |     08:13     |     3:00      |       76 KM        |    1     
+  5   |                 DING                   |        DING        |     08:32     |     08:34     |     2:00      |       101 KM       |    1     
+  6   |                Bhattu                  |        BHT         |     08:45     |     08:47     |     2:00      |       112 KM       |    1     
+  7   |             Mandi Adampur              |        ADR         |     09:02     |     09:04     |     2:00      |       129 KM       |    1     
+  8   |                 Hisar                  |        HSR         |     09:30     |     09:35     |     5:00      |       158 KM       |    1     
+  9   |                Satrod                  |        STD         |     09:45     |     09:47     |     2:00      |       168 KM       |    1     
+  10  |                 Hansi                  |        HNS         |     09:59     |     10:01     |     2:00      |       181 KM       |    1     
+  11  |                Bhiwani                 |        BNW         |     11:00     |     11:25     |     25:00     |       218 KM       |    1     
+  12  |            Kalanaur Kalan              |        KLNK        |     11:51     |     11:53     |     2:00      |       247 KM       |    1     
+  13  |            Rohtak Junction             |        ROK         |     12:30     |     12:35     |     5:00      |       267 KM       |    1     
+  14  |                Sampla                  |        SPZ         |     12:52     |     12:54     |     2:00      |       289 KM       |    1     
+  15  |              Bahadurgarh               |        BGZ         |     13:08     |     13:10     |     2:00      |       307 KM       |    1     
+  16  |                Nangloi                 |        NNO         |     13:22     |     13:24     |     2:00      |       320 KM       |    1     
+  17  |              Shakurbasti               |        SSB         |     13:36     |     13:38     |     2:00      |       327 KM       |    1     
+  18  |            Delhi Kishangnj             |        DKZ         |     13:50     |     13:52     |     2:00      |       334 KM       |    1     
+  19  |                 Delhi                  |        DLI         |     14:15     |     Ends      |       -       |       337 KM       |    1     

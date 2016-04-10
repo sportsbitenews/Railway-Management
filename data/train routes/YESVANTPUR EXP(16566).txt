@@ -1,0 +1,21 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Mangalore Cntl              |        MAQ         |     Start     |     20:00     |       -       |        0 KM        |    1     
+  2   |               Kasaragod                |        KGQ         |     20:39     |     20:40     |     1:00      |       46 KM        |    1     
+  3   |               Kanhangad                |        KZE         |     20:59     |     21:00     |     1:00      |       69 KM        |    1     
+  4   |               Payyanur                 |        PAY         |     21:24     |     21:25     |     1:00      |       98 KM        |    1     
+  5   |                Kannur                  |        CAN         |     22:05     |     22:10     |     5:00      |       132 KM       |    1     
+  6   |              Thalassery                |        TLY         |     22:29     |     22:30     |     1:00      |       153 KM       |    1     
+  7   |               Vadakara                 |        BDJ         |     22:49     |     22:50     |     1:00      |       175 KM       |    1     
+  8   |               Kozhikode                |        CLT         |     23:35     |     23:40     |     5:00      |       221 KM       |    1     
+  9   |                 Tirur                  |        TIR         |     00:24     |     00:25     |     1:00      |       262 KM       |    2     
+  10  |           Shoranur Junction            |        SRR         |     01:25     |     01:35     |     10:00     |       307 KM       |    2     
+  11  |               Palakkad                 |        PGT         |     02:30     |     02:35     |     5:00      |       351 KM       |    2     
+  12  |          Coimbatore Junction           |        CBE         |     04:05     |     04:10     |     5:00      |       406 KM       |    2     
+  13  |               Tiruppur                 |        TUP         |     04:53     |     04:55     |     2:00      |       456 KM       |    2     
+  14  |            Erode Junction              |         ED         |     05:45     |     05:50     |     5:00      |       506 KM       |    2     
+  15  |            Salem Junction              |         SA         |     06:40     |     06:45     |     5:00      |       569 KM       |    2     
+  16  |                Kuppam                  |        KPN         |     09:39     |     09:40     |     1:00      |       733 KM       |    2     
+  17  |              Bangarapet                |        BWT         |     10:18     |     10:20     |     2:00      |       767 KM       |    2     
+  18  |            Krishnarajapurm             |        KJM         |     11:13     |     11:15     |     2:00      |       823 KM       |    2     
+  19  |               Banaswadi                |        BAND        |     12:08     |     12:10     |     2:00      |       831 KM       |    2     
+  20  |          Yesvantpur Junction           |        YPR         |     13:30     |     Ends      |       -       |       846 KM       |    2     

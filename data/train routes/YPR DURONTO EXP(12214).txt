@@ -1,0 +1,3 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Delhi S Rohilla             |        DEE         |     Start     |     23:00     |       -       |        0 KM        |    1     
+  2   |          Yesvantpur Junction           |        YPR         |     07:55     |     Ends      |       -       |      2367 KM       |    3     

@@ -1,0 +1,11 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Mumbai Central              |        BCT         |     Start     |     14:20     |       -       |        0 KM        |    1     
+  2   |               Borivali                 |        BVI         |     14:58     |     15:00     |     2:00      |       30 KM        |    1     
+  3   |                 Vapi                   |        VAPI        |     16:28     |     16:30     |     2:00      |       170 KM       |    1     
+  4   |                Valsad                  |         BL         |     16:54     |     16:56     |     2:00      |       194 KM       |    1     
+  5   |                 Surat                  |         ST         |     17:55     |     18:00     |     5:00      |       263 KM       |    1     
+  6   |           Bharuch Junction             |         BH         |     18:38     |     18:40     |     2:00      |       322 KM       |    1     
+  7   |           Vadodara Junction            |        BRC         |     19:35     |     19:40     |     5:00      |       392 KM       |    1     
+  8   |            Anand Junction              |        ANND        |     20:09     |     20:11     |     2:00      |       427 KM       |    1     
+  9   |            Nadiad Junction             |         ND         |     20:26     |     20:28     |     2:00      |       446 KM       |    1     
+  10  |          Ahmedabad Junction            |        ADI         |     21:40     |     Ends      |       -       |       491 KM       |    1     

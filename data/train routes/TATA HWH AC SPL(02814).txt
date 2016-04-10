@@ -1,0 +1,8 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Tatanagar Junction            |        TATA        |     Start     |     06:55     |       -       |        0 KM        |    1     
+  2   |               Ghatsila                 |        GTS         |     07:27     |     07:29     |     2:00      |       37 KM        |    1     
+  3   |               Chakulia                 |        CKU         |     07:50     |     07:52     |     2:00      |       67 KM        |    1     
+  4   |               Jhargram                 |        JGM         |     08:13     |     08:15     |     2:00      |       96 KM        |    1     
+  5   |          Kharagpur Junction            |        KGP         |     08:58     |     09:00     |     2:00      |       135 KM       |    1     
+  6   |         Santragachi Junction           |        SRC         |     10:32     |     10:34     |     2:00      |       242 KM       |    1     
+  7   |            Howrah Junction             |        HWH         |     11:10     |     Ends      |       -       |       250 KM       |    1     

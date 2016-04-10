@@ -1,0 +1,11 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Jodhpur Junction             |         JU         |     Start     |     18:05     |       -       |        0 KM        |    1     
+  2   |              Raika Bagh                |        RKB         |     18:11     |     18:13     |     2:00      |        3 KM        |    1     
+  3   |                 Gotan                  |        GOTN        |     19:06     |     19:08     |     2:00      |       84 KM        |    1     
+  4   |          Merta Road Junction           |        MTD         |     19:28     |     19:30     |     2:00      |       105 KM       |    1     
+  5   |            Degana Junction             |        DNA         |     20:05     |     20:07     |     2:00      |       149 KM       |    1     
+  6   |           Makrana Junction             |        MKN         |     20:37     |     20:39     |     2:00      |       193 KM       |    1     
+  7   |             Kuchaman City              |        KMNC        |     20:53     |     20:55     |     2:00      |       207 KM       |    1     
+  8   |               Nawa City                |        NAC         |     21:09     |     21:11     |     2:00      |       223 KM       |    1     
+  9   |           Phulera Junction             |         FL         |     21:48     |     21:50     |     2:00      |       258 KM       |    1     
+  10  |                Jaipur                  |         JP         |     22:50     |     Ends      |       -       |       313 KM       |    1     

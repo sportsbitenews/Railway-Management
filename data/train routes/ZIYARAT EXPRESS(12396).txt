@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Ajmer Junction              |        AII         |     Start     |     23:55     |       -       |        0 KM        |    1     
+  2   |                Jaipur                  |         JP         |     02:25     |     02:40     |     15:00     |       135 KM       |    2     
+  3   |               Durgapura                |        DPA         |     02:49     |     02:51     |     2:00      |       142 KM       |    2     
+  4   |            Sawai Madhopur              |        SWM         |     04:50     |     05:00     |     10:00     |       266 KM       |    2     
+  5   |               Agra Fort                |         AF         |     08:45     |     08:55     |     10:00     |       492 KM       |    2     
+  6   |            Tundla Junction             |        TDL         |     10:05     |     10:10     |     5:00      |       514 KM       |    2     
+  7   |               Firozabad                |        FZD         |     10:25     |     10:27     |     2:00      |       531 KM       |    2     
+  8   |            Kanpur Central              |        CNB         |     13:30     |     13:40     |     10:00     |       744 KM       |    2     
+  9   |          Allahabad Junction            |        ALD         |     16:35     |     16:45     |     10:00     |       938 KM       |    2     
+  10  |         Mughal Sarai Junction          |        MGS         |     19:25     |     19:40     |     15:00     |      1091 KM       |    2     
+  11  |                  Ara                   |        ARA         |     21:36     |     21:38     |     2:00      |      1253 KM       |    2     
+  12  |                Danapur                 |        DNR         |     22:10     |     22:12     |     2:00      |      1293 KM       |    2     
+  13  |            Patna Junction              |        PNBE        |     22:35     |     22:45     |     10:00     |      1302 KM       |    2     
+  14  |            Rjndr Ngr Bihar             |        RJPB        |     23:05     |     Ends      |       -       |      1305 KM       |    2     

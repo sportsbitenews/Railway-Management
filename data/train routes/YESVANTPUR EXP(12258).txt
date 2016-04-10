@@ -1,0 +1,39 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Kochuveli                |        KCVL        |     Start     |     17:00     |       -       |        0 KM        |    1     
+  1   |               Kochuveli                |        KCVL        |     Start     |     17:00     |       -       |        0 KM        |    1     
+  2   |            Kollam Junction             |        QLN         |     17:53     |     17:58     |     5:00      |       59 KM        |    1     
+  2   |            Kollam Junction             |        QLN         |     17:53     |     17:58     |     5:00      |       59 KM        |    1     
+  3   |          Kayankulam Junction           |        KYJ         |     18:34     |     18:36     |     2:00      |       100 KM       |    1     
+  3   |          Kayankulam Junction           |        KYJ         |     18:34     |     18:36     |     2:00      |       100 KM       |    1     
+  4   |              Mavelikara                |        MVLK        |     18:44     |     18:45     |     1:00      |       107 KM       |    1     
+  4   |              Mavelikara                |        MVLK        |     18:44     |     18:45     |     1:00      |       107 KM       |    1     
+  5   |              Chengannur                |        CNGR        |     19:01     |     19:02     |     1:00      |       120 KM       |    1     
+  5   |              Chengannur                |        CNGR        |     19:01     |     19:02     |     1:00      |       120 KM       |    1     
+  6   |               Tiruvalla                |        TRVL        |     19:11     |     19:12     |     1:00      |       129 KM       |    1     
+  6   |               Tiruvalla                |        TRVL        |     19:11     |     19:12     |     1:00      |       129 KM       |    1     
+  7   |             Changanaseri               |        CGY         |     19:19     |     19:20     |     1:00      |       137 KM       |    1     
+  7   |             Changanaseri               |        CGY         |     19:19     |     19:20     |     1:00      |       137 KM       |    1     
+  8   |               Kottayam                 |        KTYM        |     19:52     |     19:55     |     3:00      |       155 KM       |    1     
+  8   |               Kottayam                 |        KTYM        |     19:52     |     19:55     |     3:00      |       155 KM       |    1     
+  9   |            Ernakulam Town              |        ERN         |     21:05     |     21:10     |     5:00      |       217 KM       |    1     
+  9   |            Ernakulam Town              |        ERN         |     21:05     |     21:10     |     5:00      |       217 KM       |    1     
+  10  |                 Aluva                  |        AWY         |     21:29     |     21:31     |     2:00      |       234 KM       |    1     
+  10  |                 Aluva                  |        AWY         |     21:29     |     21:31     |     2:00      |       234 KM       |    1     
+  11  |                Thrisur                 |        TCR         |     22:17     |     22:20     |     3:00      |       288 KM       |    1     
+  11  |                Thrisur                 |        TCR         |     22:17     |     22:20     |     3:00      |       288 KM       |    1     
+  12  |               Palakkad                 |        PGT         |     00:10     |     00:15     |     5:00      |       365 KM       |    2     
+  12  |               Palakkad                 |        PGT         |     00:10     |     00:15     |     5:00      |       365 KM       |    2     
+  13  |          Coimbatore Junction           |        CBE         |     01:37     |     01:40     |     3:00      |       420 KM       |    2     
+  13  |          Coimbatore Junction           |        CBE         |     01:37     |     01:40     |     3:00      |       420 KM       |    2     
+  14  |            Erode Junction              |         ED         |     03:10     |     03:15     |     5:00      |       520 KM       |    2     
+  14  |            Erode Junction              |         ED         |     03:10     |     03:15     |     5:00      |       520 KM       |    2     
+  15  |            Salem Junction              |         SA         |     04:12     |     04:15     |     3:00      |       583 KM       |    2     
+  15  |            Salem Junction              |         SA         |     04:12     |     04:15     |     3:00      |       583 KM       |    2     
+  16  |              Dharmapuri                |        DPJ         |     05:58     |     06:00     |     2:00      |       649 KM       |    2     
+  16  |              Dharmapuri                |        DPJ         |     05:58     |     06:00     |     2:00      |       649 KM       |    2     
+  17  |                 Hosur                  |        HSRA        |     07:28     |     07:30     |     2:00      |       741 KM       |    2     
+  17  |                 Hosur                  |        HSRA        |     07:28     |     07:30     |     2:00      |       741 KM       |    2     
+  18  |               Banaswadi                |        BAND        |     08:28     |     08:30     |     2:00      |       793 KM       |    2     
+  18  |               Banaswadi                |        BAND        |     08:28     |     08:30     |     2:00      |       793 KM       |    2     
+  19  |          Yesvantpur Junction           |        YPR         |     09:30     |     Ends      |       -       |       808 KM       |    2     
+  19  |          Yesvantpur Junction           |        YPR         |     09:30     |     Ends      |       -       |       808 KM       |    2     

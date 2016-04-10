@@ -1,0 +1,31 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Rayagada                 |        RGDA        |     Start     |     14:30     |       -       |        0 KM        |    1     
+  2   |            Singapuram Road             |        SPRD        |     14:45     |     14:47     |     2:00      |       10 KM        |    1     
+  3   |               Therubali                |        THV         |     14:58     |     15:00     |     2:00      |       19 KM        |    1     
+  4   |             Bissamcuttack              |        BMCK        |     15:20     |     15:22     |     2:00      |       37 KM        |    1     
+  5   |               Muniguda                 |        MNGD        |     15:38     |     15:40     |     2:00      |       54 KM        |    1     
+  6   |               Ambodala                 |        AMB         |     16:00     |     16:02     |     2:00      |       79 KM        |    1     
+  7   |            Lanjigarh Road              |        LJR         |     16:15     |     16:17     |     2:00      |       93 KM        |    1     
+  8   |              Norla Road                |        NRLR        |     16:26     |     16:28     |     2:00      |       104 KM       |    1     
+  9   |              Rupra Road                |        RPRD        |     16:35     |     16:37     |     2:00      |       111 KM       |    1     
+  10  |                Kesinga                 |        KSNG        |     16:50     |     16:52     |     2:00      |       127 KM       |    1     
+  11  |               Titlagarh                |        TIG         |     17:15     |     17:25     |     10:00     |       140 KM       |    1     
+  12  |                Badmal                  |        BUDM        |     17:43     |     17:45     |     2:00      |       160 KM       |    1     
+  13  |               Saintala                 |        SFC         |     17:53     |     17:55     |     2:00      |       169 KM       |    1     
+  14  |               Balangir                 |        BLGR        |     18:20     |     18:25     |     5:00      |       204 KM       |    1     
+  15  |               Loisingha                |        LSX         |     18:36     |     18:37     |     1:00      |       222 KM       |    1     
+  16  |                Barpali                 |        BRPL        |     19:26     |     19:27     |     1:00      |       260 KM       |    1     
+  17  |             Bargarh Road               |        BRGA        |     19:42     |     19:47     |     5:00      |       279 KM       |    1     
+  18  |               Attabira                 |        ATS         |     20:01     |     20:02     |     1:00      |       297 KM       |    1     
+  19  |                Hirakud                 |        HKG         |     20:23     |     20:25     |     2:00      |       315 KM       |    1     
+  20  |               Sambalpur                |        SBP         |     20:45     |     Ends      |       -       |       322 KM       |    1     
+  21  |            Sambalpur Road              |        SBPD        |     22:40     |     22:42     |     2:00      |       323 KM       |    1     
+  22  |               Rairakhol                |        RAIR        |     23:38     |     23:40     |     2:00      |       393 KM       |    1     
+  23  |                Boinda                  |        BONA        |     00:25     |     00:27     |     2:00      |       439 KM       |    2     
+  24  |                 Angul                  |        ANGL        |     01:25     |     01:30     |     5:00      |       478 KM       |    2     
+  25  |                Talcher                 |        TLHR        |     01:55     |     02:20     |     25:00     |       496 KM       |    2     
+  26  |               Dhenkanal                |        DNKL        |     03:14     |     03:15     |     1:00      |       548 KM       |    2     
+  27  |                Cuttack                 |        CTC         |     04:45     |     04:50     |     5:00      |       605 KM       |    2     
+  28  |              Bhubaneswar               |        BBS         |     05:35     |     05:40     |     5:00      |       633 KM       |    2     
+  29  |         Khurda Road Junction           |        KUR         |     06:05     |     06:10     |     5:00      |       652 KM       |    2     
+  30  |                 Puri                   |        PURI        |     07:25     |     Ends      |       -       |       695 KM       |    2     

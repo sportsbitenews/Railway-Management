@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Kamakhya                 |        KYQ         |     Start     |     20:10     |       -       |        0 KM        |    1     
+  2   |            New Bongaigaon              |        NBQ         |     23:00     |     23:05     |     5:00      |       202 KM       |    1     
+  3   |            New Jalpaiguri              |        NJP         |     02:35     |     02:45     |     10:00     |       454 KM       |    2     
+  4   |              Kishanganj                |        KNE         |     03:50     |     03:52     |     2:00      |       541 KM       |    2     
+  5   |              Malda Town                |        MLDT        |     06:40     |     06:50     |     10:00     |       686 KM       |    2     
+  6   |              Rampur Hat                |        RPH         |     09:10     |     09:12     |     2:00      |       807 KM       |    2     
+  7   |            Howrah Junction             |        HWH         |     12:20     |     12:40     |     20:00     |      1014 KM       |    2     
+  8   |          Kharagpur Junction            |        KGP         |     14:25     |     14:27     |     2:00      |      1129 KM       |    2     
+  9   |              Bhubaneswar               |        BBS         |     19:10     |     19:15     |     5:00      |      1453 KM       |    2     
+  10  |         Khurda Road Junction           |        KUR         |     19:50     |     20:00     |     10:00     |      1472 KM       |    2     
+  11  |         Vizianagram Junction           |        VZM         |     00:50     |     01:00     |     10:00     |      1834 KM       |    3     
+  12  |          Vijayawada Junction           |        BZA         |     07:50     |     08:00     |     10:00     |      2232 KM       |    3     
+  13  |            Chennai Central             |        MAS         |     14:50     |     15:15     |     25:00     |      2662 KM       |    3     
+  14  |           Katpadi Junction             |        KPD         |     17:15     |     17:17     |     2:00      |      2792 KM       |    3     
+  15  |            Bangalore Cant              |        BNC         |     21:15     |     Ends      |       -       |      3019 KM       |    3     

@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Mumbai Cst                |        CSTM        |     Start     |     13:30     |       -       |        0 KM        |    1     
+  2   |                 Dadar                  |         DR         |     13:43     |     13:45     |     2:00      |        9 KM        |    1     
+  3   |            Kalyan Junction             |        KYN         |     14:22     |     14:25     |     3:00      |       54 KM        |    1     
+  4   |               Igatpuri                 |        IGP         |     16:03     |     16:05     |     2:00      |       137 KM       |    1     
+  5   |              Nasik Road                |         NK         |     16:55     |     17:00     |     5:00      |       188 KM       |    1     
+  6   |            Manmad Junction             |        MMR         |     17:47     |     17:50     |     3:00      |       261 KM       |    1     
+  7   |           Jalgaon Junction             |         JL         |     19:28     |     19:30     |     2:00      |       420 KM       |    1     
+  8   |           Bhusaval Junction            |        BSL         |     19:55     |     20:10     |     15:00     |       445 KM       |    1     
+  9   |                Khandwa                 |        KNW         |     23:15     |     23:20     |     5:00      |       568 KM       |    1     
+  10  |                 Harda                  |         HD         |     00:33     |     00:35     |     2:00      |       676 KM       |    2     
+  11  |            Itarsi Junction             |         ET         |     02:00     |     02:10     |     10:00     |       752 KM       |    2     
+  12  |               Pipariya                 |        PPI         |     03:03     |     03:05     |     2:00      |       819 KM       |    2     
+  13  |               Gadarwara                |        GAR         |     03:28     |     03:30     |     2:00      |       868 KM       |    2     
+  14  |              Narsinghpur               |         NU         |     04:17     |     04:19     |     2:00      |       913 KM       |    2     
+  15  |               Jabalpur                 |        JBP         |     06:00     |     Ends      |       -       |       997 KM       |    2     

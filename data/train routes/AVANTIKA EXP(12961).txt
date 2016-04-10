@@ -1,0 +1,20 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Mumbai Central              |        BCT         |     Start     |     19:10     |       -       |        0 KM        |    1     
+  2   |               Borivali                 |        BVI         |     19:49     |     19:51     |     2:00      |       30 KM        |    1     
+  3   |                Valsad                  |         BL         |     22:03     |     22:05     |     2:00      |       194 KM       |    1     
+  4   |                Navsari                 |        NVS         |     22:37     |     22:39     |     2:00      |       233 KM       |    1     
+  5   |                 Surat                  |         ST         |     23:10     |     23:15     |     5:00      |       263 KM       |    1     
+  6   |          Ankleshwar Junction           |        AKV         |     23:51     |     23:53     |     2:00      |       312 KM       |    1     
+  7   |           Bharuch Junction             |         BH         |     00:01     |     00:03     |     2:00      |       322 KM       |    2     
+  8   |           Vadodara Junction            |        BRC         |     01:01     |     01:11     |     10:00     |       392 KM       |    2     
+  9   |            Godhra Junction             |        GDA         |     02:28     |     02:30     |     2:00      |       465 KM       |    2     
+  10  |                 Dahod                  |        DHD         |     03:25     |     03:27     |     2:00      |       540 KM       |    2     
+  11  |               Meghnagar                |        MGN         |     03:49     |     03:51     |     2:00      |       573 KM       |    2     
+  12  |             Thandla Road               |        THDR        |     03:58     |     04:00     |     2:00      |       581 KM       |    2     
+  13  |                Bamnia                  |        BMI         |     04:23     |     04:25     |     2:00      |       608 KM       |    2     
+  14  |            Ratlam Junction             |        RTM         |     05:25     |     05:35     |     10:00     |       653 KM       |    2     
+  15  |               Khachrod                 |        KUH         |     05:59     |     06:01     |     2:00      |       681 KM       |    2     
+  16  |            Nagda Junction              |        NAD         |     06:22     |     06:24     |     2:00      |       695 KM       |    2     
+  17  |            Ujjain Junction             |        UJN         |     07:20     |     07:35     |     15:00     |       750 KM       |    2     
+  18  |                 Dewas                  |        DWX         |     08:19     |     08:27     |     8:00      |       790 KM       |    2     
+  19  |          Indore Junction Bg            |        INDB        |     09:15     |     Ends      |       -       |       829 KM       |    2     

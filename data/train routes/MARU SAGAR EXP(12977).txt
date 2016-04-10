@@ -1,0 +1,32 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Eranakulam Junction           |        ERS         |     Start     |     20:05     |       -       |        0 KM        |    1     
+  2   |                 Aluva                  |        AWY         |     20:23     |     20:25     |     2:00      |       20 KM        |    1     
+  3   |                Thrisur                 |        TCR         |     21:17     |     21:20     |     3:00      |       75 KM        |    1     
+  4   |           Shoranur Junction            |        SRR         |     22:20     |     22:30     |     10:00     |       107 KM       |    1     
+  5   |                 Tirur                  |        TIR         |     23:23     |     23:25     |     2:00      |       152 KM       |    1     
+  6   |               Kozhikode                |        CLT         |     00:15     |     00:20     |     5:00      |       193 KM       |    2     
+  7   |                Kannur                  |        CAN         |     01:50     |     01:55     |     5:00      |       283 KM       |    2     
+  8   |               Kasaragod                |        KGQ         |     03:08     |     03:10     |     2:00      |       368 KM       |    2     
+  9   |          Mangalore Junction            |        MAJN        |     04:35     |     04:45     |     10:00     |       419 KM       |    2     
+  10  |                 Udupi                  |         UD         |     06:20     |     06:22     |     2:00      |       501 KM       |    2     
+  11  |               Kundapura                |        KUDA        |     06:48     |     06:50     |     2:00      |       545 KM       |    2     
+  12  |                Bhatkal                 |        BTJL        |     07:33     |     07:35     |     2:00      |       614 KM       |    2     
+  13  |             Gokarna Road               |        GOK         |     08:40     |     08:42     |     2:00      |       718 KM       |    2     
+  14  |                Karwar                  |        KAWR        |     09:28     |     09:30     |     2:00      |       768 KM       |    2     
+  15  |                Madgaon                 |        MAO         |     11:10     |     11:20     |     10:00     |       850 KM       |    2     
+  16  |                Thivim                  |        THVM        |     12:08     |     12:10     |     2:00      |       914 KM       |    2     
+  17  |               Ratnagiri                |         RN         |     15:05     |     15:10     |     5:00      |      1184 KM       |    2     
+  18  |                 Veer                   |        VEER        |     17:23     |     17:25     |     2:00      |      1404 KM       |    2     
+  19  |                Panvel                  |        PNVL        |     19:50     |     19:55     |     5:00      |      1547 KM       |    2     
+  20  |              Vasai Road                |        BSR         |     21:15     |     21:20     |     5:00      |      1614 KM       |    2     
+  21  |                 Vapi                   |        VAPI        |     22:49     |     22:51     |     2:00      |      1736 KM       |    2     
+  22  |                 Surat                  |         ST         |     00:15     |     00:20     |     5:00      |      1829 KM       |    3     
+  23  |           Vadodara Junction            |        BRC         |     02:03     |     02:13     |     10:00     |      1958 KM       |    3     
+  24  |            Ratlam Junction             |        RTM         |     06:15     |     06:35     |     20:00     |      2219 KM       |    3     
+  25  |            Nagda Junction              |        NAD         |     07:28     |     07:30     |     2:00      |      2261 KM       |    3     
+  26  |             Kota Junction              |        KOTA        |     09:50     |     10:00     |     10:00     |      2486 KM       |    3     
+  27  |            Sawai Madhopur              |        SWM         |     12:10     |     12:20     |     10:00     |      2593 KM       |    3     
+  28  |               Durgapura                |        DPA         |     14:06     |     14:08     |     2:00      |      2718 KM       |    3     
+  29  |                Jaipur                  |         JP         |     14:35     |     14:45     |     10:00     |      2725 KM       |    3     
+  30  |              Kishangarh                |        KSG         |     15:58     |     16:00     |     2:00      |      2830 KM       |    3     
+  31  |            Ajmer Junction              |        AII         |     17:10     |     Ends      |       -       |      2859 KM       |    3     

@@ -1,0 +1,79 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Varanasi Junction            |        BSB         |     Start     |     08:40     |       -       |        0 KM        |    1     
+  2   |         Mughal Sarai Junction          |        MGS         |     09:35     |     09:50     |     15:00     |       17 KM        |    1     
+  3   |               Sakaldiha                |        SLD         |     10:16     |     10:18     |     2:00      |       36 KM        |    1     
+  4   |                Zamania                 |        ZNA         |     10:36     |     10:38     |     2:00      |       62 KM        |    1     
+  5   |         Dildarnagar Junction           |        DLN         |     10:54     |     10:59     |     5:00      |       75 KM        |    1     
+  6   |               Bhadaura                 |        BWH         |     11:05     |     11:07     |     2:00      |       83 KM        |    1     
+  7   |                Gahmar                  |        GMR         |     11:15     |     11:17     |     2:00      |       91 KM        |    1     
+  8   |                Chausa                  |        CSA         |     11:26     |     11:28     |     2:00      |       100 KM       |    1     
+  9   |                 Buxar                  |        BXR         |     11:50     |     11:52     |     2:00      |       111 KM       |    1     
+  10  |                Dumraon                 |        DURE        |     12:02     |     12:04     |     2:00      |       128 KM       |    1     
+  11  |             Twining Ganj               |        TWG         |     12:12     |     12:14     |     2:00      |       135 KM       |    1     
+  12  |             Raghunathpur               |        RPR         |     12:20     |     12:22     |     2:00      |       144 KM       |    1     
+  13  |                Banahi                  |        BYN         |     12:28     |     12:30     |     2:00      |       153 KM       |    1     
+  14  |                Bihiya                  |        BEA         |     12:37     |     12:39     |     2:00      |       158 KM       |    1     
+  15  |               Karisath                 |        KRS         |     12:48     |     12:50     |     2:00      |       170 KM       |    1     
+  16  |                  Ara                   |        ARA         |     13:00     |     13:05     |     5:00      |       180 KM       |    1     
+  17  |               Kulharia                 |        KUA         |     13:12     |     13:14     |     2:00      |       190 KM       |    1     
+  18  |                Koelwar                 |        KWR         |     13:19     |     13:21     |     2:00      |       194 KM       |    1     
+  20  |                 Bihta                  |        BTA         |     13:38     |     13:40     |     2:00      |       202 KM       |    1     
+  21  |               Sadisopur                |        SDE         |     13:46     |     13:48     |     2:00      |       206 KM       |    1     
+  22  |                 Neora                  |        NEO         |     13:55     |     13:57     |     2:00      |       214 KM       |    1     
+  23  |                Danapur                 |        DNR         |     14:50     |     15:00     |     10:00     |       219 KM       |    1     
+  24  |            Phulwari Sharif             |        PWS         |     15:04     |     15:06     |     2:00      |       223 KM       |    1     
+  25  |            Patna Junction              |        PNBE        |     15:45     |     16:05     |     20:00     |       229 KM       |    1     
+  26  |            Rjndr Ngr Bihar             |        RJPB        |     16:12     |     16:14     |     2:00      |       231 KM       |    1     
+  27  |              Gulzarbagh                |        GZH         |     16:19     |     16:21     |     2:00      |       236 KM       |    1     
+  28  |              Patna Saheb               |        PNC         |     16:30     |     16:32     |     2:00      |       239 KM       |    1     
+  29  |                 Fatwa                  |        FUT         |     16:53     |     16:55     |     2:00      |       251 KM       |    1     
+  30  |             Hardas Bigha               |        HDE         |     17:01     |     17:03     |     2:00      |       256 KM       |    1     
+  31  |               Khusropur                |        KOO         |     17:07     |     17:09     |     2:00      |       259 KM       |    1     
+  32  |                Karauta                 |        KWO         |     17:16     |     17:18     |     2:00      |       265 KM       |    1     
+  33  |         Bakhtiyarpur Junction          |        BKP         |     17:30     |     17:32     |     2:00      |       274 KM       |    1     
+  34  |              Athmal Gola               |        ATL         |     17:38     |     17:40     |     2:00      |       283 KM       |    1     
+  35  |                 Barh                   |        BARH        |     17:48     |     17:50     |     2:00      |       292 KM       |    1     
+  36  |               Punarakh                 |        PHK         |     18:00     |     18:02     |     2:00      |       303 KM       |    1     
+  37  |                  Mor                   |        MOR         |     18:51     |     18:53     |     2:00      |       311 KM       |    1     
+  38  |           Mokameh Junction             |        MKA         |     19:05     |     19:10     |     5:00      |       318 KM       |    1     
+  39  |           Hathidah Junction            |        HTZ         |     19:18     |     19:20     |     2:00      |       325 KM       |    1     
+  40  |                Barhiya                 |        BRYA        |     19:33     |     19:35     |     2:00      |       336 KM       |    1     
+  41  |         Luckeesarai Junction           |        LKR         |     19:48     |     19:50     |     2:00      |       351 KM       |    1     
+  42  |             Kiul Junction              |        KIUL        |     20:45     |     20:55     |     10:00     |       352 KM       |    1     
+  43  |                 Kajra                  |        KJH         |     21:11     |     21:13     |     2:00      |       368 KM       |    1     
+  44  |               Abhaipur                 |        AHA         |     21:22     |     21:24     |     2:00      |       375 KM       |    1     
+  45  |               Dharhara                 |        DRH         |     21:35     |     21:37     |     2:00      |       385 KM       |    1     
+  46  |           Jamalpur Junction            |        JMP         |     22:00     |     22:10     |     10:00     |       397 KM       |    1     
+  47  |               Ratanpur                 |        RPUR        |     22:18     |     22:20     |     2:00      |       404 KM       |    1     
+  48  |               Bariarpur                |        BUP         |     22:27     |     22:29     |     2:00      |       408 KM       |    1     
+  49  |              Sultanganj                |        SGG         |     22:49     |     22:51     |     2:00      |       426 KM       |    1     
+  50  |              Akbarnagar                |        AKN         |     23:04     |     23:06     |     2:00      |       436 KM       |    1     
+  51  |               Nathnagar                |        NAT         |     23:22     |     23:24     |     2:00      |       446 KM       |    1     
+  52  |               Bhagalpur                |        BGP         |     23:40     |     23:55     |     15:00     |       450 KM       |    1     
+  53  |                Sabaur                  |        SBO         |     00:03     |     00:05     |     2:00      |       458 KM       |    2     
+  54  |                 Ghoga                  |        GGA         |     00:22     |     00:24     |     2:00      |       471 KM       |    2     
+  55  |                Ekchari                 |        EKC         |     00:32     |     00:34     |     2:00      |       476 KM       |    2     
+  56  |               Kahalgaon                |        CLG         |     00:41     |     00:43     |     2:00      |       480 KM       |    2     
+  57  |            Shivanarayanpur             |        SVRP        |     01:03     |     01:05     |     2:00      |       492 KM       |    2     
+  58  |               Pirpainti                |        PPT         |     01:16     |     01:18     |     2:00      |       501 KM       |    2     
+  59  |             Mirza Cheuki               |        MZC         |     01:27     |     01:29     |     2:00      |       509 KM       |    2     
+  60  |          Sahibganj Junction            |        SBG         |     02:00     |     02:10     |     10:00     |       524 KM       |    2     
+  61  |               Taljhari                 |        TLJ         |     02:36     |     02:38     |     2:00      |       552 KM       |    2     
+  62  |           Tinpahar Junction            |        TPH         |     02:50     |     02:52     |     2:00      |       562 KM       |    2     
+  63  |           Barharwa Junction            |        BHW         |     03:35     |     03:40     |     5:00      |       579 KM       |    2     
+  64  |              Kotalpukur                |        KLP         |     03:53     |     03:55     |     2:00      |       593 KM       |    2     
+  65  |                 Pakur                  |        PKR         |     04:06     |     04:08     |     2:00      |       605 KM       |    2     
+  66  |                Rajgram                 |        RJG         |     04:23     |     04:25     |     2:00      |       616 KM       |    2     
+  67  |                Murarai                 |        MRR         |     04:42     |     04:44     |     2:00      |       628 KM       |    2     
+  68  |                Chatra                  |        CTR         |     04:52     |     04:54     |     2:00      |       635 KM       |    2     
+  69  |           Nalhati Junction             |        NHT         |     05:05     |     05:07     |     2:00      |       644 KM       |    2     
+  70  |              Rampur Hat                |        RPH         |     05:48     |     06:03     |     15:00     |       658 KM       |    2     
+  71  |               Mallarpur                |        MLV         |     06:14     |     06:16     |     2:00      |       670 KM       |    2     
+  72  |               Sainthia                 |        SNT         |     06:35     |     06:37     |     2:00      |       686 KM       |    2     
+  73  |           Ahmadpur Junction            |        AMP         |     06:47     |     06:49     |     2:00      |       699 KM       |    2     
+  74  |            Bolpur S Niktn              |        BHP         |     07:13     |     07:18     |     5:00      |       718 KM       |    2     
+  75  |                Guskara                 |        GKH         |     07:34     |     07:36     |     2:00      |       737 KM       |    2     
+  76  |          Barddhaman Junction           |        BWN         |     08:32     |     08:56     |     24:00     |       770 KM       |    2     
+  77  |              Dakhineswar               |        DAKE        |     10:12     |     10:14     |     2:00      |       858 KM       |    2     
+  78  |             Bidhan Nagar               |        BNXR        |     10:38     |     10:40     |     2:00      |       867 KM       |    2     
+  79  |                Sealdah                 |        SDAH        |     10:55     |     Ends      |       -       |       871 KM       |    2     

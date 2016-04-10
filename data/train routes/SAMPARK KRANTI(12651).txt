@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Madurai Junction             |        MDU         |     Start     |     00:15     |       -       |        0 KM        |    1     
+  2   |           Dindigul Junction            |         DG         |     01:10     |     01:12     |     2:00      |       66 KM        |    1     
+  3   |            Tiruchchirapali             |        TPJ         |     02:55     |     03:00     |     5:00      |       161 KM       |    1     
+  4   |               Ariyalur                 |        ALU         |     03:44     |     03:45     |     1:00      |       231 KM       |    1     
+  5   |         Vridhachalam Junction          |        VRI         |     04:48     |     04:50     |     2:00      |       284 KM       |    1     
+  6   |          Villuparam Junction           |         VM         |     05:45     |     05:50     |     5:00      |       338 KM       |    1     
+  7   |             Melmaruvattur              |        MLMR        |     06:54     |     06:55     |     1:00      |       406 KM       |    1     
+  8   |             Chengalpattu               |        CGL         |     07:28     |     07:30     |     2:00      |       441 KM       |    1     
+  9   |               Tambaram                 |        TBM         |     07:59     |     08:00     |     1:00      |       472 KM       |    1     
+  10  |            Chennai Egmore              |         MS         |     08:50     |     09:05     |     15:00     |       497 KM       |    1     
+  11  |          Vijayawada Junction           |        BZA         |     15:55     |     16:10     |     15:00     |       931 KM       |    1     
+  12  |                Nagpur                  |        NGP         |     02:00     |     02:10     |     10:00     |      1593 KM       |    2     
+  13  |           Bhopal  Junction             |        BPL         |     08:05     |     08:15     |     10:00     |      1982 KM       |    2     
+  14  |            Jhansi Junction             |        JHS         |     12:00     |     12:10     |     10:00     |      2273 KM       |    2     
+  15  |             H Nizamuddin               |        NZM         |     18:00     |     Ends      |       -       |      2676 KM       |    2     

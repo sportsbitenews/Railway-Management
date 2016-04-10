@@ -1,0 +1,9 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Singrauli                |        SGRL        |     Start     |     05:45     |       -       |        0 KM        |    1     
+  2   |               Obra Dam                 |        OBR         |     07:13     |     07:14     |     1:00      |       51 KM        |    1     
+  3   |                Chopan                  |        CPU         |     07:40     |     07:50     |     10:00     |       64 KM        |    1     
+  4   |                 Churk                  |        CUK         |     08:19     |     08:20     |     1:00      |       86 KM        |    1     
+  5   |             Roberts Ganj               |        RBGJ        |     08:37     |     08:38     |     1:00      |       91 KM        |    1     
+  6   |                 Lusa                   |        LUSA        |     09:27     |     09:28     |     1:00      |       125 KM       |    1     
+  7   |                Chunar                  |        CAR         |     10:40     |     11:15     |     35:00     |       167 KM       |    1     
+  8   |           Varanasi Junction            |        BSB         |     13:00     |     Ends      |       -       |       211 KM       |    1     

@@ -1,0 +1,29 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               New Delhi                |        NDLS        |     Start     |     22:15     |       -       |        0 KM        |    1     
+  2   |            Kanpur Central              |        CNB         |     04:45     |     04:50     |     5:00      |       440 KM       |    2     
+  3   |               Fatehpur                 |        FTP         |     05:46     |     05:48     |     2:00      |       517 KM       |    2     
+  4   |          Allahabad Junction            |        ALD         |     07:25     |     07:35     |     10:00     |       634 KM       |    2     
+  5   |               Mirzapur                 |        MZP         |     08:38     |     08:40     |     2:00      |       724 KM       |    2     
+  6   |         Mughal Sarai Junction          |        MGS         |     10:20     |     10:35     |     15:00     |       786 KM       |    2     
+  7   |              Bhabua Road               |        BBU         |     11:13     |     11:15     |     2:00      |       839 KM       |    2     
+  8   |                Sasaram                 |        SSM         |     11:47     |     11:49     |     2:00      |       886 KM       |    2     
+  9   |             Dehri On Sone              |        DOS         |     12:05     |     12:07     |     2:00      |       904 KM       |    2     
+  10  |            Anugraha N Road             |        AUBR        |     12:20     |     12:22     |     2:00      |       921 KM       |    2     
+  11  |             Gaya Junction              |        GAYA        |     13:25     |     13:30     |     5:00      |       989 KM       |    2     
+  12  |               Paharpur                 |        PRP         |     14:03     |     14:05     |     2:00      |      1022 KM       |    2     
+  13  |                Koderma                 |        KQR         |     14:43     |     14:45     |     2:00      |      1066 KM       |    2     
+  14  |            Hazaribagh Road             |        HZD         |     15:18     |     15:20     |     2:00      |      1114 KM       |    2     
+  15  |               Parasnath                |        PNME        |     15:45     |     15:47     |     2:00      |      1141 KM       |    2     
+  16  |            Gomoh Junction              |        GMO         |     16:10     |     16:20     |     10:00     |      1159 KM       |    2     
+  17  |              Chandrapura               |        CRP         |     16:43     |     16:45     |     2:00      |      1176 KM       |    2     
+  18  |            Bokaro Stl City             |        BKSC        |     17:15     |     17:20     |     5:00      |      1191 KM       |    2     
+  19  |           Purulia Junction             |        PRR         |     18:24     |     18:26     |     2:00      |      1252 KM       |    2     
+  20  |          Tatanagar Junction            |        TATA        |     20:00     |     20:15     |     15:00     |      1342 KM       |    2     
+  21  |          Kharagpur Junction            |        KGP         |     22:05     |     22:30     |     25:00     |      1476 KM       |    2     
+  22  |               Balasore                 |        BLS         |     00:07     |     00:12     |     5:00      |      1595 KM       |    3     
+  23  |               Bhadrakh                 |        BHC         |     01:18     |     01:20     |     2:00      |      1657 KM       |    3     
+  24  |             Jajpur K Road              |        JJKR        |     01:58     |     02:00     |     2:00      |      1700 KM       |    3     
+  25  |                Cuttack                 |        CTC         |     03:00     |     03:05     |     5:00      |      1772 KM       |    3     
+  26  |              Bhubaneswar               |        BBS         |     03:40     |     03:45     |     5:00      |      1800 KM       |    3     
+  27  |         Khurda Road Junction           |        KUR         |     04:20     |     04:25     |     5:00      |      1819 KM       |    3     
+  28  |                 Puri                   |        PURI        |     05:25     |     Ends      |       -       |      1862 KM       |    3     

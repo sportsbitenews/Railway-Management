@@ -1,0 +1,3 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Bhubaneswar               |        BBS         |     Start     |     08:10     |       -       |        0 KM        |    1     
+  2   |               New Delhi                |        NDLS        |     06:20     |     Ends      |       -       |      1727 KM       |    2     

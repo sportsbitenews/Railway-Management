@@ -1,0 +1,29 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Jammu Tawi                |        JAT         |     Start     |     20:40     |       -       |        0 KM        |    1     
+  2   |                 Samba                  |        SMBX        |     21:10     |     21:12     |     2:00      |       33 KM        |    1     
+  3   |                Ghagwal                 |        GHGL        |     21:23     |     21:25     |     2:00      |       42 KM        |    1     
+  4   |                Kathua                  |        KTHU        |     22:25     |     22:27     |     2:00      |       77 KM        |    1     
+  5   |            Pathankot Cantt             |        PTKC        |     23:05     |     23:10     |     5:00      |       100 KM       |    1     
+  6   |               Mukerian                 |        MEX         |     23:50     |     23:52     |     2:00      |       139 KM       |    1     
+  7   |                Dasuya                  |        DZA         |     00:08     |     00:10     |     2:00      |       155 KM       |    2     
+  8   |            Jalandhar Cant              |        JRC         |     01:05     |     01:15     |     10:00     |       213 KM       |    2     
+  9   |           Phagwara Junction            |        PGW         |     01:28     |     01:30     |     2:00      |       229 KM       |    2     
+  10  |           Ludhiana Junction            |        LDH         |     02:25     |     02:35     |     10:00     |       265 KM       |    2     
+  11  |                Khanna                  |        KNN         |     03:22     |     03:24     |     2:00      |       307 KM       |    2     
+  12  |           Sirhind Junction             |        SIR         |     03:40     |     03:42     |     2:00      |       325 KM       |    2     
+  13  |           Rajpura Junction             |        RPJ         |     03:59     |     04:01     |     2:00      |       351 KM       |    2     
+  14  |              Ambala City               |        UBC         |     04:24     |     04:26     |     2:00      |       371 KM       |    2     
+  15  |         Ambala Cant Junction           |        UMB         |     04:50     |     05:00     |     10:00     |       378 KM       |    2     
+  16  |            Jagadhri Wshop              |        JUDW        |     05:35     |     05:37     |     2:00      |       425 KM       |    2     
+  17  |               Jagadhri                 |        JUD         |     05:44     |     05:46     |     2:00      |       429 KM       |    2     
+  18  |              Saharanpur                |        SRE         |     06:30     |     06:40     |     10:00     |       460 KM       |    2     
+  19  |                Deoband                 |        DBD         |     07:08     |     07:10     |     2:00      |       494 KM       |    2     
+  20  |             Muzaffarnagar              |        MOZ         |     07:29     |     07:31     |     2:00      |       518 KM       |    2     
+  21  |               Khatauli                 |        KAT         |     07:49     |     07:51     |     2:00      |       540 KM       |    2     
+  22  |              Meerut Cant               |        MUT         |     08:31     |     08:33     |     2:00      |       569 KM       |    2     
+  23  |              Meerut City               |        MTC         |     08:42     |     08:47     |     5:00      |       573 KM       |    2     
+  24  |               Modinagar                |        MDNR        |     09:05     |     09:07     |     2:00      |       593 KM       |    2     
+  25  |              Muradnagar                |        MUD         |     09:18     |     09:20     |     2:00      |       603 KM       |    2     
+  26  |              N Ghaziabad               |        GZN         |     09:35     |     09:37     |     2:00      |       615 KM       |    2     
+  27  |               Ghaziabad                |        GZB         |     10:03     |     10:05     |     2:00      |       621 KM       |    2     
+  28  |                 Delhi                  |        DLI         |     10:55     |     Ends      |       -       |       640 KM       |    2     

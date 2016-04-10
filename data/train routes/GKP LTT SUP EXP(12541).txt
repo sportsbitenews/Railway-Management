@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Gorakhpur Junction            |        GKP         |     Start     |     21:50     |       -       |        0 KM        |    1     
+  2   |                 Basti                  |        BST         |     22:50     |     22:55     |     5:00      |       65 KM        |    1     
+  3   |            Gonda Junction              |         GD         |     00:25     |     00:30     |     5:00      |       154 KM       |    2     
+  4   |              Lucknow Ne                |        LJN         |     03:15     |     03:55     |     40:00     |       271 KM       |    2     
+  5   |            Kanpur Central              |        CNB         |     05:25     |     05:35     |     10:00     |       345 KM       |    2     
+  6   |               Pokhrayan                |        PHN         |     06:34     |     06:36     |     2:00      |       403 KM       |    2     
+  7   |                 Orai                   |        ORAI        |     07:13     |     07:15     |     2:00      |       451 KM       |    2     
+  8   |            Jhansi Junction             |        JHS         |     09:30     |     09:42     |     12:00     |       564 KM       |    2     
+  9   |           Bhopal  Junction             |        BPL         |     13:40     |     13:45     |     5:00      |       855 KM       |    2     
+  10  |            Itarsi Junction             |         ET         |     15:20     |     15:25     |     5:00      |       947 KM       |    2     
+  11  |                Khandwa                 |        KNW         |     18:05     |     18:10     |     5:00      |      1130 KM       |    2     
+  12  |           Bhusaval Junction            |        BSL         |     19:45     |     19:55     |     10:00     |      1254 KM       |    2     
+  13  |               Igatpuri                 |        IGP         |     01:03     |     01:05     |     2:00      |      1561 KM       |    3     
+  14  |            Lokmanyatilak T             |        LTT         |     04:00     |     Ends      |       -       |      1682 KM       |    3     

@@ -1,0 +1,33 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Vijayawada Junction           |        BZA         |     Start     |     10:30     |       -       |        0 KM        |    1     
+  2   |                Madhira                 |        MDR         |     11:19     |     11:20     |     1:00      |       57 KM        |    1     
+  3   |                Khammam                 |        KMT         |     11:40     |     11:42     |     2:00      |       102 KM       |    1     
+  4   |           Dornakal Junction            |        DKJ         |     12:11     |     12:12     |     1:00      |       125 KM       |    1     
+  5   |              Mahbubabad                |        MABD        |     12:31     |     12:32     |     1:00      |       149 KM       |    1     
+  6   |               Warangal                 |         WL         |     13:30     |     13:32     |     2:00      |       209 KM       |    1     
+  7   |           Kazipet Junction             |        KZJ         |     13:50     |     13:52     |     2:00      |       219 KM       |    1     
+  8   |         Secunderabad Junction          |         SC         |     16:25     |     16:40     |     15:00     |       351 KM       |    1     
+  9   |               Begampet                 |        BMT         |     16:58     |     17:00     |     2:00      |       355 KM       |    1     
+  10  |              Lingampalli               |        LPI         |     17:31     |     17:32     |     1:00      |       373 KM       |    1     
+  11  |             Shankarpalli               |        SKP         |     17:54     |     17:55     |     1:00      |       394 KM       |    1     
+  12  |          Vikarabad Junction            |        VKB         |     18:15     |     18:20     |     5:00      |       422 KM       |    1     
+  13  |               Zahirabad                |         ZB         |     19:14     |     19:15     |     1:00      |       482 KM       |    1     
+  14  |                 Bidar                  |        BIDR        |     19:55     |     20:00     |     5:00      |       513 KM       |    1     
+  15  |                Bhalki                  |        BHLK        |     20:39     |     20:40     |     1:00      |       551 KM       |    1     
+  16  |                 Udgir                  |        UDGR        |     21:19     |     21:20     |     1:00      |       594 KM       |    1     
+  17  |              Latur Road                |        LTRR        |     21:53     |     21:55     |     2:00      |       627 KM       |    1     
+  18  |            Parli Vaijnath              |        PRLI        |     23:30     |     00:15     |     45:00     |       690 KM       |    2     
+  19  |               Gangakher                |        GNH         |     00:39     |     00:40     |     1:00      |       720 KM       |    2     
+  20  |           Parbhani Junction            |        PBN         |     01:20     |     01:30     |     10:00     |       754 KM       |    2     
+  21  |             Manwath Road               |        MVO         |     01:54     |     01:55     |     1:00      |       781 KM       |    2     
+  22  |                 Selu                   |        SELU        |     02:09     |     02:10     |     1:00      |       796 KM       |    2     
+  23  |                Partur                  |        PTU         |     02:44     |     02:45     |     1:00      |       823 KM       |    2     
+  24  |                 Jalna                  |         J          |     03:25     |     03:27     |     2:00      |       868 KM       |    2     
+  25  |              Aurangabad                |        AWB         |     04:55     |     05:00     |     5:00      |       931 KM       |    2     
+  26  |                 Lasur                  |        LSR         |     05:29     |     05:30     |     1:00      |       965 KM       |    2     
+  27  |               Rotegaon                 |        RGO         |     05:59     |     06:00     |     1:00      |       992 KM       |    2     
+  28  |               Nagarsol                 |        NSL         |     06:40     |     06:45     |     5:00      |      1020 KM       |    2     
+  29  |            Manmad Junction             |        MMR         |     07:25     |     07:30     |     5:00      |      1044 KM       |    2     
+  30  |               Kopargaon                |        KPG         |     08:18     |     08:20     |     2:00      |      1086 KM       |    2     
+  31  |               Puntamba                 |         PB         |     08:45     |     08:47     |     2:00      |      1110 KM       |    2     
+  32  |            Sainagar Shirdi             |        SNSI        |     09:15     |     Ends      |       -       |      1127 KM       |    2     

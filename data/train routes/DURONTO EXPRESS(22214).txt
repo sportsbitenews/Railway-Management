@@ -1,0 +1,3 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Patna Junction              |        PNBE        |     Start     |     20:40     |       -       |        0 KM        |    1     
+  2   |               Shalimar                 |        SHM         |     05:40     |     Ends      |       -       |       546 KM       |    2     

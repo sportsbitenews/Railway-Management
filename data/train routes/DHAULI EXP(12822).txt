@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Puri                   |        PURI        |     Start     |     11:40     |       -       |        0 KM        |    1     
+  2   |         Khurda Road Junction           |        KUR         |     12:30     |     12:35     |     5:00      |       44 KM        |    1     
+  3   |              Bhubaneswar               |        BBS         |     12:55     |     13:00     |     5:00      |       63 KM        |    1     
+  4   |                Cuttack                 |        CTC         |     13:30     |     13:35     |     5:00      |       91 KM        |    1     
+  5   |              Dhanmandal                |        DNM         |     14:01     |     14:02     |     1:00      |       126 KM       |    1     
+  6   |             Jajpur K Road              |        JJKR        |     14:31     |     14:32     |     1:00      |       163 KM       |    1     
+  7   |               Bhadrakh                 |        BHC         |     15:28     |     15:30     |     2:00      |       206 KM       |    1     
+  8   |                 Soro                   |        SORO        |     15:52     |     15:53     |     1:00      |       235 KM       |    1     
+  9   |               Balasore                 |        BLS         |     16:17     |     16:21     |     4:00      |       268 KM       |    1     
+  10  |                 Basta                  |        BTS         |     16:42     |     16:43     |     1:00      |       296 KM       |    1     
+  11  |               Jaleswar                 |        JER         |     16:59     |     17:00     |     1:00      |       316 KM       |    1     
+  12  |                 Belda                  |        BLDA        |     17:23     |     17:24     |     1:00      |       349 KM       |    1     
+  13  |          Kharagpur Junction            |        KGP         |     18:03     |     18:08     |     5:00      |       387 KM       |    1     
+  14  |         Santragachi Junction           |        SRC         |     19:31     |     19:32     |     1:00      |       494 KM       |    1     
+  15  |            Howrah Junction             |        HWH         |     20:15     |     Ends      |       -       |       502 KM       |    1     

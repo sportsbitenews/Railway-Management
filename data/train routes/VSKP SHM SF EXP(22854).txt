@@ -1,0 +1,17 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Vishakapatnam              |        VSKP        |     Start     |     13:15     |       -       |        0 KM        |    1     
+  2   |              Simhachalam               |        SCM         |     13:32     |     13:33     |     1:00      |        8 KM        |    1     
+  3   |         Vizianagram Junction           |        VZM         |     14:15     |     14:20     |     5:00      |       61 KM        |    1     
+  4   |            Srikakulam Road             |        CHE         |     15:13     |     15:15     |     2:00      |       131 KM       |    1     
+  5   |                Palasa                  |        PSA         |     16:18     |     16:20     |     2:00      |       203 KM       |    1     
+  6   |                Sompeta                 |        SPT         |     16:44     |     16:45     |     1:00      |       235 KM       |    1     
+  7   |               Brahmapur                |        BAM         |     17:27     |     17:29     |     2:00      |       277 KM       |    1     
+  8   |         Khurda Road Junction           |        KUR         |     19:30     |     19:45     |     15:00     |       424 KM       |    1     
+  9   |              Bhubaneswar               |        BBS         |     20:05     |     20:10     |     5:00      |       443 KM       |    1     
+  10  |                Cuttack                 |        CTC         |     20:40     |     20:45     |     5:00      |       471 KM       |    1     
+  11  |             Jajpur K Road              |        JJKR        |     21:43     |     21:44     |     1:00      |       543 KM       |    1     
+  12  |               Bhadrakh                 |        BHC         |     22:58     |     23:00     |     2:00      |       586 KM       |    1     
+  13  |               Balasore                 |        BLS         |     23:41     |     23:43     |     2:00      |       648 KM       |    1     
+  14  |          Kharagpur Junction            |        KGP         |     01:12     |     01:17     |     5:00      |       767 KM       |    2     
+  15  |         Santragachi Junction           |        SRC         |     02:52     |     02:53     |     1:00      |       875 KM       |    2     
+  16  |               Shalimar                 |        SHM         |     03:30     |     Ends      |       -       |       880 KM       |    2     

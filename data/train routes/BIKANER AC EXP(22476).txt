@@ -1,0 +1,35 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Coimbatore Junction           |        CBE         |     Start     |     15:20     |       -       |        0 KM        |    1     
+  2   |               Palakkad                 |        PGT         |     16:15     |     16:20     |     5:00      |       55 KM        |    1     
+  3   |           Shoranur Junction            |        SRR         |     17:05     |     17:10     |     5:00      |       99 KM        |    1     
+  4   |               Kozhikode                |        CLT         |     18:25     |     18:30     |     5:00      |       185 KM       |    1     
+  5   |                Kannur                  |        CAN         |     19:55     |     20:00     |     5:00      |       274 KM       |    1     
+  6   |          Mangalore Junction            |        MAJN        |     22:05     |     22:15     |     10:00     |       411 KM       |    1     
+  7   |                 Udupi                  |         UD         |     23:38     |     23:40     |     2:00      |       493 KM       |    1     
+  8   |                Bhatkal                 |        BTJL        |     00:56     |     00:58     |     2:00      |       606 KM       |    2     
+  9   |                Karwar                  |        KAWR        |     02:44     |     02:46     |     2:00      |       760 KM       |    2     
+  10  |                Madgaon                 |        MAO         |     03:50     |     04:00     |     10:00     |       842 KM       |    2     
+  11  |               Kankavali                |        KKW         |     06:28     |     06:30     |     2:00      |      1020 KM       |    2     
+  12  |               Ratnagiri                |         RN         |     08:05     |     08:10     |     5:00      |      1176 KM       |    2     
+  13  |                Chiplun                 |        CHI         |     09:26     |     09:28     |     2:00      |      1282 KM       |    2     
+  14  |                 Roha                   |        ROHA        |     12:15     |     12:20     |     5:00      |      1461 KM       |    2     
+  15  |                Panvel                  |        PNVL        |     13:40     |     13:45     |     5:00      |      1539 KM       |    2     
+  16  |              Vasai Road                |        BSR         |     15:10     |     15:15     |     5:00      |      1606 KM       |    2     
+  17  |                 Vapi                   |        VAPI        |     16:29     |     16:31     |     2:00      |      1728 KM       |    2     
+  18  |                 Surat                  |         ST         |     17:55     |     18:00     |     5:00      |      1821 KM       |    2     
+  19  |          Ankleshwar Junction           |        AKV         |     18:33     |     18:35     |     2:00      |      1870 KM       |    2     
+  20  |           Vadodara Junction            |        BRC         |     19:35     |     19:40     |     5:00      |      1950 KM       |    2     
+  21  |            Anand Junction              |        ANND        |     20:09     |     20:11     |     2:00      |      1985 KM       |    2     
+  22  |          Ahmedabad Junction            |        ADI         |     21:45     |     22:10     |     25:00     |      2049 KM       |    2     
+  23  |           Mahesana Junction            |        MSH         |     00:18     |     00:20     |     2:00      |      2117 KM       |    3     
+  24  |           Palanpur Junction            |        PNU         |     01:53     |     01:55     |     2:00      |      2182 KM       |    3     
+  25  |               Abu Road                 |        ABR         |     02:40     |     02:50     |     10:00     |      2235 KM       |    3     
+  26  |                 Falna                  |         FA         |     04:31     |     04:33     |     2:00      |      2334 KM       |    3     
+  27  |            Marwar Junction             |         MJ         |     05:48     |     05:50     |     2:00      |      2400 KM       |    3     
+  28  |              Pali Marwar               |        PMY         |     06:16     |     06:18     |     2:00      |      2431 KM       |    3     
+  29  |             Luni Junction              |        LUNI        |     06:48     |     06:51     |     3:00      |      2472 KM       |    3     
+  30  |           Jodhpur Junction             |         JU         |     07:25     |     07:35     |     10:00     |      2504 KM       |    3     
+  31  |          Merta Road Junction           |        MTD         |     08:50     |     08:53     |     3:00      |      2608 KM       |    3     
+  32  |                Nagaur                  |        NGO         |     10:02     |     10:04     |     2:00      |      2665 KM       |    3     
+  33  |                 Nokha                  |        NOK         |     10:55     |     10:57     |     2:00      |      2716 KM       |    3     
+  34  |           Bikaner Junction             |        BKN         |     12:25     |     Ends      |       -       |      2781 KM       |    3     

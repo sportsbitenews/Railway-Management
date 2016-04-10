@@ -1,0 +1,18 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Pune Junction              |        PUNE        |     Start     |     15:20     |       -       |        0 KM        |    1     
+  2   |               Chinchvad                |        CCH         |     15:37     |     15:38     |     1:00      |       17 KM        |    1     
+  3   |               Lonavala                 |        LNL         |     16:14     |     16:15     |     1:00      |       64 KM        |    1     
+  4   |                Karjat                  |        KJT         |     16:58     |     17:00     |     2:00      |       92 KM        |    1     
+  5   |            Kalyan Junction             |        KYN         |     17:42     |     17:45     |     3:00      |       139 KM       |    1     
+  6   |             Bhiwandi Road              |        BIRD        |     18:33     |     18:35     |     2:00      |       164 KM       |    1     
+  7   |              Vasai Road                |        BSR         |     19:50     |     20:00     |     10:00     |       191 KM       |    1     
+  8   |                 Surat                  |         ST         |     22:55     |     23:00     |     5:00      |       406 KM       |    1     
+  9   |           Vadodara Junction            |        BRC         |     00:50     |     01:00     |     10:00     |       535 KM       |    2     
+  10  |            Godhra Junction             |        GDA         |     02:08     |     02:10     |     2:00      |       609 KM       |    2     
+  11  |                 Dahod                  |        DHD         |     03:05     |     03:07     |     2:00      |       683 KM       |    2     
+  12  |               Meghnagar                |        MGN         |     03:30     |     03:32     |     2:00      |       716 KM       |    2     
+  13  |            Ratlam Junction             |        RTM         |     04:55     |     05:05     |     10:00     |       797 KM       |    2     
+  14  |            Nagda Junction              |        NAD         |     05:48     |     05:50     |     2:00      |       838 KM       |    2     
+  15  |            Ujjain Junction             |        UJN         |     06:50     |     06:55     |     5:00      |       893 KM       |    2     
+  16  |                 Dewas                  |        DWX         |     07:38     |     07:40     |     2:00      |       933 KM       |    2     
+  17  |          Indore Junction Bg            |        INDB        |     08:30     |     Ends      |       -       |       972 KM       |    2     

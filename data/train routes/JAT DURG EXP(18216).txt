@@ -1,0 +1,27 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Jammu Tawi                |        JAT         |     Start     |     05:00     |       -       |        0 KM        |    1     
+  2   |               Pathankot                |        PTK         |     06:55     |     07:40     |     45:00     |       100 KM       |    1     
+  3   |               Gurdaspur                |        GSP         |     08:28     |     08:30     |     2:00      |       136 KM       |    1     
+  4   |            Batala Junction             |        BAT         |     09:05     |     09:07     |     2:00      |       168 KM       |    1     
+  5   |           Amritsar Junction            |        ASR         |     10:30     |     10:55     |     25:00     |       207 KM       |    1     
+  6   |                 Beas                   |        BEAS        |     11:23     |     11:25     |     2:00      |       249 KM       |    1     
+  7   |            Jalandhar City              |        JUC         |     12:03     |     12:10     |     7:00      |       286 KM       |    1     
+  8   |           Ludhiana Junction            |        LDH         |     13:00     |     13:10     |     10:00     |       342 KM       |    1     
+  9   |           Rajpura Junction             |        RPJ         |     14:24     |     14:26     |     2:00      |       428 KM       |    1     
+  10  |         Ambala Cant Junction           |        UMB         |     15:05     |     15:20     |     15:00     |       456 KM       |    1     
+  11  |           Panipat Junction             |        PNP         |     16:33     |     16:35     |     2:00      |       565 KM       |    1     
+  12  |               New Delhi                |        NDLS        |     18:45     |     19:05     |     20:00     |       654 KM       |    1     
+  13  |              Agra Cantt                |        AGC         |     22:40     |     22:43     |     3:00      |       849 KM       |    1     
+  14  |                Gwalior                 |        GWL         |     01:43     |     01:48     |     5:00      |       967 KM       |    2     
+  15  |            Jhansi Junction             |        JHS         |     03:25     |     03:35     |     10:00     |      1064 KM       |    2     
+  16  |               Malkhedi                 |        MAKR        |     05:33     |     05:35     |     2:00      |      1217 KM       |    2     
+  17  |                Saugor                  |        SGO         |     06:35     |     06:37     |     2:00      |      1288 KM       |    2     
+  18  |                 Damoh                  |        DMO         |     07:39     |     07:41     |     2:00      |      1365 KM       |    2     
+  19  |             Katni Murwara              |        KMZ         |     10:00     |     10:10     |     10:00     |      1474 KM       |    2     
+  20  |                Shahdol                 |        SDL         |     12:25     |     12:30     |     5:00      |      1600 KM       |    2     
+  21  |           Anuppur Junction             |        APR         |     13:15     |     13:20     |     5:00      |      1641 KM       |    2     
+  22  |              Pendra Road               |        PND         |     14:10     |     14:12     |     2:00      |      1691 KM       |    2     
+  23  |               Usalapur                 |        USL         |     16:10     |     16:20     |     10:00     |      1783 KM       |    2     
+  24  |               Bhatapara                |        BYT         |     17:03     |     17:05     |     2:00      |      1835 KM       |    2     
+  25  |            Raipur Junction             |         R          |     18:05     |     18:10     |     5:00      |      1899 KM       |    2     
+  26  |                 Durg                   |        DURG        |     19:10     |     Ends      |       -       |      1936 KM       |    2     

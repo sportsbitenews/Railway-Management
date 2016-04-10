@@ -1,0 +1,3 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Eranakulam Junction           |        ERS         |     Start     |     21:30     |       -       |        0 KM        |    1     
+  2   |            Lokmanyatilak T             |        LTT         |     18:15     |     Ends      |       -       |      1598 KM       |    2     

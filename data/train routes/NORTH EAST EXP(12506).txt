@@ -1,0 +1,29 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Anand Vihar Trm             |        ANVT        |     Start     |     06:45     |       -       |        0 KM        |    1     
+  2   |           Aligarh Junction             |        ALJN        |     08:26     |     08:29     |     3:00      |       119 KM       |    1     
+  3   |            Tundla Junction             |        TDL         |     09:45     |     09:48     |     3:00      |       197 KM       |    1     
+  4   |                Etawah                  |        ETW         |     10:46     |     10:48     |     2:00      |       289 KM       |    1     
+  5   |            Kanpur Central              |        CNB         |     12:50     |     13:00     |     10:00     |       427 KM       |    1     
+  6   |               Fatehpur                 |        FTP         |     14:03     |     14:05     |     2:00      |       504 KM       |    1     
+  7   |          Allahabad Junction            |        ALD         |     15:40     |     15:52     |     12:00     |       621 KM       |    1     
+  8   |         Mughal Sarai Junction          |        MGS         |     18:10     |     18:25     |     15:00     |       774 KM       |    1     
+  9   |                 Buxar                  |        BXR         |     19:51     |     19:53     |     2:00      |       868 KM       |    1     
+  10  |                  Ara                   |        ARA         |     20:41     |     20:43     |     2:00      |       936 KM       |    1     
+  11  |            Patna Junction              |        PNBE        |     21:55     |     22:20     |     25:00     |       985 KM       |    1     
+  12  |           Barauni Junction             |        BJU         |     01:00     |     01:05     |     5:00      |      1095 KM       |    2     
+  13  |              Begu Sarai                |        BGS         |     01:20     |     01:22     |     2:00      |      1111 KM       |    2     
+  14  |           Khagaria Junction            |        KGG         |     02:04     |     02:06     |     2:00      |      1151 KM       |    2     
+  15  |            Mansi Junction              |        MNE         |     02:14     |     02:16     |     2:00      |      1160 KM       |    2     
+  16  |               Naugachia                |        NNA         |     03:17     |     03:19     |     2:00      |      1218 KM       |    2     
+  17  |           Katihar Junction             |        KIR         |     04:40     |     04:55     |     15:00     |      1275 KM       |    2     
+  18  |            Barsoi Junction             |        BOE         |     05:46     |     05:48     |     2:00      |      1314 KM       |    2     
+  19  |              Kishanganj                |        KNE         |     06:38     |     06:40     |     2:00      |      1371 KM       |    2     
+  20  |            New Jalpaiguri              |        NJP         |     08:20     |     08:40     |     20:00     |      1458 KM       |    2     
+  21  |            Jalpaiguri Road             |        JPE         |     09:15     |     09:17     |     2:00      |      1492 KM       |    2     
+  22  |            New Cooch Behar             |        NCB         |     11:03     |     11:05     |     2:00      |      1584 KM       |    2     
+  23  |            New Alipurdaur              |        NOQ         |     11:33     |     11:35     |     2:00      |      1603 KM       |    2     
+  24  |               Kokrajhar                |        KOJ         |     12:33     |     12:35     |     2:00      |      1682 KM       |    2     
+  25  |            New Bongaigaon              |        NBQ         |     13:40     |     13:50     |     10:00     |      1709 KM       |    2     
+  26  |           Rangiya Junction             |        RNY         |     15:15     |     15:20     |     5:00      |      1819 KM       |    2     
+  27  |               Kamakhya                 |        KYQ         |     16:25     |     16:27     |     2:00      |      1860 KM       |    2     
+  28  |               Guwahati                 |        GHY         |     16:50     |     Ends      |       -       |      1866 KM       |    2     

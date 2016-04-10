@@ -1,0 +1,23 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Malda Town                |        MLDT        |     Start     |     09:05     |       -       |        0 KM        |    1     
+  2   |         New Farakka Junction           |        NFK         |     09:37     |     09:42     |     5:00      |       35 KM        |    1     
+  3   |           Barharwa Junction            |        BHW         |     10:22     |     10:24     |     2:00      |       50 KM        |    1     
+  4   |          Sahibganj Junction            |        SBG         |     11:21     |     11:26     |     5:00      |       104 KM       |    1     
+  5   |               Bhagalpur                |        BGP         |     12:53     |     12:58     |     5:00      |       178 KM       |    1     
+  6   |           Jamalpur Junction            |        JMP         |     14:02     |     14:07     |     5:00      |       231 KM       |    1     
+  7   |               Abhaipur                 |        AHA         |     14:26     |     14:27     |     1:00      |       253 KM       |    1     
+  8   |             Kiul Junction              |        KIUL        |     15:15     |     15:20     |     5:00      |       276 KM       |    1     
+  9   |            Patna Junction              |        PNBE        |     18:10     |     18:20     |     10:00     |       399 KM       |    1     
+  10  |                  Ara                   |        ARA         |     19:20     |     19:22     |     2:00      |       448 KM       |    1     
+  11  |                 Buxar                  |        BXR         |     20:22     |     20:24     |     2:00      |       517 KM       |    1     
+  12  |         Mughal Sarai Junction          |        MGS         |     23:02     |     23:12     |     10:00     |       611 KM       |    1     
+  13  |           Varanasi Junction            |        BSB         |     23:48     |     23:58     |     10:00     |       628 KM       |    1     
+  14  |          Partapgarh Junction           |        PBH         |     01:45     |     01:50     |     5:00      |       756 KM       |    2     
+  15  |                Amethi                  |        AME         |     02:34     |     02:35     |     1:00      |       791 KM       |    2     
+  16  |               Gauriganj                |        GNG         |     02:48     |     02:49     |     1:00      |       804 KM       |    2     
+  17  |          Rae Bareli Junction           |        RBL         |     03:30     |     03:32     |     2:00      |       851 KM       |    2     
+  18  |              Lucknow Nr                |        LKO         |     05:40     |     05:50     |     10:00     |       929 KM       |    2     
+  19  |               Bareilly                 |         BE         |     09:53     |     09:58     |     5:00      |      1164 KM       |    2     
+  20  |               Moradabad                |         MB         |     11:30     |     11:40     |     10:00     |      1255 KM       |    2     
+  21  |               Ghaziabad                |        GZB         |     13:54     |     13:56     |     2:00      |      1396 KM       |    2     
+  22  |               New Delhi                |        NDLS        |     14:40     |     Ends      |       -       |      1421 KM       |    2     

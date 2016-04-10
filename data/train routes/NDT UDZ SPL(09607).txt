@@ -1,0 +1,7 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Nathdwara                |        NDT         |     Start     |     06:15     |       -       |        0 KM        |    1     
+  2   |            Mavli Junction              |        MVJ         |     06:40     |     07:55     |     75:00     |       16 KM        |    1     
+  3   |                Khemli                  |        KLH         |     08:17     |     08:18     |     1:00      |       34 KM        |    1     
+  4   |                Debari                  |        DRB         |     08:29     |     08:30     |     1:00      |       44 KM        |    1     
+  5   |            Ranapratapnagar             |        RPZ         |     08:43     |     08:45     |     2:00      |       54 KM        |    1     
+  6   |             Udaipur City               |        UDZ         |     09:05     |     Ends      |       -       |       58 KM        |    1     

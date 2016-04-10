@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Kota Junction              |        KOTA        |     Start     |     06:30     |       -       |        0 KM        |    1     
+  2   |                 Antah                  |        ATH         |     07:02     |     07:04     |     2:00      |       45 KM        |    1     
+  3   |                 Baran                  |        BAZ         |     07:20     |     07:22     |     2:00      |       67 KM        |    1     
+  4   |             Chhabra Gugor              |        CAG         |     08:02     |     08:04     |     2:00      |       126 KM       |    1     
+  5   |               Ruthiyai                 |        RTA         |     09:10     |     09:20     |     10:00     |       165 KM       |    1     
+  6   |               Kumbhraj                 |        KHRJ        |     09:42     |     09:44     |     2:00      |       189 KM       |    1     
+  7   |            Chachaura Bngj              |        CBK         |     10:08     |     10:10     |     2:00      |       211 KM       |    1     
+  8   |            Biyavra Rajgarh             |        BRRG        |     10:40     |     10:42     |     2:00      |       242 KM       |    1     
+  9   |              Pachor Road               |        PFR         |     11:09     |     11:11     |     2:00      |       271 KM       |    1     
+  10  |               Sarangpur                |        SFW         |     11:40     |     11:42     |     2:00      |       303 KM       |    1     
+  11  |               Shajapur                 |        SFY         |     12:04     |     12:06     |     2:00      |       330 KM       |    1     
+  12  |                 Maksi                  |        MKC         |     12:48     |     12:50     |     2:00      |       358 KM       |    1     
+  13  |                 Dewas                  |        DWX         |     13:23     |     13:25     |     2:00      |       394 KM       |    1     
+  14  |          Indore Junction Bg            |        INDB        |     14:15     |     Ends      |       -       |       433 KM       |    1     

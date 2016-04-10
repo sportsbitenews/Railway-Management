@@ -1,0 +1,21 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Yesvantpur Junction           |        YPR         |     Start     |     15:50     |       -       |        0 KM        |    1     
+  2   |               Hindupur                 |        HUP         |     17:18     |     17:20     |     2:00      |       96 KM        |    1     
+  3   |         Dharmavaram Junction           |        DMM         |     19:08     |     19:10     |     2:00      |       175 KM       |    1     
+  4   |               Anantapur                |        ATP         |     19:46     |     19:48     |     2:00      |       209 KM       |    1     
+  5   |                 Dhone                  |        DHNE        |     22:50     |     22:55     |     5:00      |       321 KM       |    1     
+  6   |             Kurnool Town               |        KRNT        |     23:50     |     23:52     |     2:00      |       374 KM       |    1     
+  7   |                Gadwal                  |        GWD         |     00:33     |     00:35     |     2:00      |       430 KM       |    2     
+  8   |              Mahbubnagar               |        MBNR        |     01:35     |     01:37     |     2:00      |       505 KM       |    2     
+  9   |               Kacheguda                |        KCG         |     03:50     |     04:00     |     10:00     |       610 KM       |    2     
+  10  |              Malkajgiri                |        MJF         |     04:13     |     04:15     |     2:00      |       619 KM       |    2     
+  11  |           Kazipet Junction             |        KZJ         |     06:38     |     06:40     |     2:00      |       748 KM       |    2     
+  12  |               Ramgundam                |        RDM         |     07:49     |     07:50     |     1:00      |       841 KM       |    2     
+  13  |            Sirpur Kagazngr             |        SKZR        |     08:49     |     08:50     |     1:00      |       913 KM       |    2     
+  14  |              Balharshah                |        BPQ         |     10:40     |     10:50     |     10:00     |       982 KM       |    2     
+  15  |                Nagpur                  |        NGP         |     13:45     |     13:55     |     10:00     |      1194 KM       |    2     
+  16  |            Itarsi Junction             |         ET         |     18:30     |     18:40     |     10:00     |      1491 KM       |    2     
+  17  |               Pipariya                 |        PPI         |     19:38     |     19:40     |     2:00      |      1558 KM       |    2     
+  18  |              Narsinghpur               |         NU         |     20:40     |     20:42     |     2:00      |      1652 KM       |    2     
+  19  |              Madan Mahal               |        MML         |     21:46     |     21:48     |     2:00      |      1732 KM       |    2     
+  20  |               Jabalpur                 |        JBP         |     22:15     |     Ends      |       -       |      1736 KM       |    2     

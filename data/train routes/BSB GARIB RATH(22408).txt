@@ -1,0 +1,10 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Anand Vihar Trm             |        ANVT        |     Start     |     18:15     |       -       |        0 KM        |    1     
+  2   |               Moradabad                |         MB         |     21:05     |     21:15     |     10:00     |       154 KM       |    1     
+  3   |               Bareilly                 |         BE         |     22:35     |     22:40     |     5:00      |       245 KM       |    1     
+  4   |              Lucknow Nr                |        LKO         |     02:25     |     02:35     |     10:00     |       480 KM       |    2     
+  5   |          Rae Bareli Junction           |        RBL         |     04:01     |     04:06     |     5:00      |       558 KM       |    2     
+  6   |                Amethi                  |        AME         |     04:53     |     04:55     |     2:00      |       618 KM       |    2     
+  7   |          Partapgarh Junction           |        PBH         |     05:40     |     05:45     |     5:00      |       653 KM       |    2     
+  8   |                Bhadohi                 |        BOY         |     06:48     |     06:50     |     2:00      |       736 KM       |    2     
+  9   |           Varanasi Junction            |        BSB         |     08:05     |     Ends      |       -       |       781 KM       |    2     

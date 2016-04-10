@@ -1,0 +1,31 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Okha                   |        OKHA        |     Start     |     06:40     |       -       |        0 KM        |    1     
+  2   |                Dwarka                  |        DWK         |     07:18     |     07:20     |     2:00      |       29 KM        |    1     
+  3   |              Khambhaliya               |        KMBL        |     08:33     |     08:35     |     2:00      |       114 KM       |    1     
+  4   |               Jamnagar                 |        JAM         |     09:31     |     09:33     |     2:00      |       168 KM       |    1     
+  5   |                 Hapa                   |        HAPA        |     09:48     |     09:50     |     2:00      |       177 KM       |    1     
+  6   |            Rajkot Junction             |        RJT         |     11:42     |     11:47     |     5:00      |       253 KM       |    1     
+  7   |             Surendranagar              |        SUNR        |     13:28     |     13:30     |     2:00      |       369 KM       |    1     
+  8   |           Viramgam Junction            |         VG         |     14:55     |     14:57     |     2:00      |       434 KM       |    1     
+  9   |          Ahmedabad Junction            |        ADI         |     16:10     |     16:30     |     20:00     |       499 KM       |    1     
+  10  |           Vadodara Junction            |        BRC         |     18:24     |     18:29     |     5:00      |       599 KM       |    1     
+  11  |                 Surat                  |         ST         |     20:15     |     20:25     |     10:00     |       728 KM       |    1     
+  12  |               Nandurbar                |        NDB         |     22:50     |     22:55     |     5:00      |       888 KM       |    1     
+  13  |           Bhusaval Junction            |        BSL         |     02:58     |     03:00     |     2:00      |      1063 KM       |    2     
+  14  |            Akola Junction              |         AK         |     04:48     |     04:50     |     2:00      |      1203 KM       |    2     
+  15  |           Badnera Junction             |         BD         |     06:43     |     06:45     |     2:00      |      1282 KM       |    2     
+  16  |                Nagpur                  |        NGP         |     09:50     |     10:00     |     10:00     |      1456 KM       |    2     
+  17  |            Gondia Junction             |         G          |     11:36     |     11:38     |     2:00      |      1586 KM       |    2     
+  18  |             Raj Nandgaon               |        RJN         |     13:00     |     13:02     |     2:00      |      1690 KM       |    2     
+  19  |                 Durg                   |        DURG        |     13:38     |     13:43     |     5:00      |      1720 KM       |    2     
+  20  |            Raipur Junction             |         R          |     14:20     |     14:30     |     10:00     |      1756 KM       |    2     
+  21  |               Bhatapara                |        BYT         |     15:21     |     15:23     |     2:00      |      1820 KM       |    2     
+  22  |           Bilaspur Junction            |        BSP         |     16:10     |     16:25     |     15:00     |      1867 KM       |    2     
+  23  |                Champa                  |        CPH         |     17:07     |     17:09     |     2:00      |      1919 KM       |    2     
+  24  |                Raigarh                 |        RIG         |     18:00     |     18:02     |     2:00      |      1999 KM       |    2     
+  25  |          Jharsuguda Junction           |        JSG         |     19:23     |     19:25     |     2:00      |      2072 KM       |    2     
+  26  |               Rourkela                 |        ROU         |     20:24     |     20:56     |     32:00     |      2174 KM       |    2     
+  27  |             Chakradharpur              |        CKP         |     22:15     |     22:20     |     5:00      |      2275 KM       |    2     
+  28  |          Tatanagar Junction            |        TATA        |     23:20     |     23:27     |     7:00      |      2337 KM       |    2     
+  29  |          Kharagpur Junction            |        KGP         |     01:25     |     01:30     |     5:00      |      2471 KM       |    3     
+  30  |            Howrah Junction             |        HWH         |     03:35     |     Ends      |       -       |      2586 KM       |    3     

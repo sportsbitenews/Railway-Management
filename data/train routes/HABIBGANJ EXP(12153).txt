@@ -1,0 +1,11 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Lokmanyatilak T             |        LTT         |     Start     |     16:25     |       -       |        0 KM        |    1     
+  2   |                 Thane                  |        TNA         |     16:43     |     16:45     |     2:00      |       18 KM        |    1     
+  3   |            Kalyan Junction             |        KYN         |     17:07     |     17:10     |     3:00      |       38 KM        |    1     
+  4   |               Igatpuri                 |        IGP         |     18:48     |     18:50     |     2:00      |       121 KM       |    1     
+  5   |           Bhusaval Junction            |        BSL         |     22:30     |     22:40     |     10:00     |       429 KM       |    1     
+  6   |                Khandwa                 |        KNW         |     01:05     |     01:10     |     5:00      |       552 KM       |    2     
+  7   |                 Harda                  |         HD         |     02:18     |     02:20     |     2:00      |       660 KM       |    2     
+  8   |            Itarsi Junction             |         ET         |     03:35     |     03:40     |     5:00      |       736 KM       |    2     
+  9   |              Hoshangabad               |        HBD         |     04:03     |     04:05     |     2:00      |       753 KM       |    2     
+  10  |               Habibganj                |        HBJ         |     05:30     |     Ends      |       -       |       821 KM       |    2     

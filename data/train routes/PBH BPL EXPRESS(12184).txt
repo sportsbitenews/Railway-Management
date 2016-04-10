@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Partapgarh Junction           |        PBH         |     Start     |     19:10     |       -       |        0 KM        |    1     
+  2   |                Amethi                  |        AME         |     19:42     |     19:44     |     2:00      |       36 KM        |    1     
+  3   |          Rae Bareli Junction           |        RBL         |     20:42     |     20:47     |     5:00      |       96 KM        |    1     
+  4   |              Lucknow Nr                |        LKO         |     22:35     |     22:50     |     15:00     |       173 KM       |    1     
+  5   |            Kanpur Central              |        CNB         |     00:15     |     00:20     |     5:00      |       247 KM       |    2     
+  6   |                 Orai                   |        ORAI        |     01:41     |     01:43     |     2:00      |       353 KM       |    2     
+  7   |            Jhansi Junction             |        JHS         |     03:35     |     03:45     |     10:00     |       467 KM       |    2     
+  8   |               Lalitpur                 |        LAR         |     04:48     |     04:50     |     2:00      |       557 KM       |    2     
+  9   |             Bina Junction              |        BINA        |     06:30     |     06:35     |     5:00      |       619 KM       |    2     
+  10  |                Vidisha                 |        BHS         |     07:30     |     07:32     |     2:00      |       705 KM       |    2     
+  11  |           Bhopal  Junction             |        BPL         |     08:50     |     Ends      |       -       |       758 KM       |    2     

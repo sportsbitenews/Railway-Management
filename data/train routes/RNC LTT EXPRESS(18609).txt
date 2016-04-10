@@ -1,0 +1,30 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Ranchi                  |        RNC         |     Start     |     21:05     |       -       |        0 KM        |    1     
+  2   |                 Muri                   |        MURI        |     22:15     |     22:20     |     5:00      |       66 KM        |    1     
+  3   |            Bokaro Stl City             |        BKSC        |     23:20     |     23:30     |     10:00     |       118 KM       |    1     
+  4   |              Chandrapura               |        CRP         |     23:56     |     23:57     |     1:00      |       133 KM       |    1     
+  5   |            Gomoh Junction              |        GMO         |     00:20     |     00:30     |     10:00     |       150 KM       |    2     
+  6   |            Hazaribagh Road             |        HZD         |     01:00     |     01:02     |     2:00      |       195 KM       |    2     
+  7   |                Koderma                 |        KQR         |     01:38     |     01:40     |     2:00      |       243 KM       |    2     
+  8   |             Gaya Junction              |        GAYA        |     03:10     |     03:15     |     5:00      |       319 KM       |    2     
+  9   |            Anugraha N Road             |        AUBR        |     04:07     |     04:09     |     2:00      |       388 KM       |    2     
+  10  |             Dehri On Sone              |        DOS         |     04:24     |     04:26     |     2:00      |       405 KM       |    2     
+  11  |                Sasaram                 |        SSM         |     04:40     |     04:41     |     1:00      |       422 KM       |    2     
+  12  |              Bhabua Road               |        BBU         |     05:15     |     05:17     |     2:00      |       470 KM       |    2     
+  13  |         Mughal Sarai Junction          |        MGS         |     06:50     |     07:00     |     10:00     |       523 KM       |    2     
+  14  |           Varanasi Junction            |        BSB         |     07:45     |     08:00     |     15:00     |       539 KM       |    2     
+  15  |             Gyanpur Road               |        GYN         |     09:47     |     09:48     |     1:00      |       599 KM       |    2     
+  16  |          Allahabad Junction            |        ALD         |     11:50     |     12:20     |     30:00     |       664 KM       |    2     
+  17  |                 Satna                  |        STA         |     15:40     |     15:50     |     10:00     |       842 KM       |    2     
+  18  |                 Katni                  |        KTE         |     17:00     |     17:05     |     5:00      |       940 KM       |    2     
+  19  |               Jabalpur                 |        JBP         |     19:20     |     19:30     |     10:00     |      1031 KM       |    2     
+  20  |              Narsinghpur               |         NU         |     20:39     |     20:41     |     2:00      |      1115 KM       |    2     
+  21  |               Pipariya                 |        PPI         |     21:45     |     21:47     |     2:00      |      1209 KM       |    2     
+  22  |            Itarsi Junction             |         ET         |     23:35     |     23:45     |     10:00     |      1276 KM       |    2     
+  23  |                Khandwa                 |        KNW         |     02:30     |     02:35     |     5:00      |      1459 KM       |    3     
+  24  |           Bhusaval Junction            |        BSL         |     04:10     |     04:20     |     10:00     |      1583 KM       |    3     
+  25  |            Manmad Junction             |        MMR         |     06:35     |     06:40     |     5:00      |      1767 KM       |    3     
+  26  |              Nasik Road                |         NK         |     07:49     |     07:50     |     1:00      |      1840 KM       |    3     
+  27  |               Igatpuri                 |        IGP         |     09:09     |     09:10     |     1:00      |      1890 KM       |    3     
+  28  |            Kalyan Junction             |        KYN         |     10:57     |     11:00     |     3:00      |      1974 KM       |    3     
+  29  |            Lokmanyatilak T             |        LTT         |     12:05     |     Ends      |       -       |      2011 KM       |    3     

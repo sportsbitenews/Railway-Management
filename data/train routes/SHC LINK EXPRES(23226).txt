@@ -1,0 +1,18 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Rjndr Ngr Bihar             |        RJPB        |     Start     |     07:20     |       -       |        0 KM        |    1     
+  2   |              Patna Saheb               |        PNC         |     07:34     |     07:35     |     1:00      |        8 KM        |    1     
+  3   |                 Fatwa                  |        FUT         |     07:46     |     07:47     |     1:00      |       20 KM        |    1     
+  4   |         Bakhtiyarpur Junction          |        BKP         |     08:13     |     08:15     |     2:00      |       44 KM        |    1     
+  5   |                 Barh                   |        BARH        |     08:31     |     08:32     |     1:00      |       62 KM        |    1     
+  6   |           Mokameh Junction             |        MKA         |     09:05     |     09:07     |     2:00      |       87 KM        |    1     
+  7   |           Barauni Junction             |        BJU         |     10:15     |     10:35     |     20:00     |       108 KM       |    1     
+  8   |              Begu Sarai                |        BGS         |     10:51     |     10:52     |     1:00      |       124 KM       |    1     
+  9   |         Sahibpur Kml Junction          |        SKJ         |     11:14     |     11:16     |     2:00      |       151 KM       |    1     
+  10  |           Khagaria Junction            |        KGG         |     11:43     |     11:45     |     2:00      |       164 KM       |    1     
+  11  |            Mansi Junction              |        MNE         |     12:22     |     12:23     |     1:00      |       173 KM       |    1     
+  12  |              Badla Ghat                |        BHB         |     12:33     |     12:35     |     2:00      |       181 KM       |    1     
+  13  |             Dhamara Ghat               |        DHT         |     12:46     |     12:48     |     2:00      |       186 KM       |    1     
+  14  |                Koparia                 |        KFA         |     13:07     |     13:09     |     2:00      |       194 KM       |    1     
+  15  |            S Bhakhtiyarpur             |        SBV         |     13:18     |     13:20     |     2:00      |       200 KM       |    1     
+  16  |            Sonbarsa Kcheri             |        SBM         |     13:31     |     13:33     |     2:00      |       208 KM       |    1     
+  17  |           Saharsa Junction             |        SHC         |     14:15     |     Ends      |       -       |       217 KM       |    1     

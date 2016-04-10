@@ -1,0 +1,22 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Chhapra                 |        CPR         |     Start     |     11:15     |       -       |        0 KM        |    1     
+  2   |                Ballia                  |        BUI         |     12:30     |     12:35     |     5:00      |       66 KM        |    1     
+  3   |               Yusufpur                 |        YFP         |     13:15     |     13:17     |     2:00      |       111 KM       |    1     
+  4   |             Ghazipur City              |        GCT         |     13:38     |     13:43     |     5:00      |       131 KM       |    1     
+  5   |           Aunrihar Junction            |        ARJ         |     14:45     |     14:50     |     5:00      |       171 KM       |    1     
+  6   |                 DODHI                  |        DHE         |     15:12     |     15:14     |     2:00      |       193 KM       |    1     
+  7   |               MUFTIGANJ                |        MFJ         |     15:43     |     15:45     |     2:00      |       213 KM       |    1     
+  8   |           Jaunpur Junction             |        JNU         |     16:15     |     16:40     |     25:00     |       230 KM       |    1     
+  9   |           Shahganj Junction            |        SHG         |     17:10     |     17:19     |     9:00      |       263 KM       |    1     
+  10  |           Faizabad Junction            |         FD         |     18:55     |     19:00     |     5:00      |       368 KM       |    1     
+  11  |              Lucknow Nr                |        LKO         |     22:20     |     22:40     |     20:00     |       496 KM       |    1     
+  12  |                Hardoi                  |        HRI         |     00:11     |     00:13     |     2:00      |       597 KM       |    2     
+  13  |             Shahjehanpur               |        SPN         |     02:40     |     02:45     |     5:00      |       660 KM       |    2     
+  14  |                 Aonla                  |         AO         |     04:36     |     04:38     |     2:00      |       753 KM       |    2     
+  15  |          Chandausi Junction            |         CH         |     06:05     |     06:10     |     5:00      |       795 KM       |    2     
+  16  |               Moradabad                |         MB         |     07:30     |     07:45     |     15:00     |       839 KM       |    2     
+  17  |                Amroha                  |        AMRO        |     08:13     |     08:15     |     2:00      |       869 KM       |    2     
+  18  |                 Hapur                  |        HPU         |     09:58     |     10:00     |     2:00      |       943 KM       |    2     
+  19  |               Ghaziabad                |        GZB         |     11:07     |     11:09     |     2:00      |       980 KM       |    2     
+  20  |            Delhi Shahdara              |        DSA         |     11:30     |     11:32     |     2:00      |       994 KM       |    2     
+  21  |                 Delhi                  |        DLI         |     11:55     |     Ends      |       -       |      1000 KM       |    2     

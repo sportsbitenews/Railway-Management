@@ -1,0 +1,6 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               New Delhi                |        NDLS        |     Start     |     20:40     |       -       |        0 KM        |    1     
+  2   |           Ludhiana Junction            |        LDH         |     00:57     |     01:07     |     10:00     |       312 KM       |    2     
+  3   |            Pathankot Cantt             |        PTKC        |     03:35     |     03:40     |     5:00      |       478 KM       |    2     
+  4   |                Kathua                  |        KTHU        |     04:08     |     04:10     |     2:00      |       501 KM       |    2     
+  5   |              Jammu Tawi                |        JAT         |     05:45     |     Ends      |       -       |       577 KM       |    2     

@@ -1,0 +1,25 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Chandigarh                |        CDG         |     Start     |     05:40     |       -       |        0 KM        |    1     
+  2   |         Ambala Cant Junction           |        UMB         |     06:30     |     06:40     |     10:00     |       68 KM        |    1     
+  3   |                Karnal                  |        KUN         |     07:34     |     07:36     |     2:00      |       143 KM       |    1     
+  4   |           Panipat Junction             |        PNP         |     08:03     |     08:05     |     2:00      |       177 KM       |    1     
+  5   |              Delhi Cantt               |        DEC         |     10:00     |     10:02     |     2:00      |       271 KM       |    1     
+  6   |                Gurgaon                 |        GGN         |     10:21     |     10:23     |     2:00      |       288 KM       |    1     
+  7   |                Rewari                  |         RE         |     11:35     |     11:37     |     2:00      |       340 KM       |    1     
+  8   |                Narnaul                 |        NNL         |     12:16     |     12:18     |     2:00      |       391 KM       |    1     
+  9   |             Nim Ka Thana               |        NMK         |     13:00     |     13:02     |     2:00      |       441 KM       |    1     
+  10  |            Ringas Junction             |        RGS         |     13:50     |     13:53     |     3:00      |       488 KM       |    1     
+  11  |           Phulera Junction             |         FL         |     14:55     |     15:05     |     10:00     |       555 KM       |    1     
+  12  |            Ajmer Junction              |        AII         |     16:30     |     16:40     |     10:00     |       635 KM       |    1     
+  13  |            Marwar Junction             |         MJ         |     18:28     |     18:31     |     3:00      |       775 KM       |    1     
+  14  |                 Falna                  |         FA         |     19:15     |     19:17     |     2:00      |       841 KM       |    1     
+  15  |               Abu Road                 |        ABR         |     21:10     |     21:20     |     10:00     |       940 KM       |    1     
+  16  |           Palanpur Junction            |        PNU         |     22:15     |     22:17     |     2:00      |       992 KM       |    1     
+  17  |           Mahesana Junction            |        MSH         |     23:10     |     23:12     |     2:00      |      1058 KM       |    1     
+  18  |          Ahmedabad Junction            |        ADI         |     01:05     |     01:30     |     25:00     |      1125 KM       |    2     
+  19  |            Anand Junction              |        ANND        |     02:23     |     02:25     |     2:00      |      1189 KM       |    2     
+  20  |           Vadodara Junction            |        BRC         |     03:12     |     03:17     |     5:00      |      1225 KM       |    2     
+  21  |           Bharuch Junction             |         BH         |     04:13     |     04:15     |     2:00      |      1295 KM       |    2     
+  22  |                 Surat                  |         ST         |     05:15     |     05:20     |     5:00      |      1354 KM       |    2     
+  23  |               Borivali                 |        BVI         |     08:32     |     08:34     |     2:00      |      1587 KM       |    2     
+  24  |            Bandra Terminus             |        BDTS        |     09:20     |     Ends      |       -       |      1605 KM       |    2     

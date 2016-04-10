@@ -1,0 +1,62 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Tirupati                 |        TPTY        |     Start     |     05:25     |       -       |        0 KM        |    1     
+  2   |          Renigunta Junction            |         RU         |     05:40     |     05:42     |     2:00      |       10 KM        |    1     
+  3   |             Sri Kalahasti              |        KHT         |     06:04     |     06:05     |     1:00      |       33 KM        |    1     
+  4   |              Venkatagiri               |        VKI         |     06:23     |     06:24     |     1:00      |       58 KM        |    1     
+  5   |                Vendodu                 |        VDD         |     06:37     |     06:38     |     1:00      |       74 KM        |    1     
+  6   |            Gudur Junction              |        GDR         |     07:40     |     07:42     |     2:00      |       93 KM        |    1     
+  7   |              Vedayapalem               |        VDE         |     08:02     |     08:03     |     1:00      |       125 KM       |    1     
+  8   |                Nellore                 |        NLR         |     08:09     |     08:11     |     2:00      |       132 KM       |    1     
+  9   |              Bitragunta                |        BTTR        |     08:37     |     08:38     |     1:00      |       166 KM       |    1     
+  10  |                Kavali                  |        KVZ         |     08:52     |     08:53     |     1:00      |       182 KM       |    1     
+  11  |            Singarayakonda              |        SKM         |     09:17     |     09:18     |     1:00      |       220 KM       |    1     
+  12  |               Tanguturu                |        TNR         |     09:26     |     09:27     |     1:00      |       229 KM       |    1     
+  13  |                Ongole                  |        OGL         |     09:57     |     09:58     |     1:00      |       248 KM       |    1     
+  14  |              Ammanabrolu               |        ANB         |     10:12     |     10:13     |     1:00      |       263 KM       |    1     
+  15  |             Chinna Ganjam              |        CJM         |     10:24     |     10:25     |     1:00      |       277 KM       |    1     
+  16  |              Vetapalemu                |        VTM         |     10:34     |     10:35     |     1:00      |       289 KM       |    1     
+  17  |                Chirala                 |        CLX         |     10:41     |     10:42     |     1:00      |       297 KM       |    1     
+  18  |                Bapatla                 |        BPP         |     10:53     |     10:54     |     1:00      |       312 KM       |    1     
+  19  |               Nidubrolu                |        NDO         |     11:21     |     11:22     |     1:00      |       333 KM       |    1     
+  20  |            Tenali Junction             |        TEL         |     11:48     |     11:50     |     2:00      |       355 KM       |    1     
+  21  |               Duggirala                |        DIG         |     11:59     |     12:00     |     1:00      |       364 KM       |    1     
+  22  |            Peddavadiapudi              |        PVD         |     12:07     |     12:08     |     1:00      |       374 KM       |    1     
+  23  |          Vijayawada Junction           |        BZA         |     13:15     |     13:30     |     15:00     |       386 KM       |    1     
+  24  |              Kondapalli                |         KI         |     13:52     |     13:53     |     1:00      |       404 KM       |    1     
+  25  |               Errupalem                |         YP         |     14:15     |     14:16     |     1:00      |       428 KM       |    1     
+  26  |                Madhira                 |        MDR         |     14:28     |     14:29     |     1:00      |       443 KM       |    1     
+  27  |               Bona Kalu                |        BKL         |     14:41     |     14:42     |     1:00      |       459 KM       |    1     
+  28  |                Khammam                 |        KMT         |     14:54     |     14:56     |     2:00      |       487 KM       |    1     
+  29  |           Dornakal Junction            |        DKJ         |     15:24     |     15:25     |     1:00      |       510 KM       |    1     
+  30  |                 Garla                  |        GLA         |     15:30     |     15:31     |     1:00      |       515 KM       |    1     
+  31  |              Mahbubabad                |        MABD        |     15:47     |     15:48     |     1:00      |       534 KM       |    1     
+  32  |              Kesamudram                |        KDM         |     15:59     |     16:00     |     1:00      |       550 KM       |    1     
+  33  |                Nekonda                 |        NKD         |     16:12     |     16:13     |     1:00      |       565 KM       |    1     
+  34  |               Warangal                 |         WL         |     16:55     |     16:57     |     2:00      |       595 KM       |    1     
+  35  |           Kazipet Junction             |        KZJ         |     17:18     |     17:20     |     2:00      |       605 KM       |    1     
+  36  |                Ghanpur                 |        GNP         |     17:41     |     17:42     |     1:00      |       625 KM       |    1     
+  37  |            Raghunathpalli              |        RGP         |     17:57     |     17:58     |     1:00      |       641 KM       |    1     
+  38  |                Jangaon                 |         ZN         |     18:06     |     18:07     |     1:00      |       653 KM       |    1     
+  39  |               Pembarti                 |        PBP         |     18:13     |     18:14     |     1:00      |       658 KM       |    1     
+  40  |                 Aler                   |        ALER        |     18:23     |     18:24     |     1:00      |       667 KM       |    1     
+  41  |                Raigir                  |        RAG         |     18:48     |     18:49     |     1:00      |       684 KM       |    1     
+  42  |                Bhongir                 |         BG         |     18:55     |     18:56     |     1:00      |       690 KM       |    1     
+  43  |              Charlapalli               |        CHZ         |     19:25     |     19:26     |     1:00      |       724 KM       |    1     
+  44  |               Maula Ali                |        MLY         |     19:35     |     19:36     |     1:00      |       731 KM       |    1     
+  45  |         Secunderabad Junction          |         SC         |     20:40     |     21:10     |     30:00     |       737 KM       |    1     
+  46  |              Malkajgiri                |        MJF         |     21:24     |     21:25     |     1:00      |       740 KM       |    1     
+  47  |                Bolarum                 |        BMO         |     21:41     |     21:42     |     1:00      |       750 KM       |    1     
+  48  |               Mirzapali                |        MZL         |     22:29     |     22:30     |     1:00      |       809 KM       |    1     
+  49  |               Akanapet                 |        AKE         |     22:38     |     22:39     |     1:00      |       819 KM       |    1     
+  50  |               Kamareddi                |        KMC         |     23:00     |     23:02     |     2:00      |       845 KM       |    1     
+  51  |               Nizamabad                |        NZB         |     00:01     |     00:05     |     4:00      |       897 KM       |    2     
+  52  |                 Basar                  |        BSX         |     00:30     |     00:32     |     2:00      |       926 KM       |    2     
+  53  |               Dharmabad                |        DAB         |     00:41     |     00:42     |     1:00      |       936 KM       |    2     
+  54  |                 Umri                   |        UMRI        |     01:07     |     01:08     |     1:00      |       966 KM       |    2     
+  55  |                Mudkhed                 |        MUE         |     02:30     |     02:40     |     10:00     |       985 KM       |    2     
+  56  |                Bhokar                  |        BOKR        |     03:18     |     03:20     |     2:00      |      1017 KM       |    2     
+  57  |             Himayatnagar               |        HEM         |     03:48     |     03:50     |     2:00      |      1071 KM       |    2     
+  58  |             Saharsrakund               |        SHSK        |     04:04     |     04:05     |     1:00      |      1094 KM       |    2     
+  59  |            Bodhadi Bujrug              |        BHBK        |     04:39     |     04:40     |     1:00      |      1139 KM       |    2     
+  60  |                Kinwat                  |        KNVT        |     04:58     |     05:00     |     2:00      |      1161 KM       |    2     
+  61  |               Adilabad                 |        ADB         |     06:15     |     Ends      |       -       |      1228 KM       |    2     

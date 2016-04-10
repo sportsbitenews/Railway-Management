@@ -1,0 +1,14 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Bhatinda Junction            |        BTI         |     Start     |     21:05     |       -       |        0 KM        |    1     
+  2   |               Bhuchchu                 |        BCU         |     21:23     |     21:25     |     2:00      |       18 KM        |    1     
+  3   |             Rampura Phul               |        PUL         |     21:46     |     21:48     |     2:00      |       33 KM        |    1     
+  4   |                 Tapa                   |        TAPA        |     22:01     |     22:03     |     2:00      |       46 KM        |    1     
+  5   |                Barnala                 |        BNN         |     22:36     |     22:38     |     2:00      |       65 KM        |    1     
+  6   |            Dhuri Junction              |        DUI         |     23:03     |     23:05     |     2:00      |       96 KM        |    1     
+  7   |                 Nabha                  |        NBA         |     23:28     |     23:30     |     2:00      |       123 KM       |    1     
+  8   |                Patiala                 |        PTA         |     23:55     |     23:57     |     2:00      |       149 KM       |    1     
+  9   |           Rajpura Junction             |        RPJ         |     01:05     |     01:33     |     28:00     |       174 KM       |    2     
+  10  |           Ludhiana Junction            |        LDH         |     02:48     |     02:58     |     10:00     |       260 KM       |    2     
+  11  |            Jalandhar Cant              |        JRC         |     03:47     |     03:50     |     3:00      |       312 KM       |    2     
+  12  |            Pathankot Cantt             |        PTKC        |     05:30     |     05:33     |     3:00      |       425 KM       |    2     
+  13  |              Jammu Tawi                |        JAT         |     07:20     |     Ends      |       -       |       524 KM       |    2     

@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Sultanpur                |        SLN         |     Start     |     15:30     |       -       |        0 KM        |    1     
+  2   |             Musafir Khana              |        MFKA        |     15:54     |     15:56     |     2:00      |       32 KM        |    1     
+  3   |               Nihalgarh                |        NHH         |     16:12     |     16:14     |     2:00      |       51 KM        |    1     
+  4   |              Lucknow Nr                |        LKO         |     18:35     |     18:50     |     15:00     |       140 KM       |    1     
+  5   |               Alamnagar                |        AMG         |     19:18     |     19:20     |     2:00      |       146 KM       |    1     
+  6   |                Hardoi                  |        HRI         |     20:30     |     20:32     |     2:00      |       242 KM       |    1     
+  7   |             Shahjehanpur               |        SPN         |     21:42     |     21:47     |     5:00      |       305 KM       |    1     
+  8   |                 Aonla                  |         AO         |     23:18     |     23:20     |     2:00      |       398 KM       |    1     
+  9   |          Chandausi Junction            |         CH         |     00:05     |     00:10     |     5:00      |       440 KM       |    2     
+  10  |               Moradabad                |         MB         |     01:10     |     01:20     |     10:00     |       484 KM       |    2     
+  11  |                Amroha                  |        AMRO        |     01:48     |     01:50     |     2:00      |       514 KM       |    2     
+  12  |                 Hapur                  |        HPU         |     02:50     |     02:52     |     2:00      |       588 KM       |    2     
+  13  |                Pilkhua                 |        PKW         |     03:06     |     03:08     |     2:00      |       599 KM       |    2     
+  14  |               Ghaziabad                |        GZB         |     04:00     |     04:02     |     2:00      |       625 KM       |    2     
+  15  |                 Delhi                  |        DLI         |     04:50     |     Ends      |       -       |       645 KM       |    2     

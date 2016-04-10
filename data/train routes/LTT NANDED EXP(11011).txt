@@ -1,0 +1,17 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Lokmanyatilak T             |        LTT         |     Start     |     12:05     |       -       |        0 KM        |    1     
+  2   |                 Thane                  |        TNA         |     12:31     |     12:33     |     2:00      |       18 KM        |    1     
+  3   |            Kalyan Junction             |        KYN         |     12:53     |     12:55     |     2:00      |       38 KM        |    1     
+  4   |               Lonavala                 |        LNL         |     14:23     |     14:25     |     2:00      |       112 KM       |    1     
+  5   |             Pune Junction              |        PUNE        |     15:30     |     15:35     |     5:00      |       176 KM       |    1     
+  6   |               Kurduvadi                |        KWV         |     18:15     |     18:20     |     5:00      |       361 KM       |    1     
+  7   |              Barsi Town                |        BTW         |     19:05     |     19:07     |     2:00      |       398 KM       |    1     
+  8   |               Usmanabad                |        UMD         |     19:46     |     19:51     |     5:00      |       435 KM       |    1     
+  9   |                 Latur                  |        LUR         |     21:20     |     21:30     |     10:00     |       514 KM       |    1     
+  10  |              Latur Road                |        LTRR        |     22:15     |     22:35     |     20:00     |       547 KM       |    1     
+  11  |                Pangaon                 |        PNF         |     23:28     |     23:30     |     2:00      |       574 KM       |    1     
+  12  |            Parli Vaijnath              |        PRLI        |     00:40     |     00:50     |     10:00     |       610 KM       |    2     
+  13  |               Gangakher                |        GNH         |     01:24     |     01:25     |     1:00      |       639 KM       |    2     
+  14  |           Parbhani Junction            |        PBN         |     02:18     |     02:20     |     2:00      |       674 KM       |    2     
+  15  |            Purna Junction              |        PAU         |     03:00     |     03:05     |     5:00      |       702 KM       |    2     
+  16  |                Nanded                  |        NED         |     04:45     |     Ends      |       -       |       733 KM       |    2     

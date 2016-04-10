@@ -1,0 +1,20 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Kanpur Central              |        CNB         |     Start     |     18:20     |       -       |        0 KM        |    1     
+  2   |               Ghatampur                |        GTM         |     19:12     |     19:14     |     2:00      |       47 KM        |    1     
+  3   |                Ragaul                  |        RGU         |     20:01     |     20:03     |     2:00      |       103 KM       |    1     
+  4   |            Banda Junction              |        BNDA        |     21:00     |     21:08     |     8:00      |       144 KM       |    1     
+  5   |                Atarra                  |        ATE         |     21:31     |     21:33     |     2:00      |       176 KM       |    1     
+  6   |               Chitrakot                |        CKTD        |     22:00     |     22:02     |     2:00      |       213 KM       |    1     
+  7   |                 Satna                  |        STA         |     00:25     |     00:35     |     10:00     |       321 KM       |    2     
+  8   |                Maihar                  |        MYR         |     00:58     |     01:00     |     2:00      |       356 KM       |    2     
+  9   |                 Katni                  |        KTE         |     02:30     |     02:50     |     20:00     |       419 KM       |    2     
+  10  |                Umaria                  |        UMR         |     03:51     |     03:53     |     2:00      |       479 KM       |    2     
+  11  |              Birsinghpur               |        BRS         |     04:15     |     04:17     |     2:00      |       509 KM       |    2     
+  12  |                Shahdol                 |        SDL         |     05:15     |     05:20     |     5:00      |       546 KM       |    2     
+  13  |           Anuppur Junction             |        APR         |     06:00     |     06:05     |     5:00      |       587 KM       |    2     
+  14  |              Pendra Road               |        PND         |     06:45     |     06:50     |     5:00      |       637 KM       |    2     
+  15  |           Bilaspur Junction            |        BSP         |     09:35     |     10:20     |     45:00     |       738 KM       |    2     
+  16  |               Bhatapara                |        BYT         |     10:56     |     10:58     |     2:00      |       785 KM       |    2     
+  17  |                 Tilda                  |        TLD         |     11:16     |     11:18     |     2:00      |       811 KM       |    2     
+  18  |            Raipur Junction             |         R          |     12:05     |     12:15     |     10:00     |       849 KM       |    2     
+  19  |                 Durg                   |        DURG        |     13:10     |     Ends      |       -       |       885 KM       |    2     

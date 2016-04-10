@@ -1,0 +1,6 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Bijapur                 |        BJP         |     Start     |     14:50     |       -       |        0 KM        |    1     
+  2   |                Nimbal                  |        NBL         |     15:25     |     15:26     |     1:00      |       37 KM        |    1     
+  3   |               Indi Road                |        IDR         |     15:44     |     15:45     |     1:00      |       51 KM        |    1     
+  4   |                 Hotgi                  |         HG         |     17:23     |     17:25     |     2:00      |       94 KM        |    1     
+  5   |           Solapur Junction             |        SUR         |     17:40     |     Ends      |       -       |       109 KM       |    1     

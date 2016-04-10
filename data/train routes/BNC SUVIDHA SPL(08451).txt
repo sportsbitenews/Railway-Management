@@ -1,0 +1,10 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Bhubaneswar               |        BBS         |     Start     |     22:50     |       -       |        0 KM        |    1     
+  2   |               Brahmapur                |        BAM         |     01:10     |     01:12     |     2:00      |       166 KM       |    2     
+  3   |             Vishakapatnam              |        VSKP        |     05:10     |     05:30     |     20:00     |       443 KM       |    2     
+  4   |              Rajamundry                |        RJY         |     08:10     |     08:12     |     2:00      |       644 KM       |    2     
+  5   |          Vijayawada Junction           |        BZA         |     11:10     |     11:20     |     10:00     |       793 KM       |    2     
+  6   |                Ongole                  |        OGL         |     13:08     |     13:10     |     2:00      |       932 KM       |    2     
+  7   |          Renigunta Junction            |         RU         |     17:00     |     17:10     |     10:00     |      1169 KM       |    2     
+  8   |              Jolarpettai               |        JTJ         |     20:35     |     20:37     |     2:00      |      1386 KM       |    2     
+  9   |            Bangalore Cant              |        BNC         |     22:40     |     Ends      |       -       |      1530 KM       |    2     

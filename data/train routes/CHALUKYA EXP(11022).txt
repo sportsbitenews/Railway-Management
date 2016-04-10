@@ -1,0 +1,40 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Tirunelveli               |        TEN         |     Start     |     14:45     |       -       |        0 KM        |    1     
+  2   |         Maniyachchi Junction           |        MEJ         |     15:10     |     15:11     |     1:00      |       29 KM        |    1     
+  3   |              Kovilpatti                |        CVP         |     15:44     |     15:45     |     1:00      |       66 KM        |    1     
+  4   |                 Satur                  |        SRT         |     16:04     |     16:05     |     1:00      |       87 KM        |    1     
+  5   |         Virudunagar Junction           |        VPT         |     16:23     |     16:25     |     2:00      |       114 KM       |    1     
+  6   |           Madurai Junction             |        MDU         |     17:25     |     17:30     |     5:00      |       157 KM       |    1     
+  7   |           Dindigul Junction            |         DG         |     18:45     |     18:50     |     5:00      |       223 KM       |    1     
+  8   |                 Karur                  |        KRR         |     20:06     |     20:10     |     4:00      |       297 KM       |    1     
+  9   |            Erode Junction              |         ED         |     21:25     |     21:35     |     10:00     |       362 KM       |    1     
+  10  |            Salem Junction              |         SA         |     22:30     |     22:35     |     5:00      |       425 KM       |    1     
+  11  |              Dharmapuri                |        DPJ         |     00:33     |     00:35     |     2:00      |       491 KM       |    2     
+  12  |                 Hosur                  |        HSRA        |     02:08     |     02:10     |     2:00      |       583 KM       |    2     
+  13  |               Banaswadi                |        BAND        |     03:18     |     03:20     |     2:00      |       635 KM       |    2     
+  14  |          Yesvantpur Junction           |        YPR         |     04:15     |     06:30     |    135:00     |       649 KM       |    2     
+  15  |                Tumkur                  |         TK         |     07:30     |     07:32     |     2:00      |       714 KM       |    2     
+  16  |                Tiptur                  |        TTR         |     08:40     |     08:42     |     2:00      |       784 KM       |    2     
+  17  |           Arsikere Junction            |        ASK         |     09:10     |     09:15     |     5:00      |       809 KM       |    2     
+  18  |                 Kadur                  |        DRU         |     09:48     |     09:50     |     2:00      |       849 KM       |    2     
+  19  |            Birur Junction              |        RRB         |     10:03     |     10:05     |     2:00      |       855 KM       |    2     
+  20  |               Davangere                |        DVG         |     11:43     |     11:45     |     2:00      |       969 KM       |    2     
+  21  |                Harihar                 |        HRR         |     12:03     |     12:05     |     2:00      |       983 KM       |    2     
+  22  |              Ranibennur                |        RNR         |     12:28     |     12:30     |     2:00      |      1006 KM       |    2     
+  23  |                Haveri                  |        HVR         |     13:00     |     13:02     |     2:00      |      1038 KM       |    2     
+  24  |            Hubli Junction              |        UBL         |     15:05     |     15:15     |     10:00     |      1113 KM       |    2     
+  25  |                Dharwar                 |        DWR         |     15:38     |     15:40     |     2:00      |      1133 KM       |    2     
+  26  |           Alnavar Junction             |        LWR         |     16:18     |     16:20     |     2:00      |      1170 KM       |    2     
+  27  |            Londa Junction              |         LD         |     17:08     |     17:10     |     2:00      |      1204 KM       |    2     
+  28  |                Belgaum                 |        BGM         |     18:03     |     18:05     |     2:00      |      1254 KM       |    2     
+  29  |              Ghatprabha                |        GPB         |     18:54     |     18:55     |     1:00      |      1313 KM       |    2     
+  30  |                Kudachi                 |        KUD         |     19:39     |     19:40     |     1:00      |      1359 KM       |    2     
+  31  |            Miraj Junction              |        MRJ         |     20:45     |     20:50     |     5:00      |      1392 KM       |    2     
+  32  |                Sangli                  |        SLI         |     21:02     |     21:05     |     3:00      |      1399 KM       |    2     
+  33  |                Takari                  |        TKR         |     21:39     |     21:40     |     1:00      |      1441 KM       |    2     
+  34  |                 Karad                  |        KRD         |     22:06     |     22:08     |     2:00      |      1467 KM       |    2     
+  35  |                Satara                  |        STR         |     23:05     |     23:08     |     3:00      |      1526 KM       |    2     
+  36  |             Pune Junction              |        PUNE        |     02:10     |     02:20     |     10:00     |      1671 KM       |    3     
+  37  |               Lonavala                 |        LNL         |     03:24     |     03:25     |     1:00      |      1735 KM       |    3     
+  38  |            Kalyan Junction             |        KYN         |     04:48     |     04:50     |     2:00      |      1809 KM       |    3     
+  39  |                 Dadar                  |         DR         |     05:45     |     Ends      |       -       |      1854 KM       |    3     

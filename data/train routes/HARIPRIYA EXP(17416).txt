@@ -1,0 +1,33 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            C Shahumharaj T             |        KOP         |     Start     |     11:35     |       -       |        0 KM        |    1     
+  2   |              Hatkanagale               |        HTK         |     11:58     |     12:00     |     2:00      |       21 KM        |    1     
+  3   |            Miraj Junction              |        MRJ         |     13:10     |     13:25     |     15:00     |       48 KM        |    1     
+  4   |                Kudachi                 |        KUD         |     13:53     |     13:55     |     2:00      |       81 KM        |    1     
+  5   |                Raybag                  |        RBG         |     14:13     |     14:15     |     2:00      |       98 KM        |    1     
+  6   |              Ghatprabha                |        GPB         |     14:43     |     14:45     |     2:00      |       127 KM       |    1     
+  7   |                Belgaum                 |        BGM         |     15:45     |     15:50     |     5:00      |       185 KM       |    1     
+  8   |               Khanapur                 |        KNP         |     16:13     |     16:15     |     2:00      |       210 KM       |    1     
+  9   |            Londa Junction              |         LD         |     16:48     |     16:50     |     2:00      |       236 KM       |    1     
+  10  |           Alnavar Junction             |        LWR         |     17:38     |     17:40     |     2:00      |       270 KM       |    1     
+  11  |                Dharwar                 |        DWR         |     18:20     |     18:22     |     2:00      |       306 KM       |    1     
+  12  |            Hubli Junction              |        UBL         |     19:10     |     19:20     |     10:00     |       326 KM       |    1     
+  13  |            Gadag Junction              |        GDG         |     20:28     |     20:30     |     2:00      |       384 KM       |    1     
+  14  |                Koppal                  |        KBL         |     21:28     |     21:30     |     2:00      |       442 KM       |    1     
+  15  |            Hospet Junction             |        HPT         |     22:03     |     22:05     |     2:00      |       470 KM       |    1     
+  16  |              Toranagallu               |        TNGL        |     22:48     |     22:50     |     2:00      |       502 KM       |    1     
+  17  |           Bellary Junction             |        BAY         |     23:50     |     23:55     |     5:00      |       535 KM       |    1     
+  18  |           Guntakal Junction            |        GTL         |     00:50     |     00:55     |     5:00      |       585 KM       |    2     
+  19  |                 Gooty                  |         GY         |     01:38     |     01:40     |     2:00      |       614 KM       |    2     
+  20  |               Tadipatri                |         TU         |     02:18     |     02:20     |     2:00      |       662 KM       |    2     
+  21  |              Kondapuram                |        KDP         |     02:48     |     02:50     |     2:00      |       690 KM       |    2     
+  22  |               Muddanuru                |        MOO         |     03:08     |     03:10     |     2:00      |       715 KM       |    2     
+  23  |              Yerraguntla               |         YA         |     03:25     |     03:27     |     2:00      |       731 KM       |    2     
+  24  |              Kamalapuram               |        KKM         |     03:43     |     03:45     |     2:00      |       746 KM       |    2     
+  25  |               Cuddapah                 |         HX         |     04:18     |     04:20     |     2:00      |       770 KM       |    2     
+  26  |               Nandalur                 |        NRE         |     04:48     |     04:50     |     2:00      |       810 KM       |    2     
+  27  |               Razampeta                |        RJP         |     05:03     |     05:05     |     2:00      |       821 KM       |    2     
+  28  |               Pullampet                |        PMT         |     05:16     |     05:18     |     2:00      |       830 KM       |    2     
+  29  |            Obulavaripalli              |        OBVP        |     05:28     |     05:30     |     2:00      |       841 KM       |    2     
+  30  |                Koduru                  |        KOU         |     05:58     |     06:00     |     2:00      |       854 KM       |    2     
+  31  |          Renigunta Junction            |         RU         |     08:05     |     08:10     |     5:00      |       895 KM       |    2     
+  32  |               Tirupati                 |        TPTY        |     08:50     |     Ends      |       -       |       905 KM       |    2     

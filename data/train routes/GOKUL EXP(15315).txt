@@ -1,0 +1,17 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Gonda Junction              |         GD         |     Start     |     19:50     |       -       |        0 KM        |    1     
+  2   |               Payagpur                 |        PDR         |     20:26     |     20:28     |     2:00      |       35 KM        |    1     
+  3   |               Bahraich                 |        BRK         |     21:00     |     21:05     |     5:00      |       61 KM        |    1     
+  4   |                 Risia                  |         RS         |     21:19     |     21:21     |     2:00      |       74 KM        |    1     
+  5   |           Nanpara Junction             |        NNP         |     21:50     |     21:55     |     5:00      |       95 KM        |    1     
+  6   |              Mihinpurwa                |        MIN         |     22:15     |     22:17     |     2:00      |       120 KM       |    1     
+  7   |                Bichia                  |        BIC         |     23:13     |     23:15     |     2:00      |       159 KM       |    1     
+  8   |                Tikunia                 |        TQN         |     23:55     |     23:57     |     2:00      |       188 KM       |    1     
+  9   |               Belrayan                 |        BXM         |     00:08     |     00:10     |     2:00      |       195 KM       |    2     
+  10  |              Palia Kalan               |        PLK         |     01:35     |     01:37     |     2:00      |       236 KM       |    2     
+  11  |              Bhira Kheri               |        BIK         |     01:56     |     01:58     |     2:00      |       250 KM       |    2     
+  12  |                Mailani                 |        MLN         |     02:40     |     03:05     |     25:00     |       266 KM       |    2     
+  13  |               Puranpur                 |         PP         |     03:46     |     03:48     |     2:00      |       299 KM       |    2     
+  14  |           Pilibhit Junction            |        PBE         |     04:50     |     04:55     |     5:00      |       334 KM       |    2     
+  15  |          Bhojipura Junction            |        BPR         |     06:10     |     06:12     |     2:00      |       373 KM       |    2     
+  16  |              Izzatnagar                |        IZN         |     07:00     |     Ends      |       -       |       385 KM       |    2     

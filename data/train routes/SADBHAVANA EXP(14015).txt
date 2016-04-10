@@ -1,0 +1,37 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Raxual Junction             |        RXL         |     Start     |     00:20     |       -       |        0 KM        |    1     
+  2   |           Sagauli Junction             |        SGL         |     00:55     |     01:20     |     25:00     |       30 KM        |    1     
+  3   |            Bapudm Motihari             |        BMKI        |     01:40     |     01:45     |     5:00      |       51 KM        |    1     
+  4   |                Chakia                  |        CAA         |     02:12     |     02:13     |     1:00      |       82 KM        |    1     
+  5   |                 Mehsi                  |        MAI         |     02:23     |     02:24     |     1:00      |       91 KM        |    1     
+  6   |                Motipur                 |        MTR         |     02:36     |     02:37     |     1:00      |       104 KM       |    1     
+  7   |         Muzaffarpur Junction           |        MFP         |     03:30     |     04:00     |     30:00     |       130 KM       |    1     
+  8   |           Hajipur Junction             |        HJP         |     05:04     |     05:05     |     1:00      |       184 KM       |    1     
+  9   |            Sonpur Junction             |        SEE         |     05:15     |     05:18     |     3:00      |       190 KM       |    1     
+  10  |               Dighwara                 |        DGA         |     05:38     |     05:39     |     1:00      |       213 KM       |    1     
+  11  |                Chhapra                 |        CPR         |     06:25     |     06:45     |     20:00     |       243 KM       |    1     
+  12  |              Suraimanpur               |        SIP         |     07:10     |     07:11     |     1:00      |       272 KM       |    1     
+  13  |                Ballia                  |        BUI         |     07:45     |     07:50     |     5:00      |       308 KM       |    1     
+  14  |               Yusufpur                 |        YFP         |     08:28     |     08:29     |     1:00      |       354 KM       |    1     
+  15  |             Ghazipur City              |        GCT         |     09:05     |     09:10     |     5:00      |       374 KM       |    1     
+  16  |           Aunrihar Junction            |        ARJ         |     10:15     |     10:17     |     2:00      |       414 KM       |    1     
+  17  |             Varanasi City              |        BCY         |     11:16     |     11:17     |     1:00      |       445 KM       |    1     
+  18  |           Varanasi Junction            |        BSB         |     11:35     |     11:45     |     10:00     |       449 KM       |    1     
+  19  |             Jaunpur City               |        JOP         |     12:38     |     12:40     |     2:00      |       506 KM       |    1     
+  20  |                Lambhua                 |        LBA         |     13:51     |     13:53     |     2:00      |       570 KM       |    1     
+  21  |               Sultanpur                |        SLN         |     15:15     |     15:30     |     15:00     |       592 KM       |    1     
+  22  |             Musafir Khana              |        MFKA        |     15:55     |     15:56     |     1:00      |       624 KM       |    1     
+  23  |               Nihalgarh                |        NHH         |     16:13     |     16:14     |     1:00      |       643 KM       |    1     
+  24  |              Lucknow Nr                |        LKO         |     18:35     |     18:50     |     15:00     |       732 KM       |    1     
+  25  |               Alamnagar                |        AMG         |     19:18     |     19:20     |     2:00      |       738 KM       |    1     
+  26  |                Hardoi                  |        HRI         |     20:31     |     20:32     |     1:00      |       834 KM       |    1     
+  27  |             Shahjehanpur               |        SPN         |     21:42     |     21:47     |     5:00      |       896 KM       |    1     
+  28  |                 Aonla                  |         AO         |     23:18     |     23:20     |     2:00      |       989 KM       |    1     
+  29  |          Chandausi Junction            |         CH         |     00:05     |     00:10     |     5:00      |      1031 KM       |    2     
+  30  |               Moradabad                |         MB         |     01:10     |     01:20     |     10:00     |      1075 KM       |    2     
+  31  |                Amroha                  |        AMRO        |     01:48     |     01:50     |     2:00      |      1106 KM       |    2     
+  32  |                 Hapur                  |        HPU         |     02:50     |     02:52     |     2:00      |      1179 KM       |    2     
+  33  |                Pilkhua                 |        PKW         |     03:06     |     03:08     |     2:00      |      1191 KM       |    2     
+  34  |               Ghaziabad                |        GZB         |     04:00     |     04:02     |     2:00      |      1216 KM       |    2     
+  35  |                 Delhi                  |        DLI         |     04:50     |     05:10     |     20:00     |      1236 KM       |    2     
+  36  |            Delhi S Rohilla             |        DEE         |     05:40     |     Ends      |       -       |      1240 KM       |    2     

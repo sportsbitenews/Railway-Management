@@ -1,0 +1,9 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Puri                   |        PURI        |     Start     |     05:45     |       -       |        0 KM        |    1     
+  2   |              Bhubaneswar               |        BBS         |     07:03     |     07:05     |     2:00      |       63 KM        |    1     
+  3   |                Cuttack                 |        CTC         |     07:28     |     07:30     |     2:00      |       91 KM        |    1     
+  4   |             Jajpur K Road              |        JJKR        |     08:24     |     08:25     |     1:00      |       163 KM       |    1     
+  5   |               Bhadrakh                 |        BHC         |     09:13     |     09:15     |     2:00      |       206 KM       |    1     
+  6   |               Balasore                 |        BLS         |     09:56     |     10:01     |     5:00      |       268 KM       |    1     
+  7   |          Kharagpur Junction            |        KGP         |     11:35     |     11:45     |     10:00     |       387 KM       |    1     
+  8   |            Howrah Junction             |        HWH         |     13:40     |     Ends      |       -       |       502 KM       |    1     

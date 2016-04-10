@@ -1,0 +1,27 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Yesvantpur Junction           |        YPR         |     Start     |     00:30     |       -       |        0 KM        |    1     
+  2   |            Krishnarajapurm             |        KJM         |     01:06     |     01:08     |     2:00      |       20 KM        |    1     
+  3   |              Jolarpettai               |        JTJ         |     03:58     |     04:00     |     2:00      |       154 KM       |    1     
+  4   |           Katpadi Junction             |        KPD         |     05:25     |     05:30     |     5:00      |       238 KM       |    1     
+  5   |                Chittor                 |        CTO         |     05:59     |     06:00     |     1:00      |       270 KM       |    1     
+  6   |            Pakala Junction             |        PAK         |     06:34     |     06:35     |     1:00      |       300 KM       |    1     
+  7   |               Tirupati                 |        TPTY        |     07:33     |     07:35     |     2:00      |       342 KM       |    1     
+  8   |          Renigunta Junction            |         RU         |     07:50     |     08:00     |     10:00     |       352 KM       |    1     
+  9   |            Gudur Junction              |        GDR         |     09:33     |     09:35     |     2:00      |       435 KM       |    1     
+  10  |                Nellore                 |        NLR         |     10:00     |     10:02     |     2:00      |       473 KM       |    1     
+  11  |          Vijayawada Junction           |        BZA         |     14:15     |     14:35     |     20:00     |       728 KM       |    1     
+  12  |              Rajamundry                |        RJY         |     16:40     |     16:42     |     2:00      |       877 KM       |    1     
+  13  |           Samalkot Junction            |        SLO         |     17:18     |     17:20     |     2:00      |       927 KM       |    1     
+  14  |             Vishakapatnam              |        VSKP        |     20:35     |     20:55     |     20:00     |      1078 KM       |    1     
+  15  |         Vizianagram Junction           |        VZM         |     21:55     |     22:00     |     5:00      |      1139 KM       |    1     
+  16  |             Parvatipuram               |        PVP         |     23:10     |     23:12     |     2:00      |      1216 KM       |    1     
+  17  |               Rayagada                 |        RGDA        |     00:05     |     00:15     |     10:00     |      1263 KM       |    2     
+  18  |               Muniguda                 |        MNGD        |     01:10     |     01:12     |     2:00      |      1317 KM       |    2     
+  19  |                Kesinga                 |        KSNG        |     02:16     |     02:18     |     2:00      |      1390 KM       |    2     
+  20  |               Titlagarh                |        TIG         |     02:40     |     02:50     |     10:00     |      1403 KM       |    2     
+  21  |               Balangir                 |        BLGR        |     03:55     |     04:00     |     5:00      |      1466 KM       |    2     
+  22  |             Bargarh Road               |        BRGA        |     05:10     |     05:12     |     2:00      |      1542 KM       |    2     
+  23  |               Sambalpur                |        SBP         |     06:30     |     06:40     |     10:00     |      1584 KM       |    2     
+  24  |          Jharsuguda Junction           |        JSG         |     08:15     |     08:20     |     5:00      |      1633 KM       |    2     
+  25  |               Rourkela                 |        ROU         |     09:52     |     09:57     |     5:00      |      1734 KM       |    2     
+  26  |                 Hatia                  |        HTE         |     13:20     |     Ends      |       -       |      1901 KM       |    2     

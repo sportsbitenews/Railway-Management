@@ -1,0 +1,19 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               New Delhi                |        NDLS        |     Start     |     06:55     |       -       |        0 KM        |    1     
+  2   |            Kanpur Central              |        CNB         |     13:15     |     13:30     |     15:00     |       437 KM       |    1     
+  3   |          Allahabad Junction            |        ALD         |     16:00     |     16:05     |     5:00      |       631 KM       |    1     
+  4   |         Mughal Sarai Junction          |        MGS         |     19:00     |     19:15     |     15:00     |       784 KM       |    1     
+  5   |             Gaya Junction              |        GAYA        |     21:52     |     21:55     |     3:00      |       987 KM       |    1     
+  6   |                Koderma                 |        KQR         |     23:08     |     23:10     |     2:00      |      1063 KM       |    1     
+  7   |            Gomoh Junction              |        GMO         |     01:00     |     01:10     |     10:00     |      1156 KM       |    2     
+  8   |            Bokaro Stl City             |        BKSC        |     02:15     |     02:25     |     10:00     |      1189 KM       |    2     
+  9   |                 Muri                   |        MURI        |     03:33     |     03:35     |     2:00      |      1241 KM       |    2     
+  10  |             Chakradharpur              |        CKP         |     06:00     |     06:05     |     5:00      |      1373 KM       |    2     
+  11  |               Rourkela                 |        ROU         |     07:20     |     07:40     |     20:00     |      1474 KM       |    2     
+  12  |          Jharsuguda Junction           |        JSG         |     09:10     |     09:15     |     5:00      |      1575 KM       |    2     
+  13  |            Sambalpur City              |        SBPY        |     10:23     |     10:25     |     2:00      |      1620 KM       |    2     
+  14  |               Rairakhol                |        RAIR        |     11:15     |     11:17     |     2:00      |      1685 KM       |    2     
+  15  |                 Angul                  |        ANGL        |     13:35     |     13:37     |     2:00      |      1771 KM       |    2     
+  16  |             Talcher Road               |        TLHD        |     13:50     |     13:52     |     2:00      |      1783 KM       |    2     
+  17  |               Dhenkanal                |        DNKL        |     14:35     |     14:37     |     2:00      |      1831 KM       |    2     
+  18  |              Bhubaneswar               |        BBS         |     16:05     |     Ends      |       -       |      1893 KM       |    2     

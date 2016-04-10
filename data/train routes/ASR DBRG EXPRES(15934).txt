@@ -1,0 +1,38 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Amritsar Junction            |        ASR         |     Start     |     15:50     |       -       |        0 KM        |    1     
+  2   |                 Beas                   |        BEAS        |     16:18     |     16:20     |     2:00      |       43 KM        |    1     
+  3   |            Jalandhar City              |        JUC         |     16:55     |     17:00     |     5:00      |       79 KM        |    1     
+  4   |           Ludhiana Junction            |        LDH         |     18:00     |     18:10     |     10:00     |       136 KM       |    1     
+  5   |         Ambala Cant Junction           |        UMB         |     20:20     |     20:30     |     10:00     |       250 KM       |    1     
+  6   |              Saharanpur                |        SRE         |     21:50     |     22:00     |     10:00     |       331 KM       |    1     
+  7   |               Moradabad                |         MB         |     00:55     |     01:05     |     10:00     |       523 KM       |    2     
+  8   |               Bareilly                 |         BE         |     02:35     |     02:40     |     5:00      |       614 KM       |    2     
+  9   |             Shahjehanpur               |        SPN         |     03:45     |     03:50     |     5:00      |       685 KM       |    2     
+  10  |              Lucknow Nr                |        LKO         |     08:00     |     08:10     |     10:00     |       849 KM       |    2     
+  11  |           Faizabad Junction            |         FD         |     10:20     |     10:25     |     5:00      |       977 KM       |    2     
+  12  |           Varanasi Junction            |        BSB         |     15:25     |     15:50     |     25:00     |      1172 KM       |    2     
+  13  |             Ghazipur City              |        GCT         |     17:05     |     17:10     |     5:00      |      1247 KM       |    2     
+  14  |                Ballia                  |        BUI         |     18:05     |     18:10     |     5:00      |      1313 KM       |    2     
+  15  |                Chhapra                 |        CPR         |     20:30     |     20:45     |     15:00     |      1378 KM       |    2     
+  16  |           Hajipur Junction             |        HJP         |     21:58     |     22:00     |     2:00      |      1437 KM       |    2     
+  17  |            Akshaywat R Ngr             |        AYRN        |     22:12     |     22:14     |     2:00      |      1448 KM       |    2     
+  18  |                Desari                  |        DES         |     22:25     |     22:27     |     2:00      |      1457 KM       |    2     
+  19  |           Barauni Junction             |        BJU         |     00:10     |     00:20     |     10:00     |      1525 KM       |    3     
+  20  |           Khagaria Junction            |        KGG         |     01:19     |     01:21     |     2:00      |      1580 KM       |    3     
+  21  |           Katihar Junction             |        KIR         |     03:50     |     04:10     |     20:00     |      1704 KM       |    3     
+  22  |            New Jalpaiguri              |        NJP         |     07:45     |     08:05     |     20:00     |      1905 KM       |    3     
+  23  |            New Cooch Behar             |        NCB         |     09:55     |     10:00     |     5:00      |      2031 KM       |    3     
+  24  |            New Alipurdaur              |        NOQ         |     10:25     |     10:30     |     5:00      |      2050 KM       |    3     
+  25  |            New Bongaigaon              |        NBQ         |     12:35     |     12:45     |     10:00     |      2156 KM       |    3     
+  26  |           Rangiya Junction             |        RNY         |     14:30     |     14:40     |     10:00     |      2266 KM       |    3     
+  27  |               Guwahati                 |        GHY         |     15:45     |     16:00     |     15:00     |      2313 KM       |    3     
+  28  |          Chaparmukh Junction           |        CPK         |     17:25     |     17:27     |     2:00      |      2404 KM       |    3     
+  29  |                 Hojai                  |        HJI         |     18:28     |     18:30     |     2:00      |      2449 KM       |    3     
+  30  |           Lumding Junction             |        LMG         |     19:40     |     19:45     |     5:00      |      2494 KM       |    3     
+  31  |                 Diphu                  |        DPU         |     20:17     |     20:19     |     2:00      |      2526 KM       |    3     
+  32  |                Dimapur                 |        DMV         |     20:56     |     21:06     |     10:00     |      2563 KM       |    3     
+  33  |          Furkating Junction            |        FKG         |     23:20     |     23:22     |     2:00      |      2633 KM       |    3     
+  34  |           Mariani Junction             |        MXN         |     00:10     |     00:20     |     10:00     |      2671 KM       |    4     
+  35  |          Simaluguri Junction           |        SLGR        |     01:15     |     01:17     |     2:00      |      2725 KM       |    4     
+  36  |         New Tinsukia Junction          |        NTSK        |     04:00     |     04:10     |     10:00     |      2828 KM       |    4     
+  37  |               Dibrugarh                |        DBRG        |     05:25     |     Ends      |       -       |      2870 KM       |    4     

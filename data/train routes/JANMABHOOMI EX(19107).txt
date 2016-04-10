@@ -1,0 +1,20 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Ahmedabad Junction            |        ADI         |     Start     |     08:05     |       -       |        0 KM        |    1     
+  2   |               Abu Road                 |        ABR         |     12:27     |     12:37     |     10:00     |       186 KM       |    1     
+  3   |           Jodhpur Junction             |         JU         |     17:00     |     17:15     |     15:00     |       455 KM       |    1     
+  4   |           Phalodi Junction             |        PLCJ        |     19:50     |     20:55     |     65:00     |       591 KM       |    1     
+  5   |           Lalgarh Junction             |        LGH         |     23:05     |     23:55     |     50:00     |       750 KM       |    1     
+  6   |                Mahajan                 |        MHJ         |     01:17     |     01:19     |     2:00      |       865 KM       |    2     
+  7   |               Biradhwal                |        BDWL        |     01:52     |     01:55     |     3:00      |       910 KM       |    2     
+  8   |          Suratgarh Junction            |        SOG         |     02:50     |     03:00     |     10:00     |       927 KM       |    2     
+  9   |              Pili Bangan               |        PGK         |     03:23     |     03:25     |     2:00      |       952 KM       |    2     
+  10  |         Hanumangarh Junction           |        HMH         |     03:50     |     03:55     |     5:00      |       977 KM       |    2     
+  11  |           Bhatinda Junction            |        BTI         |     06:00     |     06:10     |     10:00     |      1070 KM       |    2     
+  12  |               Faridkot                 |        FDK         |     07:08     |     07:10     |     2:00      |      1125 KM       |    2     
+  13  |             Firozpur Cant              |        FZR         |     08:00     |     08:25     |     25:00     |      1157 KM       |    2     
+  14  |            Jalandhar City              |        JUC         |     11:10     |     11:20     |     10:00     |      1274 KM       |    2     
+  15  |            Pathankot Cantt             |        PTKC        |     13:00     |     13:05     |     5:00      |      1387 KM       |    2     
+  16  |                 Samba                  |        SMBX        |     14:07     |     14:09     |     2:00      |      1453 KM       |    2     
+  17  |             Bari Brahman               |        BBMN        |     14:44     |     14:46     |     2:00      |      1477 KM       |    2     
+  18  |              Jammu Tawi                |        JAT         |     15:15     |     15:25     |     10:00     |      1486 KM       |    2     
+  19  |               Udhampur                 |        UHP         |     17:30     |     Ends      |       -       |      1539 KM       |    2     

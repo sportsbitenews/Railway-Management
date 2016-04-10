@@ -1,0 +1,48 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Raxual Junction             |        RXL         |     Start     |     09:05     |       -       |        0 KM        |    1     
+  2   |               Ramgarhwa                |        RGH         |     09:17     |     09:18     |     1:00      |       15 KM        |    1     
+  3   |           Sagauli Junction             |        SGL         |     09:45     |     09:50     |     5:00      |       30 KM        |    1     
+  4   |               Majhowlia                |        MJL         |     09:59     |     10:01     |     2:00      |       43 KM        |    1     
+  5   |                Bettiah                 |        BTH         |     10:11     |     10:13     |     2:00      |       52 KM        |    1     
+  6   |               Chanpatia                |        CAI         |     10:28     |     10:29     |     1:00      |       69 KM        |    1     
+  7   |         Narkatiaganj Junction          |        NKE         |     10:50     |     10:55     |     5:00      |       88 KM        |    1     
+  8   |               Harinagar                |        HIR         |     11:10     |     11:11     |     1:00      |       104 KM       |    1     
+  9   |              Bhairoganj                |        BRU         |     11:23     |     11:24     |     1:00      |       112 KM       |    1     
+  10  |                Bagaha                  |        BUG         |     11:45     |     11:50     |     5:00      |       130 KM       |    1     
+  11  |               Paniahwa                 |        PNYA        |     12:56     |     12:58     |     2:00      |       152 KM       |    1     
+  12  |                 Khada                  |        KZA         |     13:07     |     13:09     |     2:00      |       159 KM       |    1     
+  13  |              Siswa Bazar               |        SBZ         |     13:24     |     13:25     |     1:00      |       173 KM       |    1     
+  14  |               Ghughuli                 |         GH         |     13:38     |     13:39     |     1:00      |       185 KM       |    1     
+  15  |          Kaptanganj Junction           |        CPJ         |     13:57     |     14:02     |     5:00      |       199 KM       |    1     
+  16  |               Pipraich                 |        PPC         |     14:22     |     14:23     |     1:00      |       219 KM       |    1     
+  17  |          Gorakhpur Junction            |        GKP         |     15:15     |     15:35     |     20:00     |       238 KM       |    1     
+  18  |              Khalilabad                |        KLD         |     16:14     |     16:15     |     1:00      |       273 KM       |    1     
+  19  |                 Basti                  |        BST         |     16:40     |     16:45     |     5:00      |       303 KM       |    1     
+  20  |                Babhnan                 |         BV         |     17:09     |     17:10     |     1:00      |       333 KM       |    1     
+  21  |               Maskanwa                 |        MSW         |     17:32     |     17:33     |     1:00      |       349 KM       |    1     
+  22  |           Mankapur Junction            |        MUR         |     17:53     |     17:55     |     2:00      |       364 KM       |    1     
+  23  |            Gonda Junction              |         GD         |     18:40     |     18:50     |     10:00     |       392 KM       |    1     
+  24  |              Colonelganj               |        CLJ         |     19:14     |     19:15     |     1:00      |       421 KM       |    1     
+  25  |              Jarwal Road               |        JLD         |     19:35     |     19:36     |     1:00      |       438 KM       |    1     
+  26  |                Burhwal                 |        BUW         |     20:00     |     20:05     |     5:00      |       453 KM       |    1     
+  27  |            Tahsil Fatehpur             |        TSF         |     20:35     |     20:36     |     1:00      |       475 KM       |    1     
+  28  |            Mahmudabad Avdh             |        MMB         |     20:59     |     21:00     |     1:00      |       491 KM       |    1     
+  29  |                Biswan                  |        BVN         |     21:51     |     21:52     |     1:00      |       517 KM       |    1     
+  30  |             Sitapur Cant               |        SCC         |     22:50     |     23:00     |     10:00     |       551 KM       |    1     
+  31  |             Sitapur City               |        SPC         |     23:20     |     23:30     |     10:00     |       555 KM       |    1     
+  32  |             Roza Junction              |        ROZA        |     01:41     |     01:42     |     1:00      |       635 KM       |    2     
+  33  |             Shahjehanpur               |        SPN         |     01:55     |     01:58     |     3:00      |       642 KM       |    2     
+  34  |                Bilpur                  |        BLPU        |     02:27     |     02:28     |     1:00      |       677 KM       |    2     
+  35  |               Bareilly                 |         BE         |     03:18     |     03:25     |     7:00      |       713 KM       |    2     
+  36  |                Rampur                  |        RMU         |     04:16     |     04:17     |     1:00      |       776 KM       |    2     
+  37  |               Moradabad                |         MB         |     05:25     |     05:35     |     10:00     |       803 KM       |    2     
+  38  |                Amroha                  |        AMRO        |     06:04     |     06:05     |     1:00      |       834 KM       |    2     
+  39  |           Gajraula Junction            |        GJL         |     06:29     |     06:30     |     1:00      |       857 KM       |    2     
+  40  |             Garhmuktesar               |        GMS         |     06:51     |     06:53     |     2:00      |       877 KM       |    2     
+  41  |                 Hapur                  |        HPU         |     07:20     |     07:22     |     2:00      |       907 KM       |    2     
+  42  |                Pilkhua                 |        PKW         |     07:33     |     07:35     |     2:00      |       919 KM       |    2     
+  43  |               Ghaziabad                |        GZB         |     08:28     |     08:30     |     2:00      |       944 KM       |    2     
+  44  |               Sahibabad                |        SBB         |     08:39     |     08:40     |     1:00      |       951 KM       |    2     
+  45  |             Viveka Vihar               |        VVB         |     08:47     |     08:48     |     1:00      |       955 KM       |    2     
+  46  |            Delhi Shahdara              |        DSA         |     08:56     |     08:58     |     2:00      |       958 KM       |    2     
+  47  |                 Delhi                  |        DLI         |     09:20     |     Ends      |       -       |       964 KM       |    2     

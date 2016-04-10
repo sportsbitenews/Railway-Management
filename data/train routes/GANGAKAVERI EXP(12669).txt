@@ -1,0 +1,25 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Chennai Central             |        MAS         |     Start     |     17:40     |       -       |        0 KM        |    1     
+  2   |            Gudur Junction              |        GDR         |     19:50     |     19:52     |     2:00      |       138 KM       |    1     
+  3   |                Ongole                  |        OGL         |     21:44     |     21:45     |     1:00      |       292 KM       |    1     
+  4   |          Vijayawada Junction           |        BZA         |     00:10     |     00:20     |     10:00     |       431 KM       |    2     
+  5   |                Khammam                 |        KMT         |     01:43     |     01:44     |     1:00      |       532 KM       |    2     
+  6   |               Warangal                 |         WL         |     03:08     |     03:10     |     2:00      |       639 KM       |    2     
+  7   |            Sirpur Kagazngr             |        SKZR        |     06:33     |     06:35     |     2:00      |       812 KM       |    2     
+  8   |              Balharshah                |        BPQ         |     08:10     |     08:20     |     10:00     |       881 KM       |    2     
+  9   |              Chandrapur                |         CD         |     08:38     |     08:40     |     2:00      |       895 KM       |    2     
+  10  |               Sevagram                 |        SEGM        |     10:23     |     10:25     |     2:00      |      1016 KM       |    2     
+  11  |                Nagpur                  |        NGP         |     11:45     |     11:55     |     10:00     |      1093 KM       |    2     
+  12  |               Pandhurna                |        PAR         |     13:09     |     13:10     |     1:00      |      1196 KM       |    2     
+  13  |                 Betul                  |        BZU         |     14:30     |     14:32     |     2:00      |      1283 KM       |    2     
+  14  |            Itarsi Junction             |         ET         |     16:55     |     17:10     |     15:00     |      1390 KM       |    2     
+  15  |               Pipariya                 |        PPI         |     18:03     |     18:05     |     2:00      |      1457 KM       |    2     
+  16  |               Jabalpur                 |        JBP         |     20:40     |     20:50     |     10:00     |      1635 KM       |    2     
+  17  |                 Katni                  |        KTE         |     22:05     |     22:10     |     5:00      |      1726 KM       |    2     
+  18  |                 Satna                  |        STA         |     00:01     |     00:10     |     9:00      |      1824 KM       |    3     
+  19  |          Allahabad Junction            |        ALD         |     03:50     |     04:15     |     25:00     |      2002 KM       |    3     
+  20  |                Bhadohi                 |        BOY         |     05:49     |     05:50     |     1:00      |      2092 KM       |    3     
+  21  |           Varanasi Junction            |        BSB         |     07:05     |     07:20     |     15:00     |      2136 KM       |    3     
+  22  |             Ghazipur City              |        GCT         |     08:32     |     08:37     |     5:00      |      2211 KM       |    3     
+  23  |                Ballia                  |        BUI         |     09:45     |     09:50     |     5:00      |      2277 KM       |    3     
+  24  |                Chhapra                 |        CPR         |     11:40     |     Ends      |       -       |      2342 KM       |    3     

@@ -1,0 +1,31 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  2   |               Udhampur                 |        UHP         |     14:48     |     14:50     |     2:00      |       25 KM        |    1     
+  3   |                MANWAL                  |        MNVL        |     15:16     |     15:18     |     2:00      |       47 KM        |    1     
+  4   |              Jammu Tawi                |        JAT         |     16:05     |     16:15     |     10:00     |       78 KM        |    1     
+  5   |             Bari Brahman               |        BBMN        |     16:26     |     16:28     |     2:00      |       87 KM        |    1     
+  6   |            Vijiypur Jammu              |        VJPJ        |     16:40     |     16:42     |     2:00      |       99 KM        |    1     
+  7   |                 Samba                  |        SMBX        |     16:56     |     16:58     |     2:00      |       111 KM       |    1     
+  8   |              Hira Nagar                |        HRNR        |     17:13     |     17:15     |     2:00      |       126 KM       |    1     
+  9   |              Chakdayala                |        CKDL        |     17:21     |     17:23     |     2:00      |       129 KM       |    1     
+  10  |             Chhan Arorian              |        CHNR        |     17:29     |     17:31     |     2:00      |       135 KM       |    1     
+  11  |                Kathua                  |        KTHU        |     17:55     |     17:57     |     2:00      |       155 KM       |    1     
+  12  |               Sujanpur                 |        SJNP        |     18:14     |     18:16     |     2:00      |       170 KM       |    1     
+  13  |               Pathankot                |        PTK         |     18:45     |     19:05     |     20:00     |       178 KM       |    1     
+  14  |            Pathankot Cantt             |        PTKC        |     19:13     |     19:15     |     2:00      |       182 KM       |    1     
+  15  |               Mukerian                 |        MEX         |     19:52     |     19:54     |     2:00      |       221 KM       |    1     
+  16  |                Dasuya                  |        DZA         |     20:10     |     20:12     |     2:00      |       237 KM       |    1     
+  17  |              Tanda Urmar               |        TDO         |     20:26     |     20:28     |     2:00      |       252 KM       |    1     
+  18  |            Jalandhar City              |        JUC         |     21:30     |     22:05     |     35:00     |       294 KM       |    1     
+  19  |            Jalandhar Cant              |        JRC         |     22:13     |     22:15     |     2:00      |       298 KM       |    1     
+  20  |           Phagwara Junction            |        PGW         |     22:28     |     22:30     |     2:00      |       315 KM       |    1     
+  21  |           Ludhiana Junction            |        LDH         |     23:35     |     23:45     |     10:00     |       351 KM       |    1     
+  22  |         Ambala Cant Junction           |        UMB         |     01:40     |     01:50     |     10:00     |       464 KM       |    2     
+  23  |         Kurukshetra Junction           |        KKDE        |     02:24     |     02:27     |     3:00      |       506 KM       |    2     
+  24  |                Karnal                  |        KUN         |     02:53     |     02:55     |     2:00      |       539 KM       |    2     
+  25  |           Panipat Junction             |        PNP         |     03:38     |     03:40     |     2:00      |       573 KM       |    2     
+  26  |               Samalkha                 |        SMK         |     03:53     |     03:55     |     2:00      |       590 KM       |    2     
+  27  |                Sonipat                 |        SNP         |     04:23     |     04:25     |     2:00      |       618 KM       |    2     
+  28  |                Narela                  |        NUR         |     04:40     |     04:42     |     2:00      |       636 KM       |    2     
+  29  |            Adrsh Ngr Delhi             |        ANDI        |     04:58     |     05:00     |     2:00      |       653 KM       |    2     
+  30  |              Subzi Mandi               |        SZM         |     05:20     |     05:22     |     2:00      |       659 KM       |    2     
+  31  |                 Delhi                  |        DLI         |     05:45     |     Ends      |       -       |       661 KM       |    2     

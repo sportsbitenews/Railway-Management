@@ -1,0 +1,21 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Gorakhpur Junction            |        GKP         |     Start     |     13:00     |       -       |        0 KM        |    1     
+  2   |             Deoria Sadar               |        DEOS        |     13:48     |     13:50     |     2:00      |       50 KM        |    1     
+  3   |            Bhatni Junction             |        BTT         |     14:20     |     14:25     |     5:00      |       71 KM        |    1     
+  4   |             Mau Junction               |        MAU         |     15:32     |     15:37     |     5:00      |       139 KM       |    1     
+  5   |           Aunrihar Junction            |        ARJ         |     16:20     |     16:22     |     2:00      |       196 KM       |    1     
+  6   |           Varanasi Junction            |        BSB         |     17:55     |     18:40     |     45:00     |       231 KM       |    1     
+  7   |               Mirzapur                 |        MZP         |     20:03     |     20:05     |     2:00      |       307 KM       |    1     
+  8   |                Cheoki                  |        COI         |     21:54     |     21:56     |     2:00      |       388 KM       |    1     
+  9   |           Manikpur Junction            |        MKP         |     23:43     |     23:45     |     2:00      |       480 KM       |    1     
+  10  |                 Satna                  |        STA         |     00:25     |     00:35     |     10:00     |       557 KM       |    2     
+  11  |                Maihar                  |        MYR         |     01:20     |     01:22     |     2:00      |       593 KM       |    2     
+  12  |                 Katni                  |        KTE         |     02:35     |     02:40     |     5:00      |       656 KM       |    2     
+  13  |               Jabalpur                 |        JBP         |     03:55     |     04:05     |     10:00     |       746 KM       |    2     
+  14  |              Narsinghpur               |         NU         |     05:33     |     05:35     |     2:00      |       830 KM       |    2     
+  15  |               Pipariya                 |        PPI         |     06:48     |     06:50     |     2:00      |       924 KM       |    2     
+  16  |                Khandwa                 |        KNW         |     13:00     |     13:05     |     5:00      |      1175 KM       |    2     
+  17  |           Bhusaval Junction            |        BSL         |     14:40     |     14:50     |     10:00     |      1298 KM       |    2     
+  18  |              Nasik Road                |         NK         |     18:20     |     18:25     |     5:00      |      1555 KM       |    2     
+  19  |            Kalyan Junction             |        KYN         |     21:32     |     21:35     |     3:00      |      1689 KM       |    2     
+  20  |            Lokmanyatilak T             |        LTT         |     22:35     |     Ends      |       -       |      1727 KM       |    2     

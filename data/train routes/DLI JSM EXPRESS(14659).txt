@@ -1,0 +1,48 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Delhi                  |        DLI         |     Start     |     17:35     |       -       |        0 KM        |    1     
+  2   |            Delhi S Rohilla             |        DEE         |     17:50     |     17:52     |     2:00      |        5 KM        |    1     
+  3   |              Delhi Cantt               |        DEC         |     18:06     |     18:08     |     2:00      |       14 KM        |    1     
+  4   |                 Palam                  |         PM         |     18:14     |     18:16     |     2:00      |       18 KM        |    1     
+  5   |                Gurgaon                 |        GGN         |     18:28     |     18:30     |     2:00      |       31 KM        |    1     
+  6   |             Garhi Harsaru              |        GHH         |     18:40     |     18:42     |     2:00      |       41 KM        |    1     
+  7   |             Pataudi Road               |        PTRD        |     18:59     |     19:01     |     2:00      |       61 KM        |    1     
+  8   |               Khalilpur                |        KIP         |     19:12     |     19:14     |     2:00      |       71 KM        |    1     
+  9   |                Rewari                  |         RE         |     19:43     |     19:45     |     2:00      |       83 KM        |    1     
+  10  |                 Bawal                  |        BWL         |     19:59     |     20:01     |     2:00      |       98 KM        |    1     
+  11  |               Harsauli                 |        HSI         |     20:18     |     20:20     |     2:00      |       122 KM       |    1     
+  12  |               Khairthal                |        KRH         |     20:29     |     20:31     |     2:00      |       130 KM       |    1     
+  13  |                 Alwar                  |        AWR         |     20:52     |     20:55     |     3:00      |       157 KM       |    1     
+  14  |               Malakhera                |        MKH         |     21:08     |     21:10     |     2:00      |       176 KM       |    1     
+  15  |                Rajgarh                 |        RHG         |     21:24     |     21:26     |     2:00      |       193 KM       |    1     
+  16  |                 Baswa                  |         BU         |     21:42     |     21:44     |     2:00      |       205 KM       |    1     
+  17  |           Bandikui Junction            |        BKI         |     21:57     |     21:59     |     2:00      |       217 KM       |    1     
+  18  |                 Dausa                  |         DO         |     22:19     |     22:21     |     2:00      |       246 KM       |    1     
+  19  |            Gandhinagar Jpr             |        GADJ        |     23:09     |     23:11     |     2:00      |       302 KM       |    1     
+  20  |                Jaipur                  |         JP         |     23:35     |     23:45     |     10:00     |       308 KM       |    1     
+  21  |            Asalpur Jobner              |        JOB         |     00:11     |     00:13     |     2:00      |       344 KM       |    2     
+  22  |           Phulera Junction             |         FL         |     00:58     |     01:00     |     2:00      |       362 KM       |    2     
+  23  |               Nawa City                |        NAC         |     01:26     |     01:28     |     2:00      |       398 KM       |    2     
+  24  |           Makrana Junction             |        MKN         |     01:54     |     01:56     |     2:00      |       427 KM       |    2     
+  25  |            Degana Junction             |        DNA         |     02:38     |     02:41     |     3:00      |       471 KM       |    2     
+  26  |          Merta Road Junction           |        MTD         |     03:17     |     03:22     |     5:00      |       516 KM       |    2     
+  27  |                 Gotan                  |        GOTN        |     03:37     |     03:39     |     2:00      |       536 KM       |    2     
+  28  |              Raika Bagh                |        RKB         |     04:38     |     04:40     |     2:00      |       618 KM       |    2     
+  29  |           Jodhpur Junction             |         JU         |     04:50     |     05:20     |     30:00     |       620 KM       |    2     
+  30  |            Marwar Mathanya             |        MMY         |     05:57     |     05:59     |     2:00      |       653 KM       |    2     
+  31  |                Tivari                  |        TIW         |     06:11     |     06:13     |     2:00      |       663 KM       |    2     
+  32  |                Osiyan                  |        OSN         |     06:32     |     06:34     |     2:00      |       685 KM       |    2     
+  33  |             Marwar Lohwat              |        MWT         |     07:10     |     07:12     |     2:00      |       728 KM       |    2     
+  34  |           Phalodi Junction             |        PLCJ        |     07:39     |     07:44     |     5:00      |       757 KM       |    2     
+  35  |               Ramdevra                 |        RDRA        |     08:21     |     08:23     |     2:00      |       803 KM       |    2     
+  36  |                Pokran                  |        POK         |     08:42     |     09:07     |     25:00     |       814 KM       |    2     
+  37  |            Ashapura Gomat              |        AQG         |     09:13     |     09:15     |     2:00      |       818 KM       |    2     
+  38  |            Shribdrya Lathi             |        SBLT        |     10:00     |     10:02     |     2:00      |       858 KM       |    2     
+  39  |               Jaisalmer                |        JSM         |     11:30     |     Ends      |       -       |       921 KM       |    2     
+  40  |           Jodhpur Junction             |         JU         |     05:05     |     05:20     |     15:00     |       620 KM       |    2     
+  41  |                 Basni                  |        BANE        |     05:31     |     05:32     |     1:00      |       627 KM       |    2     
+  42  |             Luni Junction              |        LUNI        |     05:54     |     05:57     |     3:00      |       652 KM       |    2     
+  43  |           Samdhari Junction            |        SMR         |     06:47     |     06:52     |     5:00      |       700 KM       |    2     
+  44  |           Balotra Junction             |        BLT         |     07:22     |     07:24     |     2:00      |       733 KM       |    2     
+  45  |                 Baytu                  |        BUT         |     08:12     |     08:14     |     2:00      |       783 KM       |    2     
+  46  |                Utarlai                 |        UTL         |     09:01     |     09:03     |     2:00      |       819 KM       |    2     
+  47  |                Barmer                  |        BME         |     09:45     |     Ends      |       -       |       829 KM       |    2     

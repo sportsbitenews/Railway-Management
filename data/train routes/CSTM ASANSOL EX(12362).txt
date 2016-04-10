@@ -1,0 +1,20 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Mumbai Cst                |        CSTM        |     Start     |     11:05     |       -       |        0 KM        |    1     
+  2   |                 Dadar                  |         DR         |     11:18     |     11:20     |     2:00      |        9 KM        |    1     
+  3   |            Kalyan Junction             |        KYN         |     11:57     |     12:00     |     3:00      |       54 KM        |    1     
+  4   |            Manmad Junction             |        MMR         |     15:48     |     15:50     |     2:00      |       261 KM       |    1     
+  5   |           Bhusaval Junction            |        BSL         |     18:00     |     18:15     |     15:00     |       445 KM       |    1     
+  6   |                Khandwa                 |        KNW         |     20:35     |     20:40     |     5:00      |       568 KM       |    1     
+  7   |            Itarsi Junction             |         ET         |     23:05     |     23:15     |     10:00     |       752 KM       |    1     
+  8   |               Jabalpur                 |        JBP         |     02:25     |     02:35     |     10:00     |       997 KM       |    2     
+  9   |                 Katni                  |        KTE         |     03:45     |     03:50     |     5:00      |      1087 KM       |    2     
+  10  |                 Satna                  |        STA         |     05:10     |     05:20     |     10:00     |      1186 KM       |    2     
+  11  |               Mirzapur                 |        MZP         |     10:38     |     10:40     |     2:00      |      1436 KM       |    2     
+  12  |         Mughal Sarai Junction          |        MGS         |     12:15     |     12:35     |     20:00     |      1499 KM       |    2     
+  13  |                 Buxar                  |        BXR         |     13:41     |     13:43     |     2:00      |      1593 KM       |    2     
+  14  |            Patna Junction              |        PNBE        |     15:35     |     15:45     |     10:00     |      1710 KM       |    2     
+  15  |             Kiul Junction              |        KIUL        |     19:10     |     19:12     |     2:00      |      1834 KM       |    2     
+  16  |           Jasidih Junction             |        JSME        |     21:11     |     21:13     |     2:00      |      1932 KM       |    2     
+  17  |           Madhupur Junction            |        MDP         |     21:44     |     21:46     |     2:00      |      1960 KM       |    2     
+  18  |             Chittaranjan               |        CRJ         |     22:36     |     22:38     |     2:00      |      2017 KM       |    2     
+  19  |           Asansol Junction             |        ASN         |     23:15     |     Ends      |       -       |      2042 KM       |    2     

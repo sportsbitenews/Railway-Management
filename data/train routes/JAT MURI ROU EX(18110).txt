@@ -1,0 +1,80 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Jammu Tawi                |        JAT         |     Start     |     14:20     |       -       |        0 KM        |    1     
+  2   |                 Samba                  |        SMBX        |     14:55     |     14:57     |     2:00      |       33 KM        |    1     
+  3   |              Hira Nagar                |        HRNR        |     15:11     |     15:13     |     2:00      |       48 KM        |    1     
+  4   |                Kathua                  |        KTHU        |     15:40     |     15:42     |     2:00      |       77 KM        |    1     
+  5   |               Pathankot                |        PTK         |     16:25     |     16:45     |     20:00     |       100 KM       |    1     
+  6   |              Dina Nagar                |        DNN         |     17:12     |     17:14     |     2:00      |       124 KM       |    1     
+  7   |               Gurdaspur                |        GSP         |     17:26     |     17:28     |     2:00      |       136 KM       |    1     
+  8   |               Dhariwal                 |        DHW         |     17:53     |     17:55     |     2:00      |       149 KM       |    1     
+  9   |            Batala Junction             |        BAT         |     18:15     |     18:17     |     2:00      |       168 KM       |    1     
+  10  |           Amritsar Junction            |        ASR         |     19:10     |     19:35     |     25:00     |       207 KM       |    1     
+  11  |               Jandiala                 |        JNL         |     19:50     |     19:52     |     2:00      |       226 KM       |    1     
+  12  |                 Beas                   |        BEAS        |     20:10     |     20:12     |     2:00      |       249 KM       |    1     
+  13  |            Jalandhar City              |        JUC         |     20:50     |     20:58     |     8:00      |       286 KM       |    1     
+  14  |            Jalandhar Cant              |        JRC         |     21:06     |     21:08     |     2:00      |       290 KM       |    1     
+  15  |           Phagwara Junction            |        PGW         |     21:21     |     21:23     |     2:00      |       307 KM       |    1     
+  16  |           Phillaur Junction            |        PHR         |     21:42     |     21:44     |     2:00      |       329 KM       |    1     
+  17  |           Ludhiana Junction            |        LDH         |     22:10     |     22:20     |     10:00     |       342 KM       |    1     
+  18  |           Rajpura Junction             |        RPJ         |     23:37     |     23:39     |     2:00      |       428 KM       |    1     
+  19  |              Ambala City               |        UBC         |     00:01     |     00:02     |     1:00      |       449 KM       |    2     
+  20  |         Ambala Cant Junction           |        UMB         |     00:30     |     00:40     |     10:00     |       456 KM       |    2     
+  21  |            Shahbad Marknda             |        SHDM        |     00:59     |     01:01     |     2:00      |       476 KM       |    2     
+  22  |         Kurukshetra Junction           |        KKDE        |     01:24     |     01:26     |     2:00      |       498 KM       |    2     
+  23  |                Karnal                  |        KUN         |     02:05     |     02:07     |     2:00      |       531 KM       |    2     
+  24  |           Panipat Junction             |        PNP         |     02:48     |     02:50     |     2:00      |       565 KM       |    2     
+  25  |                Sonipat                 |        SNP         |     03:21     |     03:23     |     2:00      |       610 KM       |    2     
+  26  |              Subzi Mandi               |        SZM         |     04:08     |     04:10     |     2:00      |       650 KM       |    2     
+  27  |                 Delhi                  |        DLI         |     04:30     |     04:50     |     20:00     |       653 KM       |    2     
+  28  |               Ghaziabad                |        GZB         |     05:30     |     05:32     |     2:00      |       673 KM       |    2     
+  29  |                 Chola                  |        CHL         |     06:16     |     06:18     |     2:00      |       721 KM       |    2     
+  30  |            Khurja Junction             |        KRJ         |     06:33     |     06:36     |     3:00      |       736 KM       |    2     
+  31  |           Aligarh Junction             |        ALJN        |     07:06     |     07:11     |     5:00      |       779 KM       |    2     
+  32  |           Hathras Junction             |        HRS         |     07:33     |     07:36     |     3:00      |       809 KM       |    2     
+  33  |             Jalesar Road               |        JLS         |     07:50     |     07:52     |     2:00      |       829 KM       |    2     
+  34  |            Tundla Junction             |        TDL         |     08:33     |     08:38     |     5:00      |       857 KM       |    2     
+  35  |               Firozabad                |        FZD         |     08:51     |     08:53     |     2:00      |       873 KM       |    2     
+  36  |          Shikohabad Junction           |        SKB         |     09:11     |     09:13     |     2:00      |       893 KM       |    2     
+  37  |                Etawah                  |        ETW         |     09:53     |     09:55     |     2:00      |       949 KM       |    2     
+  38  |               Bharthana                |        BNT         |     10:15     |     10:17     |     2:00      |       969 KM       |    2     
+  39  |               Phaphund                 |        PHD         |     10:43     |     10:45     |     2:00      |      1005 KM       |    2     
+  40  |               Jhinjhak                 |        JJK         |     11:01     |     11:03     |     2:00      |      1025 KM       |    2     
+  41  |                 Rura                   |        RURA        |     11:19     |     11:21     |     2:00      |      1044 KM       |    2     
+  42  |                 Panki                  |        PNK         |     12:08     |     12:10     |     2:00      |      1077 KM       |    2     
+  43  |            Kanpur Central              |        CNB         |     12:40     |     12:50     |     10:00     |      1087 KM       |    2     
+  44  |               Fatehpur                 |        FTP         |     13:48     |     13:50     |     2:00      |      1164 KM       |    2     
+  45  |          Allahabad Junction            |        ALD         |     15:22     |     15:32     |     10:00     |      1281 KM       |    2     
+  46  |               Meja Road                |        MJA         |     16:01     |     16:03     |     2:00      |      1319 KM       |    2     
+  47  |              Vindhyachal               |        BDL         |     16:42     |     16:44     |     2:00      |      1363 KM       |    2     
+  48  |               Mirzapur                 |        MZP         |     17:00     |     17:05     |     5:00      |      1371 KM       |    2     
+  49  |                Chunar                  |        CAR         |     18:03     |     18:05     |     2:00      |      1402 KM       |    2     
+  50  |             Roberts Ganj               |        RBGJ        |     19:51     |     19:53     |     2:00      |      1478 KM       |    2     
+  51  |                 Churk                  |        CUK         |     20:08     |     20:10     |     2:00      |      1483 KM       |    2     
+  52  |                Chopan                  |        CPU         |     21:50     |     22:00     |     10:00     |      1505 KM       |    2     
+  53  |                Renukut                 |        RNQ         |     22:56     |     22:58     |     2:00      |      1546 KM       |    2     
+  54  |              Duddhinagar               |        DXN         |     23:20     |     23:22     |     2:00      |      1568 KM       |    2     
+  55  |              Wyndhamganj               |        WDM         |     23:42     |     23:44     |     2:00      |      1590 KM       |    2     
+  56  |             Nagar Untari               |        NUQ         |     00:08     |     00:10     |     2:00      |      1602 KM       |    3     
+  57  |                Garhwa                  |        GHQ         |     00:56     |     00:58     |     2:00      |      1636 KM       |    3     
+  58  |              Garwa Road                |        GHD         |     01:10     |     01:15     |     5:00      |      1646 KM       |    3     
+  59  |              Daltonganj                |        DTO         |     01:51     |     01:56     |     5:00      |      1679 KM       |    3     
+  60  |           Barwadih Junction            |        BRWD        |     02:20     |     02:25     |     5:00      |      1706 KM       |    3     
+  61  |                Latehar                 |        LTHR        |     02:58     |     03:00     |     2:00      |      1747 KM       |    3     
+  62  |                 Tori                   |        TORI        |     03:33     |     03:35     |     2:00      |      1780 KM       |    3     
+  63  |                Khalari                 |        KLRE        |     03:56     |     03:58     |     2:00      |      1808 KM       |    3     
+  64  |                Patratu                 |        PTRU        |     04:58     |     05:00     |     2:00      |      1844 KM       |    3     
+  65  |              Barka Kana                |        BRKA        |     05:50     |     06:10     |     20:00     |      1864 KM       |    3     
+  66  |             Ramgarh Cant               |        RMT         |     06:20     |     06:25     |     5:00      |      1869 KM       |    3     
+  67  |                 Muri                   |        MURI        |     07:35     |     08:10     |     35:00     |      1922 KM       |    3     
+  68  |              Tatisilwai                |        TIS         |     09:08     |     09:10     |     2:00      |      1973 KM       |    3     
+  69  |                Namkon                  |        NKM         |     09:18     |     09:20     |     2:00      |      1980 KM       |    3     
+  70  |                Ranchi                  |        RNC         |     09:35     |     09:45     |     10:00     |      1984 KM       |    3     
+  71  |                 Hatia                  |        HTE         |     10:05     |     10:15     |     10:00     |      1991 KM       |    3     
+  72  |            Govindpur Road              |        GBX         |     10:48     |     10:50     |     2:00      |      2032 KM       |    3     
+  73  |                 Pokla                  |        PKF         |     11:11     |     11:13     |     2:00      |      2052 KM       |    3     
+  74  |                 Bano                   |        BANO        |     11:38     |     11:40     |     2:00      |      2084 KM       |    3     
+  75  |                 Orga                   |        ORGA        |     12:58     |     13:00     |     2:00      |      2120 KM       |    3     
+  76  |               Rourkela                 |        ROU         |     14:05     |     Ends      |       -       |      2158 KM       |    3     
+  77  |                 Muri                   |        MURI        |     07:35     |     08:10     |     35:00     |      1922 KM       |    3     
+  78  |           Chandil Junction             |        CNI         |     09:25     |     09:27     |     2:00      |      1990 KM       |    3     
+  79  |          Tatanagar Junction            |        TATA        |     10:20     |     Ends      |       -       |      2026 KM       |    3     

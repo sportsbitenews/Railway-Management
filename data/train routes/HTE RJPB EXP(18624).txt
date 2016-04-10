@@ -1,0 +1,27 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Hatia                  |        HTE         |     Start     |     19:05     |       -       |        0 KM        |    1     
+  2   |                Ranchi                  |        RNC         |     19:20     |     19:30     |     10:00     |        7 KM        |    1     
+  3   |                Namkon                  |        NKM         |     19:39     |     19:40     |     1:00      |       12 KM        |    1     
+  4   |              Tatisilwai                |        TIS         |     19:49     |     19:50     |     1:00      |       18 KM        |    1     
+  5   |                 Silli                  |        SLF         |     20:37     |     20:38     |     1:00      |       66 KM        |    1     
+  6   |                 Muri                   |        MURI        |     20:55     |     21:00     |     5:00      |       72 KM        |    1     
+  7   |                Jhalida                 |        JAA         |     21:21     |     21:22     |     1:00      |       85 KM        |    1     
+  8   |               Kotshila                 |        KSX         |     21:38     |     21:39     |     1:00      |       96 KM        |    1     
+  9   |                Pundhag                 |        PNW         |     21:57     |     21:58     |     1:00      |       108 KM       |    1     
+  10  |            Bokaro Stl City             |        BKSC        |     22:15     |     22:20     |     5:00      |       125 KM       |    1     
+  11  |              Chandrapura               |        CRP         |     22:49     |     22:51     |     2:00      |       140 KM       |    1     
+  12  |            Gomoh Junction              |        GMO         |     23:25     |     23:55     |     30:00     |       157 KM       |    1     
+  13  |               Parasnath                |        PNME        |     00:15     |     00:16     |     1:00      |       175 KM       |    2     
+  14  |            Hazaribagh Road             |        HZD         |     00:37     |     00:38     |     1:00      |       202 KM       |    2     
+  15  |                Koderma                 |        KQR         |     01:19     |     01:20     |     1:00      |       250 KM       |    2     
+  16  |               Gujhandi                 |        GJD         |     01:29     |     01:30     |     1:00      |       260 KM       |    2     
+  17  |               Paharpur                 |        PRP         |     02:49     |     02:50     |     1:00      |       294 KM       |    2     
+  18  |             Gaya Junction              |        GAYA        |     03:45     |     04:10     |     25:00     |       326 KM       |    2     
+  19  |            Makhdumpur Gaya             |        MDE         |     04:36     |     04:37     |     1:00      |       357 KM       |    2     
+  20  |                 Tehta                  |        THA         |     04:44     |     04:45     |     1:00      |       361 KM       |    2     
+  21  |               Jehanabad                |        JHD         |     05:04     |     05:05     |     1:00      |       373 KM       |    2     
+  22  |                Nadauj                  |        NDU         |     05:12     |     05:13     |     1:00      |       382 KM       |    2     
+  23  |                Taregna                 |        TEA         |     05:22     |     05:23     |     1:00      |       389 KM       |    2     
+  24  |                Nadwan                  |        NDW         |     05:32     |     05:33     |     1:00      |       394 KM       |    2     
+  25  |            Patna Junction              |        PNBE        |     06:30     |     06:40     |     10:00     |       418 KM       |    2     
+  26  |            Rjndr Ngr Bihar             |        RJPB        |     06:55     |     Ends      |       -       |       421 KM       |    2     

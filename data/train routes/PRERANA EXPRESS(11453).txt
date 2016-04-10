@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Ahmedabad Junction            |        ADI         |     Start     |     17:15     |       -       |        0 KM        |    1     
+  2   |            Nadiad Junction             |         ND         |     18:01     |     18:03     |     2:00      |       46 KM        |    1     
+  3   |            Anand Junction              |        ANND        |     18:18     |     18:20     |     2:00      |       64 KM        |    1     
+  4   |           Vadodara Junction            |        BRC         |     19:10     |     19:15     |     5:00      |       100 KM       |    1     
+  5   |           Bharuch Junction             |         BH         |     20:02     |     20:04     |     2:00      |       170 KM       |    1     
+  6   |                 Surat                  |         ST         |     21:10     |     21:20     |     10:00     |       229 KM       |    1     
+  7   |               Nandurbar                |        NDB         |     23:55     |     00:15     |     20:00     |       389 KM       |    2     
+  8   |           Jalgaon Junction             |         JL         |     03:38     |     03:40     |     2:00      |       540 KM       |    2     
+  9   |           Bhusaval Junction            |        BSL         |     04:10     |     04:20     |     10:00     |       564 KM       |    2     
+  10  |               Malkapur                 |        MKU         |     05:06     |     05:08     |     2:00      |       614 KM       |    2     
+  11  |            Akola Junction              |         AK         |     06:20     |     06:25     |     5:00      |       704 KM       |    2     
+  12  |           Badnera Junction             |         BD         |     08:40     |     08:45     |     5:00      |       783 KM       |    2     
+  13  |            Wardha Junction             |         WR         |     10:25     |     10:28     |     3:00      |       878 KM       |    2     
+  14  |                Nagpur                  |        NGP         |     12:15     |     Ends      |       -       |       957 KM       |    2     

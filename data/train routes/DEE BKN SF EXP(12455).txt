@@ -1,0 +1,22 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Delhi S Rohilla             |        DEE         |     Start     |     22:45     |       -       |        0 KM        |    1     
+  2   |            Rohtak Junction             |        ROK         |     23:48     |     23:50     |     2:00      |       69 KM        |    1     
+  3   |             Jind Junction              |        JIND        |     00:38     |     00:40     |     2:00      |       126 KM       |    2     
+  4   |            Jakhal Junction             |        JHL         |     01:45     |     01:47     |     2:00      |       198 KM       |    2     
+  5   |                Sangrur                 |        SAG         |     02:21     |     02:23     |     2:00      |       248 KM       |    2     
+  6   |            Dhuri Junction              |        DUI         |     02:43     |     02:45     |     2:00      |       264 KM       |    2     
+  7   |                Barnala                 |        BNN         |     03:08     |     03:10     |     2:00      |       295 KM       |    2     
+  8   |           Bhatinda Junction            |        BTI         |     04:25     |     04:30     |     5:00      |       359 KM       |    2     
+  9   |              Giddarbaha                |        GDB         |     04:53     |     04:55     |     2:00      |       387 KM       |    2     
+  10  |                Malout                  |        MOT         |     05:11     |     05:13     |     2:00      |       403 KM       |    2     
+  11  |                Abohar                  |        ABS         |     05:48     |     05:50     |     2:00      |       433 KM       |    2     
+  12  |            Shri Ganganagar             |        SGNR        |     07:20     |     07:40     |     20:00     |       486 KM       |    2     
+  13  |            Kesri Singhpur              |        KESR        |     08:00     |     08:02     |     2:00      |       511 KM       |    2     
+  14  |             Shri Karanpur              |        SRW         |     08:22     |     08:24     |     2:00      |       533 KM       |    2     
+  15  |              Gajsinghpur               |        GJS         |     08:44     |     08:46     |     2:00      |       553 KM       |    2     
+  16  |            Rai Singh Nagar             |        RSNR        |     09:00     |     09:02     |     2:00      |       567 KM       |    2     
+  17  |                Jaitsar                 |        JES         |     09:31     |     09:33     |     2:00      |       598 KM       |    2     
+  18  |          Suratgarh Junction            |        SOG         |     10:10     |     10:15     |     5:00      |       623 KM       |    2     
+  19  |              Lunkaransar               |        LKS         |     11:30     |     11:32     |     2:00      |       725 KM       |    2     
+  20  |           Lalgarh Junction             |        LGH         |     12:37     |     12:39     |     2:00      |       801 KM       |    2     
+  21  |           Bikaner Junction             |        BKN         |     13:15     |     Ends      |       -       |       805 KM       |    2     

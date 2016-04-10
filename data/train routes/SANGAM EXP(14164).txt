@@ -1,0 +1,24 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Meerut City               |        MTC         |     Start     |     19:00     |       -       |        0 KM        |    1     
+  2   |                 Hapur                  |        HPU         |     19:35     |     19:45     |     10:00     |       30 KM        |    1     
+  3   |                 Baral                  |        BARL        |     20:22     |     20:24     |     2:00      |       59 KM        |    1     
+  4   |              Bulandshahr               |        BSC         |     20:41     |     20:43     |     2:00      |       71 KM        |    1     
+  5   |              Khurja City               |        KJY         |     21:13     |     21:15     |     2:00      |       87 KM        |    1     
+  6   |            Khurja Junction             |        KRJ         |     21:30     |     21:35     |     5:00      |       93 KM        |    1     
+  7   |           Aligarh Junction             |        ALJN        |     22:45     |     23:05     |     20:00     |       137 KM       |    1     
+  8   |           Hathras Junction             |        HRS         |     23:28     |     23:31     |     3:00      |       167 KM       |    1     
+  9   |            Tundla Junction             |        TDL         |     00:15     |     00:20     |     5:00      |       215 KM       |    2     
+  10  |               Firozabad                |        FZD         |     00:38     |     00:40     |     2:00      |       231 KM       |    2     
+  11  |          Shikohabad Junction           |        SKB         |     00:57     |     00:59     |     2:00      |       251 KM       |    2     
+  12  |                Etawah                  |        ETW         |     01:48     |     01:50     |     2:00      |       306 KM       |    2     
+  13  |               Bharthana                |        BNT         |     02:05     |     02:07     |     2:00      |       326 KM       |    2     
+  14  |               Phaphund                 |        PHD         |     02:34     |     02:36     |     2:00      |       363 KM       |    2     
+  15  |            Kanpur Central              |        CNB         |     04:10     |     04:20     |     10:00     |       444 KM       |    2     
+  16  |               Fatehpur                 |        FTP         |     05:33     |     05:35     |     2:00      |       522 KM       |    2     
+  17  |                 Khaga                  |        KGA         |     06:06     |     06:08     |     2:00      |       556 KM       |    2     
+  18  |                Sirathu                 |        SRO         |     06:48     |     06:50     |     2:00      |       582 KM       |    2     
+  19  |              Shujaatpur                |        SJT         |     07:02     |     07:04     |     2:00      |       591 KM       |    2     
+  20  |               Bharwari                 |        BRE         |     07:16     |     07:18     |     2:00      |       601 KM       |    2     
+  21  |              Manoharganj               |        MNJ         |     07:28     |     07:30     |     2:00      |       609 KM       |    2     
+  22  |              Subedarganj               |        SFG         |     07:43     |     07:45     |     2:00      |       635 KM       |    2     
+  23  |          Allahabad Junction            |        ALD         |     08:15     |     Ends      |       -       |       639 KM       |    2     

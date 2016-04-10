@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Chennai Egmore              |         MS         |     Start     |     22:00     |       -       |        0 KM        |    1     
+  2   |               Tambaram                 |        TBM         |     22:29     |     22:30     |     1:00      |       25 KM        |    1     
+  3   |             Chengalpattu               |        CGL         |     22:58     |     23:00     |     2:00      |       56 KM        |    1     
+  4   |             Melmaruvattur              |        MLMR        |     23:29     |     23:30     |     1:00      |       92 KM        |    1     
+  5   |          Villuparam Junction           |         VM         |     00:30     |     00:40     |     10:00     |       159 KM       |    2     
+  6   |            Tirupadripulyur             |        TDPR        |     01:25     |     01:27     |     2:00      |       201 KM       |    2     
+  7   |              Chidambaram               |        CDM         |     02:13     |     02:15     |     2:00      |       244 KM       |    2     
+  8   |               Sirkazhi                 |         SY         |     02:34     |     02:35     |     1:00      |       261 KM       |    2     
+  9   |            Mayiladuturai J             |         MV         |     03:03     |     03:05     |     2:00      |       281 KM       |    2     
+  10  |              Kumbakonam                |        KMU         |     03:23     |     03:25     |     2:00      |       312 KM       |    2     
+  11  |               Papanasam                |        PML         |     03:39     |     03:40     |     1:00      |       326 KM       |    2     
+  12  |               Thanjavur                |         TJ         |     04:35     |     04:45     |     10:00     |       351 KM       |    2     
+  13  |             Nidamangalam               |        NMJ         |     05:15     |     05:25     |     10:00     |       381 KM       |    2     
+  14  |              Mannargudi                |         MQ         |     06:25     |     Ends      |       -       |       395 KM       |    2     

@@ -1,0 +1,27 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Lokmanyatilak T             |        LTT         |     Start     |     16:55     |       -       |        0 KM        |    1     
+  2   |                 Thane                  |        TNA         |     17:17     |     17:20     |     3:00      |       18 KM        |    1     
+  3   |                Panvel                  |        PNVL        |     18:05     |     18:10     |     5:00      |       53 KM        |    1     
+  4   |                Chiplun                 |        CHI         |     21:52     |     21:54     |     2:00      |       309 KM       |    1     
+  5   |               Ratnagiri                |         RN         |     23:00     |     23:05     |     5:00      |       415 KM       |    1     
+  6   |              Sindhudurg                |        SNDD        |     00:40     |     00:42     |     2:00      |       596 KM       |    2     
+  7   |                Pernem                  |        PERN        |     01:18     |     01:20     |     2:00      |       670 KM       |    2     
+  8   |                Madgaon                 |        MAO         |     02:15     |     02:25     |     10:00     |       750 KM       |    2     
+  9   |                Karwar                  |        KAWR        |     03:22     |     03:24     |     2:00      |       832 KM       |    2     
+  10  |                Bhatkal                 |        BTJL        |     05:00     |     05:02     |     2:00      |       985 KM       |    2     
+  11  |                 Udupi                  |         UD         |     06:20     |     06:22     |     2:00      |      1099 KM       |    2     
+  12  |          Mangalore Junction            |        MAJN        |     08:00     |     08:10     |     10:00     |      1180 KM       |    2     
+  13  |               Kasaragod                |        KGQ         |     08:53     |     08:55     |     2:00      |      1231 KM       |    2     
+  14  |                Kannur                  |        CAN         |     10:10     |     10:15     |     5:00      |      1317 KM       |    2     
+  15  |              Thalassery                |        TLY         |     10:33     |     10:35     |     2:00      |      1338 KM       |    2     
+  16  |               Kozhikode                |        CLT         |     11:35     |     11:40     |     5:00      |      1406 KM       |    2     
+  17  |                 Tirur                  |        TIR         |     12:23     |     12:25     |     2:00      |      1447 KM       |    2     
+  18  |           Shoranur Junction            |        SRR         |     13:10     |     13:20     |     10:00     |      1492 KM       |    2     
+  19  |                Thrisur                 |        TCR         |     14:12     |     14:15     |     3:00      |      1525 KM       |    2     
+  20  |            Ernakulam Town              |        ERN         |     15:20     |     15:25     |     5:00      |      1597 KM       |    2     
+  21  |               Kottayam                 |        KTYM        |     16:37     |     16:40     |     3:00      |      1659 KM       |    2     
+  22  |               Tiruvalla                |        TRVL        |     17:08     |     17:10     |     2:00      |      1684 KM       |    2     
+  23  |              Chengannur                |        CNGR        |     17:18     |     17:20     |     2:00      |      1693 KM       |    2     
+  24  |          Kayankulam Junction           |        KYJ         |     17:53     |     17:55     |     2:00      |      1714 KM       |    2     
+  25  |            Kollam Junction             |        QLN         |     18:35     |     18:40     |     5:00      |      1755 KM       |    2     
+  26  |               Kochuveli                |        KCVL        |     20:25     |     Ends      |       -       |      1813 KM       |    2     

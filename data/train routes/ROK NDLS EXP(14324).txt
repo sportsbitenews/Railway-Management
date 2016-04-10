@@ -1,0 +1,7 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Rohtak Junction             |        ROK         |     Start     |     14:15     |       -       |        0 KM        |    1     
+  2   |              Bahadurgarh               |        BGZ         |     14:43     |     14:45     |     2:00      |       41 KM        |    1     
+  3   |                Nangloi                 |        NNO         |     15:07     |     15:09     |     2:00      |       53 KM        |    1     
+  4   |              Shakurbasti               |        SSB         |     15:16     |     15:18     |     2:00      |       60 KM        |    1     
+  5   |            Delhi Kishangnj             |        DKZ         |     15:33     |     15:35     |     2:00      |       67 KM        |    1     
+  6   |               New Delhi                |        NDLS        |     16:00     |     Ends      |       -       |       72 KM        |    1     

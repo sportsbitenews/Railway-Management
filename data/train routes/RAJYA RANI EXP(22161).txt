@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Bhopal  Junction             |        BPL         |     Start     |     17:55     |       -       |        0 KM        |    1     
+  2   |                Vidisha                 |        BHS         |     18:32     |     18:34     |     2:00      |       54 KM        |    1     
+  3   |              Ganj Basoda               |        BAQ         |     19:04     |     19:06     |     2:00      |       93 KM        |    1     
+  4   |             Mandi Bamora               |        MABA        |     19:28     |     19:30     |     2:00      |       122 KM       |    1     
+  5   |             Bina Junction              |        BINA        |     19:55     |     20:00     |     5:00      |       139 KM       |    1     
+  6   |                Khurai                  |        KYE         |     20:25     |     20:27     |     2:00      |       161 KM       |    1     
+  7   |                Saugor                  |        SGO         |     21:17     |     21:20     |     3:00      |       213 KM       |    1     
+  8   |               Makronia                 |        MKRN        |     21:33     |     21:35     |     2:00      |       220 KM       |    1     
+  9   |              Ganeshganj                |        GAJ         |     22:03     |     22:05     |     2:00      |       251 KM       |    1     
+  10  |               Patharia                 |        PHA         |     22:18     |     22:20     |     2:00      |       264 KM       |    1     
+  11  |                 Damoh                  |        DMO         |     22:45     |     Ends      |       -       |       291 KM       |    1     

@@ -1,0 +1,43 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               New Delhi                |        NDLS        |     Start     |     11:25     |       -       |        0 KM        |    1     
+  2   |           Mathura Junction             |        MTJ         |     13:18     |     13:21     |     3:00      |       141 KM       |    1     
+  3   |              Agra Cantt                |        AGC         |     14:05     |     14:10     |     5:00      |       195 KM       |    1     
+  4   |                Gwalior                 |        GWL         |     16:05     |     16:10     |     5:00      |       313 KM       |    1     
+  5   |            Jhansi Junction             |        JHS         |     17:40     |     17:52     |     12:00     |       410 KM       |    1     
+  6   |             Bina Junction              |        BINA        |     19:50     |     19:55     |     5:00      |       563 KM       |    1     
+  7   |           Bhopal  Junction             |        BPL         |     21:40     |     21:45     |     5:00      |       701 KM       |    1     
+  8   |            Itarsi Junction             |         ET         |     23:50     |     23:55     |     5:00      |       793 KM       |    1     
+  9   |                Nagpur                  |        NGP         |     04:00     |     04:10     |     10:00     |      1090 KM       |    2     
+  10  |               Sevagram                 |        SEGM        |     05:11     |     05:13     |     2:00      |      1166 KM       |    2     
+  11  |              Chandrapur                |         CD         |     06:52     |     06:55     |     3:00      |      1287 KM       |    2     
+  12  |              Balharshah                |        BPQ         |     07:40     |     07:50     |     10:00     |      1301 KM       |    2     
+  13  |               Ramgundam                |        RDM         |     09:30     |     09:32     |     2:00      |      1443 KM       |    2     
+  14  |               Warangal                 |         WL         |     11:02     |     11:07     |     5:00      |      1544 KM       |    2     
+  15  |          Vijayawada Junction           |        BZA         |     14:45     |     15:00     |     15:00     |      1752 KM       |    2     
+  16  |                Nellore                 |        NLR         |     18:08     |     18:10     |     2:00      |      2007 KM       |    2     
+  17  |            Gudur Junction              |        GDR         |     19:14     |     19:20     |     6:00      |      2045 KM       |    2     
+  18  |          Renigunta Junction            |         RU         |     20:30     |     20:40     |     10:00     |      2128 KM       |    2     
+  19  |               Tirupati                 |        TPTY        |     20:52     |     20:54     |     2:00      |      2138 KM       |    2     
+  20  |                Chittor                 |        CTO         |     21:58     |     22:00     |     2:00      |      2210 KM       |    2     
+  21  |           Katpadi Junction             |        KPD         |     23:18     |     23:20     |     2:00      |      2242 KM       |    2     
+  22  |              Jolarpettai               |        JTJ         |     00:33     |     00:35     |     2:00      |      2326 KM       |    3     
+  23  |            Salem Junction              |         SA         |     02:10     |     02:15     |     5:00      |      2446 KM       |    3     
+  24  |            Erode Junction              |         ED         |     03:15     |     03:20     |     5:00      |      2509 KM       |    3     
+  25  |               Tiruppur                 |        TUP         |     04:03     |     04:05     |     2:00      |      2559 KM       |    3     
+  26  |          Coimbatore Junction           |        CBE         |     05:05     |     05:10     |     5:00      |      2609 KM       |    3     
+  27  |               Palakkad                 |        PGT         |     06:20     |     06:25     |     5:00      |      2664 KM       |    3     
+  28  |              Ottappalam                |        OTP         |     06:53     |     06:55     |     2:00      |      2695 KM       |    3     
+  29  |                Thrisur                 |        TCR         |     07:37     |     07:40     |     3:00      |      2741 KM       |    3     
+  30  |                 Aluva                  |        AWY         |     08:35     |     08:37     |     2:00      |      2795 KM       |    3     
+  31  |          Eranakulam Junction           |        ERS         |     09:35     |     09:45     |     10:00     |      2815 KM       |    3     
+  32  |              Vaikam Road               |        VARD        |     10:23     |     10:25     |     2:00      |      2850 KM       |    3     
+  33  |               Kottayam                 |        KTYM        |     11:07     |     11:10     |     3:00      |      2874 KM       |    3     
+  34  |             Changanaseri               |        CGY         |     11:28     |     11:30     |     2:00      |      2892 KM       |    3     
+  35  |               Tiruvalla                |        TRVL        |     11:38     |     11:40     |     2:00      |      2900 KM       |    3     
+  36  |              Chengannur                |        CNGR        |     11:48     |     11:50     |     2:00      |      2909 KM       |    3     
+  37  |              Mavelikara                |        MVLK        |     12:03     |     12:05     |     2:00      |      2921 KM       |    3     
+  38  |          Kayankulam Junction           |        KYJ         |     12:15     |     12:17     |     2:00      |      2929 KM       |    3     
+  39  |            Kollam Junction             |        QLN         |     13:00     |     13:05     |     5:00      |      2970 KM       |    3     
+  40  |                Varkala                 |        VAK         |     13:25     |     13:27     |     2:00      |      2994 KM       |    3     
+  41  |            Trivandrum Pett             |        TVP         |     13:58     |     14:00     |     2:00      |      3032 KM       |    3     
+  42  |            Trivandrum Cntl             |        TVC         |     14:35     |     Ends      |       -       |      3035 KM       |    3     

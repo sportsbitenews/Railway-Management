@@ -1,0 +1,19 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Rjndr Ngr Bihar             |        RJPB        |     Start     |     23:25     |       -       |        0 KM        |    1     
+  2   |         Bakhtiyarpur Junction          |        BKP         |     00:05     |     00:07     |     2:00      |       44 KM        |    2     
+  3   |           Hathidah Junction            |        HTZ         |     00:46     |     00:48     |     2:00      |       94 KM        |    2     
+  4   |             Kiul Junction              |        KIUL        |     02:15     |     02:20     |     5:00      |       121 KM       |    2     
+  5   |                 Kajra                  |        KJH         |     02:37     |     02:38     |     1:00      |       137 KM       |    2     
+  6   |               Abhaipur                 |        AHA         |     02:48     |     02:49     |     1:00      |       144 KM       |    2     
+  7   |               Dharhara                 |        DRH         |     03:01     |     03:02     |     1:00      |       154 KM       |    2     
+  8   |             Dasharathpur               |        DRTP        |     03:10     |     03:11     |     1:00      |       160 KM       |    2     
+  9   |           Jamalpur Junction            |        JMP         |     03:25     |     03:30     |     5:00      |       166 KM       |    2     
+  10  |               Bariarpur                |        BUP         |     03:42     |     03:43     |     1:00      |       177 KM       |    2     
+  11  |              Sultanganj                |        SGG         |     04:04     |     04:05     |     1:00      |       195 KM       |    2     
+  12  |               Bhagalpur                |        BGP         |     04:39     |     04:54     |     15:00     |       219 KM       |    2     
+  13  |             Kollikhutaha               |        KKTA        |     05:05     |     05:06     |     1:00      |       226 KM       |    2     
+  14  |              Hatpuraini                |        HPLE        |     05:17     |     05:18     |     1:00      |       231 KM       |    2     
+  15  |                Dhauni                  |        DWLE        |     05:42     |     05:43     |     1:00      |       246 KM       |    2     
+  16  |                Punsia                  |        PNSA        |     05:56     |     05:57     |     1:00      |       253 KM       |    2     
+  17  |                Barahat                 |        BHLE        |     06:07     |     06:09     |     2:00      |       257 KM       |    2     
+  18  |                 Banka                  |        BAKA        |     06:50     |     Ends      |       -       |       272 KM       |    2     

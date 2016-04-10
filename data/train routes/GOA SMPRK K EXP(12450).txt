@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Chandigarh                |        CDG         |     Start     |     01:30     |       -       |        0 KM        |    1     
+  2   |         Ambala Cant Junction           |        UMB         |     02:50     |     03:00     |     10:00     |       68 KM        |    1     
+  3   |           Panipat Junction             |        PNP         |     04:14     |     04:16     |     2:00      |       177 KM       |    1     
+  4   |               New Delhi                |        NDLS        |     06:00     |     06:20     |     20:00     |       266 KM       |    1     
+  5   |             H Nizamuddin               |        NZM         |     06:40     |     07:25     |     45:00     |       274 KM       |    1     
+  6   |             Kota Junction              |        KOTA        |     13:10     |     13:20     |     10:00     |       731 KM       |    1     
+  7   |           Vadodara Junction            |        BRC         |     21:28     |     21:46     |     18:00     |      1259 KM       |    1     
+  8   |              Vasai Road                |        BSR         |     03:35     |     03:40     |     5:00      |      1603 KM       |    2     
+  9   |                Panvel                  |        PNVL        |     05:05     |     05:10     |     5:00      |      1670 KM       |    2     
+  10  |               Ratnagiri                |         RN         |     09:40     |     09:45     |     5:00      |      2032 KM       |    2     
+  11  |                Pernem                  |        PERN        |     12:08     |     12:10     |     2:00      |      2287 KM       |    2     
+  12  |                Thivim                  |        THVM        |     12:22     |     12:24     |     2:00      |      2302 KM       |    2     
+  13  |                Karmali                 |        KRMI        |     13:00     |     13:02     |     2:00      |      2327 KM       |    2     
+  14  |                Madgaon                 |        MAO         |     14:45     |     Ends      |       -       |      2367 KM       |    2     

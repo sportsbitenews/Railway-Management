@@ -1,0 +1,24 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Okha                   |        OKHA        |     Start     |     13:45     |       -       |        0 KM        |    1     
+  2   |                Dwarka                  |        DWK         |     14:18     |     14:20     |     2:00      |       29 KM        |    1     
+  3   |              Khambhaliya               |        KMBL        |     15:50     |     15:52     |     2:00      |       114 KM       |    1     
+  4   |               Jamnagar                 |        JAM         |     16:44     |     16:46     |     2:00      |       168 KM       |    1     
+  5   |                 Hapa                   |        HAPA        |     17:01     |     17:03     |     2:00      |       177 KM       |    1     
+  6   |            Rajkot Junction             |        RJT         |     18:25     |     18:30     |     5:00      |       253 KM       |    1     
+  7   |             Surendranagar              |        SUNR        |     20:37     |     20:39     |     2:00      |       369 KM       |    1     
+  8   |           Viramgam Junction            |         VG         |     21:45     |     21:47     |     2:00      |       434 KM       |    1     
+  9   |          Ahmedabad Junction            |        ADI         |     23:00     |     23:20     |     20:00     |       499 KM       |    1     
+  10  |            Anand Junction              |        ANND        |     00:23     |     00:25     |     2:00      |       563 KM       |    2     
+  11  |           Vadodara Junction            |        BRC         |     01:10     |     01:35     |     25:00     |       599 KM       |    2     
+  12  |            Ratlam Junction             |        RTM         |     05:55     |     06:10     |     15:00     |       861 KM       |    2     
+  13  |            Nagda Junction              |        NAD         |     07:10     |     07:12     |     2:00      |       902 KM       |    2     
+  14  |             Kota Junction              |        KOTA        |     09:40     |     09:50     |     10:00     |      1127 KM       |    2     
+  15  |            Sawai Madhopur              |        SWM         |     11:05     |     11:10     |     5:00      |      1235 KM       |    2     
+  16  |             Gangapur City              |        GGC         |     12:23     |     12:25     |     2:00      |      1298 KM       |    2     
+  17  |               Agra Fort                |         AF         |     15:30     |     15:40     |     10:00     |      1460 KM       |    2     
+  18  |            Tundla Junction             |        TDL         |     16:45     |     16:55     |     10:00     |      1483 KM       |    2     
+  19  |            Kanpur Central              |        CNB         |     19:55     |     20:05     |     10:00     |      1712 KM       |    2     
+  20  |          Allahabad Junction            |        ALD         |     01:30     |     02:00     |     30:00     |      1907 KM       |    3     
+  21  |           Janghai Junction             |        JNH         |     03:02     |     03:04     |     2:00      |      1966 KM       |    3     
+  22  |                Bhadohi                 |        BOY         |     03:41     |     03:43     |     2:00      |      1997 KM       |    3     
+  23  |           Varanasi Junction            |        BSB         |     05:30     |     Ends      |       -       |      2041 KM       |    3     

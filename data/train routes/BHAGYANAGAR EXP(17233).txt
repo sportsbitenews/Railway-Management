@@ -1,0 +1,35 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |         Secunderabad Junction          |         SC         |     Start     |     15:25     |       -       |        0 KM        |    1     
+  2   |               Bibinagar                |         BN         |     15:49     |     15:50     |     1:00      |       34 KM        |    1     
+  3   |                Bhongir                 |         BG         |     16:04     |     16:05     |     1:00      |       47 KM        |    1     
+  4   |                 Aler                   |        ALER        |     16:19     |     16:20     |     1:00      |       70 KM        |    1     
+  5   |                Jangaon                 |         ZN         |     16:34     |     16:35     |     1:00      |       84 KM        |    1     
+  6   |            Raghunathpalli              |        RGP         |     16:44     |     16:45     |     1:00      |       96 KM        |    1     
+  7   |                Ghanpur                 |        GNP         |     16:54     |     16:55     |     1:00      |       112 KM       |    1     
+  8   |                Pindlai                 |        PQL         |     17:09     |     17:10     |     1:00      |       124 KM       |    1     
+  9   |           Kazipet Junction             |        KZJ         |     17:30     |     17:32     |     2:00      |       132 KM       |    1     
+  10  |           Hasanparthi Road             |        HSP         |     17:53     |     17:54     |     1:00      |       144 KM       |    1     
+  11  |                 Uppal                  |        OPL         |     18:03     |     18:04     |     1:00      |       156 KM       |    1     
+  12  |               Jamikunta                |        JMKT        |     18:09     |     18:10     |     1:00      |       168 KM       |    1     
+  13  |             Bisugirsharif              |        BGSF        |     18:17     |     18:18     |     1:00      |       175 KM       |    1     
+  14  |              Potkapalli                |        PTKP        |     18:20     |     18:25     |     5:00      |       185 KM       |    1     
+  15  |                 Odela                  |        OEA         |     18:29     |     18:30     |     1:00      |       188 KM       |    1     
+  16  |                Kolnur                  |        KOLR        |     18:34     |     18:35     |     1:00      |       194 KM       |    1     
+  17  |              Kottapalli                |        KYOP        |     18:39     |     18:40     |     1:00      |       199 KM       |    1     
+  18  |              Peddapalli                |        PDPL        |     18:59     |     19:00     |     1:00      |       207 KM       |    1     
+  19  |             Raghavapuram               |        RGPM        |     19:19     |     19:20     |     1:00      |       215 KM       |    1     
+  20  |               Ramgundam                |        RDM         |     19:28     |     19:30     |     2:00      |       225 KM       |    1     
+  21  |               Peddempet                |        PPZ         |     19:34     |     19:35     |     1:00      |       230 KM       |    1     
+  22  |               Mancheral                |        MCI         |     19:44     |     19:45     |     1:00      |       239 KM       |    1     
+  23  |             Ravindrakhani              |        RVKH        |     19:49     |     19:50     |     1:00      |       245 KM       |    1     
+  24  |               Mandamari                |        MMZ         |     19:54     |     19:55     |     1:00      |       249 KM       |    1     
+  25  |              Belampalli                |        BPA         |     20:09     |     20:10     |     1:00      |       258 KM       |    1     
+  26  |              Rechni Road               |        RECH        |     20:19     |     20:20     |     1:00      |       269 KM       |    1     
+  27  |             Asifabad Road              |        ASAF        |     20:29     |     20:30     |     1:00      |       283 KM       |    1     
+  28  |            Sirpur Kagazngr             |        SKZR        |     23:00     |     23:10     |     10:00     |       297 KM       |    1     
+  29  |              Sirpur Town               |        SRUR        |     23:19     |     23:20     |     1:00      |       315 KM       |    1     
+  30  |                Makudi                  |        MKDI        |     23:39     |     23:40     |     1:00      |       326 KM       |    1     
+  31  |                 Wirur                  |        WIRR        |     23:49     |     23:50     |     1:00      |       339 KM       |    1     
+  32  |               Wihirgaon                |        VHGN        |     00:14     |     00:15     |     1:00      |       348 KM       |    2     
+  33  |               Manikgarh                |        MAGH        |     00:29     |     00:30     |     1:00      |       357 KM       |    2     
+  34  |              Balharshah                |        BPQ         |     01:00     |     Ends      |       -       |       367 KM       |    2     

@@ -1,0 +1,32 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            C Shahumharaj T             |        KOP         |     Start     |     22:50     |       -       |        0 KM        |    1     
+  2   |               Valivade                 |         VV         |     22:58     |     23:00     |     2:00      |        7 KM        |    1     
+  3   |                Rukadi                  |        RKD         |     23:08     |     23:10     |     2:00      |       14 KM        |    1     
+  4   |              Hatkanagale               |        HTK         |     23:18     |     23:20     |     2:00      |       21 KM        |    1     
+  5   |              Jayasingpur               |        JSP         |     23:33     |     23:35     |     2:00      |       36 KM        |    1     
+  6   |            Miraj Junction              |        MRJ         |     00:02     |     00:05     |     3:00      |       48 KM        |    2     
+  7   |                Sangli                  |        SLI         |     00:15     |     00:18     |     3:00      |       55 KM        |    2     
+  8   |               Bhilavdi                 |        BVQ         |     00:38     |     00:40     |     2:00      |       74 KM        |    2     
+  9   |             Kirloskarvadi              |        KOV         |     00:53     |     00:55     |     2:00      |       88 KM        |    2     
+  10  |                 Karad                  |        KRD         |     01:23     |     01:25     |     2:00      |       123 KM       |    2     
+  11  |               Koregaon                 |        KRG         |     02:07     |     02:08     |     1:00      |       171 KM       |    2     
+  12  |                Satara                  |        STR         |     02:23     |     02:26     |     3:00      |       181 KM       |    2     
+  13  |                Wathar                  |        WTR         |     02:53     |     02:55     |     2:00      |       207 KM       |    2     
+  14  |                Lonand                  |        LNN         |     03:38     |     03:40     |     2:00      |       234 KM       |    2     
+  15  |                 Nira                   |        NIRA        |     03:58     |     04:00     |     2:00      |       242 KM       |    2     
+  16  |                Jejuri                  |        JJR         |     04:43     |     04:45     |     2:00      |       269 KM       |    2     
+  17  |               Ghorpuri                 |        GPR         |     06:13     |     06:15     |     2:00      |       324 KM       |    2     
+  18  |             Pune Junction              |        PUNE        |     06:50     |     07:00     |     10:00     |       327 KM       |    2     
+  19  |              Sivajinagar               |        SVJR        |     07:08     |     07:10     |     2:00      |       329 KM       |    2     
+  20  |                Khadki                  |         KK         |     07:29     |     07:30     |     1:00      |       333 KM       |    2     
+  21  |                Pimpri                  |        PMP         |     07:39     |     07:40     |     1:00      |       341 KM       |    2     
+  22  |               Dehu Road                |        DEHR        |     07:54     |     07:55     |     1:00      |       351 KM       |    2     
+  23  |               Talegaon                 |        TGN         |     08:13     |     08:15     |     2:00      |       361 KM       |    2     
+  24  |               Lonavala                 |        LNL         |     08:54     |     08:55     |     1:00      |       390 KM       |    2     
+  25  |               Khandala                 |        KAD         |     08:59     |     09:00     |     1:00      |       394 KM       |    2     
+  26  |                Karjat                  |        KJT         |     09:48     |     09:50     |     2:00      |       419 KM       |    2     
+  27  |                 Neral                  |        NRL         |     09:59     |     10:00     |     1:00      |       432 KM       |    2     
+  28  |            Kalyan Junction             |        KYN         |     10:30     |     10:35     |     5:00      |       465 KM       |    2     
+  29  |                 Thane                  |        TNA         |     10:58     |     11:00     |     2:00      |       485 KM       |    2     
+  30  |                 Dadar                  |         DR         |     11:25     |     11:30     |     5:00      |       509 KM       |    2     
+  31  |              Mumbai Cst                |        CSTM        |     11:50     |     Ends      |       -       |       518 KM       |    2     

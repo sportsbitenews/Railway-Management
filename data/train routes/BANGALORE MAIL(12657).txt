@@ -1,0 +1,9 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Chennai Central             |        MAS         |     Start     |     23:15     |       -       |        0 KM        |    1     
+  2   |               Arakkonam                |        AJJ         |     00:13     |     00:15     |     2:00      |       69 KM        |    2     
+  3   |           Katpadi Junction             |        KPD         |     01:08     |     01:10     |     2:00      |       130 KM       |    2     
+  4   |              Jolarpettai               |        JTJ         |     02:23     |     02:25     |     2:00      |       214 KM       |    2     
+  5   |              Bangarapet                |        BWT         |     03:28     |     03:30     |     2:00      |       292 KM       |    2     
+  6   |            Bangalore East              |        BNCE        |     04:24     |     04:25     |     1:00      |       355 KM       |    2     
+  7   |            Bangalore Cant              |        BNC         |     04:31     |     04:35     |     4:00      |       357 KM       |    2     
+  8   |         Bangalore Cy Junction          |        SBC         |     05:10     |     Ends      |       -       |       362 KM       |    2     

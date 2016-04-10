@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Miraj Junction              |        MRJ         |     Start     |     00:10     |       -       |        0 KM        |    1     
+  2   |                Shedbal                 |        SED         |     00:27     |     00:29     |     2:00      |       17 KM        |    1     
+  3   |              Ugar Khurd                |        UGR         |     00:36     |     00:38     |     2:00      |       27 KM        |    1     
+  4   |                Kudachi                 |        KUD         |     00:46     |     00:48     |     2:00      |       34 KM        |    1     
+  5   |               Chinchli                 |        CNC         |     00:54     |     00:56     |     2:00      |       40 KM        |    1     
+  6   |                Raybag                  |        RBG         |     01:06     |     01:08     |     2:00      |       51 KM        |    1     
+  7   |              Ghatprabha                |        GPB         |     01:33     |     01:35     |     2:00      |       80 KM        |    1     
+  8   |                Belgaum                 |        BGM         |     02:30     |     02:32     |     2:00      |       138 KM       |    1     
+  9   |            Londa Junction              |         LD         |     03:35     |     03:45     |     10:00     |       189 KM       |    1     
+  10  |           Alnavar Junction             |        LWR         |     04:18     |     04:20     |     2:00      |       222 KM       |    1     
+  11  |                Dharwar                 |        DWR         |     05:23     |     05:25     |     2:00      |       259 KM       |    1     
+  12  |            Hubli Junction              |        UBL         |     06:25     |     Ends      |       -       |       279 KM       |    1     

@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Yesvantpur Junction           |        YPR         |     Start     |     16:45     |       -       |        0 KM        |    1     
+  2   |               Hindupur                 |        HUP         |     18:25     |     18:26     |     1:00      |       96 KM        |    1     
+  3   |         Dharmavaram Junction           |        DMM         |     20:00     |     20:02     |     2:00      |       175 KM       |    1     
+  4   |               Anantapur                |        ATP         |     20:33     |     20:35     |     2:00      |       209 KM       |    1     
+  5   |           Guntakal Junction            |        GTL         |     21:40     |     21:45     |     5:00      |       276 KM       |    1     
+  6   |                Raichur                 |         RC         |     23:30     |     23:32     |     2:00      |       397 KM       |    1     
+  7   |                Yadgir                  |         YG         |     00:30     |     00:32     |     2:00      |       466 KM       |    2     
+  8   |               Chittapur                |         CT         |     02:17     |     02:18     |     1:00      |       520 KM       |    2     
+  9   |              Lingampalli               |        LPI         |     04:34     |     04:35     |     1:00      |       666 KM       |    2     
+  10  |               Begampet                 |        BMT         |     04:54     |     04:55     |     1:00      |       684 KM       |    2     
+  11  |         Secunderabad Junction          |         SC         |     05:30     |     Ends      |       -       |       688 KM       |    2     

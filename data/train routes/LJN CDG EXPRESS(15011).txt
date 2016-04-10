@@ -1,0 +1,21 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Lucknow Ne                |        LJN         |     Start     |     23:00     |       -       |        0 KM        |    1     
+  2   |                Hardoi                  |        HRI         |     00:25     |     00:27     |     2:00      |       102 KM       |    2     
+  3   |             Shahjehanpur               |        SPN         |     01:27     |     01:30     |     3:00      |       165 KM       |    2     
+  4   |          Chandausi Junction            |         CH         |     03:37     |     03:40     |     3:00      |       300 KM       |    2     
+  5   |               Moradabad                |         MB         |     04:55     |     05:05     |     10:00     |       344 KM       |    2     
+  6   |                Amroha                  |        AMRO        |     05:33     |     05:35     |     2:00      |       374 KM       |    2     
+  7   |           Gajraula Junction            |        GJL         |     06:00     |     06:05     |     5:00      |       397 KM       |    2     
+  8   |            Mandi Dhanaura              |        MNDR        |     06:33     |     06:35     |     2:00      |       413 KM       |    2     
+  9   |              Chand Siau                |        CPS         |     07:15     |     07:17     |     2:00      |       432 KM       |    2     
+  10  |                Haldaur                 |        HLDR        |     07:45     |     07:47     |     2:00      |       450 KM       |    2     
+  11  |                Bijnor                  |        BJO         |     08:18     |     08:20     |     2:00      |       468 KM       |    2     
+  12  |             BASI KIRATPUR              |        BSKR        |     08:55     |     08:56     |     1:00      |       483 KM       |    2     
+  13  |            Muzzampur Nryn              |        MZM         |     09:33     |     09:35     |     2:00      |       493 KM       |    2     
+  14  |            Laksar Junction             |        LRJ         |     10:35     |     10:40     |     5:00      |       523 KM       |    2     
+  15  |                Roorkee                 |         RK         |     10:56     |     10:58     |     2:00      |       541 KM       |    2     
+  16  |              Saharanpur                |        SRE         |     12:20     |     12:25     |     5:00      |       576 KM       |    2     
+  17  |               Jagadhri                 |        JUD         |     12:51     |     12:53     |     2:00      |       606 KM       |    2     
+  18  |            Jagadhri Wshop              |        JUDW        |     12:59     |     13:01     |     2:00      |       611 KM       |    2     
+  19  |         Ambala Cant Junction           |        UMB         |     13:55     |     14:05     |     10:00     |       657 KM       |    2     
+  20  |              Chandigarh                |        CDG         |     14:50     |     Ends      |       -       |       724 KM       |    2     

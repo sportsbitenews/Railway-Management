@@ -1,0 +1,9 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               New Delhi                |        NDLS        |     Start     |     23:45     |       -       |        0 KM        |    1     
+  2   |            Kanpur Central              |        CNB         |     06:10     |     06:20     |     10:00     |       440 KM       |    2     
+  3   |          Allahabad Junction            |        ALD         |     08:50     |     09:00     |     10:00     |       634 KM       |    2     
+  4   |           Katihar Junction             |        KIR         |     20:40     |     20:50     |     10:00     |      1288 KM       |    2     
+  5   |            New Jalpaiguri              |        NJP         |     00:05     |     00:20     |     15:00     |      1489 KM       |    3     
+  6   |            New Bongaigaon              |        NBQ         |     05:08     |     05:10     |     2:00      |      1766 KM       |    3     
+  7   |             Goalpara Town              |        GLPT        |     05:50     |     05:52     |     2:00      |      1846 KM       |    3     
+  8   |               Guwahati                 |        GHY         |     08:45     |     Ends      |       -       |      1974 KM       |    3     

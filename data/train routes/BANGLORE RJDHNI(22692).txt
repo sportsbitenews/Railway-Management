@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             H Nizamuddin               |        NZM         |     Start     |     20:45     |       -       |        0 KM        |    1     
+  2   |            Jhansi Junction             |        JHS         |     01:15     |     01:20     |     5:00      |       403 KM       |    2     
+  3   |           Bhopal  Junction             |        BPL         |     04:30     |     04:40     |     10:00     |       694 KM       |    2     
+  4   |                Nagpur                  |        NGP         |     10:00     |     10:10     |     10:00     |      1083 KM       |    2     
+  5   |           Kazipet Junction             |        KZJ         |     16:05     |     16:07     |     2:00      |      1528 KM       |    2     
+  6   |         Secunderabad Junction          |         SC         |     18:35     |     18:50     |     15:00     |      1660 KM       |    2     
+  7   |                 Seram                  |        SEM         |     20:58     |     21:00     |     2:00      |      1806 KM       |    2     
+  8   |                Raichur                 |         RC         |     23:08     |     23:10     |     2:00      |      1951 KM       |    2     
+  9   |               Anantapur                |        ATP         |     02:18     |     02:20     |     2:00      |      2140 KM       |    3     
+  10  |         Dharmavaram Junction           |        DMM         |     03:25     |     03:30     |     5:00      |      2173 KM       |    3     
+  11  |             Sai P Nilayam              |        SSPN        |     03:58     |     04:00     |     2:00      |      2206 KM       |    3     
+  12  |         Bangalore Cy Junction          |        SBC         |     06:40     |     Ends      |       -       |      2365 KM       |    3     

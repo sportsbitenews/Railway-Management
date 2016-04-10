@@ -1,0 +1,17 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Sai P Nilayam              |        SSPN        |     Start     |     07:40     |       -       |        0 KM        |    1     
+  2   |         Dharmavaram Junction           |        DMM         |     08:25     |     08:27     |     2:00      |       33 KM        |    1     
+  3   |               Anantapur                |        ATP         |     09:04     |     09:05     |     1:00      |       67 KM        |    1     
+  4   |                 Gooty                  |         GY         |     10:03     |     10:05     |     2:00      |       124 KM       |    1     
+  5   |                 Dhone                  |        DHNE        |     11:05     |     11:07     |     2:00      |       179 KM       |    1     
+  6   |                Nandyal                 |        NDL         |     12:35     |     12:40     |     5:00      |       255 KM       |    1     
+  7   |               Giddalur                 |        GID         |     13:48     |     13:49     |     1:00      |       309 KM       |    1     
+  8   |             Markapur Road              |        MRK         |     14:36     |     14:37     |     1:00      |       368 KM       |    1     
+  9   |             Narasaraopet               |        NRT         |     16:15     |     16:16     |     1:00      |       467 KM       |    1     
+  10  |            Guntur Junction             |        GNT         |     17:25     |     17:30     |     5:00      |       512 KM       |    1     
+  11  |          Vijayawada Junction           |        BZA         |     18:45     |     19:05     |     20:00     |       544 KM       |    1     
+  12  |                Duvvada                 |        DVD         |     00:10     |     00:12     |     2:00      |       877 KM       |    2     
+  13  |               Brahmapur                |        BAM         |     04:35     |     04:37     |     2:00      |      1158 KM       |    2     
+  14  |              Bhubaneswar               |        BBS         |     07:30     |     07:35     |     5:00      |      1324 KM       |    2     
+  15  |          Kharagpur Junction            |        KGP         |     12:35     |     12:40     |     5:00      |      1647 KM       |    2     
+  16  |            Howrah Junction             |        HWH         |     14:50     |     Ends      |       -       |      1763 KM       |    2     

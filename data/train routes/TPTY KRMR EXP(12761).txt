@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Tirupati                 |        TPTY        |     Start     |     22:40     |       -       |        0 KM        |    1     
+  2   |          Renigunta Junction            |         RU         |     22:55     |     22:57     |     2:00      |       10 KM        |    1     
+  3   |             Sri Kalahasti              |        KHT         |     23:15     |     23:17     |     2:00      |       33 KM        |    1     
+  4   |            Gudur Junction              |        GDR         |     00:28     |     00:30     |     2:00      |       93 KM        |    2     
+  5   |          Vijayawada Junction           |        BZA         |     04:40     |     04:50     |     10:00     |       386 KM       |    2     
+  6   |                Madhira                 |        MDR         |     05:44     |     05:45     |     1:00      |       443 KM       |    2     
+  7   |                Khammam                 |        KMT         |     06:09     |     06:10     |     1:00      |       487 KM       |    2     
+  8   |              Mahbubabad                |        MABD        |     06:59     |     07:00     |     1:00      |       534 KM       |    2     
+  9   |               Warangal                 |         WL         |     07:45     |     07:47     |     2:00      |       595 KM       |    2     
+  10  |               Jamikunta                |        JMKT        |     08:29     |     08:30     |     1:00      |       639 KM       |    2     
+  11  |              Peddapalli                |        PDPL        |     09:44     |     09:45     |     1:00      |       678 KM       |    2     
+  12  |              Karimnagar                |        KRMR        |     10:55     |     Ends      |       -       |       714 KM       |    2     

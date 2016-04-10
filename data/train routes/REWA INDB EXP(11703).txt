@@ -1,0 +1,17 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Rewa                   |        REWA        |     Start     |     05:00     |       -       |        0 KM        |    1     
+  2   |                 Satna                  |        STA         |     05:55     |     06:05     |     10:00     |       50 KM        |    1     
+  3   |                Maihar                  |        MYR         |     06:28     |     06:30     |     2:00      |       85 KM        |    1     
+  4   |                Jukehi                  |        JKE         |     07:03     |     07:05     |     2:00      |       131 KM       |    1     
+  5   |                 Katni                  |        KTE         |     07:30     |     07:40     |     10:00     |       148 KM       |    1     
+  6   |                 Damoh                  |        DMO         |     09:23     |     09:25     |     2:00      |       259 KM       |    1     
+  7   |                Saugor                  |        SGO         |     10:25     |     10:30     |     5:00      |       336 KM       |    1     
+  8   |             Bina Junction              |        BINA        |     12:30     |     12:35     |     5:00      |       411 KM       |    1     
+  9   |                Vidisha                 |        BHS         |     13:32     |     13:34     |     2:00      |       496 KM       |    1     
+  10  |               Bairagarh                |        BIH         |     15:20     |     15:22     |     2:00      |       559 KM       |    1     
+  11  |                Sehore                  |        SEH         |     15:41     |     15:43     |     2:00      |       588 KM       |    1     
+  12  |               Shujalpur                |        SJP         |     16:20     |     16:22     |     2:00      |       629 KM       |    1     
+  13  |                Berchha                 |        BCH         |     16:58     |     17:00     |     2:00      |       672 KM       |    1     
+  14  |            Ujjain Junction             |        UJN         |     18:05     |     18:25     |     20:00     |       733 KM       |    1     
+  15  |                 Dewas                  |        DWX         |     19:08     |     19:10     |     2:00      |       773 KM       |    1     
+  16  |          Indore Junction Bg            |        INDB        |     20:30     |     Ends      |       -       |       812 KM       |    1     

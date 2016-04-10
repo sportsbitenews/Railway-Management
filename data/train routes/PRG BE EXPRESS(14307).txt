@@ -1,0 +1,41 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Prayag                  |        PRG         |     Start     |     22:15     |       -       |        0 KM        |    1     
+  2   |          Phaphamau Junction            |        PFM         |     22:27     |     22:29     |     2:00      |        7 KM        |    1     
+  3   |                Siwaith                 |        SWE         |     22:39     |     22:41     |     2:00      |       13 KM        |    1     
+  4   |               Mau Aimma                |        MEM         |     23:01     |     23:03     |     2:00      |       27 KM        |    1     
+  5   |             Bishnathganj               |        BTJ         |     23:26     |     23:28     |     2:00      |       38 KM        |    1     
+  6   |              Bhupia Mau                |        VPO         |     23:41     |     23:43     |     2:00      |       48 KM        |    1     
+  7   |          Partapgarh Junction           |        PBH         |     00:10     |     00:15     |     5:00      |       53 KM        |    2     
+  8   |           Chilbila Junction            |        CIL         |     00:22     |     00:24     |     2:00      |       57 KM        |    2     
+  9   |             Jagesharganj               |        JGJ         |     00:32     |     00:34     |     2:00      |       66 KM        |    2     
+  10  |                 Antu                   |        ANTU        |     00:42     |     00:44     |     2:00      |       74 KM        |    2     
+  11  |               Misrauli                 |        MFL         |     00:57     |     00:59     |     2:00      |       82 KM        |    2     
+  12  |                Amethi                  |        AME         |     01:07     |     01:09     |     2:00      |       88 KM        |    2     
+  13  |              Talakhajuri               |        TLKH        |     01:17     |     01:19     |     2:00      |       96 KM        |    2     
+  14  |               Gauriganj                |        GNG         |     01:28     |     01:30     |     2:00      |       101 KM       |    2     
+  15  |                 Bani                   |        BANI        |     01:38     |     01:40     |     2:00      |       110 KM       |    2     
+  16  |               Kasimpur                 |        KCJ         |     01:46     |     01:48     |     2:00      |       117 KM       |    2     
+  17  |                 Jais                   |        JAIS        |     01:52     |     01:54     |     2:00      |       119 KM       |    2     
+  18  |              Fursatganj                |        FTG         |     02:03     |     02:05     |     2:00      |       130 KM       |    2     
+  19  |                Rupamau                 |        RUM         |     02:14     |     02:16     |     2:00      |       139 KM       |    2     
+  20  |          Rae Bareli Junction           |        RBL         |     03:12     |     03:17     |     5:00      |       148 KM       |    2     
+  21  |               Gangaganj                |        GANG        |     03:27     |     03:29     |     2:00      |       156 KM       |    2     
+  22  |              Harchandpur               |        HCP         |     03:36     |     03:38     |     2:00      |       163 KM       |    2     
+  23  |              Kuneanganj                |        KVG         |     03:45     |     03:47     |     2:00      |       169 KM       |    2     
+  24  |              Bachhrawan                |        BCN         |     03:55     |     03:57     |     2:00      |       179 KM       |    2     
+  25  |             Shrirajnagar               |        SAGR        |     04:04     |     04:06     |     2:00      |       185 KM       |    2     
+  26  |                Nigohan                 |        NHN         |     04:13     |     04:15     |     2:00      |       190 KM       |    2     
+  27  |                Kankaha                 |        KKAH        |     04:22     |     04:24     |     2:00      |       197 KM       |    2     
+  28  |             Mohanlalganj               |        MLJ         |     04:31     |     04:33     |     2:00      |       205 KM       |    2     
+  29  |               Utrahtia                 |        UTR         |     05:43     |     05:45     |     2:00      |       214 KM       |    2     
+  30  |              Lucknow Nr                |        LKO         |     06:30     |     06:40     |     10:00     |       226 KM       |    2     
+  31  |               Alamnagar                |        AMG         |     07:02     |     07:04     |     2:00      |       232 KM       |    2     
+  32  |                Sandila                 |        SAN         |     07:34     |     07:36     |     2:00      |       275 KM       |    2     
+  33  |                Hardoi                  |        HRI         |     08:20     |     08:22     |     2:00      |       328 KM       |    2     
+  34  |            Anjhi Shahabad              |        AJI         |     08:46     |     08:48     |     2:00      |       360 KM       |    2     
+  35  |             Roza Junction              |        ROZA        |     09:16     |     09:18     |     2:00      |       383 KM       |    2     
+  36  |             Shahjehanpur               |        SPN         |     09:30     |     09:35     |     5:00      |       390 KM       |    2     
+  37  |                Tilhar                  |        TLH         |     09:50     |     09:52     |     2:00      |       409 KM       |    2     
+  38  |                Bilpur                  |        BLPU        |     10:07     |     10:09     |     2:00      |       425 KM       |    2     
+  39  |              Pitambarpur               |        PMR         |     10:24     |     10:26     |     2:00      |       441 KM       |    2     
+  40  |               Bareilly                 |         BE         |     10:55     |     Ends      |       -       |       461 KM       |    2     

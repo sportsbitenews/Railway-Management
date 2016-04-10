@@ -1,0 +1,21 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |         Secunderabad Junction          |         SC         |     Start     |     05:30     |       -       |        0 KM        |    1     
+  2   |           Kazipet Junction             |        KZJ         |     07:33     |     07:35     |     2:00      |       132 KM       |    1     
+  3   |               Warangal                 |         WL         |     07:48     |     07:50     |     2:00      |       142 KM       |    1     
+  4   |          Vijayawada Junction           |        BZA         |     11:10     |     11:25     |     15:00     |       351 KM       |    1     
+  5   |                 Eluru                  |         EE         |     12:11     |     12:12     |     1:00      |       410 KM       |    1     
+  6   |              Rajamundry                |        RJY         |     13:36     |     13:38     |     2:00      |       500 KM       |    1     
+  7   |             Vishakapatnam              |        VSKP        |     17:30     |     17:50     |     20:00     |       701 KM       |    1     
+  8   |         Vizianagram Junction           |        VZM         |     18:50     |     18:55     |     5:00      |       762 KM       |    1     
+  9   |                Palasa                  |        PSA         |     20:50     |     20:52     |     2:00      |       904 KM       |    1     
+  10  |                Sompeta                 |        SPT         |     21:15     |     21:17     |     2:00      |       936 KM       |    1     
+  11  |               Brahmapur                |        BAM         |     21:58     |     22:03     |     5:00      |       978 KM       |    1     
+  12  |         Khurda Road Junction           |        KUR         |     00:30     |     00:45     |     15:00     |      1125 KM       |    2     
+  13  |              Bhubaneswar               |        BBS         |     01:05     |     01:10     |     5:00      |      1144 KM       |    2     
+  14  |                Cuttack                 |        CTC         |     01:45     |     01:50     |     5:00      |      1171 KM       |    2     
+  15  |               Bhadrakh                 |        BHC         |     03:48     |     03:50     |     2:00      |      1287 KM       |    2     
+  16  |               Balasore                 |        BLS         |     04:35     |     04:37     |     2:00      |      1349 KM       |    2     
+  17  |               Jaleswar                 |        JER         |     05:10     |     05:12     |     2:00      |      1397 KM       |    2     
+  18  |          Kharagpur Junction            |        KGP         |     06:10     |     06:20     |     10:00     |      1467 KM       |    2     
+  19  |         Santragachi Junction           |        SRC         |     08:26     |     08:28     |     2:00      |      1575 KM       |    2     
+  20  |               Shalimar                 |        SHM         |     09:05     |     Ends      |       -       |      1580 KM       |    2     

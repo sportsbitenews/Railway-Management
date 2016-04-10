@@ -1,0 +1,42 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Kochuveli                |        KCVL        |     Start     |     15:35     |       -       |        0 KM        |    1     
+  2   |            Kollam Junction             |        QLN         |     16:25     |     16:30     |     5:00      |       59 KM        |    1     
+  3   |          Kayankulam Junction           |        KYJ         |     17:08     |     17:10     |     2:00      |       100 KM       |    1     
+  4   |              Chengannur                |        CNGR        |     17:20     |     17:22     |     2:00      |       120 KM       |    1     
+  5   |               Tiruvalla                |        TRVL        |     17:30     |     17:32     |     2:00      |       129 KM       |    1     
+  6   |               Kottayam                 |        KTYM        |     18:22     |     18:25     |     3:00      |       155 KM       |    1     
+  7   |            Ernakulam Town              |        ERN         |     20:00     |     20:05     |     5:00      |       217 KM       |    1     
+  8   |                 Aluva                  |        AWY         |     20:23     |     20:25     |     2:00      |       234 KM       |    1     
+  9   |                Thrisur                 |        TCR         |     21:17     |     21:20     |     3:00      |       288 KM       |    1     
+  10  |           Shoranur Junction            |        SRR         |     22:20     |     22:30     |     10:00     |       321 KM       |    1     
+  11  |                 Tirur                  |        TIR         |     23:23     |     23:25     |     2:00      |       366 KM       |    1     
+  12  |               Kozhikode                |        CLT         |     00:15     |     00:20     |     5:00      |       407 KM       |    2     
+  13  |               Vadakara                 |        BDJ         |     00:53     |     00:55     |     2:00      |       453 KM       |    2     
+  14  |              Thalassery                |        TLY         |     01:13     |     01:15     |     2:00      |       475 KM       |    2     
+  15  |                Kannur                  |        CAN         |     01:50     |     01:55     |     5:00      |       496 KM       |    2     
+  16  |               Payyanur                 |        PAY         |     02:23     |     02:25     |     2:00      |       530 KM       |    2     
+  17  |               Kasaragod                |        KGQ         |     03:08     |     03:10     |     2:00      |       582 KM       |    2     
+  18  |          Mangalore Junction            |        MAJN        |     04:35     |     04:45     |     10:00     |       633 KM       |    2     
+  19  |                 Udupi                  |         UD         |     06:20     |     06:22     |     2:00      |       714 KM       |    2     
+  20  |                Byndoor                 |        BYNR        |     07:16     |     07:18     |     2:00      |       806 KM       |    2     
+  21  |                 Kumta                  |         KT         |     08:30     |     08:32     |     2:00      |       905 KM       |    2     
+  22  |                Karwar                  |        KAWR        |     09:28     |     09:30     |     2:00      |       982 KM       |    2     
+  23  |                Madgaon                 |        MAO         |     11:20     |     11:30     |     10:00     |      1064 KM       |    2     
+  24  |                Thivim                  |        THVM        |     12:20     |     12:22     |     2:00      |      1128 KM       |    2     
+  25  |              Sindhudurg                |        SNDD        |     13:20     |     13:22     |     2:00      |      1218 KM       |    2     
+  26  |               Ratnagiri                |         RN         |     16:10     |     16:15     |     5:00      |      1398 KM       |    2     
+  27  |                Chiplun                 |        CHI         |     17:20     |     17:22     |     2:00      |      1504 KM       |    2     
+  28  |                 Roha                   |        ROHA        |     20:00     |     20:05     |     5:00      |      1683 KM       |    2     
+  29  |                Panvel                  |        PNVL        |     21:20     |     21:25     |     5:00      |      1760 KM       |    2     
+  30  |              Vasai Road                |        BSR         |     23:10     |     23:20     |     10:00     |      1828 KM       |    2     
+  31  |                 Surat                  |         ST         |     03:10     |     03:22     |     12:00     |      2043 KM       |    3     
+  32  |          Ankleshwar Junction           |        AKV         |     04:05     |     04:07     |     2:00      |      2092 KM       |    3     
+  33  |           Vadodara Junction            |        BRC         |     05:12     |     05:22     |     10:00     |      2172 KM       |    3     
+  34  |            Anand Junction              |        ANND        |     05:51     |     05:53     |     2:00      |      2207 KM       |    3     
+  35  |            Nadiad Junction             |         ND         |     06:08     |     06:10     |     2:00      |      2226 KM       |    3     
+  36  |          Ahmedabad Junction            |        ADI         |     07:15     |     07:35     |     20:00     |      2271 KM       |    3     
+  37  |         Jorawarnagar Junction          |        JVN         |     10:13     |     10:14     |     1:00      |      2405 KM       |    3     
+  38  |            Botad Junction              |        BTD         |     11:17     |     11:19     |     2:00      |      2477 KM       |    3     
+  39  |            Dhola Junction              |        DLJ         |     11:55     |     11:56     |     1:00      |      2520 KM       |    3     
+  40  |             Sihor Gujarat              |        SOJN        |     12:27     |     12:28     |     1:00      |      2548 KM       |    3     
+  41  |            Bhavnagar Trmus             |        BVC         |     13:10     |     Ends      |       -       |      2569 KM       |    3     

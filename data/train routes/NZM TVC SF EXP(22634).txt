@@ -1,0 +1,30 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             H Nizamuddin               |        NZM         |     Start     |     23:35     |       -       |        0 KM        |    1     
+  2   |           Mathura Junction             |        MTJ         |     02:00     |     02:02     |     2:00      |       134 KM       |    2     
+  3   |          Bharatpur Junction            |        BTE         |     02:26     |     02:28     |     2:00      |       167 KM       |    2     
+  4   |            Sawai Madhopur              |        SWM         |     04:48     |     04:50     |     2:00      |       350 KM       |    2     
+  5   |             Kota Junction              |        KOTA        |     06:30     |     06:40     |     10:00     |       458 KM       |    2     
+  6   |            Ratlam Junction             |        RTM         |     10:45     |     11:05     |     20:00     |       724 KM       |    2     
+  7   |           Vadodara Junction            |        BRC         |     16:23     |     16:41     |     18:00     |       986 KM       |    2     
+  8   |                 Surat                  |         ST         |     18:30     |     18:35     |     5:00      |      1115 KM       |    2     
+  9   |              Vasai Road                |        BSR         |     21:35     |     21:45     |     10:00     |      1330 KM       |    2     
+  10  |                Panvel                  |        PNVL        |     23:25     |     23:30     |     5:00      |      1397 KM       |    2     
+  11  |                Chiplun                 |        CHI         |     03:14     |     03:16     |     2:00      |      1653 KM       |    3     
+  12  |               Ratnagiri                |         RN         |     04:25     |     04:30     |     5:00      |      1759 KM       |    3     
+  13  |              Sindhudurg                |        SNDD        |     06:10     |     06:12     |     2:00      |      1940 KM       |    3     
+  14  |                Pernem                  |        PERN        |     07:02     |     07:04     |     2:00      |      2014 KM       |    3     
+  15  |                Madgaon                 |        MAO         |     08:55     |     09:05     |     10:00     |      2094 KM       |    3     
+  16  |                Karwar                  |        KAWR        |     10:00     |     10:02     |     2:00      |      2176 KM       |    3     
+  17  |                 Udupi                  |         UD         |     13:14     |     13:16     |     2:00      |      2443 KM       |    3     
+  18  |          Mangalore Junction            |        MAJN        |     14:35     |     14:45     |     10:00     |      2524 KM       |    3     
+  19  |               Kasaragod                |        KGQ         |     15:28     |     15:30     |     2:00      |      2575 KM       |    3     
+  20  |                Kannur                  |        CAN         |     16:35     |     16:40     |     5:00      |      2661 KM       |    3     
+  21  |               Kozhikode                |        CLT         |     18:05     |     18:10     |     5:00      |      2750 KM       |    3     
+  22  |           Shoranur Junction            |        SRR         |     19:55     |     20:05     |     10:00     |      2836 KM       |    3     
+  23  |                Thrisur                 |        TCR         |     20:42     |     20:45     |     3:00      |      2869 KM       |    3     
+  24  |                 Aluva                  |        AWY         |     21:33     |     21:35     |     2:00      |      2924 KM       |    3     
+  25  |          Eranakulam Junction           |        ERS         |     22:20     |     22:25     |     5:00      |      2943 KM       |    3     
+  26  |               Alleppey                 |        ALLP        |     23:07     |     23:10     |     3:00      |      3000 KM       |    3     
+  27  |          Kayankulam Junction           |        KYJ         |     00:20     |     00:22     |     2:00      |      3043 KM       |    4     
+  28  |            Kollam Junction             |        QLN         |     00:55     |     01:00     |     5:00      |      3084 KM       |    4     
+  29  |            Trivandrum Cntl             |        TVC         |     02:40     |     Ends      |       -       |      3149 KM       |    4     

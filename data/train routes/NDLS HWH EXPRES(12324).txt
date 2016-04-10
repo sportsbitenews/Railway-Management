@@ -1,0 +1,10 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               New Delhi                |        NDLS        |     Start     |     06:55     |       -       |        0 KM        |    1     
+  2   |            Kanpur Central              |        CNB         |     13:20     |     13:40     |     20:00     |       440 KM       |    1     
+  3   |          Allahabad Junction            |        ALD         |     16:35     |     16:45     |     10:00     |       634 KM       |    1     
+  4   |         Mughal Sarai Junction          |        MGS         |     19:25     |     19:40     |     15:00     |       786 KM       |    1     
+  5   |             Gaya Junction              |        GAYA        |     22:20     |     22:25     |     5:00      |       989 KM       |    1     
+  6   |                Koderma                 |        KQR         |     23:53     |     23:55     |     2:00      |      1066 KM       |    1     
+  7   |           Dhanbad Junction             |        DHN         |     01:50     |     02:00     |     10:00     |      1188 KM       |    2     
+  8   |           Asansol Junction             |        ASN         |     02:55     |     03:00     |     5:00      |      1247 KM       |    2     
+  9   |            Howrah Junction             |        HWH         |     06:00     |     Ends      |       -       |      1447 KM       |    2     

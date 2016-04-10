@@ -1,0 +1,27 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Narasapur                |         NS         |     Start     |     10:25     |       -       |        0 KM        |    1     
+  2   |               Palakollu                |        PKO         |     10:34     |     10:35     |     1:00      |        9 KM        |    1     
+  3   |            Bhimavaram Town             |        BVRT        |     11:14     |     11:15     |     1:00      |       31 KM        |    1     
+  4   |                Akividu                 |        AKVD        |     11:34     |     11:35     |     1:00      |       49 KM        |    1     
+  5   |               Kaikolur                 |        KKLR        |     11:54     |     11:55     |     1:00      |       66 KM        |    1     
+  6   |           Gudivada Junction            |        GDV         |     12:30     |     12:32     |     2:00      |       95 KM        |    1     
+  7   |          Vijayawada Junction           |        BZA         |     13:50     |     14:05     |     15:00     |       139 KM       |    1     
+  8   |              Mangalagiri               |        MAG         |     14:24     |     14:25     |     1:00      |       151 KM       |    1     
+  9   |            Guntur Junction             |        GNT         |     14:55     |     15:00     |     5:00      |       171 KM       |    1     
+  10  |             Sattenapalle               |        SAP         |     15:45     |     15:46     |     1:00      |       213 KM       |    1     
+  11  |              Piduguralla               |        PGRL        |     16:18     |     16:19     |     1:00      |       245 KM       |    1     
+  12  |               Nadikode                 |        NDKD        |     16:40     |     16:41     |     1:00      |       266 KM       |    1     
+  13  |              Vishnupuram               |        VNUP        |     16:58     |     16:59     |     1:00      |       284 KM       |    1     
+  14  |              Miryalaguda               |        MRGA        |     17:16     |     17:17     |     1:00      |       304 KM       |    1     
+  15  |               Nalgonda                 |        NLDA        |     18:00     |     18:01     |     1:00      |       342 KM       |    1     
+  16  |         Secunderabad Junction          |         SC         |     21:30     |     22:00     |     30:00     |       452 KM       |    1     
+  17  |               Kamareddi                |        KMC         |     00:13     |     00:15     |     2:00      |       560 KM       |    2     
+  18  |               Nizamabad                |        NZB         |     01:10     |     01:15     |     5:00      |       612 KM       |    2     
+  19  |                 Basar                  |        BSX         |     01:45     |     01:46     |     1:00      |       642 KM       |    2     
+  20  |                Mudkhed                 |        MUE         |     02:58     |     03:00     |     2:00      |       701 KM       |    2     
+  21  |                Nanded                  |        NED         |     03:35     |     03:40     |     5:00      |       723 KM       |    2     
+  22  |            Purna Junction              |        PAU         |     04:25     |     04:30     |     5:00      |       754 KM       |    2     
+  23  |           Parbhani Junction            |        PBN         |     04:58     |     05:00     |     2:00      |       782 KM       |    2     
+  24  |                 Jalna                  |         J          |     06:28     |     06:30     |     2:00      |       897 KM       |    2     
+  25  |              Aurangabad                |        AWB         |     07:30     |     07:35     |     5:00      |       959 KM       |    2     
+  26  |               Nagarsol                 |        NSL         |     10:00     |     Ends      |       -       |      1048 KM       |    2     

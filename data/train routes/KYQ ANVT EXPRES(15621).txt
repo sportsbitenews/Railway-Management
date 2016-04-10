@@ -1,0 +1,26 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Kamakhya                 |        KYQ         |     Start     |     05:35     |       -       |        0 KM        |    1     
+  2   |             Goalpara Town              |        GLPT        |     07:28     |     07:30     |     2:00      |       122 KM       |    1     
+  3   |            New Bongaigaon              |        NBQ         |     08:35     |     08:40     |     5:00      |       202 KM       |    1     
+  4   |               Kokrajhar                |        KOJ         |     09:09     |     09:10     |     1:00      |       230 KM       |    1     
+  5   |         Alipur Duar Junction           |        APDJ        |     10:28     |     10:30     |     2:00      |       311 KM       |    1     
+  6   |               Binnaguri                |        BNV         |     11:33     |     11:34     |     1:00      |       380 KM       |    1     
+  7   |            New Jalpaiguri              |        NJP         |     13:30     |     13:45     |     15:00     |       480 KM       |    1     
+  8   |              Kishanganj                |        KNE         |     14:46     |     14:48     |     2:00      |       567 KM       |    1     
+  9   |           Katihar Junction             |        KIR         |     16:55     |     17:05     |     10:00     |       663 KM       |    1     
+  10  |               Naugachia                |        NNA         |     17:51     |     17:52     |     1:00      |       720 KM       |    1     
+  11  |           Khagaria Junction            |        KGG         |     18:45     |     18:46     |     1:00      |       787 KM       |    1     
+  12  |           Barauni Junction             |        BJU         |     19:55     |     20:05     |     10:00     |       842 KM       |    1     
+  13  |           Hajipur Junction             |        HJP         |     21:39     |     21:40     |     1:00      |       930 KM       |    1     
+  14  |                Chhapra                 |        CPR         |     23:25     |     23:35     |     10:00     |       989 KM       |    1     
+  15  |            Siwan Junction              |         SV         |     00:20     |     00:25     |     5:00      |      1050 KM       |    2     
+  16  |          Gorakhpur Junction            |        GKP         |     02:30     |     02:45     |     15:00     |      1169 KM       |    2     
+  17  |                 Basti                  |        BST         |     03:45     |     03:50     |     5:00      |      1234 KM       |    2     
+  18  |           Mankapur Junction            |        MUR         |     04:40     |     04:42     |     2:00      |      1295 KM       |    2     
+  19  |            Gonda Junction              |         GD         |     05:10     |     05:20     |     10:00     |      1323 KM       |    2     
+  20  |             Sitapur Cant               |        SCC         |     08:20     |     08:28     |     8:00      |      1482 KM       |    2     
+  21  |          Chandausi Junction            |         CH         |     13:05     |     13:10     |     5:00      |      1708 KM       |    2     
+  22  |               Moradabad                |         MB         |     14:15     |     14:25     |     10:00     |      1752 KM       |    2     
+  23  |                 Hapur                  |        HPU         |     15:58     |     16:03     |     5:00      |      1856 KM       |    2     
+  24  |               Ghaziabad                |        GZB         |     17:00     |     17:02     |     2:00      |      1893 KM       |    2     
+  25  |            Anand Vihar Trm             |        ANVT        |     17:40     |     Ends      |       -       |      1905 KM       |    2     

@@ -1,0 +1,33 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |         Bangalore Cy Junction          |        SBC         |     Start     |     20:45     |       -       |        0 KM        |    1     
+  2   |            Bangalore Cant              |        BNC         |     20:55     |     20:57     |     2:00      |        5 KM        |    1     
+  3   |           Yelhanka Junction            |        YNK         |     21:18     |     21:20     |     2:00      |       27 KM        |    1     
+  4   |              Dodballapur               |        DBU         |     21:39     |     21:40     |     1:00      |       48 KM        |    1     
+  5   |             Gauribidanur               |        GBD         |     22:14     |     22:15     |     1:00      |       87 KM        |    1     
+  6   |               Hindupur                 |        HUP         |     22:34     |     22:35     |     1:00      |       111 KM       |    1     
+  7   |               Penukonda                |        PKD         |     22:59     |     23:00     |     1:00      |       148 KM       |    1     
+  8   |             Sai P Nilayam              |        SSPN        |     23:18     |     23:20     |     2:00      |       168 KM       |    1     
+  9   |         Dharmavaram Junction           |        DMM         |     00:20     |     00:25     |     5:00      |       201 KM       |    2     
+  10  |               Anantapur                |        ATP         |     01:09     |     01:10     |     1:00      |       235 KM       |    2     
+  11  |                 Gooty                  |         GY         |     02:49     |     02:50     |     1:00      |       292 KM       |    2     
+  12  |           Guntakal Junction            |        GTL         |     03:15     |     03:20     |     5:00      |       320 KM       |    2     
+  13  |                 Adoni                  |         AD         |     04:09     |     04:10     |     1:00      |       372 KM       |    2     
+  14  |           Manthralayam Road            |        MALM        |     04:38     |     04:40     |     2:00      |       413 KM       |    2     
+  15  |                Raichur                 |         RC         |     05:38     |     05:40     |     2:00      |       441 KM       |    2     
+  16  |                Krishna                 |        KSN         |     05:59     |     06:00     |     1:00      |       466 KM       |    2     
+  18  |                Yadgir                  |         YG         |     06:36     |     06:37     |     1:00      |       510 KM       |    2     
+  19  |                Nalwar                  |         NW         |     06:59     |     07:00     |     1:00      |       535 KM       |    2     
+  20  |                 Wadi                   |        WADI        |     07:55     |     08:00     |     5:00      |       549 KM       |    2     
+  21  |               Shahabad                 |        SDB         |     08:12     |     08:13     |     1:00      |       559 KM       |    2     
+  22  |               Gulbarga                 |         GR         |     08:43     |     08:45     |     2:00      |       585 KM       |    2     
+  23  |            Ganagapur Road              |        GUR         |     09:11     |     09:12     |     1:00      |       612 KM       |    2     
+  24  |                Dudhani                 |        DUD         |     09:34     |     09:35     |     1:00      |       635 KM       |    2     
+  25  |             Akalkot Road               |        AKOR        |     10:04     |     10:05     |     1:00      |       663 KM       |    2     
+  26  |           Solapur Junction             |        SUR         |     11:10     |     11:20     |     10:00     |       698 KM       |    2     
+  27  |               Kurduvadi                |        KWV         |     12:23     |     12:25     |     2:00      |       777 KM       |    2     
+  28  |            Daund Junction              |         DD         |     14:20     |     14:25     |     5:00      |       886 KM       |    2     
+  29  |             Pune Junction              |        PUNE        |     15:50     |     15:55     |     5:00      |       962 KM       |    2     
+  30  |               Lonavala                 |        LNL         |     17:04     |     17:05     |     1:00      |      1025 KM       |    2     
+  31  |            Kalyan Junction             |        KYN         |     18:32     |     18:35     |     3:00      |      1100 KM       |    2     
+  32  |                 Dadar                  |         DR         |     19:17     |     19:20     |     3:00      |      1144 KM       |    2     
+  33  |              Mumbai Cst                |        CSTM        |     19:50     |     Ends      |       -       |      1153 KM       |    2     

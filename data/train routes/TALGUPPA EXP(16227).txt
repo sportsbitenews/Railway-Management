@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |         Bangalore Cy Junction          |        SBC         |     Start     |     23:00     |       -       |        0 KM        |    1     
+  2   |              Malleswaram               |        MWM         |     23:05     |     23:07     |     2:00      |        3 KM        |    1     
+  3   |          Yesvantpur Junction           |        YPR         |     23:13     |     23:15     |     2:00      |        6 KM        |    1     
+  4   |                Tumkur                  |         TK         |     00:18     |     00:20     |     2:00      |       70 KM        |    2     
+  5   |                Tiptur                  |        TTR         |     01:39     |     01:40     |     1:00      |       140 KM       |    2     
+  6   |           Arsikere Junction            |        ASK         |     02:30     |     02:40     |     10:00     |       166 KM       |    2     
+  7   |            Birur Junction              |        RRB         |     03:23     |     03:25     |     2:00      |       211 KM       |    2     
+  8   |           Tarikere Junction            |        TKE         |     03:50     |     03:52     |     2:00      |       236 KM       |    2     
+  9   |              Bhadravati                |        BDVT        |     04:18     |     04:20     |     2:00      |       256 KM       |    2     
+  10  |                Shimoga                 |        SME         |     04:34     |     04:35     |     1:00      |       272 KM       |    2     
+  11  |             Shimoga Town               |        SMET        |     04:45     |     04:50     |     5:00      |       274 KM       |    2     
+  12  |              Anandapuram               |        ANF         |     05:53     |     05:55     |     2:00      |       329 KM       |    2     
+  13  |            Sagar Jambagaru             |        SRF         |     06:33     |     06:35     |     2:00      |       356 KM       |    2     
+  14  |               Talguppa                 |        TLGP        |     07:15     |     Ends      |       -       |       371 KM       |    2     

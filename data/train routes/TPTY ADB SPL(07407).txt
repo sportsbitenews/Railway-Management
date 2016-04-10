@@ -1,0 +1,30 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Tirupati                 |        TPTY        |     Start     |     09:15     |       -       |        0 KM        |    1     
+  2   |          Renigunta Junction            |         RU         |     09:40     |     09:42     |     2:00      |       10 KM        |    1     
+  3   |                Koduru                  |        KOU         |     10:20     |     10:22     |     2:00      |       51 KM        |    1     
+  4   |               Razampeta                |        RJP         |     10:50     |     10:52     |     2:00      |       85 KM        |    1     
+  5   |               Cuddapah                 |         HX         |     11:55     |     11:57     |     2:00      |       135 KM       |    1     
+  6   |              Yerraguntla               |         YA         |     12:30     |     12:32     |     2:00      |       174 KM       |    1     
+  7   |               Muddanuru                |        MOO         |     12:50     |     12:52     |     2:00      |       191 KM       |    1     
+  8   |              Kondapuram                |        KDP         |     13:20     |     13:22     |     2:00      |       214 KM       |    1     
+  9   |               Tadipatri                |         TU         |     13:40     |     13:42     |     2:00      |       242 KM       |    1     
+  10  |                 Gooty                  |         GY         |     14:35     |     14:37     |     2:00      |       290 KM       |    1     
+  11  |                 Dhone                  |        DHNE        |     15:50     |     16:00     |     10:00     |       345 KM       |    1     
+  12  |             Kurnool Town               |        KRNT        |     16:48     |     16:50     |     2:00      |       399 KM       |    1     
+  13  |                Gadwal                  |        GWD         |     18:00     |     18:02     |     2:00      |       454 KM       |    1     
+  14  |              Mahbubnagar               |        MBNR        |     19:40     |     19:42     |     2:00      |       529 KM       |    1     
+  15  |               Jadcherla                |        JCL         |     20:00     |     20:02     |     2:00      |       547 KM       |    1     
+  16  |               Shadnagar                |        SHNR        |     21:10     |     21:12     |     2:00      |       583 KM       |    1     
+  17  |               Kacheguda                |        KCG         |     22:15     |     22:30     |     15:00     |       635 KM       |    1     
+  18  |              Malkajgiri                |        MJF         |     22:42     |     22:44     |     2:00      |       643 KM       |    1     
+  19  |                Bolarum                 |        BMO         |     23:00     |     23:02     |     2:00      |       654 KM       |    1     
+  20  |               Kamareddi                |        KMC         |     00:40     |     00:42     |     2:00      |       748 KM       |    2     
+  21  |               Nizamabad                |        NZB         |     01:40     |     01:45     |     5:00      |       800 KM       |    2     
+  22  |                 Basar                  |        BSX         |     02:35     |     02:37     |     2:00      |       830 KM       |    2     
+  23  |               Dharmabad                |        DAB         |     02:50     |     02:52     |     2:00      |       839 KM       |    2     
+  24  |                Mudkhed                 |        MUE         |     03:40     |     04:00     |     20:00     |       889 KM       |    2     
+  25  |                Bhokar                  |        BOKR        |     04:35     |     04:37     |     2:00      |       920 KM       |    2     
+  26  |             Himayatnagar               |        HEM         |     05:48     |     05:50     |     2:00      |       975 KM       |    2     
+  27  |             Saharsrakund               |        SHSK        |     06:10     |     06:12     |     2:00      |       997 KM       |    2     
+  28  |                Kinwat                  |        KNVT        |     06:55     |     06:57     |     2:00      |      1064 KM       |    2     
+  29  |               Adilabad                 |        ADB         |     08:15     |     Ends      |       -       |      1133 KM       |    2     

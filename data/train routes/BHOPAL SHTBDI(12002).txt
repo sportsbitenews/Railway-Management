@@ -1,0 +1,11 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               New Delhi                |        NDLS        |     Start     |     06:00     |       -       |        0 KM        |    1     
+  2   |           Mathura Junction             |        MTJ         |     07:23     |     07:24     |     1:00      |       141 KM       |    1     
+  3   |              Agra Cantt                |        AGC         |     07:57     |     08:02     |     5:00      |       195 KM       |    1     
+  4   |               Dhaulpur                 |        DHO         |     08:40     |     08:42     |     2:00      |       247 KM       |    1     
+  5   |                Morena                  |        MRA         |     09:00     |     09:02     |     2:00      |       275 KM       |    1     
+  6   |                Gwalior                 |        GWL         |     09:28     |     09:33     |     5:00      |       313 KM       |    1     
+  7   |            Jhansi Junction             |        JHS         |     10:43     |     10:51     |     8:00      |       410 KM       |    1     
+  8   |               Lalitpur                 |        LAR         |     11:39     |     11:41     |     2:00      |       500 KM       |    1     
+  9   |           Bhopal  Junction             |        BPL         |     14:00     |     14:05     |     5:00      |       701 KM       |    1     
+  10  |               Habibganj                |        HBJ         |     14:25     |     Ends      |       -       |       707 KM       |    1     

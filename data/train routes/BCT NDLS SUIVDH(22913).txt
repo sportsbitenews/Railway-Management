@@ -1,0 +1,9 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Mumbai Central              |        BCT         |     Start     |     16:00     |       -       |        0 KM        |    1     
+  1   |            Mumbai Central              |        BCT         |     Start     |     16:00     |       -       |        0 KM        |    1     
+  2   |           Vadodara Junction            |        BRC         |     20:27     |     20:37     |     10:00     |       392 KM       |    1     
+  2   |           Vadodara Junction            |        BRC         |     20:27     |     20:37     |     10:00     |       392 KM       |    1     
+  3   |             Kota Junction              |        KOTA        |     02:35     |     02:40     |     5:00      |       920 KM       |    2     
+  3   |             Kota Junction              |        KOTA        |     02:35     |     02:40     |     5:00      |       920 KM       |    2     
+  4   |               New Delhi                |        NDLS        |     07:55     |     Ends      |       -       |      1384 KM       |    2     
+  4   |               New Delhi                |        NDLS        |     07:55     |     Ends      |       -       |      1384 KM       |    2     

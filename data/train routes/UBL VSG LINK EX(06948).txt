@@ -1,0 +1,10 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Hubli Junction              |        UBL         |     Start     |     23:30     |       -       |        0 KM        |    1     
+  2   |                Dharwar                 |        DWR         |     23:49     |     23:50     |     1:00      |       21 KM        |    1     
+  3   |           Alnavar Junction             |        LWR         |     00:24     |     00:25     |     1:00      |       57 KM        |    2     
+  4   |            Londa Junction              |         LD         |     01:10     |     02:15     |     65:00     |       91 KM        |    2     
+  5   |              Castle Rock               |        CLR         |     03:00     |     03:10     |     10:00     |       115 KM       |    2     
+  6   |                 Kulem                  |        QLM         |     04:35     |     04:40     |     5:00      |       174 KM       |    2     
+  7   |            Sanverdam Chuch             |        SVM         |     05:04     |     05:05     |     1:00      |       193 KM       |    2     
+  8   |                Madgaon                 |        MAO         |     05:40     |     05:45     |     5:00      |       208 KM       |    2     
+  9   |             Vasco Da Gama              |        VSG         |     06:30     |     Ends      |       -       |       236 KM       |    2     

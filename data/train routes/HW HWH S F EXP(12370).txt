@@ -1,0 +1,18 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Haridwar Junction            |         HW         |     Start     |     23:55     |       -       |        0 KM        |    1     
+  2   |               Moradabad                |         MB         |     02:35     |     03:00     |     25:00     |       167 KM       |    2     
+  3   |               Bareilly                 |         BE         |     04:25     |     04:30     |     5:00      |       258 KM       |    2     
+  4   |              Lucknow Nr                |        LKO         |     08:20     |     08:30     |     10:00     |       493 KM       |    2     
+  5   |               Nihalgarh                |        NHH         |     09:51     |     09:53     |     2:00      |       582 KM       |    2     
+  6   |               Sultanpur                |        SLN         |     10:37     |     10:39     |     2:00      |       633 KM       |    2     
+  7   |           Varanasi Junction            |        BSB         |     12:55     |     13:05     |     10:00     |       776 KM       |    2     
+  8   |         Mughal Sarai Junction          |        MGS         |     14:10     |     14:25     |     15:00     |       793 KM       |    2     
+  9   |                 Buxar                  |        BXR         |     15:39     |     15:41     |     2:00      |       887 KM       |    2     
+  10  |            Patna Junction              |        PNBE        |     17:50     |     18:00     |     10:00     |      1004 KM       |    2     
+  11  |           Mokameh Junction             |        MKA         |     19:22     |     19:24     |     2:00      |      1094 KM       |    2     
+  12  |             Kiul Junction              |        KIUL        |     20:22     |     20:24     |     2:00      |      1128 KM       |    2     
+  13  |                Jhajha                  |        JAJ         |     21:32     |     21:37     |     5:00      |      1182 KM       |    2     
+  14  |           Jasidih Junction             |        JSME        |     22:09     |     22:11     |     2:00      |      1225 KM       |    2     
+  15  |           Madhupur Junction            |        MDP         |     22:36     |     22:38     |     2:00      |      1254 KM       |    2     
+  16  |           Asansol Junction             |        ASN         |     00:01     |     00:06     |     5:00      |      1336 KM       |    3     
+  17  |            Howrah Junction             |        HWH         |     03:15     |     Ends      |       -       |      1536 KM       |    3     

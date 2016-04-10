@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Simla                  |        SML         |     Start     |     18:15     |       -       |        0 KM        |    1     
+  2   |              Summer Hill               |        SHZ         |     18:24     |     18:25     |     1:00      |        3 KM        |    1     
+  3   |                Jutogh                  |        JTO         |     18:37     |     18:38     |     1:00      |        7 KM        |    1     
+  4   |               Taradevi                 |        TVI         |     18:52     |     18:53     |     1:00      |       11 KM        |    1     
+  5   |                Shoghi                  |        SGS         |     19:13     |     19:14     |     1:00      |       18 KM        |    1     
+  6   |              Kathleeghat               |        KEJ         |     19:30     |     19:31     |     1:00      |       24 KM        |    1     
+  7   |                 Kanoh                  |        KANO        |     19:50     |     19:51     |     1:00      |       31 KM        |    1     
+  8   |               Kandaghat                |        KDZ         |     20:10     |     20:14     |     4:00      |       38 KM        |    1     
+  9   |                Salogra                 |        SLR         |     20:30     |     20:31     |     1:00      |       43 KM        |    1     
+  10  |                 Solan                  |        SOL         |     20:48     |     20:50     |     2:00      |       50 KM        |    1     
+  11  |                 Barog                  |        BOF         |     21:02     |     21:10     |     8:00      |       54 KM        |    1     
+  12  |              Kumarhatti                |        KMTI        |     21:22     |     21:23     |     1:00      |       57 KM        |    1     
+  13  |            Dharmpur Hmchl              |        DMP         |     21:39     |     21:41     |     2:00      |       63 KM        |    1     
+  14  |                 Kalka                  |        KLK         |     23:20     |     Ends      |       -       |       96 KM        |    1     

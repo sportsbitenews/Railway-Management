@@ -1,0 +1,27 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Dehradun                 |        DDN         |     Start     |     15:30     |       -       |        0 KM        |    1     
+  2   |           Haridwar Junction            |         HW         |     16:50     |     17:20     |     30:00     |       52 KM        |    1     
+  3   |            Laksar Junction             |        LRJ         |     17:50     |     17:55     |     5:00      |       79 KM        |    1     
+  4   |          Najibabad Junction            |        NBD         |     18:30     |     18:35     |     5:00      |       121 KM       |    1     
+  5   |               Moradabad                |         MB         |     20:15     |     20:30     |     15:00     |       219 KM       |    1     
+  6   |                Rampur                  |        RMU         |     20:58     |     21:00     |     2:00      |       246 KM       |    1     
+  7   |               Bareilly                 |         BE         |     22:10     |     22:15     |     5:00      |       310 KM       |    1     
+  8   |             Shahjehanpur               |        SPN         |     23:17     |     23:22     |     5:00      |       380 KM       |    1     
+  9   |                Hardoi                  |        HRI         |     00:15     |     00:17     |     2:00      |       443 KM       |    2     
+  10  |              Lucknow Nr                |        LKO         |     02:00     |     02:10     |     10:00     |       545 KM       |    2     
+  11  |          Barabanki Junction            |        BBK         |     03:00     |     03:02     |     2:00      |       573 KM       |    2     
+  12  |            Gonda Junction              |         GD         |     04:45     |     05:00     |     15:00     |       661 KM       |    2     
+  13  |           Mankapur Junction            |        MUR         |     05:24     |     05:26     |     2:00      |       690 KM       |    2     
+  14  |                 Basti                  |        BST         |     06:20     |     06:25     |     5:00      |       751 KM       |    2     
+  15  |              Khalilabad                |        KLD         |     06:50     |     06:52     |     2:00      |       781 KM       |    2     
+  16  |          Gorakhpur Junction            |        GKP         |     07:55     |     08:15     |     20:00     |       815 KM       |    2     
+  17  |          Kaptanganj Junction           |        CPJ         |     09:00     |     09:05     |     5:00      |       854 KM       |    2     
+  18  |              Siswa Bazar               |        SBZ         |     09:46     |     09:48     |     2:00      |       880 KM       |    2     
+  19  |                Bagaha                  |        BUG         |     11:17     |     11:22     |     5:00      |       923 KM       |    2     
+  20  |               Harinagar                |        HIR         |     11:46     |     11:48     |     2:00      |       950 KM       |    2     
+  21  |         Narkatiaganj Junction          |        NKE         |     12:25     |     12:30     |     5:00      |       965 KM       |    2     
+  22  |                Bettiah                 |        BTH         |     13:00     |     13:02     |     2:00      |      1002 KM       |    2     
+  23  |           Sagauli Junction             |        SGL         |     13:25     |     13:27     |     2:00      |      1024 KM       |    2     
+  24  |            Bapudm Motihari             |        BMKI        |     13:51     |     13:56     |     5:00      |      1045 KM       |    2     
+  25  |                Chakia                  |        CAA         |     14:23     |     14:25     |     2:00      |      1077 KM       |    2     
+  26  |         Muzaffarpur Junction           |        MFP         |     16:10     |     Ends      |       -       |      1124 KM       |    2     

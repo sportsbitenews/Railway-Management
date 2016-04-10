@@ -1,0 +1,20 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Indore Junction Bg            |        INDB        |     Start     |     17:40     |       -       |        0 KM        |    1     
+  2   |                 Dewas                  |        DWX         |     18:33     |     18:35     |     2:00      |       39 KM        |    1     
+  3   |                 Maksi                  |        MKC         |     19:18     |     19:20     |     2:00      |       75 KM        |    1     
+  4   |                Berchha                 |        BCH         |     19:36     |     19:38     |     2:00      |       95 KM        |    1     
+  5   |                Akodia                  |        AKD         |     20:01     |     20:03     |     2:00      |       124 KM       |    1     
+  6   |               Shujalpur                |        SJP         |     20:16     |     20:18     |     2:00      |       138 KM       |    1     
+  7   |               Kalapipal                |        KPP         |     20:30     |     20:32     |     2:00      |       150 KM       |    1     
+  8   |                Sehore                  |        SEH         |     20:56     |     20:58     |     2:00      |       179 KM       |    1     
+  9   |               Bairagarh                |        BIH         |     22:10     |     22:12     |     2:00      |       208 KM       |    1     
+  10  |           Bhopal  Junction             |        BPL         |     22:20     |     22:30     |     10:00     |       218 KM       |    1     
+  11  |               Habibganj                |        HBJ         |     22:40     |     22:42     |     2:00      |       224 KM       |    1     
+  12  |            Obaidulla Ganj              |        ODG         |     23:05     |     23:07     |     2:00      |       254 KM       |    1     
+  13  |              Hoshangabad               |        HBD         |     23:48     |     23:50     |     2:00      |       292 KM       |    1     
+  14  |            Itarsi Junction             |         ET         |     00:50     |     01:10     |     20:00     |       310 KM       |    2     
+  15  |               Pipariya                 |        PPI         |     02:03     |     02:05     |     2:00      |       377 KM       |    2     
+  16  |               Gadarwara                |        GAR         |     02:37     |     02:39     |     2:00      |       426 KM       |    2     
+  17  |              Narsinghpur               |         NU         |     03:10     |     03:12     |     2:00      |       471 KM       |    2     
+  18  |              Madan Mahal               |        MML         |     05:12     |     05:14     |     2:00      |       551 KM       |    2     
+  19  |               Jabalpur                 |        JBP         |     05:40     |     Ends      |       -       |       555 KM       |    2     

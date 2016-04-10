@@ -1,0 +1,8 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Jabalpur                 |        JBP         |     Start     |     19:10     |       -       |        0 KM        |    1     
+  2   |                 Katni                  |        KTE         |     20:25     |     20:35     |     10:00     |       91 KM        |    1     
+  3   |                 Damoh                  |        DMO         |     22:08     |     22:10     |     2:00      |       202 KM       |    1     
+  4   |                Saugor                  |        SGO         |     23:15     |     23:20     |     5:00      |       280 KM       |    1     
+  5   |            Jhansi Junction             |        JHS         |     02:30     |     02:40     |     10:00     |       507 KM       |    2     
+  6   |                Gwalior                 |        GWL         |     03:50     |     03:55     |     5:00      |       604 KM       |    2     
+  7   |             H Nizamuddin               |        NZM         |     09:05     |     Ends      |       -       |       909 KM       |    2     

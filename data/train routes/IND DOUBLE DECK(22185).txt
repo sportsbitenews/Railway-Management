@@ -1,0 +1,8 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Bhopal  Junction             |        BPL         |     Start     |     14:35     |       -       |        0 KM        |    1     
+  2   |               Bairagarh                |        BIH         |     14:45     |     14:47     |     2:00      |       11 KM        |    1     
+  3   |                Sehore                  |        SEH         |     15:04     |     15:06     |     2:00      |       39 KM        |    1     
+  4   |               Shujalpur                |        SJP         |     15:36     |     15:38     |     2:00      |       81 KM        |    1     
+  5   |            Ujjain Junction             |        UJN         |     17:00     |     17:20     |     20:00     |       184 KM       |    1     
+  6   |                 Dewas                  |        DWX         |     18:03     |     18:05     |     2:00      |       224 KM       |    1     
+  7   |          Indore Junction Bg            |        INDB        |     18:50     |     Ends      |       -       |       263 KM       |    1     

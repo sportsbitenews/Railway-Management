@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Haridwar Junction            |         HW         |     Start     |     18:50     |       -       |        0 KM        |    1     
+  2   |                Roorkee                 |         RK         |     19:38     |     19:40     |     2:00      |       42 KM        |    1     
+  3   |              Meerut City               |        MTC         |     21:43     |     21:45     |     2:00      |       181 KM       |    1     
+  4   |               Ghaziabad                |        GZB         |     22:30     |     22:32     |     2:00      |       228 KM       |    1     
+  5   |             H Nizamuddin               |        NZM         |     23:10     |     23:35     |     25:00     |       251 KM       |    1     
+  6   |          Bharatpur Junction            |        BTE         |     02:26     |     02:28     |     2:00      |       418 KM       |    2     
+  7   |            Sawai Madhopur              |        SWM         |     04:48     |     04:50     |     2:00      |       600 KM       |    2     
+  8   |             Kota Junction              |        KOTA        |     06:30     |     06:40     |     10:00     |       708 KM       |    2     
+  9   |            Ratlam Junction             |        RTM         |     10:45     |     11:05     |     20:00     |       974 KM       |    2     
+  10  |           Vadodara Junction            |        BRC         |     15:02     |     15:12     |     10:00     |      1236 KM       |    2     
+  11  |          Ankleshwar Junction           |        AKV         |     16:05     |     16:07     |     2:00      |      1315 KM       |    2     
+  12  |                 Surat                  |         ST         |     17:10     |     17:15     |     5:00      |      1365 KM       |    2     
+  13  |                Navsari                 |        NVS         |     17:37     |     17:39     |     2:00      |      1394 KM       |    2     
+  14  |                Valsad                  |         BL         |     18:20     |     Ends      |       -       |      1433 KM       |    2     

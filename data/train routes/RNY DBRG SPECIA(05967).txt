@@ -1,0 +1,29 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Rangiya Junction             |        RNY         |     Start     |     05:45     |       -       |        0 KM        |    1     
+  2   |               Changsari                |        CGS         |     06:33     |     06:34     |     1:00      |       26 KM        |    1     
+  3   |               Kamakhya                 |        KYQ         |     07:03     |     07:05     |     2:00      |       42 KM        |    1     
+  4   |               Guwahati                 |        GHY         |     07:20     |     07:30     |     10:00     |       48 KM        |    1     
+  5   |               Jagi Road                |        JID         |     08:26     |     08:28     |     2:00      |       105 KM       |    1     
+  6   |          Chaparmukh Junction           |        CPK         |     09:03     |     09:05     |     2:00      |       139 KM       |    1     
+  7   |                 Hojai                  |        HJI         |     09:55     |     09:57     |     2:00      |       184 KM       |    1     
+  8   |                 Lanka                  |        LKA         |     10:10     |     10:12     |     2:00      |       198 KM       |    1     
+  9   |           Lumding Junction             |        LMG         |     11:05     |     11:15     |     10:00     |       229 KM       |    1     
+  10  |                 Diphu                  |        DPU         |     11:46     |     11:48     |     2:00      |       260 KM       |    1     
+  11  |                Dimapur                 |        DMV         |     12:32     |     12:37     |     5:00      |       298 KM       |    1     
+  12  |                Bokajan                 |        BXJ         |     12:54     |     12:55     |     1:00      |       312 KM       |    1     
+  13  |              Sarupathar                |        SZR         |     13:15     |     13:16     |     1:00      |       334 KM       |    1     
+  14  |          Furkating Junction            |        FKG         |     14:28     |     14:30     |     2:00      |       367 KM       |    1     
+  15  |                Titabar                 |        TTB         |     15:13     |     15:15     |     2:00      |       393 KM       |    1     
+  16  |           Mariani Junction             |        MXN         |     15:40     |     15:50     |     10:00     |       406 KM       |    1     
+  17  |                Amguri                  |        AGI         |     16:20     |     16:22     |     2:00      |       434 KM       |    1     
+  18  |               Namtiali                 |        NMT         |     16:33     |     16:35     |     2:00      |       445 KM       |    1     
+  19  |          Simaluguri Junction           |        SLGR        |     16:58     |     17:00     |     2:00      |       460 KM       |    1     
+  20  |                 Bhojo                  |        BOJ         |     17:53     |     17:55     |     2:00      |       494 KM       |    1     
+  21  |               Sapekhati                |        SPK         |     18:20     |     18:22     |     2:00      |       508 KM       |    1     
+  22  |                Borhat                  |        BFD         |     18:34     |     18:36     |     2:00      |       521 KM       |    1     
+  23  |                Namrup                  |        NAM         |     18:45     |     18:47     |     2:00      |       526 KM       |    1     
+  24  |              Naharkatiya               |        NHK         |     18:58     |     19:00     |     2:00      |       537 KM       |    1     
+  25  |               Duliajan                 |        DJG         |     19:15     |     19:17     |     2:00      |       546 KM       |    1     
+  26  |         New Tinsukia Junction          |        NTSK        |     20:20     |     20:30     |     10:00     |       562 KM       |    1     
+  27  |                Chabua                  |        CHB         |     20:50     |     20:52     |     2:00      |       579 KM       |    1     
+  28  |               Dibrugarh                |        DBRG        |     21:55     |     Ends      |       -       |       604 KM       |    1     

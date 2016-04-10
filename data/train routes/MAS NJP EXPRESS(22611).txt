@@ -1,0 +1,23 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Chennai Central             |        MAS         |     Start     |     11:00     |       -       |        0 KM        |    1     
+  2   |                Nellore                 |        NLR         |     13:40     |     13:41     |     1:00      |       176 KM       |    1     
+  3   |                Ongole                  |        OGL         |     15:04     |     15:05     |     1:00      |       292 KM       |    1     
+  4   |          Vijayawada Junction           |        BZA         |     17:40     |     17:55     |     15:00     |       431 KM       |    1     
+  5   |                 Eluru                  |         EE         |     18:41     |     18:42     |     1:00      |       490 KM       |    1     
+  6   |              Anakapalle                |        AKP         |     22:39     |     22:40     |     1:00      |       747 KM       |    1     
+  7   |                Duvvada                 |        DVD         |     23:40     |     23:42     |     2:00      |       763 KM       |    1     
+  8   |             Vishakapatnam              |        VSKP        |     00:10     |     00:30     |     20:00     |       781 KM       |    2     
+  9   |         Vizianagram Junction           |        VZM         |     01:28     |     01:30     |     2:00      |       842 KM       |    2     
+  10  |               Brahmapur                |        BAM         |     04:35     |     04:37     |     2:00      |      1058 KM       |    2     
+  11  |         Khurda Road Junction           |        KUR         |     06:55     |     07:10     |     15:00     |      1204 KM       |    2     
+  12  |              Bhubaneswar               |        BBS         |     07:30     |     07:35     |     5:00      |      1223 KM       |    2     
+  13  |                Hijilli                 |        HIJ         |     12:10     |     12:12     |     2:00      |      1541 KM       |    2     
+  14  |                Bankura                 |        BQA         |     14:06     |     14:08     |     2:00      |      1662 KM       |    2     
+  15  |             Adra Junction              |        ADRA        |     15:00     |     15:10     |     10:00     |      1715 KM       |    2     
+  16  |           Asansol Junction             |        ASN         |     16:15     |     16:25     |     10:00     |      1757 KM       |    2     
+  17  |               Durgapur                 |        DGR         |     17:25     |     17:45     |     20:00     |      1799 KM       |    2     
+  18  |              Rampur Hat                |        RPH         |     20:26     |     20:31     |     5:00      |      1916 KM       |    2     
+  19  |              Malda Town                |        MLDT        |     23:20     |     23:35     |     15:00     |      2037 KM       |    2     
+  20  |            Barsoi Junction             |        BOE         |     01:00     |     01:02     |     2:00      |      2125 KM       |    3     
+  21  |              Kishanganj                |        KNE         |     01:51     |     01:53     |     2:00      |      2183 KM       |    3     
+  22  |            New Jalpaiguri              |        NJP         |     05:05     |     Ends      |       -       |      2270 KM       |    3     

@@ -1,0 +1,9 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Sealdah                 |        SDAH        |     Start     |     16:50     |       -       |        0 KM        |    1     
+  2   |               Durgapur                 |        DGR         |     18:48     |     18:50     |     2:00      |       165 KM       |    1     
+  3   |           Asansol Junction             |        ASN         |     19:16     |     19:20     |     4:00      |       207 KM       |    1     
+  4   |           Dhanbad Junction             |        DHN         |     20:20     |     20:25     |     5:00      |       266 KM       |    1     
+  5   |             Gaya Junction              |        GAYA        |     22:52     |     22:55     |     3:00      |       464 KM       |    1     
+  6   |         Mughal Sarai Junction          |        MGS         |     01:07     |     01:17     |     10:00     |       667 KM       |    2     
+  7   |            Kanpur Central              |        CNB         |     05:10     |     05:18     |     8:00      |      1014 KM       |    2     
+  8   |               New Delhi                |        NDLS        |     10:25     |     Ends      |       -       |      1453 KM       |    2     

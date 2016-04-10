@@ -1,0 +1,22 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Ajmer Junction              |        AII         |     Start     |     12:50     |       -       |        0 KM        |    1     
+  2   |              Kishangarh                |        KSG         |     13:16     |     13:18     |     2:00      |       29 KM        |    1     
+  3   |                Jaipur                  |         JP         |     14:45     |     14:55     |     10:00     |       135 KM       |    1     
+  4   |          Bharatpur Junction            |        BTE         |     17:18     |     17:20     |     2:00      |       322 KM       |    1     
+  5   |           Achhnera Junction            |         AH         |     17:48     |     17:50     |     2:00      |       350 KM       |    1     
+  6   |               Agra Fort                |         AF         |     19:00     |     19:25     |     25:00     |       376 KM       |    1     
+  7   |            Tundla Junction             |        TDL         |     20:25     |     20:30     |     5:00      |       399 KM       |    1     
+  8   |            Kanpur Central              |        CNB         |     23:15     |     23:25     |     10:00     |       628 KM       |    1     
+  9   |          Allahabad Junction            |        ALD         |     01:50     |     01:58     |     8:00      |       823 KM       |    2     
+  10  |         Mughal Sarai Junction          |        MGS         |     04:55     |     05:15     |     20:00     |       975 KM       |    2     
+  11  |              Bhabua Road               |        BBU         |     05:43     |     05:45     |     2:00      |      1028 KM       |    2     
+  12  |                Sasaram                 |        SSM         |     06:18     |     06:20     |     2:00      |      1076 KM       |    2     
+  13  |             Gaya Junction              |        GAYA        |     07:43     |     07:48     |     5:00      |      1179 KM       |    2     
+  14  |                Koderma                 |        KQR         |     08:58     |     09:00     |     2:00      |      1255 KM       |    2     
+  15  |               Parasnath                |        PNME        |     10:05     |     10:07     |     2:00      |      1330 KM       |    2     
+  16  |           Dhanbad Junction             |        DHN         |     11:10     |     11:20     |     10:00     |      1377 KM       |    2     
+  17  |           Asansol Junction             |        ASN         |     12:11     |     12:14     |     3:00      |      1436 KM       |    2     
+  18  |               Raniganj                 |        RNG         |     12:29     |     12:31     |     2:00      |      1454 KM       |    2     
+  19  |               Durgapur                 |        DGR         |     12:51     |     12:53     |     2:00      |      1478 KM       |    2     
+  20  |          Barddhaman Junction           |        BWN         |     13:49     |     13:52     |     3:00      |      1541 KM       |    2     
+  21  |                Sealdah                 |        SDAH        |     16:00     |     Ends      |       -       |      1642 KM       |    2     

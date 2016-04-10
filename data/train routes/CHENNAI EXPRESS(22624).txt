@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Madurai Junction             |        MDU         |     Start     |     21:15     |       -       |        0 KM        |    1     
+  2   |           Dindigul Junction            |         DG         |     22:10     |     22:12     |     2:00      |       66 KM        |    1     
+  3   |            Tiruchchirapali             |        TPJ         |     23:45     |     23:50     |     5:00      |       161 KM       |    1     
+  4   |               Thanjavur                |         TJ         |     00:43     |     00:45     |     2:00      |       211 KM       |    2     
+  5   |              Kumbakonam                |        KMU         |     01:19     |     01:20     |     1:00      |       250 KM       |    2     
+  6   |            Mayiladuturai J             |         MV         |     01:48     |     01:50     |     2:00      |       281 KM       |    2     
+  7   |              Chidambaram               |        CDM         |     02:29     |     02:30     |     1:00      |       318 KM       |    2     
+  8   |            Tirupadripulyur             |        TDPR        |     03:09     |     03:10     |     1:00      |       360 KM       |    2     
+  9   |          Villuparam Junction           |         VM         |     04:05     |     04:10     |     5:00      |       403 KM       |    2     
+  10  |             Melmaruvattur              |        MLMR        |     05:13     |     05:15     |     2:00      |       470 KM       |    2     
+  11  |             Chengalpattu               |        CGL         |     05:58     |     06:00     |     2:00      |       506 KM       |    2     
+  12  |            Chennai Egmore              |         MS         |     07:20     |     Ends      |       -       |       561 KM       |    2     

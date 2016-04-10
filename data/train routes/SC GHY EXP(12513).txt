@@ -1,0 +1,32 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |         Secunderabad Junction          |         SC         |     Start     |     07:30     |       -       |        0 KM        |    1     
+  2   |          Vijayawada Junction           |        BZA         |     13:05     |     13:20     |     15:00     |       351 KM       |    1     
+  3   |              Rajamundry                |        RJY         |     15:25     |     15:27     |     2:00      |       500 KM       |    1     
+  4   |             Vishakapatnam              |        VSKP        |     19:15     |     19:35     |     20:00     |       701 KM       |    1     
+  5   |         Vizianagram Junction           |        VZM         |     20:33     |     20:38     |     5:00      |       762 KM       |    1     
+  6   |            Srikakulam Road             |        CHE         |     21:31     |     21:33     |     2:00      |       831 KM       |    1     
+  7   |                Palasa                  |        PSA         |     22:45     |     22:47     |     2:00      |       904 KM       |    1     
+  8   |               Brahmapur                |        BAM         |     23:48     |     23:53     |     5:00      |       978 KM       |    1     
+  9   |                Balugan                 |        BALU        |     00:46     |     00:48     |     2:00      |      1054 KM       |    2     
+  10  |         Khurda Road Junction           |        KUR         |     01:55     |     02:10     |     15:00     |      1125 KM       |    2     
+  11  |              Bhubaneswar               |        BBS         |     02:30     |     02:35     |     5:00      |      1144 KM       |    2     
+  12  |                Cuttack                 |        CTC         |     03:10     |     03:15     |     5:00      |      1171 KM       |    2     
+  13  |             Jajpur K Road              |        JJKR        |     04:11     |     04:12     |     1:00      |      1243 KM       |    2     
+  14  |               Bhadrakh                 |        BHC         |     05:33     |     05:35     |     2:00      |      1287 KM       |    2     
+  15  |               Balasore                 |        BLS         |     06:20     |     06:22     |     2:00      |      1349 KM       |    2     
+  16  |          Kharagpur Junction            |        KGP         |     08:15     |     08:30     |     15:00     |      1467 KM       |    2     
+  17  |         Santragachi Junction           |        SRC         |     10:01     |     10:03     |     2:00      |      1575 KM       |    2     
+  18  |            Howrah Junction             |        HWH         |     10:55     |     11:15     |     20:00     |      1583 KM       |    2     
+  19  |            Bolpur S Niktn              |        BHP         |     13:18     |     13:23     |     5:00      |      1729 KM       |    2     
+  20  |              Rampur Hat                |        RPH         |     14:26     |     14:28     |     2:00      |      1789 KM       |    2     
+  21  |         New Farakka Junction           |        NFK         |     16:14     |     16:16     |     2:00      |      1876 KM       |    2     
+  22  |              Malda Town                |        MLDT        |     17:15     |     17:30     |     15:00     |      1910 KM       |    2     
+  23  |            Barsoi Junction             |        BOE         |     18:39     |     18:41     |     2:00      |      1998 KM       |    2     
+  24  |              Kishanganj                |        KNE         |     19:30     |     19:32     |     2:00      |      2056 KM       |    2     
+  25  |            New Jalpaiguri              |        NJP         |     21:30     |     21:45     |     15:00     |      2143 KM       |    2     
+  26  |            New Cooch Behar             |        NCB         |     23:53     |     23:55     |     2:00      |      2269 KM       |    2     
+  27  |            New Alipurdaur              |        NOQ         |     00:12     |     00:14     |     2:00      |      2287 KM       |    3     
+  28  |            New Bongaigaon              |        NBQ         |     02:20     |     02:25     |     5:00      |      2394 KM       |    3     
+  29  |           Rangiya Junction             |        RNY         |     04:00     |     04:05     |     5:00      |      2504 KM       |    3     
+  30  |               Kamakhya                 |        KYQ         |     05:05     |     05:07     |     2:00      |      2545 KM       |    3     
+  31  |               Guwahati                 |        GHY         |     06:00     |     Ends      |       -       |      2551 KM       |    3     

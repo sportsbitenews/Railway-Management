@@ -1,0 +1,28 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Vishakapatnam              |        VSKP        |     Start     |     15:20     |       -       |        0 KM        |    1     
+  2   |              Simhachalam               |        SCM         |     15:35     |     15:37     |     2:00      |        8 KM        |    1     
+  3   |         Vizianagram Junction           |        VZM         |     16:20     |     16:25     |     5:00      |       61 KM        |    1     
+  4   |             Chipurupalle               |        CPP         |     16:51     |     16:52     |     1:00      |       92 KM        |    1     
+  5   |                Ponduru                 |        PDU         |     17:09     |     17:10     |     1:00      |       115 KM       |    1     
+  6   |            Srikakulam Road             |        CHE         |     17:25     |     17:30     |     5:00      |       131 KM       |    1     
+  7   |                Tilaru                  |        TIU         |     17:44     |     17:46     |     2:00      |       150 KM       |    1     
+  8   |              Kotabommali               |        KBM         |     17:57     |     17:58     |     1:00      |       164 KM       |    1     
+  9   |           Naupada Junction             |        NWP         |     18:09     |     18:10     |     1:00      |       178 KM       |    1     
+  10  |                Palasa                  |        PSA         |     18:37     |     18:42     |     5:00      |       203 KM       |    1     
+  11  |             Mandasa Road               |        MMS         |     18:54     |     18:55     |     1:00      |       216 KM       |    1     
+  12  |                Sompeta                 |        SPT         |     19:07     |     19:08     |     1:00      |       235 KM       |    1     
+  13  |              Ichchpuram                |        IPM         |     19:21     |     19:22     |     1:00      |       253 KM       |    1     
+  14  |               Brahmapur                |        BAM         |     19:45     |     19:50     |     5:00      |       277 KM       |    1     
+  15  |               Chatrapur                |        CAP         |     20:06     |     20:07     |     1:00      |       299 KM       |    1     
+  16  |                Ganjam                  |        GAM         |     20:16     |     20:17     |     1:00      |       308 KM       |    1     
+  17  |                Rambha                  |        RBA         |     20:32     |     20:33     |     1:00      |       325 KM       |    1     
+  18  |               Khallikot                |        KIT         |     20:42     |     20:43     |     1:00      |       336 KM       |    1     
+  19  |                Chilka                  |        CLKA        |     20:51     |     20:52     |     1:00      |       346 KM       |    1     
+  20  |                Balugan                 |        BALU        |     20:59     |     21:00     |     1:00      |       353 KM       |    1     
+  21  |             Gangadharpur               |        GNGD        |     21:16     |     21:17     |     1:00      |       366 KM       |    1     
+  22  |                Kuhuri                  |        KUU         |     21:25     |     21:26     |     1:00      |       374 KM       |    1     
+  23  |             Kalupara Ghat              |        KAPG        |     21:34     |     21:35     |     1:00      |       381 KM       |    1     
+  24  |              Bhusandpur                |        BSDP        |     21:42     |     21:43     |     1:00      |       391 KM       |    1     
+  25  |              Nirakarpur                |        NKP         |     21:49     |     21:50     |     1:00      |       398 KM       |    1     
+  26  |         Khurda Road Junction           |        KUR         |     22:10     |     22:15     |     5:00      |       424 KM       |    1     
+  27  |              Bhubaneswar               |        BBS         |     23:05     |     Ends      |       -       |       443 KM       |    1     

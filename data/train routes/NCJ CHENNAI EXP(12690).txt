@@ -1,0 +1,21 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Nagercoil Junction            |        NCJ         |     Start     |     19:40     |       -       |        0 KM        |    1     
+  2   |              Tirunelveli               |        TEN         |     21:10     |     21:15     |     5:00      |       74 KM        |    1     
+  3   |         Maniyachchi Junction           |        MEJ         |     21:40     |     21:41     |     1:00      |       103 KM       |    1     
+  4   |              Kovilpatti                |        CVP         |     22:14     |     22:15     |     1:00      |       139 KM       |    1     
+  5   |                 Satur                  |        SRT         |     22:34     |     22:35     |     1:00      |       160 KM       |    1     
+  6   |         Virudunagar Junction           |        VPT         |     23:05     |     23:07     |     2:00      |       187 KM       |    1     
+  7   |           Madurai Junction             |        MDU         |     00:10     |     00:15     |     5:00      |       230 KM       |    2     
+  8   |            Kodaikanal Road             |        KQN         |     00:45     |     00:46     |     1:00      |       271 KM       |    2     
+  9   |           Dindigul Junction            |         DG         |     01:10     |     01:12     |     2:00      |       296 KM       |    2     
+  10  |            Tiruchchirapali             |        TPJ         |     03:00     |     03:10     |     10:00     |       391 KM       |    2     
+  11  |                 Karur                  |        KRR         |     04:13     |     04:15     |     2:00      |       466 KM       |    2     
+  12  |            Erode Junction              |         ED         |     05:50     |     06:00     |     10:00     |       532 KM       |    2     
+  13  |            Salem Junction              |         SA         |     06:50     |     06:55     |     5:00      |       594 KM       |    2     
+  14  |               Morappur                 |        MAP         |     07:44     |     07:45     |     1:00      |       660 KM       |    2     
+  15  |          Tirupattur Junction           |        TPT         |     08:24     |     08:25     |     1:00      |       707 KM       |    2     
+  16  |              Jolarpettai               |        JTJ         |     08:48     |     08:50     |     2:00      |       714 KM       |    2     
+  17  |           Katpadi Junction             |        KPD         |     09:58     |     10:00     |     2:00      |       798 KM       |    2     
+  18  |               Arakkonam                |        AJJ         |     10:53     |     10:55     |     2:00      |       859 KM       |    2     
+  19  |               Perambur                 |        PER         |     11:44     |     11:45     |     1:00      |       922 KM       |    2     
+  20  |            Chennai Central             |        MAS         |     12:25     |     Ends      |       -       |       927 KM       |    2     

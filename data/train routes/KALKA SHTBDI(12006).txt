@@ -1,0 +1,6 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Kalka                  |        KLK         |     Start     |     06:15     |       -       |        0 KM        |    1     
+  2   |              Chandigarh                |        CDG         |     06:45     |     06:53     |     8:00      |       38 KM        |    1     
+  3   |         Ambala Cant Junction           |        UMB         |     07:33     |     07:38     |     5:00      |       105 KM       |    1     
+  4   |         Kurukshetra Junction           |        KKDE        |     08:10     |     08:12     |     2:00      |       147 KM       |    1     
+  5   |               New Delhi                |        NDLS        |     10:25     |     Ends      |       -       |       303 KM       |    1     

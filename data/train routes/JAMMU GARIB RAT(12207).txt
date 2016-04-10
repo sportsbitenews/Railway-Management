@@ -1,0 +1,17 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Kathgodam                |        KGM         |     Start     |     18:30     |       -       |        0 KM        |    1     
+  2   |               Haldwani                 |        HDW         |     18:45     |     18:47     |     2:00      |        7 KM        |    1     
+  3   |               Lal Kuan                 |        LKU         |     19:19     |     19:21     |     2:00      |       23 KM        |    1     
+  4   |             Rudrapur City              |        RUPC        |     19:42     |     19:44     |     2:00      |       45 KM        |    1     
+  5   |             Bilaspur Road              |        BLQR        |     20:00     |     20:02     |     2:00      |       63 KM        |    1     
+  6   |                Rampur                  |        RMU         |     20:55     |     21:00     |     5:00      |       90 KM        |    1     
+  7   |               Moradabad                |         MB         |     21:35     |     21:45     |     10:00     |       117 KM       |    1     
+  8   |            Laksar Junction             |        LRJ         |     23:46     |     23:48     |     2:00      |       257 KM       |    1     
+  9   |              Saharanpur                |        SRE         |     00:55     |     01:05     |     10:00     |       310 KM       |    2     
+  10  |               Jagadhri                 |        JUD         |     01:32     |     01:34     |     2:00      |       340 KM       |    2     
+  11  |         Ambala Cant Junction           |        UMB         |     02:25     |     02:33     |     8:00      |       391 KM       |    2     
+  12  |           Ludhiana Junction            |        LDH         |     04:25     |     04:35     |     10:00     |       504 KM       |    2     
+  13  |            Jalandhar Cant              |        JRC         |     05:35     |     05:40     |     5:00      |       557 KM       |    2     
+  14  |            Pathankot Cantt             |        PTKC        |     07:30     |     07:35     |     5:00      |       670 KM       |    2     
+  15  |                Kathua                  |        KTHU        |     08:03     |     08:05     |     2:00      |       693 KM       |    2     
+  16  |              Jammu Tawi                |        JAT         |     09:50     |     Ends      |       -       |       769 KM       |    2     

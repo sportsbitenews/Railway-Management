@@ -1,0 +1,33 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Porbandar                |        PBR         |     Start     |     15:10     |       -       |        0 KM        |    1     
+  2   |                Bhanvad                 |        BNVD        |     16:03     |     16:05     |     2:00      |       53 KM        |    1     
+  3   |               Jamnagar                 |        JAM         |     18:00     |     18:05     |     5:00      |       132 KM       |    1     
+  4   |            Rajkot Junction             |        RJT         |     19:28     |     19:33     |     5:00      |       217 KM       |    1     
+  5   |           Wankaner Junction            |        WKR         |     20:11     |     20:13     |     2:00      |       259 KM       |    1     
+  6   |             Surendranagar              |        SUNR        |     21:41     |     21:43     |     2:00      |       333 KM       |    1     
+  7   |           Viramgam Junction            |         VG         |     23:05     |     23:07     |     2:00      |       398 KM       |    1     
+  8   |          Ahmedabad Junction            |        ADI         |     00:20     |     00:50     |     30:00     |       464 KM       |    2     
+  9   |           Palanpur Junction            |        PNU         |     04:10     |     04:12     |     2:00      |       597 KM       |    2     
+  10  |               Abu Road                 |        ABR         |     05:32     |     05:42     |     10:00     |       649 KM       |    2     
+  11  |            Marwar Junction             |         MJ         |     08:25     |     08:30     |     5:00      |       815 KM       |    2     
+  12  |            Ajmer Junction              |        AII         |     10:55     |     11:05     |     10:00     |       954 KM       |    2     
+  13  |                Jaipur                  |         JP         |     13:10     |     13:20     |     10:00     |      1089 KM       |    2     
+  14  |           Bandikui Junction            |        BKI         |     14:30     |     14:32     |     2:00      |      1179 KM       |    2     
+  15  |                 Alwar                  |        AWR         |     15:40     |     15:43     |     3:00      |      1240 KM       |    2     
+  16  |                Rewari                  |         RE         |     17:30     |     18:02     |     32:00     |      1314 KM       |    2     
+  17  |                Gurgaon                 |        GGN         |     18:38     |     18:40     |     2:00      |      1365 KM       |    2     
+  18  |              Delhi Cantt               |        DEC         |     19:03     |     19:05     |     2:00      |      1382 KM       |    2     
+  19  |            Delhi S Rohilla             |        DEE         |     19:33     |     19:35     |     2:00      |      1392 KM       |    2     
+  20  |                 Delhi                  |        DLI         |     20:00     |     20:40     |     40:00     |      1396 KM       |    2     
+  21  |               Moradabad                |         MB         |     23:50     |     23:58     |     8:00      |      1557 KM       |    2     
+  22  |               Bareilly                 |         BE         |     01:22     |     01:27     |     5:00      |      1648 KM       |    3     
+  23  |             Shahjehanpur               |        SPN         |     02:35     |     02:40     |     5:00      |      1718 KM       |    3     
+  24  |              Lucknow Nr                |        LKO         |     05:15     |     05:55     |     40:00     |      1883 KM       |    3     
+  25  |            Gonda Junction              |         GD         |     08:00     |     08:05     |     5:00      |      2007 KM       |    3     
+  26  |          Gorakhpur Junction            |        GKP         |     10:50     |     11:10     |     20:00     |      2161 KM       |    3     
+  27  |                Bagaha                  |        BUG         |     14:07     |     14:09     |     2:00      |      2269 KM       |    3     
+  28  |         Narkatiaganj Junction          |        NKE         |     14:51     |     14:56     |     5:00      |      2311 KM       |    3     
+  29  |                Bettiah                 |        BTH         |     15:30     |     15:32     |     2:00      |      2348 KM       |    3     
+  30  |           Sagauli Junction             |        SGL         |     15:53     |     15:55     |     2:00      |      2370 KM       |    3     
+  31  |            Bapudm Motihari             |        BMKI        |     16:11     |     16:16     |     5:00      |      2391 KM       |    3     
+  32  |         Muzaffarpur Junction           |        MFP         |     18:10     |     Ends      |       -       |      2470 KM       |    3     

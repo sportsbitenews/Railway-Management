@@ -1,0 +1,3 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Allahabad Junction            |        ALD         |     Start     |     19:30     |       -       |        0 KM        |    1     
+  2   |            Lokmanyatilak T             |        LTT         |     14:50     |     Ends      |       -       |      1348 KM       |    2     

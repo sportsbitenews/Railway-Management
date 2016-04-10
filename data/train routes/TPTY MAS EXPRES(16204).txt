@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Tirupati                 |        TPTY        |     Start     |     06:45     |       -       |        0 KM        |    1     
+  2   |          Renigunta Junction            |         RU         |     07:05     |     07:35     |     30:00     |       10 KM        |    1     
+  3   |                Puttur                  |        PUT         |     07:58     |     08:00     |     2:00      |       36 KM        |    1     
+  4   |            Ekambarakuppam              |        EKM         |     08:13     |     08:15     |     2:00      |       50 KM        |    1     
+  5   |                Nagari                  |         NG         |     08:18     |     08:20     |     2:00      |       52 KM        |    1     
+  6   |               Tiruttani                |        TRT         |     08:33     |     08:35     |     2:00      |       68 KM        |    1     
+  7   |               Arakkonam                |        AJJ         |     08:50     |     08:55     |     5:00      |       82 KM        |    1     
+  8   |              Trivellore                |        TRL         |     09:18     |     09:20     |     2:00      |       109 KM       |    1     
+  9   |                 Avadi                  |        AVD         |     09:38     |     09:40     |     2:00      |       130 KM       |    1     
+  10  |               Perambur                 |        PER         |     09:58     |     10:00     |     2:00      |       145 KM       |    1     
+  11  |            Chennai Central             |        MAS         |     10:45     |     Ends      |       -       |       151 KM       |    1     

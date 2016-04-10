@@ -1,0 +1,20 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Kolkata                 |        KOAA        |     Start     |     20:55     |       -       |        0 KM        |    1     
+  2   |           Naihati Junction             |         NH         |     21:45     |     21:47     |     2:00      |       34 KM        |    1     
+  3   |          Barddhaman Junction           |        BWN         |     23:20     |     23:25     |     5:00      |       110 KM       |    1     
+  4   |               Durgapur                 |        DGR         |     00:15     |     00:17     |     2:00      |       174 KM       |    2     
+  5   |           Asansol Junction             |        ASN         |     00:52     |     01:12     |     20:00     |       216 KM       |    2     
+  6   |             Chittaranjan               |        CRJ         |     01:37     |     01:38     |     1:00      |       241 KM       |    2     
+  7   |           Madhupur Junction            |        MDP         |     02:16     |     02:21     |     5:00      |       297 KM       |    2     
+  8   |           Jasidih Junction             |        JSME        |     02:47     |     02:52     |     5:00      |       326 KM       |    2     
+  9   |                Jhajha                  |        JAJ         |     04:10     |     04:20     |     10:00     |       370 KM       |    2     
+  10  |         Luckeesarai Junction           |        LKR         |     05:13     |     05:14     |     1:00      |       425 KM       |    2     
+  11  |           Barauni Junction             |        BJU         |     06:35     |     06:55     |     20:00     |       463 KM       |    2     
+  12  |            Dalsingh Sarai              |        DSS         |     07:25     |     07:26     |     1:00      |       491 KM       |    2     
+  13  |          Samastipur Junction           |        SPJ         |     07:55     |     08:00     |     5:00      |       514 KM       |    2     
+  14  |             Laheria Sarai              |        LSI         |     08:41     |     08:46     |     5:00      |       547 KM       |    2     
+  15  |          Darbhanga Junction            |        DBG         |     09:00     |     09:10     |     10:00     |       552 KM       |    2     
+  16  |                Kamtaul                 |        KML         |     09:32     |     09:33     |     1:00      |       575 KM       |    2     
+  17  |                JOGIARA                 |        JGA         |     09:45     |     09:46     |     1:00      |       586 KM       |    2     
+  18  |             Janakpur Road              |        JNR         |     09:55     |     09:56     |     1:00      |       594 KM       |    2     
+  19  |               Sitamarhi                |        SMI         |     11:00     |     Ends      |       -       |       619 KM       |    2     

@@ -1,0 +1,31 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Villuparam Junction           |         VM         |     Start     |     11:40     |       -       |        0 KM        |    1     
+  2   |              Tirukoilur                |        TRK         |     12:14     |     12:15     |     1:00      |       34 KM        |    1     
+  3   |            Tiruvannamalai              |        TNM         |     12:48     |     12:49     |     1:00      |       68 KM        |    1     
+  4   |               Arni Road                |        ARV         |     13:41     |     13:42     |     1:00      |       116 KM       |    1     
+  5   |             Vellore Cant               |        VLR         |     14:09     |     14:10     |     1:00      |       151 KM       |    1     
+  6   |           Katpadi Junction             |        KPD         |     14:50     |     14:55     |     5:00      |       161 KM       |    1     
+  7   |               Tiruttani                |        TRT         |     15:58     |     16:00     |     2:00      |       236 KM       |    1     
+  8   |                Puttur                  |        PUT         |     16:28     |     16:30     |     2:00      |       268 KM       |    1     
+  9   |          Renigunta Junction            |         RU         |     17:20     |     17:30     |     10:00     |       294 KM       |    1     
+  10  |            Gudur Junction              |        GDR         |     19:06     |     19:08     |     2:00      |       377 KM       |    1     
+  11  |                Nellore                 |        NLR         |     19:33     |     19:34     |     1:00      |       415 KM       |    1     
+  12  |                Ongole                  |        OGL         |     20:59     |     21:00     |     1:00      |       531 KM       |    1     
+  13  |          Vijayawada Junction           |        BZA         |     23:35     |     23:45     |     10:00     |       669 KM       |    1     
+  14  |                 Eluru                  |         EE         |     00:35     |     00:37     |     2:00      |       729 KM       |    2     
+  15  |              Rajamundry                |        RJY         |     02:01     |     02:03     |     2:00      |       819 KM       |    2     
+  16  |             Vishakapatnam              |        VSKP        |     06:15     |     06:35     |     20:00     |      1020 KM       |    2     
+  17  |         Vizianagram Junction           |        VZM         |     07:40     |     07:45     |     5:00      |      1081 KM       |    2     
+  18  |               Brahmapur                |        BAM         |     11:10     |     11:15     |     5:00      |      1297 KM       |    2     
+  19  |         Khurda Road Junction           |        KUR         |     13:25     |     13:40     |     15:00     |      1443 KM       |    2     
+  20  |              Bhubaneswar               |        BBS         |     14:00     |     14:05     |     5:00      |      1462 KM       |    2     
+  21  |                Cuttack                 |        CTC         |     14:40     |     14:45     |     5:00      |      1490 KM       |    2     
+  22  |             Jajpur K Road              |        JJKR        |     15:36     |     15:38     |     2:00      |      1562 KM       |    2     
+  23  |               Balasore                 |        BLS         |     17:30     |     17:32     |     2:00      |      1668 KM       |    2     
+  24  |                 Belda                  |        BLDA        |     18:33     |     18:35     |     2:00      |      1748 KM       |    2     
+  25  |                Hijilli                 |        HIJ         |     19:08     |     19:10     |     2:00      |      1780 KM       |    2     
+  26  |               Midnapore                |        MDN         |     20:18     |     20:20     |     2:00      |      1803 KM       |    2     
+  27  |               Bishnupur                |        VSU         |     21:04     |     21:05     |     1:00      |      1875 KM       |    2     
+  28  |                Bankura                 |        BQA         |     21:28     |     21:30     |     2:00      |      1905 KM       |    2     
+  29  |             Adra Junction              |        ADRA        |     22:15     |     22:20     |     5:00      |      1958 KM       |    2     
+  30  |           Purulia Junction             |        PRR         |     23:10     |     Ends      |       -       |      1997 KM       |    2     

@@ -1,0 +1,11 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Chennai Central             |        MAS         |     Start     |     07:35     |       -       |        0 KM        |    1     
+  2   |              Sullurupeta               |        SPE         |     08:43     |     08:45     |     2:00      |       83 KM        |    1     
+  3   |            Gudur Junction              |        GDR         |     09:45     |     09:47     |     2:00      |       138 KM       |    1     
+  4   |                Nellore                 |        NLR         |     10:09     |     10:10     |     1:00      |       176 KM       |    1     
+  5   |                Kavali                  |        KVZ         |     10:39     |     10:40     |     1:00      |       227 KM       |    1     
+  6   |                Ongole                  |        OGL         |     11:44     |     11:45     |     1:00      |       292 KM       |    1     
+  7   |                Chirala                 |        CLX         |     12:19     |     12:20     |     1:00      |       342 KM       |    1     
+  8   |            Tenali Junction             |        TEL         |     13:19     |     13:20     |     1:00      |       399 KM       |    1     
+  9   |              New Guntur                |        NGNT        |     13:45     |     13:46     |     1:00      |       424 KM       |    1     
+  10  |          Vijayawada Junction           |        BZA         |     14:45     |     Ends      |       -       |       454 KM       |    1     

@@ -1,0 +1,47 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Bareilly                 |         BE         |     Start     |     11:55     |       -       |        0 KM        |    1     
+  2   |             Shahjehanpur               |        SPN         |     13:10     |     13:15     |     5:00      |       71 KM        |    1     
+  3   |                Hardoi                  |        HRI         |     14:05     |     14:07     |     2:00      |       134 KM       |    1     
+  4   |                Sandila                 |        SAN         |     14:56     |     14:58     |     2:00      |       187 KM       |    1     
+  5   |              Lucknow Nr                |        LKO         |     16:00     |     16:10     |     10:00     |       236 KM       |    1     
+  6   |                Nigohan                 |        NHN         |     16:52     |     16:54     |     2:00      |       271 KM       |    1     
+  7   |              Bachhrawan                |        BCN         |     17:04     |     17:06     |     2:00      |       283 KM       |    1     
+  8   |              Harchandpur               |        HCP         |     17:22     |     17:24     |     2:00      |       299 KM       |    1     
+  9   |          Rae Bareli Junction           |        RBL         |     17:55     |     18:00     |     5:00      |       313 KM       |    1     
+  10  |              Lachhmanpur               |        LMN         |     18:20     |     18:22     |     2:00      |       334 KM       |    1     
+  11  |           Unchahar Junction            |        UCR         |     18:37     |     18:39     |     2:00      |       351 KM       |    1     
+  12  |           Pwn Klaknder Road            |        PQN         |     18:50     |     18:52     |     2:00      |       362 KM       |    1     
+  13  |            Garhi Manikpur              |        GRMR        |     19:00     |     19:02     |     2:00      |       369 KM       |    1     
+  14  |            Kunda Harnamgnj             |        KHNM        |     19:13     |     19:15     |     2:00      |       381 KM       |    1     
+  15  |             Lalgopalganj               |        LGO         |     19:29     |     19:31     |     2:00      |       395 KM       |    1     
+  16  |            Ram Chaura Road             |        RMC         |     19:40     |     19:42     |     2:00      |       402 KM       |    1     
+  17  |          Phaphamau Junction            |        PFM         |     20:17     |     20:19     |     2:00      |       423 KM       |    1     
+  18  |                Prayag                  |        PRG         |     20:33     |     20:35     |     2:00      |       430 KM       |    1     
+  19  |          Allahabad Junction            |        ALD         |     20:55     |     21:20     |     25:00     |       436 KM       |    1     
+  20  |                 Naini                  |        NYN         |     21:33     |     21:35     |     2:00      |       444 KM       |    1     
+  21  |               Meja Road                |        MJA         |     22:08     |     22:10     |     2:00      |       475 KM       |    1     
+  22  |              Manda Road                |        MNF         |     22:36     |     22:38     |     2:00      |       491 KM       |    1     
+  23  |              Vindhyachal               |        BDL         |     23:20     |     23:22     |     2:00      |       519 KM       |    1     
+  24  |               Mirzapur                 |        MZP         |     23:43     |     23:45     |     2:00      |       526 KM       |    1     
+  25  |                Chunar                  |        CAR         |     00:45     |     00:55     |     10:00     |       557 KM       |    2     
+  26  |              Saktesgarh                |        SKGH        |     01:23     |     01:25     |     2:00      |       578 KM       |    2     
+  27  |                 Lusa                   |        LUSA        |     02:18     |     02:20     |     2:00      |       599 KM       |    2     
+  28  |             Roberts Ganj               |        RBGJ        |     03:16     |     03:18     |     2:00      |       633 KM       |    2     
+  29  |                 Churk                  |        CUK         |     03:53     |     03:55     |     2:00      |       638 KM       |    2     
+  30  |              Agori Khas                |        AGY         |     04:28     |     04:30     |     2:00      |       650 KM       |    2     
+  31  |                Chopan                  |        CPU         |     05:35     |     05:45     |     10:00     |       660 KM       |    2     
+  32  |               Obra Dam                 |        OBR         |     05:59     |     06:01     |     2:00      |       673 KM       |    2     
+  33  |              Mirchadhori               |        MCQ         |     06:52     |     06:54     |     2:00      |       702 KM       |    2     
+  34  |         Karaila Road Junction          |        KRLR        |     07:04     |     07:06     |     2:00      |       710 KM       |    2     
+  35  |                Anpara                  |        ANPR        |     07:18     |     07:20     |     2:00      |       721 KM       |    2     
+  36  |             Krishnashilla              |        KRSL        |     07:34     |     07:36     |     2:00      |       732 KM       |    2     
+  37  |             Shakti Nagar               |        SKTN        |     08:05     |     Ends      |       -       |       742 KM       |    2     
+  38  |                Chopan                  |        CPU         |     05:35     |     06:08     |     33:00     |       660 KM       |    2     
+  39  |                Renukut                 |        RNQ         |     07:15     |     07:17     |     2:00      |       702 KM       |    2     
+  40  |              Duddhinagar               |        DXN         |     07:38     |     07:40     |     2:00      |       723 KM       |    2     
+  41  |              Wyndhamganj               |        WDM         |     08:03     |     08:05     |     2:00      |       745 KM       |    2     
+  42  |             Nagar Untari               |        NUQ         |     08:23     |     08:25     |     2:00      |       757 KM       |    2     
+  43  |                Garhwa                  |        GHQ         |     08:53     |     08:55     |     2:00      |       791 KM       |    2     
+  44  |              Garwa Road                |        GHD         |     09:15     |     09:20     |     5:00      |       801 KM       |    2     
+  45  |              Daltonganj                |        DTO         |     09:55     |     10:00     |     5:00      |       835 KM       |    2     
+  46  |           Barwadih Junction            |        BRWD        |     10:45     |     Ends      |       -       |       862 KM       |    2     

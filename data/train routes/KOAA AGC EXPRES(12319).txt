@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Kolkata                 |        KOAA        |     Start     |     13:10     |       -       |        0 KM        |    1     
+  2   |               Durgapur                 |        DGR         |     15:29     |     15:31     |     2:00      |       161 KM       |    1     
+  3   |           Asansol Junction             |        ASN         |     16:00     |     16:05     |     5:00      |       203 KM       |    1     
+  4   |           Dhanbad Junction             |        DHN         |     17:10     |     17:15     |     5:00      |       262 KM       |    1     
+  5   |             Gaya Junction              |        GAYA        |     20:12     |     20:17     |     5:00      |       460 KM       |    1     
+  6   |         Mughal Sarai Junction          |        MGS         |     22:57     |     23:17     |     20:00     |       663 KM       |    1     
+  7   |            Kanpur Central              |        CNB         |     03:50     |     04:00     |     10:00     |      1010 KM       |    2     
+  8   |              Farrukhabad               |        FBD         |     06:25     |     06:30     |     5:00      |      1149 KM       |    2     
+  9   |                Kasganj                 |        KSJ         |     08:20     |     08:30     |     10:00     |      1257 KM       |    2     
+  10  |           Mathura Junction             |        MTJ         |     10:50     |     11:00     |     10:00     |      1362 KM       |    2     
+  11  |              Agra Cantt                |        AGC         |     12:00     |     Ends      |       -       |      1416 KM       |    2     

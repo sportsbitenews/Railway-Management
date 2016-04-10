@@ -1,0 +1,27 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Kamakhya                 |        KYQ         |     Start     |     05:55     |       -       |        0 KM        |    1     
+  2   |               Guwahati                 |        GHY         |     06:10     |     06:20     |     10:00     |        7 KM        |    1     
+  3   |                Narangi                 |        NNGE        |     06:34     |     06:35     |     1:00      |       15 KM        |    1     
+  4   |              PANIKHAITI                |        PHI         |     07:01     |     07:02     |     1:00      |       21 KM        |    1     
+  5   |              THAKURKUCHI               |        TKC         |     07:11     |     07:12     |     1:00      |       26 KM        |    1     
+  6   |                PANBARI                 |        PNB         |     07:24     |     07:25     |     1:00      |       33 KM        |    1     
+  7   |                Digaru                  |        DGU         |     07:37     |     07:38     |     1:00      |       41 KM        |    1     
+  8   |                TETELIA                 |        TTLA        |     07:48     |     07:49     |     1:00      |       46 KM        |    1     
+  9   |             KAMRUP KHETRI              |        KKET        |     07:59     |     08:00     |     1:00      |       52 KM        |    1     
+  10  |                BARAHU                  |        BRHU        |     08:09     |     08:10     |     1:00      |       58 KM        |    1     
+  11  |               Jagi Road                |        JID         |     08:19     |     08:20     |     1:00      |       64 KM        |    1     
+  12  |                AUJARI                  |        AJRE        |     08:47     |     08:48     |     1:00      |       72 KM        |    1     
+  13  |               DHARAMTUL                |        DML         |     09:11     |     09:12     |     1:00      |       83 KM        |    1     
+  14  |              THEKERAGURI               |        TGE         |     09:27     |     09:28     |     1:00      |       90 KM        |    1     
+  15  |          Chaparmukh Junction           |        CPK         |     09:37     |     09:42     |     5:00      |       98 KM        |    1     
+  16  |                LAOPANI                 |        LPN         |     10:06     |     10:07     |     1:00      |       107 KM       |    1     
+  17  |                Kampur                  |        KWM         |     10:19     |     10:20     |     1:00      |       115 KM       |    1     
+  18  |              Jamunamukh                |        JMK         |     10:33     |     10:34     |     1:00      |       126 KM       |    1     
+  19  |                JUGIJAN                 |        JGJN        |     10:46     |     10:47     |     1:00      |       136 KM       |    1     
+  20  |                 Hojai                  |        HJI         |     10:59     |     11:00     |     1:00      |       143 KM       |    1     
+  21  |              DHALPUKHURI               |        DHRY        |     11:10     |     11:11     |     1:00      |       150 KM       |    1     
+  22  |                 Lanka                  |        LKA         |     11:24     |     11:25     |     1:00      |       157 KM       |    1     
+  23  |               HABAIPUR                 |        HWX         |     11:34     |     11:35     |     1:00      |       163 KM       |    1     
+  24  |              LAMSAKHANG                |        LKG         |     11:51     |     11:52     |     1:00      |       173 KM       |    1     
+  25  |             PATHARKHOLA S              |        PKB         |     12:05     |     12:06     |     1:00      |       179 KM       |    1     
+  26  |           Lumding Junction             |        LMG         |     12:30     |     Ends      |       -       |       188 KM       |    1     

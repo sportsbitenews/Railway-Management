@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Jammu Tawi                |        JAT         |     Start     |     14:00     |       -       |        0 KM        |    1     
+  2   |            Pathankot Cantt             |        PTKC        |     15:40     |     15:45     |     5:00      |       100 KM       |    1     
+  3   |            Jalandhar Cant              |        JRC         |     17:30     |     17:35     |     5:00      |       213 KM       |    1     
+  4   |           Ludhiana Junction            |        LDH         |     18:25     |     18:35     |     10:00     |       265 KM       |    1     
+  5   |         Ambala Cant Junction           |        UMB         |     20:50     |     21:00     |     10:00     |       378 KM       |    1     
+  6   |              Saharanpur                |        SRE         |     22:15     |     22:25     |     10:00     |       460 KM       |    1     
+  7   |               Moradabad                |         MB         |     01:25     |     01:35     |     10:00     |       652 KM       |    2     
+  8   |              Lucknow Nr                |        LKO         |     07:10     |     07:20     |     10:00     |       978 KM       |    2     
+  9   |               Nihalgarh                |        NHH         |     08:48     |     08:50     |     2:00      |      1067 KM       |    2     
+  10  |               Sultanpur                |        SLN         |     09:35     |     09:40     |     5:00      |      1118 KM       |    2     
+  11  |           Varanasi Junction            |        BSB         |     12:40     |     Ends      |       -       |      1261 KM       |    2     

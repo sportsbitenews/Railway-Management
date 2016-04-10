@@ -1,0 +1,14 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Jaipur                  |         JP         |     Start     |     15:20     |       -       |        0 KM        |    1     
+  2   |            Gandhinagar Jpr             |        GADJ        |     15:28     |     15:30     |     2:00      |        6 KM        |    1     
+  3   |                 Dausa                  |         DO         |     16:15     |     16:17     |     2:00      |       62 KM        |    1     
+  4   |           Bandikui Junction            |        BKI         |     16:40     |     16:42     |     2:00      |       91 KM        |    1     
+  5   |                 Alwar                  |        AWR         |     18:02     |     18:05     |     3:00      |       151 KM       |    1     
+  7   |               Goverdhan                |        GDO         |     19:25     |     19:27     |     2:00      |       249 KM       |    1     
+  8   |           Mathura Junction             |        MTJ         |     20:10     |     20:20     |     10:00     |       274 KM       |    1     
+  9   |              Agra Cantt                |        AGC         |     21:10     |     21:30     |     20:00     |       328 KM       |    1     
+  10  |             Raja Ki Mandi              |        RKM         |     21:42     |     21:44     |     2:00      |       332 KM       |    1     
+  11  |            Tundla Junction             |        TDL         |     22:55     |     23:00     |     5:00      |       356 KM       |    1     
+  12  |            Kanpur Central              |        CNB         |     02:00     |     02:10     |     10:00     |       586 KM       |    2     
+  13  |               Fatehpur                 |        FTP         |     03:08     |     03:10     |     2:00      |       664 KM       |    2     
+  14  |          Allahabad Junction            |        ALD         |     04:55     |     Ends      |       -       |       780 KM       |    2     

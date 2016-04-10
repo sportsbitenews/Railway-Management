@@ -1,0 +1,23 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Patna Junction              |        PNBE        |     Start     |     23:55     |       -       |        0 KM        |    1     
+  2   |              Patna Saheb               |        PNC         |     00:09     |     00:11     |     2:00      |       10 KM        |    2     
+  3   |                 Fatwa                  |        FUT         |     00:22     |     00:24     |     2:00      |       22 KM        |    2     
+  4   |         Bakhtiyarpur Junction          |        BKP         |     00:43     |     00:45     |     2:00      |       46 KM        |    2     
+  5   |           Mokameh Junction             |        MKA         |     01:25     |     01:27     |     2:00      |       90 KM        |    2     
+  6   |             Kiul Junction              |        KIUL        |     02:25     |     02:27     |     2:00      |       124 KM       |    2     
+  7   |                Jhajha                  |        JAJ         |     03:25     |     03:30     |     5:00      |       178 KM       |    2     
+  8   |           Jasidih Junction             |        JSME        |     04:02     |     04:04     |     2:00      |       222 KM       |    2     
+  9   |           Madhupur Junction            |        MDP         |     04:29     |     04:31     |     2:00      |       251 KM       |    2     
+  10  |             Chittaranjan               |        CRJ         |     05:09     |     05:11     |     2:00      |       307 KM       |    2     
+  11  |           Asansol Junction             |        ASN         |     05:55     |     06:15     |     20:00     |       332 KM       |    2     
+  12  |            Joychandi Pahar             |        JOC         |     06:57     |     06:58     |     1:00      |       369 KM       |    2     
+  13  |           Purulia Junction             |        PRR         |     07:36     |     07:38     |     2:00      |       408 KM       |    2     
+  14  |          Tatanagar Junction            |        TATA        |     09:15     |     09:40     |     25:00     |       498 KM       |    2     
+  15  |             Chakradharpur              |        CKP         |     10:35     |     10:37     |     2:00      |       561 KM       |    2     
+  16  |               Rourkela                 |        ROU         |     12:00     |     12:10     |     10:00     |       662 KM       |    2     
+  17  |              Raj Gangpur               |         GP         |     12:34     |     12:36     |     2:00      |       692 KM       |    2     
+  18  |          Jharsuguda Junction           |        JSG         |     13:53     |     13:55     |     2:00      |       763 KM       |    2     
+  19  |             Brajrajnagar               |        BRJN        |     14:03     |     14:05     |     2:00      |       776 KM       |    2     
+  20  |                Raigarh                 |        RIG         |     14:46     |     14:48     |     2:00      |       836 KM       |    2     
+  21  |                Champa                  |        CPH         |     15:40     |     15:42     |     2:00      |       916 KM       |    2     
+  22  |           Bilaspur Junction            |        BSP         |     17:25     |     Ends      |       -       |       969 KM       |    2     

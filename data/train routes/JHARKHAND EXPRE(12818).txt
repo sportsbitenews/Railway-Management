@@ -1,0 +1,20 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Anand Vihar Trm             |        ANVT        |     Start     |     19:45     |       -       |        0 KM        |    1     
+  2   |            Kanpur Central              |        CNB         |     01:45     |     01:50     |     5:00      |       427 KM       |    2     
+  3   |          Allahabad Junction            |        ALD         |     04:20     |     04:30     |     10:00     |       621 KM       |    2     
+  4   |         Mughal Sarai Junction          |        MGS         |     06:45     |     07:00     |     15:00     |       774 KM       |    2     
+  5   |              Bhabua Road               |        BBU         |     07:39     |     07:41     |     2:00      |       826 KM       |    2     
+  6   |                Sasaram                 |        SSM         |     08:16     |     08:18     |     2:00      |       874 KM       |    2     
+  7   |             Dehri On Sone              |        DOS         |     08:35     |     08:37     |     2:00      |       891 KM       |    2     
+  8   |            Anugraha N Road             |        AUBR        |     08:48     |     08:50     |     2:00      |       908 KM       |    2     
+  9   |               Rafiganj                 |        RFJ         |     09:12     |     09:14     |     2:00      |       939 KM       |    2     
+  10  |                Guraru                  |        GRRU        |     09:26     |     09:28     |     2:00      |       955 KM       |    2     
+  11  |             Gaya Junction              |        GAYA        |     10:05     |     10:10     |     5:00      |       977 KM       |    2     
+  12  |                Koderma                 |        KQR         |     11:23     |     11:25     |     2:00      |      1053 KM       |    2     
+  13  |            Gomoh Junction              |        GMO         |     12:40     |     12:50     |     10:00     |      1146 KM       |    2     
+  14  |              Chandrapura               |        CRP         |     13:18     |     13:20     |     2:00      |      1163 KM       |    2     
+  15  |            Bokaro Stl City             |        BKSC        |     13:50     |     13:55     |     5:00      |      1178 KM       |    2     
+  16  |                Jhalida                 |        JAA         |     14:29     |     14:31     |     2:00      |      1218 KM       |    2     
+  17  |                 Muri                   |        MURI        |     14:55     |     14:57     |     2:00      |      1230 KM       |    2     
+  18  |                Ranchi                  |        RNC         |     16:15     |     16:25     |     10:00     |      1296 KM       |    2     
+  19  |                 Hatia                  |        HTE         |     16:45     |     Ends      |       -       |      1302 KM       |    2     

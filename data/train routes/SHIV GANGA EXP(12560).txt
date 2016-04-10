@@ -1,0 +1,5 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               New Delhi                |        NDLS        |     Start     |     18:55     |       -       |        0 KM        |    1     
+  2   |            Kanpur Central              |        CNB         |     01:00     |     01:05     |     5:00      |       440 KM       |    2     
+  3   |          Allahabad Junction            |        ALD         |     03:45     |     04:10     |     25:00     |       634 KM       |    2     
+  4   |               Manduadih                |        MUV         |     07:00     |     Ends      |       -       |       755 KM       |    2     

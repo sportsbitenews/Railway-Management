@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Lucknow Ne                |        LJN         |     Start     |     14:25     |       -       |        0 KM        |    1     
+  2   |            Kanpur Central              |        CNB         |     16:05     |     16:10     |     5:00      |       74 KM        |    1     
+  3   |            Banda Junction              |        BNDA        |     18:35     |     18:45     |     10:00     |       217 KM       |    1     
+  4   |               Chitrakot                |        CKTD        |     19:28     |     19:30     |     2:00      |       286 KM       |    1     
+  5   |                 Satna                  |        STA         |     21:45     |     21:55     |     10:00     |       395 KM       |    1     
+  6   |                 Katni                  |        KTE         |     23:35     |     23:40     |     5:00      |       493 KM       |    1     
+  7   |                Shahdol                 |        SDL         |     01:53     |     01:55     |     2:00      |       620 KM       |    2     
+  8   |           Anuppur Junction             |        APR         |     02:35     |     02:40     |     5:00      |       661 KM       |    2     
+  9   |              Pendra Road               |        PND         |     03:20     |     03:25     |     5:00      |       711 KM       |    2     
+  10  |               Usalapur                 |        USL         |     05:15     |     05:25     |     10:00     |       804 KM       |    2     
+  11  |               Bhatapara                |        BYT         |     06:08     |     06:10     |     2:00      |       855 KM       |    2     
+  12  |            Raipur Junction             |         R          |     07:15     |     Ends      |       -       |       919 KM       |    2     

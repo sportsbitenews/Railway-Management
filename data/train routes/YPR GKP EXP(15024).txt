@@ -1,0 +1,25 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Yesvantpur Junction           |        YPR         |     Start     |     23:40     |       -       |        0 KM        |    1     
+  2   |         Dharmavaram Junction           |        DMM         |     02:43     |     02:45     |     2:00      |       175 KM       |    2     
+  3   |               Anantapur                |        ATP         |     03:18     |     03:20     |     2:00      |       209 KM       |    2     
+  4   |             Kurnool Town               |        KRNT        |     06:33     |     06:35     |     2:00      |       374 KM       |    2     
+  5   |              Mahbubnagar               |        MBNR        |     08:33     |     08:35     |     2:00      |       505 KM       |    2     
+  6   |               Kacheguda                |        KCG         |     10:30     |     10:40     |     10:00     |       610 KM       |    2     
+  7   |           Kazipet Junction             |        KZJ         |     13:18     |     13:20     |     2:00      |       748 KM       |    2     
+  8   |            Sirpur Kagazngr             |        SKZR        |     15:09     |     15:10     |     1:00      |       913 KM       |    2     
+  9   |              Balharshah                |        BPQ         |     21:45     |     21:55     |     10:00     |       982 KM       |    2     
+  10  |              Chandrapur                |         CD         |     22:12     |     22:14     |     2:00      |       996 KM       |    2     
+  11  |                Nagpur                  |        NGP         |     00:45     |     00:55     |     10:00     |      1194 KM       |    3     
+  12  |                 Betul                  |        BZU         |     03:42     |     03:44     |     2:00      |      1384 KM       |    3     
+  13  |            Itarsi Junction             |         ET         |     05:50     |     06:00     |     10:00     |      1491 KM       |    3     
+  14  |           Bhopal  Junction             |        BPL         |     08:35     |     08:40     |     5:00      |      1582 KM       |    3     
+  15  |             Bina Junction              |        BINA        |     11:45     |     11:50     |     5:00      |      1721 KM       |    3     
+  16  |               Lalitpur                 |        LAR         |     12:42     |     12:44     |     2:00      |      1783 KM       |    3     
+  17  |            Jhansi Junction             |        JHS         |     14:00     |     14:15     |     15:00     |      1873 KM       |    3     
+  18  |                 Orai                   |        ORAI        |     16:14     |     16:15     |     1:00      |      1987 KM       |    3     
+  19  |            Kanpur Central              |        CNB         |     19:05     |     19:15     |     10:00     |      2093 KM       |    3     
+  20  |              Lucknow Ne                |        LJN         |     20:35     |     21:00     |     25:00     |      2167 KM       |    3     
+  21  |           Faizabad Junction            |         FD         |     00:45     |     00:55     |     10:00     |      2302 KM       |    4     
+  22  |                Ayodhya                 |         AY         |     01:30     |     01:40     |     10:00     |      2309 KM       |    4     
+  23  |           Mankapur Junction            |        MUR         |     02:30     |     02:35     |     5:00      |      2348 KM       |    4     
+  24  |          Gorakhpur Junction            |        GKP         |     05:10     |     Ends      |       -       |      2473 KM       |    4     

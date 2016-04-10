@@ -1,0 +1,26 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Barka Kana                |        BRKA        |     Start     |     16:15     |       -       |        0 KM        |    1     
+  2   |                Arigada                 |        ARGD        |     16:24     |     16:25     |     1:00      |        4 KM        |    1     
+  3   |              Ranchi Road               |        RRME        |     16:33     |     16:35     |     2:00      |       10 KM        |    1     
+  4   |               Chainpur                 |        CNPR        |     16:55     |     16:56     |     1:00      |       22 KM        |    1     
+  5   |                 Danea                  |        DNEA        |     17:15     |     17:16     |     1:00      |       35 KM        |    1     
+  6   |                 Gumia                  |        GMIA        |     17:49     |     17:50     |     1:00      |       53 KM        |    1     
+  7   |            Bokaro Thermal              |        BKRO        |     17:58     |     17:59     |     1:00      |       58 KM        |    1     
+  8   |               Jarangdih                |        JAN         |     18:06     |     18:07     |     1:00      |       64 KM        |    1     
+  9   |                 Bermo                  |        BRMO        |     18:14     |     18:15     |     1:00      |       67 KM        |    1     
+  10  |                Phusro                  |        PUS         |     18:33     |     18:34     |     1:00      |       73 KM        |    1     
+  11  |              Bhandaridah               |        BHME        |     18:51     |     18:52     |     1:00      |       78 KM        |    1     
+  12  |              Chandrapura               |        CRP         |     19:14     |     19:15     |     1:00      |       84 KM        |    1     
+  13  |                 Telo                   |        TELO        |     19:27     |     19:28     |     1:00      |       92 KM        |    1     
+  14  |            Gomoh Junction              |        GMO         |     19:45     |     23:55     |    250:00     |       101 KM       |    1     
+  15  |               Parasnath                |        PNME        |     00:15     |     00:16     |     1:00      |       119 KM       |    2     
+  16  |            Hazaribagh Road             |        HZD         |     00:37     |     00:38     |     1:00      |       146 KM       |    2     
+  17  |                Koderma                 |        KQR         |     01:19     |     01:20     |     1:00      |       195 KM       |    2     
+  18  |               Gujhandi                 |        GJD         |     01:29     |     01:30     |     1:00      |       204 KM       |    2     
+  19  |               Paharpur                 |        PRP         |     02:49     |     02:50     |     1:00      |       238 KM       |    2     
+  20  |             Gaya Junction              |        GAYA        |     03:45     |     04:10     |     25:00     |       271 KM       |    2     
+  21  |            Makhdumpur Gaya             |        MDE         |     04:36     |     04:37     |     1:00      |       301 KM       |    2     
+  22  |               Jehanabad                |        JHD         |     05:04     |     05:05     |     1:00      |       318 KM       |    2     
+  23  |                Taregna                 |        TEA         |     05:22     |     05:23     |     1:00      |       333 KM       |    2     
+  24  |            Patna Junction              |        PNBE        |     06:30     |     06:40     |     10:00     |       362 KM       |    2     
+  25  |            Rjndr Ngr Bihar             |        RJPB        |     06:55     |     Ends      |       -       |       365 KM       |    2     

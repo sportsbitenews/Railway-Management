@@ -1,0 +1,47 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Bandra Terminus             |        BDTS        |     Start     |     11:35     |       -       |        0 KM        |    1     
+  2   |                Andheri                 |        ADH         |     11:54     |     11:56     |     2:00      |        7 KM        |    1     
+  3   |               Borivali                 |        BVI         |     12:15     |     12:17     |     2:00      |       19 KM        |    1     
+  4   |              Dahanu Road               |        DRD         |     13:32     |     13:34     |     2:00      |       109 KM       |    1     
+  5   |                 Vapi                   |        VAPI        |     14:08     |     14:10     |     2:00      |       159 KM       |    1     
+  6   |                Valsad                  |         BL         |     14:39     |     14:41     |     2:00      |       183 KM       |    1     
+  7   |                Navsari                 |        NVS         |     15:11     |     15:13     |     2:00      |       223 KM       |    1     
+  8   |                 Surat                  |         ST         |     15:42     |     15:47     |     5:00      |       252 KM       |    1     
+  9   |           Bharuch Junction             |         BH         |     16:30     |     16:32     |     2:00      |       311 KM       |    1     
+  10  |           Vadodara Junction            |        BRC         |     17:28     |     17:43     |     15:00     |       381 KM       |    1     
+  11  |            Godhra Junction             |        GDA         |     18:59     |     19:01     |     2:00      |       455 KM       |    1     
+  12  |                 Dahod                  |        DHD         |     19:56     |     19:58     |     2:00      |       529 KM       |    1     
+  13  |               Meghnagar                |        MGN         |     20:20     |     20:22     |     2:00      |       562 KM       |    1     
+  14  |            Ratlam Junction             |        RTM         |     21:40     |     22:00     |     20:00     |       642 KM       |    1     
+  15  |            Nagda Junction              |        NAD         |     23:20     |     23:25     |     5:00      |       684 KM       |    1     
+  16  |               Shamgarh                 |        SGZ         |     00:24     |     00:26     |     2:00      |       775 KM       |    2     
+  17  |             Ramganj Mandi              |        RMA         |     01:08     |     01:10     |     2:00      |       836 KM       |    2     
+  18  |             Kota Junction              |        KOTA        |     02:05     |     02:15     |     10:00     |       909 KM       |    2     
+  19  |            Sawai Madhopur              |        SWM         |     03:48     |     03:50     |     2:00      |      1017 KM       |    2     
+  20  |             Gangapur City              |        GGC         |     04:40     |     04:42     |     2:00      |      1080 KM       |    2     
+  21  |             Hindaun City               |        HAN         |     05:13     |     05:15     |     2:00      |      1124 KM       |    2     
+  22  |            Bayana Junction             |        BXN         |     05:48     |     05:50     |     2:00      |      1157 KM       |    2     
+  23  |          Bharatpur Junction            |        BTE         |     06:20     |     06:22     |     2:00      |      1199 KM       |    2     
+  24  |           Mathura Junction             |        MTJ         |     07:45     |     07:50     |     5:00      |      1233 KM       |    2     
+  25  |               Faridabad                |        FDB         |     09:29     |     09:31     |     2:00      |      1345 KM       |    2     
+  26  |              Tuglakabad                |        TKD         |     09:56     |     09:58     |     2:00      |      1356 KM       |    2     
+  27  |             H Nizamuddin               |        NZM         |     10:03     |     10:05     |     2:00      |      1366 KM       |    2     
+  28  |               New Delhi                |        NDLS        |     10:40     |     11:05     |     25:00     |      1373 KM       |    2     
+  29  |              Subzi Mandi               |        SZM         |     11:19     |     11:21     |     2:00      |      1377 KM       |    2     
+  30  |                Sonipat                 |        SNP         |     11:52     |     11:54     |     2:00      |      1418 KM       |    2     
+  31  |           Panipat Junction             |        PNP         |     12:30     |     12:32     |     2:00      |      1463 KM       |    2     
+  32  |                Karnal                  |        KUN         |     12:56     |     12:58     |     2:00      |      1497 KM       |    2     
+  33  |         Kurukshetra Junction           |        KKDE        |     13:27     |     13:29     |     2:00      |      1530 KM       |    2     
+  34  |         Ambala Cant Junction           |        UMB         |     14:40     |     14:55     |     15:00     |      1572 KM       |    2     
+  35  |              Ambala City               |        UBC         |     15:07     |     15:09     |     2:00      |      1579 KM       |    2     
+  36  |           Sirhind Junction             |        SIR         |     15:42     |     15:44     |     2:00      |      1625 KM       |    2     
+  37  |                Khanna                  |        KNN         |     15:56     |     15:58     |     2:00      |      1643 KM       |    2     
+  38  |           Ludhiana Junction            |        LDH         |     16:47     |     16:52     |     5:00      |      1685 KM       |    2     
+  39  |           Phagwara Junction            |        PGW         |     17:19     |     17:21     |     2:00      |      1721 KM       |    2     
+  40  |            Jalandhar Cant              |        JRC         |     17:37     |     17:39     |     2:00      |      1737 KM       |    2     
+  41  |            Jalandhar City              |        JUC         |     17:53     |     17:58     |     5:00      |      1742 KM       |    2     
+  42  |                 Beas                   |        BEAS        |     18:30     |     18:32     |     2:00      |      1778 KM       |    2     
+  43  |           Amritsar Junction            |        ASR         |     19:20     |     Ends      |       -       |      1821 KM       |    2     
+  44  |         Ambala Cant Junction           |        UMB         |     14:40     |     15:15     |     35:00     |      1572 KM       |    2     
+  45  |              Chandigarh                |        CDG         |     15:57     |     16:12     |     15:00     |      1639 KM       |    2     
+  46  |                 Kalka                  |        KLK         |     16:45     |     Ends      |       -       |      1676 KM       |    2     

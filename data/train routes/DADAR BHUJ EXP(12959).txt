@@ -1,0 +1,20 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Dadar                  |        DDR         |     Start     |     00:05     |       -       |        0 KM        |    1     
+  2   |               Borivali                 |        BVI         |     00:36     |     00:38     |     2:00      |       24 KM        |    1     
+  3   |              Vasai Road                |        BSR         |     00:54     |     00:57     |     3:00      |       42 KM        |    1     
+  4   |                 Surat                  |         ST         |     04:15     |     04:20     |     5:00      |       257 KM       |    1     
+  5   |           Vadodara Junction            |        BRC         |     06:05     |     06:10     |     5:00      |       386 KM       |    1     
+  6   |            Anand Junction              |        ANND        |     06:40     |     06:42     |     2:00      |       422 KM       |    1     
+  7   |            Nadiad Junction             |         ND         |     06:57     |     06:59     |     2:00      |       440 KM       |    1     
+  8   |          Ahmedabad Junction            |        ADI         |     08:05     |     08:25     |     20:00     |       486 KM       |    1     
+  9   |           Mahesana Junction            |        MSH         |     09:41     |     09:43     |     2:00      |       554 KM       |    1     
+  10  |           Palanpur Junction            |        PNU         |     10:50     |     11:15     |     25:00     |       619 KM       |    1     
+  11  |                 Disa                   |        DISA        |     11:40     |     11:42     |     2:00      |       646 KM       |    1     
+  12  |                Bhildi                  |        BLDI        |     11:56     |     11:58     |     2:00      |       664 KM       |    1     
+  13  |                Diyodar                 |        DEOR        |     12:17     |     12:19     |     2:00      |       690 KM       |    1     
+  14  |               Radhanpur                |        RDHP        |     12:51     |     12:53     |     2:00      |       732 KM       |    1     
+  15  |               Santalpur                |        SNLR        |     13:25     |     13:27     |     2:00      |       775 KM       |    1     
+  16  |            Samakhiali B G              |        SIOB        |     14:57     |     14:59     |     2:00      |       866 KM       |    1     
+  17  |              Bhachau Bg                |        BCOB        |     15:13     |     15:15     |     2:00      |       882 KM       |    1     
+  18  |             Gandhidham Bg              |        GIMB        |     15:55     |     16:20     |     25:00     |       919 KM       |    1     
+  19  |                 Bhuj                   |        BHUJ        |     17:50     |     Ends      |       -       |       977 KM       |    1     

@@ -1,0 +1,11 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Madgaon                 |        MAO         |     Start     |     16:15     |       -       |        0 KM        |    1     
+  2   |                Cancona                 |        CNO         |     16:45     |     16:46     |     1:00      |       46 KM        |    1     
+  3   |                Karwar                  |        KAWR        |     17:07     |     17:08     |     1:00      |       82 KM        |    1     
+  4   |                 Kumta                  |         KT         |     18:01     |     18:02     |     1:00      |       159 KM       |    1     
+  5   |                Bhatkal                 |        BTJL        |     18:53     |     18:54     |     1:00      |       236 KM       |    1     
+  6   |                Byndoor                 |        BYNR        |     19:04     |     19:05     |     1:00      |       258 KM       |    1     
+  7   |               Kundapura                |        KUDA        |     19:45     |     19:46     |     1:00      |       305 KM       |    1     
+  8   |                 Udupi                  |         UD         |     20:01     |     20:02     |     1:00      |       350 KM       |    1     
+  9   |               Surathkal                |         SL         |     20:41     |     20:42     |     1:00      |       408 KM       |    1     
+  10  |            Mangalore Cntl              |        MAQ         |     22:00     |     Ends      |       -       |       437 KM       |    1     

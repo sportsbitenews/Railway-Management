@@ -1,0 +1,25 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Shalimar                 |        SHM         |     Start     |     20:22     |       -       |        0 KM        |    1     
+  2   |         Santragachi Junction           |        SRC         |     20:32     |     20:34     |     2:00      |        6 KM        |    1     
+  3   |          Kharagpur Junction            |        KGP         |     22:10     |     22:15     |     5:00      |       113 KM       |    1     
+  4   |          Tatanagar Junction            |        TATA        |     00:05     |     00:10     |     5:00      |       248 KM       |    2     
+  5   |             Chakradharpur              |        CKP         |     01:03     |     01:10     |     7:00      |       310 KM       |    2     
+  6   |               Rourkela                 |        ROU         |     02:30     |     02:40     |     10:00     |       411 KM       |    2     
+  7   |          Jharsuguda Junction           |        JSG         |     04:20     |     04:25     |     5:00      |       512 KM       |    2     
+  8   |                Raigarh                 |        RIG         |     05:16     |     05:21     |     5:00      |       586 KM       |    2     
+  9   |                Champa                  |        CPH         |     06:19     |     06:24     |     5:00      |       665 KM       |    2     
+  10  |           Bilaspur Junction            |        BSP         |     07:35     |     07:50     |     15:00     |       718 KM       |    2     
+  11  |              Pendra Road               |        PND         |     09:30     |     09:35     |     5:00      |       819 KM       |    2     
+  12  |           Anuppur Junction             |        APR         |     10:25     |     10:30     |     5:00      |       869 KM       |    2     
+  13  |                Shahdol                 |        SDL         |     11:25     |     11:30     |     5:00      |       910 KM       |    2     
+  14  |             Katni Murwara              |        KMZ         |     14:15     |     14:25     |     10:00     |      1035 KM       |    2     
+  15  |                 Damoh                  |        DMO         |     15:58     |     16:00     |     2:00      |      1145 KM       |    2     
+  16  |                Saugor                  |        SGO         |     17:00     |     17:05     |     5:00      |      1222 KM       |    2     
+  17  |               Malkhedi                 |        MAKR        |     18:29     |     18:30     |     1:00      |      1293 KM       |    2     
+  18  |                 Guna                   |        GUNA        |     21:10     |     21:20     |     10:00     |      1412 KM       |    2     
+  19  |             Kota Junction              |        KOTA        |     01:00     |     01:10     |     10:00     |      1597 KM       |    3     
+  20  |                 Bundi                  |        BUDI        |     02:23     |     02:24     |     1:00      |      1635 KM       |    3     
+  21  |             Chittaurgarh               |        COR         |     05:50     |     06:15     |     25:00     |      1769 KM       |    3     
+  22  |            Mavli Junction              |        MVJ         |     08:00     |     08:02     |     2:00      |      1840 KM       |    3     
+  23  |            Ranapratapnagar             |        RPZ         |     08:39     |     08:40     |     1:00      |      1879 KM       |    3     
+  24  |             Udaipur City               |        UDZ         |     08:55     |     Ends      |       -       |      1883 KM       |    3     

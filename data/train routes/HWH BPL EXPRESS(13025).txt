@@ -1,0 +1,26 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Howrah Junction             |        HWH         |     Start     |     13:25     |       -       |        0 KM        |    1     
+  2   |               Durgapur                 |        DGR         |     15:29     |     15:31     |     2:00      |       158 KM       |    1     
+  3   |           Asansol Junction             |        ASN         |     16:00     |     16:05     |     5:00      |       200 KM       |    1     
+  4   |           Dhanbad Junction             |        DHN         |     17:13     |     17:23     |     10:00     |       259 KM       |    1     
+  5   |                Phusro                  |        PUS         |     18:51     |     18:53     |     2:00      |       305 KM       |    1     
+  6   |                 Gumia                  |        GMIA        |     19:16     |     19:18     |     2:00      |       325 KM       |    1     
+  7   |              Barka Kana                |        BRKA        |     20:10     |     20:35     |     25:00     |       377 KM       |    1     
+  8   |                 Tori                   |        TORI        |     21:46     |     21:48     |     2:00      |       462 KM       |    1     
+  9   |                Latehar                 |        LTHR        |     22:16     |     22:18     |     2:00      |       494 KM       |    1     
+  10  |           Barwadih Junction            |        BRWD        |     22:45     |     22:50     |     5:00      |       535 KM       |    1     
+  11  |              Daltonganj                |        DTO         |     23:09     |     23:14     |     5:00      |       562 KM       |    1     
+  12  |              Garwa Road                |        GHD         |     23:39     |     23:44     |     5:00      |       595 KM       |    1     
+  13  |                Renukut                 |        RNQ         |     01:24     |     01:25     |     1:00      |       695 KM       |    2     
+  14  |                Chopan                  |        CPU         |     02:10     |     02:35     |     25:00     |       737 KM       |    2     
+  15  |               Obra Dam                 |        OBR         |     03:07     |     03:08     |     1:00      |       750 KM       |    2     
+  16  |               Singrauli                |        SGRL        |     05:05     |     05:15     |     10:00     |       800 KM       |    2     
+  17  |                Beohari                 |        BEHR        |     07:45     |     07:50     |     5:00      |       949 KM       |    2     
+  18  |             Katni Murwara              |        KMZ         |     11:30     |     11:40     |     10:00     |      1060 KM       |    2     
+  19  |                 Damoh                  |        DMO         |     13:08     |     13:10     |     2:00      |      1169 KM       |    2     
+  20  |               Patharia                 |        PHA         |     13:28     |     13:30     |     2:00      |      1195 KM       |    2     
+  21  |                Saugor                  |        SGO         |     14:35     |     14:40     |     5:00      |      1246 KM       |    2     
+  22  |                Khurai                  |        KYE         |     15:28     |     15:30     |     2:00      |      1299 KM       |    2     
+  23  |             Bina Junction              |        BINA        |     16:10     |     16:15     |     5:00      |      1321 KM       |    2     
+  24  |                Vidisha                 |        BHS         |     17:17     |     17:19     |     2:00      |      1406 KM       |    2     
+  25  |           Bhopal  Junction             |        BPL         |     18:30     |     Ends      |       -       |      1459 KM       |    2     

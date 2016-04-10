@@ -1,0 +1,22 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |         Ambala Cant Junction           |        UMB         |     Start     |     22:45     |       -       |        0 KM        |    1     
+  2   |               Jagadhri                 |        JUD         |     23:28     |     23:30     |     2:00      |       51 KM        |    1     
+  3   |              Saharanpur                |        SRE         |     00:20     |     00:30     |     10:00     |       82 KM        |    2     
+  4   |                Roorkee                 |         RK         |     01:00     |     01:02     |     2:00      |       116 KM       |    2     
+  5   |            Laksar Junction             |        LRJ         |     01:33     |     01:35     |     2:00      |       135 KM       |    2     
+  6   |          Najibabad Junction            |        NBD         |     02:10     |     02:15     |     5:00      |       176 KM       |    2     
+  7   |               Moradabad                |         MB         |     03:55     |     04:10     |     15:00     |       274 KM       |    2     
+  8   |               Bareilly                 |         BE         |     05:45     |     05:50     |     5:00      |       365 KM       |    2     
+  9   |              Lucknow Nr                |        LKO         |     10:00     |     10:10     |     10:00     |       600 KM       |    2     
+  10  |               Nihalgarh                |        NHH         |     11:27     |     11:29     |     2:00      |       689 KM       |    2     
+  11  |             Musafir Khana              |        MFKA        |     11:45     |     11:47     |     2:00      |       708 KM       |    2     
+  12  |               Sultanpur                |        SLN         |     12:22     |     12:27     |     5:00      |       740 KM       |    2     
+  13  |           Varanasi Junction            |        BSB         |     15:25     |     15:50     |     25:00     |       883 KM       |    2     
+  14  |             Ghazipur City              |        GCT         |     17:05     |     17:10     |     5:00      |       958 KM       |    2     
+  15  |                Ballia                  |        BUI         |     18:05     |     18:10     |     5:00      |      1023 KM       |    2     
+  16  |                Chhapra                 |        CPR         |     20:30     |     20:45     |     15:00     |      1088 KM       |    2     
+  17  |            Sonpur Junction             |        SEE         |     21:40     |     21:45     |     5:00      |      1142 KM       |    2     
+  18  |           Hajipur Junction             |        HJP         |     21:58     |     22:00     |     2:00      |      1148 KM       |    2     
+  19  |         Muzaffarpur Junction           |        MFP         |     23:40     |     23:45     |     5:00      |      1201 KM       |    2     
+  20  |          Samastipur Junction           |        SPJ         |     00:30     |     00:35     |     5:00      |      1253 KM       |    3     
+  21  |           Barauni Junction             |        BJU         |     02:10     |     Ends      |       -       |      1304 KM       |    3     

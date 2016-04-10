@@ -1,0 +1,11 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Gwalior                 |        GWL         |     Start     |     19:30     |       -       |        0 KM        |    1     
+  2   |               Shivpuri                 |        SVPI        |     21:40     |     21:45     |     5:00      |       126 KM       |    1     
+  3   |                 Guna                   |        GUNA        |     00:45     |     00:55     |     10:00     |       228 KM       |    2     
+  4   |               Ruthiyai                 |        RTA         |     01:25     |     01:30     |     5:00      |       248 KM       |    2     
+  5   |            Biyavra Rajgarh             |        BRRG        |     02:43     |     02:45     |     2:00      |       325 KM       |    2     
+  6   |               Shajapur                 |        SFY         |     03:58     |     04:00     |     2:00      |       414 KM       |    2     
+  7   |                 Maksi                  |        MKC         |     05:00     |     05:02     |     2:00      |       442 KM       |    2     
+  8   |            Ujjain Junction             |        UJN         |     05:45     |     06:05     |     20:00     |       483 KM       |    2     
+  9   |                 Dewas                  |        DWX         |     06:39     |     06:41     |     2:00      |       523 KM       |    2     
+  10  |          Indore Junction Bg            |        INDB        |     07:55     |     Ends      |       -       |       562 KM       |    2     

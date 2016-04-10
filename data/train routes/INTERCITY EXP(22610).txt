@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Coimbatore Junction           |        CBE         |     Start     |     06:30     |       -       |        0 KM        |    1     
+  2   |               Palakkad                 |        PGT         |     07:25     |     07:30     |     5:00      |       55 KM        |    1     
+  3   |              Ottappalam                |        OTP         |     07:54     |     07:55     |     1:00      |       86 KM        |    1     
+  4   |           Shoranur Junction            |        SRR         |     08:15     |     08:20     |     5:00      |       99 KM        |    1     
+  5   |                 Tirur                  |        TIR         |     08:59     |     09:00     |     1:00      |       144 KM       |    1     
+  6   |             Parpanangadi               |        PGI         |     09:14     |     09:15     |     1:00      |       160 KM       |    1     
+  7   |               Kozhikode                |        CLT         |     09:50     |     09:55     |     5:00      |       185 KM       |    1     
+  8   |               Vadakara                 |        BDJ         |     10:29     |     10:30     |     1:00      |       231 KM       |    1     
+  9   |              Thalassery                |        TLY         |     10:49     |     10:50     |     1:00      |       253 KM       |    1     
+  10  |                Kannur                  |        CAN         |     11:20     |     11:25     |     5:00      |       274 KM       |    1     
+  11  |               Payyanur                 |        PAY         |     11:54     |     11:55     |     1:00      |       308 KM       |    1     
+  12  |               Kanhangad                |        KZE         |     12:24     |     12:25     |     1:00      |       337 KM       |    1     
+  13  |               Kasaragod                |        KGQ         |     12:44     |     12:45     |     1:00      |       360 KM       |    1     
+  14  |            Mangalore Cntl              |        MAQ         |     13:50     |     Ends      |       -       |       406 KM       |    1     

@@ -1,0 +1,29 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Aurangabad                |        AWB         |     Start     |     20:50     |       -       |        0 KM        |    1     
+  2   |                 Jalna                  |         J          |     21:43     |     21:45     |     2:00      |       63 KM        |    1     
+  3   |                Partur                  |        PTU         |     22:20     |     22:21     |     1:00      |       108 KM       |    1     
+  4   |                 Selu                   |        SELU        |     22:40     |     22:41     |     1:00      |       135 KM       |    1     
+  5   |             Manwath Road               |        MVO         |     22:54     |     22:55     |     1:00      |       150 KM       |    1     
+  6   |           Parbhani Junction            |        PBN         |     23:45     |     23:55     |     10:00     |       178 KM       |    1     
+  7   |               Gangakher                |        GNH         |     00:29     |     00:30     |     1:00      |       212 KM       |    2     
+  8   |            Parli Vaijnath              |        PRLI        |     01:45     |     01:55     |     10:00     |       241 KM       |    2     
+  9   |              Latur Road                |        LTRR        |     03:12     |     03:13     |     1:00      |       305 KM       |    2     
+  10  |                 Udgir                  |        UDGR        |     03:50     |     03:51     |     1:00      |       338 KM       |    2     
+  11  |                 Bidar                  |        BIDR        |     05:08     |     05:10     |     2:00      |       418 KM       |    2     
+  12  |               Zahirabad                |         ZB         |     05:54     |     05:55     |     1:00      |       450 KM       |    2     
+  13  |          Vikarabad Junction            |        VKB         |     07:20     |     07:30     |     10:00     |       509 KM       |    2     
+  14  |                Tandur                  |        TDU         |     08:14     |     08:15     |     1:00      |       551 KM       |    2     
+  15  |               Chittapur                |         CT         |     09:44     |     09:45     |     1:00      |       606 KM       |    2     
+  16  |                Yadgir                  |         YG         |     10:53     |     10:55     |     2:00      |       660 KM       |    2     
+  17  |                Raichur                 |         RC         |     11:53     |     11:55     |     2:00      |       729 KM       |    2     
+  18  |           Manthralayam Road            |        MALM        |     12:28     |     12:30     |     2:00      |       757 KM       |    2     
+  19  |                 Adoni                  |         AD         |     12:58     |     13:00     |     2:00      |       798 KM       |    2     
+  20  |           Guntakal Junction            |        GTL         |     14:15     |     14:25     |     10:00     |       849 KM       |    2     
+  21  |                 Gooty                  |         GY         |     14:48     |     14:50     |     2:00      |       878 KM       |    2     
+  22  |               Tadipatri                |         TU         |     15:33     |     15:35     |     2:00      |       926 KM       |    2     
+  23  |              Kondapuram                |        KDP         |     16:03     |     16:05     |     2:00      |       954 KM       |    2     
+  24  |              Yerraguntla               |         YA         |     16:48     |     16:50     |     2:00      |       995 KM       |    2     
+  25  |               Cuddapah                 |         HX         |     17:33     |     17:35     |     2:00      |      1034 KM       |    2     
+  26  |               Nandalur                 |        NRE         |     18:13     |     18:15     |     2:00      |      1074 KM       |    2     
+  27  |               Razampeta                |        RJP         |     18:28     |     18:30     |     2:00      |      1085 KM       |    2     
+  28  |          Renigunta Junction            |         RU         |     20:15     |     Ends      |       -       |      1159 KM       |    2     

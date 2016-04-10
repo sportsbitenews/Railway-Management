@@ -1,0 +1,7 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Mumbai Central              |        BCT         |     Start     |     23:40     |       -       |        0 KM        |    1     
+  2   |               Borivali                 |        BVI         |     00:18     |     00:20     |     2:00      |       30 KM        |    2     
+  3   |                 Surat                  |         ST         |     04:03     |     04:05     |     2:00      |       263 KM       |    2     
+  4   |           Bharuch Junction             |         BH         |     04:48     |     04:50     |     2:00      |       322 KM       |    2     
+  5   |              Vishvamitri               |         VS         |     05:43     |     05:45     |     2:00      |       389 KM       |    2     
+  6   |           Vadodara Junction            |        BRC         |     05:55     |     Ends      |       -       |       392 KM       |    2     

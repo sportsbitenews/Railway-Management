@@ -1,0 +1,19 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            New Jalpaiguri              |        NJP         |     Start     |     08:15     |       -       |        0 KM        |    1     
+  2   |              Kishanganj                |        KNE         |     09:18     |     09:20     |     2:00      |       88 KM        |    1     
+  3   |           Katihar Junction             |        KIR         |     11:30     |     11:45     |     15:00     |       184 KM       |    1     
+  4   |           Khagaria Junction            |        KGG         |     13:35     |     13:40     |     5:00      |       308 KM       |    1     
+  5   |              Rusera Ghat               |        ROA         |     14:19     |     14:20     |     1:00      |       364 KM       |    1     
+  6   |          Samastipur Junction           |        SPJ         |     15:10     |     15:15     |     5:00      |       393 KM       |    1     
+  7   |         Muzaffarpur Junction           |        MFP         |     16:05     |     16:15     |     10:00     |       445 KM       |    1     
+  8   |           Hajipur Junction             |        HJP         |     17:19     |     17:20     |     1:00      |       499 KM       |    1     
+  9   |            Sonpur Junction             |        SEE         |     17:30     |     17:35     |     5:00      |       504 KM       |    1     
+  10  |                Chhapra                 |        CPR         |     18:40     |     18:50     |     10:00     |       558 KM       |    1     
+  11  |            Siwan Junction              |         SV         |     19:35     |     19:40     |     5:00      |       619 KM       |    1     
+  12  |             Deoria Sadar               |        DEOS        |     20:34     |     20:35     |     1:00      |       688 KM       |    1     
+  13  |          Gorakhpur Junction            |        GKP         |     21:50     |     22:10     |     20:00     |       738 KM       |    1     
+  14  |            Gonda Junction              |         GD         |     00:45     |     00:50     |     5:00      |       891 KM       |    2     
+  15  |              Lucknow Nr                |        LKO         |     03:20     |     03:30     |     10:00     |      1008 KM       |    2     
+  16  |               Moradabad                |         MB         |     08:50     |     09:05     |     15:00     |      1334 KM       |    2     
+  17  |               Ghaziabad                |        GZB         |     11:26     |     11:28     |     2:00      |      1475 KM       |    2     
+  18  |               New Delhi                |        NDLS        |     12:10     |     Ends      |       -       |      1500 KM       |    2     

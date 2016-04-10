@@ -1,0 +1,14 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Madurai Junction             |        MDU         |     Start     |     20:35     |       -       |        0 KM        |    1     
+  2   |            Kodaikanal Road             |        KQN         |     21:09     |     21:10     |     1:00      |       41 KM        |    1     
+  3   |               Ambaturai                |        ABI         |     21:23     |     21:24     |     1:00      |       55 KM        |    1     
+  4   |           Dindigul Junction            |         DG         |     21:35     |     21:40     |     5:00      |       66 KM        |    1     
+  5   |               Manaparai                |        MPA         |     22:24     |     22:25     |     1:00      |       124 KM       |    1     
+  6   |            Tiruchchirapali             |        TPJ         |     23:05     |     23:10     |     5:00      |       161 KM       |    1     
+  7   |         Vridhachalam Junction          |        VRI         |     01:02     |     01:04     |     2:00      |       284 KM       |    2     
+  8   |          Villuparam Junction           |         VM         |     02:18     |     02:20     |     2:00      |       338 KM       |    2     
+  9   |             Melmaruvattur              |        MLMR        |     03:23     |     03:25     |     2:00      |       406 KM       |    2     
+  10  |             Chengalpattu               |        CGL         |     03:53     |     03:55     |     2:00      |       441 KM       |    2     
+  11  |               Tambaram                 |        TBM         |     04:23     |     04:25     |     2:00      |       472 KM       |    2     
+  12  |               Mambalam                 |        MBM         |     04:44     |     04:45     |     1:00      |       490 KM       |    2     
+  13  |            Chennai Egmore              |         MS         |     05:35     |     Ends      |       -       |       497 KM       |    2     

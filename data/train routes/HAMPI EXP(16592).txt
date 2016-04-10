@@ -1,0 +1,30 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Mysore Junction             |        MYS         |     Start     |     18:40     |       -       |        0 KM        |    1     
+  2   |              Pandavapura               |        PANP        |     18:59     |     19:00     |     1:00      |       20 KM        |    1     
+  3   |                Mandya                  |        MYA         |     19:18     |     19:20     |     2:00      |       46 KM        |    1     
+  4   |                Maddur                  |        MAD         |     19:39     |     19:40     |     1:00      |       65 KM        |    1     
+  5   |              Channapatna               |        CPT         |     19:59     |     20:00     |     1:00      |       83 KM        |    1     
+  6   |              Ramanagaram               |        RMGM        |     20:14     |     20:15     |     1:00      |       94 KM        |    1     
+  7   |                Bidadi                  |        BID         |     20:29     |     20:30     |     1:00      |       109 KM       |    1     
+  8   |                Kengeri                 |        KGI         |     20:48     |     20:50     |     2:00      |       127 KM       |    1     
+  9   |         Bangalore Cy Junction          |        SBC         |     21:50     |     22:00     |     10:00     |       139 KM       |    1     
+  10  |            Bangalore Cant              |        BNC         |     22:10     |     22:12     |     2:00      |       143 KM       |    1     
+  11  |           Yelhanka Junction            |        YNK         |     22:38     |     22:40     |     2:00      |       166 KM       |    1     
+  12  |              Dodballapur               |        DBU         |     22:59     |     23:00     |     1:00      |       186 KM       |    1     
+  13  |             Gauribidanur               |        GBD         |     23:38     |     23:40     |     2:00      |       225 KM       |    1     
+  14  |               Hindupur                 |        HUP         |     00:04     |     00:05     |     1:00      |       249 KM       |    2     
+  15  |               Penukonda                |        PKD         |     00:48     |     00:50     |     2:00      |       286 KM       |    2     
+  16  |         Dharmavaram Junction           |        DMM         |     02:00     |     02:05     |     5:00      |       328 KM       |    2     
+  17  |               Anantapur                |        ATP         |     02:44     |     02:45     |     1:00      |       361 KM       |    2     
+  18  |           Guntakal Junction            |        GTL         |     04:45     |     04:50     |     5:00      |       429 KM       |    2     
+  19  |           Bellary Junction             |        BAY         |     06:00     |     06:05     |     5:00      |       479 KM       |    2     
+  20  |              Toranagallu               |        TNGL        |     06:33     |     06:35     |     2:00      |       512 KM       |    2     
+  21  |            Hospet Junction             |        HPT         |     07:10     |     07:15     |     5:00      |       545 KM       |    2     
+  22  |               Munirabad                |        MRB         |     07:23     |     07:25     |     2:00      |       551 KM       |    2     
+  23  |                Koppal                  |        KBL         |     07:58     |     08:00     |     2:00      |       572 KM       |    2     
+  24  |               Bhanapur                 |        BNP         |     08:08     |     08:10     |     2:00      |       585 KM       |    2     
+  25  |               Kanginhal                |        KGX         |     08:49     |     08:50     |     1:00      |       621 KM       |    2     
+  26  |            Gadag Junction              |        GDG         |     08:58     |     09:00     |     2:00      |       630 KM       |    2     
+  27  |               Annigeri                 |        NGR         |     09:24     |     09:25     |     1:00      |       652 KM       |    2     
+  28  |              Sisvinhalli               |        SVHE        |     09:44     |     09:45     |     1:00      |       665 KM       |    2     
+  29  |            Hubli Junction              |        UBL         |     10:40     |     Ends      |       -       |       688 KM       |    2     

@@ -1,0 +1,22 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Akola Junction              |         AK         |     Start     |     09:30     |       -       |        0 KM        |    1     
+  2   |                Washim                  |        WHM         |     10:34     |     10:35     |     1:00      |       79 KM        |    1     
+  3   |            Hingoli Deccan              |        HNL         |     11:24     |     11:25     |     1:00      |       127 KM       |    1     
+  4   |                Basmat                  |        BMF         |     12:04     |     12:05     |     1:00      |       185 KM       |    1     
+  5   |            Purna Junction              |        PAU         |     12:55     |     13:05     |     10:00     |       207 KM       |    1     
+  6   |                Nanded                  |        NED         |     14:10     |     14:15     |     5:00      |       238 KM       |    1     
+  7   |                Mudkhed                 |        MUE         |     14:53     |     14:55     |     2:00      |       260 KM       |    1     
+  8   |                 Umri                   |        UMRI        |     15:27     |     15:29     |     2:00      |       280 KM       |    1     
+  9   |               Dharmabad                |        DAB         |     15:55     |     15:56     |     1:00      |       309 KM       |    1     
+  10  |                 Basar                  |        BSX         |     16:10     |     16:12     |     2:00      |       319 KM       |    1     
+  11  |               Nizamabad                |        NZB         |     16:40     |     16:45     |     5:00      |       349 KM       |    1     
+  12  |               Kamareddi                |        KMC         |     17:40     |     17:42     |     2:00      |       400 KM       |    1     
+  13  |               Akanapet                 |        AKE         |     18:00     |     18:01     |     1:00      |       427 KM       |    1     
+  14  |               Mirzapali                |        MZL         |     18:09     |     18:10     |     1:00      |       437 KM       |    1     
+  15  |               Wadiaram                 |        WDR         |     18:16     |     18:17     |     1:00      |       443 KM       |    1     
+  16  |                Medchal                 |        MED         |     19:13     |     19:14     |     1:00      |       481 KM       |    1     
+  17  |              Gowdavalli                |        GWV         |     19:16     |     19:17     |     1:00      |       485 KM       |    1     
+  18  |                Bolarum                 |        BMO         |     19:32     |     19:34     |     2:00      |       495 KM       |    1     
+  19  |              Malkajgiri                |        MJF         |     19:51     |     19:52     |     1:00      |       505 KM       |    1     
+  20  |             Sitafal Mandi              |        STPD        |     19:58     |     19:59     |     1:00      |       509 KM       |    1     
+  21  |               Kacheguda                |        KCG         |     20:15     |     Ends      |       -       |       514 KM       |    1     

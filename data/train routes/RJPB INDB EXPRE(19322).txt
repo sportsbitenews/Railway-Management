@@ -1,0 +1,18 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Rjndr Ngr Bihar             |        RJPB        |     Start     |     11:10     |       -       |        0 KM        |    1     
+  2   |            Patna Junction              |        PNBE        |     11:25     |     11:35     |     10:00     |        3 KM        |    1     
+  3   |         Mughal Sarai Junction          |        MGS         |     15:02     |     15:12     |     10:00     |       215 KM       |    1     
+  4   |           Varanasi Junction            |        BSB         |     15:50     |     16:00     |     10:00     |       231 KM       |    1     
+  5   |           Jaunpur Junction             |        JNU         |     16:52     |     16:54     |     2:00      |       289 KM       |    1     
+  6   |               Akbarpur                 |        ABP         |     17:54     |     17:56     |     2:00      |       366 KM       |    1     
+  7   |           Faizabad Junction            |         FD         |     18:55     |     19:00     |     5:00      |       427 KM       |    1     
+  8   |              Lucknow Nr                |        LKO         |     22:20     |     22:40     |     20:00     |       555 KM       |    1     
+  9   |            Kanpur Central              |        CNB         |     00:30     |     00:40     |     10:00     |       628 KM       |    2     
+  10  |                 Orai                   |        ORAI        |     02:15     |     02:16     |     1:00      |       734 KM       |    2     
+  11  |            Jhansi Junction             |        JHS         |     04:37     |     04:50     |     13:00     |       848 KM       |    2     
+  12  |             Bina Junction              |        BINA        |     07:05     |     07:10     |     5:00      |      1001 KM       |    2     
+  13  |           Bhopal  Junction             |        BPL         |     09:35     |     09:45     |     10:00     |      1139 KM       |    2     
+  14  |               Shujalpur                |        SJP         |     11:04     |     11:05     |     1:00      |      1219 KM       |    2     
+  15  |            Ujjain Junction             |        UJN         |     12:45     |     13:05     |     20:00     |      1323 KM       |    2     
+  16  |                 Dewas                  |        DWX         |     13:52     |     13:54     |     2:00      |      1363 KM       |    2     
+  17  |          Indore Junction Bg            |        INDB        |     15:20     |     Ends      |       -       |      1402 KM       |    2     

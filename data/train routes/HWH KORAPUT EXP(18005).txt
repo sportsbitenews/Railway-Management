@@ -1,0 +1,48 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Howrah Junction             |        HWH         |     Start     |     21:30     |       -       |        0 KM        |    1     
+  2   |               Ulubaria                 |        ULB         |     22:03     |     22:05     |     2:00      |       33 KM        |    1     
+  3   |                Bagnan                  |        BZN         |     22:24     |     22:26     |     2:00      |       46 KM        |    1     
+  4   |                Mecheda                 |        MCA         |     22:40     |     22:42     |     2:00      |       59 KM        |    1     
+  5   |               Panskura                 |        PKU         |     22:54     |     22:55     |     1:00      |       71 KM        |    1     
+  6   |          Kharagpur Junction            |        KGP         |     23:45     |     23:50     |     5:00      |       116 KM       |    1     
+  7   |               Jhargram                 |        JGM         |     00:23     |     00:25     |     2:00      |       154 KM       |    2     
+  8   |          Tatanagar Junction            |        TATA        |     01:40     |     01:45     |     5:00      |       250 KM       |    2     
+  9   |             Sini Junction              |        SINI        |     02:10     |     02:11     |     1:00      |       277 KM       |    2     
+  10  |         Rajkharsawan Junction          |        RKSN        |     02:26     |     02:27     |     1:00      |       292 KM       |    2     
+  11  |             Chakradharpur              |        CKP         |     02:50     |     02:57     |     7:00      |       312 KM       |    2     
+  12  |              Manoharpur                |        MOU         |     03:45     |     03:46     |     1:00      |       373 KM       |    2     
+  13  |                 Bisra                  |        BZR         |     04:08     |     04:09     |     1:00      |       399 KM       |    2     
+  14  |              Bondamunda                |        BNDM        |     04:19     |     04:20     |     1:00      |       406 KM       |    2     
+  15  |               Rourkela                 |        ROU         |     04:40     |     05:21     |     41:00     |       413 KM       |    2     
+  16  |                Panposh                 |        PPO         |     05:30     |     05:31     |     1:00      |       419 KM       |    2     
+  17  |                Kalunga                 |        KLG         |     05:43     |     05:44     |     1:00      |       427 KM       |    2     
+  18  |              Kanshbahal                |        KXN         |     05:54     |     05:55     |     1:00      |       434 KM       |    2     
+  19  |              Raj Gangpur               |         GP         |     06:07     |     06:08     |     1:00      |       443 KM       |    2     
+  20  |                Garpos                  |        GPH         |     06:28     |     06:29     |     1:00      |       462 KM       |    2     
+  21  |                 Bamra                  |        BMB         |     06:45     |     06:46     |     1:00      |       478 KM       |    2     
+  22  |                Bagdihi                 |        BEH         |     07:01     |     07:02     |     1:00      |       494 KM       |    2     
+  23  |          Jharsuguda Junction           |        JSG         |     07:35     |     07:50     |     15:00     |       515 KM       |    2     
+  24  |                Rengali                 |        RGL         |     08:13     |     08:15     |     2:00      |       541 KM       |    2     
+  25  |            Sambalpur Road              |        SBPD        |     08:33     |     08:35     |     2:00      |       562 KM       |    2     
+  26  |               Sambalpur                |        SBP         |     08:55     |     09:10     |     15:00     |       563 KM       |    2     
+  27  |                Hirakud                 |        HKG         |     09:23     |     09:25     |     2:00      |       570 KM       |    2     
+  28  |             Bargarh Road               |        BRGA        |     09:50     |     09:55     |     5:00      |       606 KM       |    2     
+  29  |                Barpali                 |        BRPL        |     10:10     |     10:12     |     2:00      |       625 KM       |    2     
+  30  |               Balangir                 |        BLGR        |     11:20     |     11:25     |     5:00      |       681 KM       |    2     
+  31  |               Saintala                 |        SFC         |     11:50     |     11:52     |     2:00      |       716 KM       |    2     
+  32  |                Badmal                  |        BUDM        |     12:00     |     12:02     |     2:00      |       725 KM       |    2     
+  33  |               Titlagarh                |        TIG         |     12:40     |     12:50     |     10:00     |       745 KM       |    2     
+  34  |                Kesinga                 |        KSNG        |     13:03     |     13:05     |     2:00      |       758 KM       |    2     
+  35  |              Rupra Road                |        RPRD        |     13:20     |     13:22     |     2:00      |       774 KM       |    2     
+  36  |              Norla Road                |        NRLR        |     13:30     |     13:32     |     2:00      |       781 KM       |    2     
+  37  |               Ambodala                 |        AMB         |     13:55     |     13:57     |     2:00      |       806 KM       |    2     
+  38  |               Muniguda                 |        MNGD        |     14:20     |     14:22     |     2:00      |       831 KM       |    2     
+  39  |               Therubali                |        THV         |     15:08     |     15:10     |     2:00      |       866 KM       |    2     
+  40  |            Singapuram Road             |        SPRD        |     15:28     |     15:30     |     2:00      |       875 KM       |    2     
+  41  |               Rayagada                 |        RGDA        |     16:05     |     16:25     |     20:00     |       885 KM       |    2     
+  42  |                Tikiri                  |        TKRI        |     18:02     |     18:04     |     2:00      |       974 KM       |    2     
+  43  |             Laxmipur Road              |        LKMR        |     18:38     |     18:40     |     2:00      |       996 KM       |    2     
+  44  |               Damanjodi                |        DMNJ        |     19:28     |     19:30     |     2:00      |      1039 KM       |    2     
+  45  |                Koraput                 |        KRPU        |     20:05     |     20:30     |     25:00     |      1057 KM       |    2     
+  46  |                Jeypore                 |        JYP         |     21:50     |     21:52     |     2:00      |      1099 KM       |    2     
+  47  |               Jagdalpur                |        JDB         |     23:30     |     Ends      |       -       |      1163 KM       |    2     

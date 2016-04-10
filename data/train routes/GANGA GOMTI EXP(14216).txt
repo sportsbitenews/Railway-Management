@@ -1,0 +1,11 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Lucknow Nr                |        LKO         |     Start     |     18:00     |       -       |        0 KM        |    1     
+  2   |              Bachhrawan                |        BCN         |     18:48     |     18:50     |     2:00      |       48 KM        |    1     
+  3   |          Rae Bareli Junction           |        RBL         |     19:20     |     19:22     |     2:00      |       78 KM        |    1     
+  4   |              Lachhmanpur               |        LMN         |     19:42     |     19:44     |     2:00      |       99 KM        |    1     
+  5   |           Unchahar Junction            |        UCR         |     19:59     |     20:01     |     2:00      |       116 KM       |    1     
+  6   |           Pwn Klaknder Road            |        PQN         |     20:13     |     20:15     |     2:00      |       127 KM       |    1     
+  7   |            Kunda Harnamgnj             |        KHNM        |     20:31     |     20:33     |     2:00      |       146 KM       |    1     
+  8   |          Phaphamau Junction            |        PFM         |     21:43     |     21:45     |     2:00      |       188 KM       |    1     
+  9   |                Prayag                  |        PRG         |     22:06     |     22:08     |     2:00      |       195 KM       |    1     
+  10  |          Allahabad Junction            |        ALD         |     22:25     |     Ends      |       -       |       201 KM       |    1     

@@ -1,0 +1,33 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Mangalore Cntl              |        MAQ         |     Start     |     22:20     |       -       |        0 KM        |    1     
+  2   |               Kasaragod                |        KGQ         |     22:58     |     23:00     |     2:00      |       46 KM        |    1     
+  3   |               Kanhangad                |        KZE         |     23:18     |     23:20     |     2:00      |       69 KM        |    1     
+  4   |               Nileshwar                |        NLE         |     23:29     |     23:30     |     1:00      |       79 KM        |    1     
+  5   |              Charvattur                |        CHV         |     23:37     |     23:38     |     1:00      |       84 KM        |    1     
+  6   |               Payyanur                 |        PAY         |     23:49     |     23:50     |     1:00      |       98 KM        |    1     
+  7   |              Kannapuram                |        KPQ         |     00:09     |     00:10     |     1:00      |       118 KM       |    2     
+  8   |                Kannur                  |        CAN         |     00:30     |     00:35     |     5:00      |       132 KM       |    2     
+  9   |              Thalassery                |        TLY         |     00:54     |     00:55     |     1:00      |       153 KM       |    2     
+  10  |               Vadakara                 |        BDJ         |     01:14     |     01:15     |     1:00      |       175 KM       |    2     
+  11  |               Kozhikode                |        CLT         |     02:05     |     02:10     |     5:00      |       221 KM       |    2     
+  12  |             Parpanangadi               |        PGI         |     02:39     |     02:40     |     1:00      |       246 KM       |    2     
+  13  |                 Tirur                  |        TIR         |     02:59     |     03:00     |     1:00      |       262 KM       |    2     
+  14  |              Kuttippuram               |        KTU         |     03:19     |     03:20     |     1:00      |       277 KM       |    2     
+  15  |           Shoranur Junction            |        SRR         |     04:00     |     04:10     |     10:00     |       307 KM       |    2     
+  16  |              Ottappalam                |        OTP         |     04:24     |     04:25     |     1:00      |       320 KM       |    2     
+  17  |               Palakkad                 |        PGT         |     05:05     |     05:10     |     5:00      |       351 KM       |    2     
+  18  |           Podanur Junction             |        PTJ         |     06:18     |     06:20     |     2:00      |       400 KM       |    2     
+  19  |          Coimbatore Junction           |        CBE         |     06:32     |     06:35     |     3:00      |       406 KM       |    2     
+  20  |               Tiruppur                 |        TUP         |     07:18     |     07:20     |     2:00      |       456 KM       |    2     
+  21  |            Erode Junction              |         ED         |     08:10     |     08:15     |     5:00      |       506 KM       |    2     
+  22  |              Sankaridrug               |        SGE         |     08:39     |     08:40     |     1:00      |       527 KM       |    2     
+  23  |            Salem Junction              |         SA         |     09:12     |     09:15     |     3:00      |       569 KM       |    2     
+  24  |                Bommidi                 |        BQI         |     09:54     |     09:55     |     1:00      |       612 KM       |    2     
+  25  |               Morappur                 |        MAP         |     10:09     |     10:10     |     1:00      |       635 KM       |    2     
+  26  |          Tirupattur Junction           |        TPT         |     10:44     |     10:45     |     1:00      |       682 KM       |    2     
+  27  |              Jolarpettai               |        JTJ         |     11:03     |     11:05     |     2:00      |       689 KM       |    2     
+  28  |           Katpadi Junction             |        KPD         |     12:13     |     12:15     |     2:00      |       773 KM       |    2     
+  29  |         Walajah Road Junction          |        WJR         |     12:33     |     12:35     |     2:00      |       797 KM       |    2     
+  30  |               Arakkonam                |        AJJ         |     13:13     |     13:15     |     2:00      |       833 KM       |    2     
+  31  |               Perambur                 |        PER         |     14:03     |     14:05     |     2:00      |       896 KM       |    2     
+  32  |            Chennai Central             |        MAS         |     14:40     |     Ends      |       -       |       902 KM       |    2     

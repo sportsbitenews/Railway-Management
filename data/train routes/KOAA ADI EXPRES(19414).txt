@@ -1,0 +1,35 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Kolkata                 |        KOAA        |     Start     |     13:10     |       -       |        0 KM        |    1     
+  2   |               Durgapur                 |        DGR         |     15:31     |     15:33     |     2:00      |       161 KM       |    1     
+  3   |           Asansol Junction             |        ASN         |     16:00     |     16:05     |     5:00      |       203 KM       |    1     
+  4   |           Dhanbad Junction             |        DHN         |     17:13     |     17:23     |     10:00     |       262 KM       |    1     
+  5   |                Phusro                  |        PUS         |     18:51     |     18:53     |     2:00      |       307 KM       |    1     
+  6   |              Barka Kana                |        BRKA        |     20:10     |     20:35     |     25:00     |       379 KM       |    1     
+  7   |              Daltonganj                |        DTO         |     23:09     |     23:14     |     5:00      |       565 KM       |    1     
+  8   |              Garwa Road                |        GHD         |     23:39     |     23:44     |     5:00      |       598 KM       |    1     
+  9   |                Chopan                  |        CPU         |     02:10     |     02:35     |     25:00     |       739 KM       |    2     
+  10  |               Singrauli                |        SGRL        |     05:05     |     05:15     |     10:00     |       803 KM       |    2     
+  11  |             Katni Murwara              |        KMZ         |     11:30     |     11:40     |     10:00     |      1062 KM       |    2     
+  12  |                 Damoh                  |        DMO         |     13:08     |     13:10     |     2:00      |      1171 KM       |    2     
+  13  |                Saugor                  |        SGO         |     14:35     |     14:40     |     5:00      |      1249 KM       |    2     
+  14  |             Bina Junction              |        BINA        |     16:10     |     16:15     |     5:00      |      1323 KM       |    2     
+  15  |           Bhopal  Junction             |        BPL         |     19:55     |     20:10     |     15:00     |      1462 KM       |    2     
+  16  |            Ujjain Junction             |        UJN         |     23:00     |     23:10     |     10:00     |      1645 KM       |    2     
+  17  |            Nagda Junction              |        NAD         |     00:08     |     00:10     |     2:00      |      1700 KM       |    3     
+  18  |            Ratlam Junction             |        RTM         |     01:15     |     01:40     |     25:00     |      1741 KM       |    3     
+  19  |               Mandasor                 |        MDS         |     02:59     |     03:00     |     1:00      |      1825 KM       |    3     
+  20  |                Nimach                  |        NMH         |     03:40     |     03:45     |     5:00      |      1874 KM       |    3     
+  21  |             Chittaurgarh               |        COR         |     05:25     |     05:35     |     10:00     |      1930 KM       |    3     
+  22  |               Bhilwara                 |        BHL         |     06:30     |     06:35     |     5:00      |      1984 KM       |    3     
+  23  |            Ajmer Junction              |        AII         |     08:55     |     09:30     |     35:00     |      2116 KM       |    3     
+  24  |                Beawar                  |        BER         |     10:14     |     10:15     |     1:00      |      2168 KM       |    3     
+  25  |            Marwar Junction             |         MJ         |     12:00     |     12:10     |     10:00     |      2256 KM       |    3     
+  26  |                 Falna                  |         FA         |     13:03     |     13:04     |     1:00      |      2322 KM       |    3     
+  27  |              Sirohi Road               |        SOH         |     14:01     |     14:02     |     1:00      |      2377 KM       |    3     
+  28  |               Abu Road                 |        ABR         |     14:42     |     14:52     |     10:00     |      2421 KM       |    3     
+  29  |           Palanpur Junction            |        PNU         |     16:16     |     16:17     |     1:00      |      2474 KM       |    3     
+  30  |               Siddhpur                 |        SID         |     16:42     |     16:43     |     1:00      |      2504 KM       |    3     
+  31  |                 Unjha                  |        UJA         |     16:56     |     16:57     |     1:00      |      2517 KM       |    3     
+  32  |           Mahesana Junction            |        MSH         |     17:18     |     17:19     |     1:00      |      2539 KM       |    3     
+  33  |          Sabarmati Junction            |        SBI         |     18:43     |     18:44     |     1:00      |      2602 KM       |    3     
+  34  |          Ahmedabad Junction            |        ADI         |     19:15     |     Ends      |       -       |      2608 KM       |    3     

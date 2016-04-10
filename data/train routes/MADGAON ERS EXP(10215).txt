@@ -1,0 +1,14 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Madgaon                 |        MAO         |     Start     |     21:30     |       -       |        0 KM        |    1     
+  2   |                Karwar                  |        KAWR        |     22:22     |     22:24     |     2:00      |       82 KM        |    1     
+  3   |                Bhatkal                 |        BTJL        |     23:50     |     23:52     |     2:00      |       236 KM       |    1     
+  4   |                 Udupi                  |         UD         |     01:10     |     01:12     |     2:00      |       350 KM       |    2     
+  5   |          Mangalore Junction            |        MAJN        |     03:00     |     03:10     |     10:00     |       431 KM       |    2     
+  6   |               Kasaragod                |        KGQ         |     03:48     |     03:50     |     2:00      |       482 KM       |    2     
+  7   |                Kannur                  |        CAN         |     05:15     |     05:20     |     5:00      |       568 KM       |    2     
+  8   |               Kozhikode                |        CLT         |     06:35     |     06:40     |     5:00      |       657 KM       |    2     
+  9   |                 Tirur                  |        TIR         |     07:18     |     07:20     |     2:00      |       698 KM       |    2     
+  10  |           Shoranur Junction            |        SRR         |     08:10     |     08:20     |     10:00     |       743 KM       |    2     
+  11  |                Thrisur                 |        TCR         |     09:05     |     09:08     |     3:00      |       776 KM       |    2     
+  12  |                 Aluva                  |        AWY         |     09:53     |     09:55     |     2:00      |       831 KM       |    2     
+  13  |          Eranakulam Junction           |        ERS         |     10:55     |     Ends      |       -       |       850 KM       |    2     

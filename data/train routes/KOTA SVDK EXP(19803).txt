@@ -1,0 +1,30 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Kota Junction              |        KOTA        |     Start     |     14:30     |       -       |        0 KM        |    1     
+  2   |               Indargarh                |        IDG         |     15:18     |     15:20     |     2:00      |       72 KM        |    1     
+  3   |            Sawai Madhopur              |        SWM         |     15:46     |     15:48     |     2:00      |       108 KM       |    1     
+  4   |             Gangapur City              |        GGC         |     16:48     |     16:50     |     2:00      |       172 KM       |    1     
+  5   |             Hindaun City               |        HAN         |     17:25     |     17:27     |     2:00      |       216 KM       |    1     
+  6   |            Bayana Junction             |        BXN         |     18:10     |     18:12     |     2:00      |       249 KM       |    1     
+  7   |          Bharatpur Junction            |        BTE         |     18:50     |     18:52     |     2:00      |       291 KM       |    1     
+  8   |           Mathura Junction             |        MTJ         |     19:55     |     20:00     |     5:00      |       324 KM       |    1     
+  9   |               Faridabad                |        FDB         |     21:39     |     21:41     |     2:00      |       437 KM       |    1     
+  10  |               New Delhi                |        NDLS        |     23:00     |     00:10     |     70:00     |       465 KM       |    2     
+  11  |              Bahadurgarh               |        BGZ         |     01:00     |     01:02     |     2:00      |       496 KM       |    2     
+  12  |            Rohtak Junction             |        ROK         |     01:37     |     01:42     |     5:00      |       536 KM       |    2     
+  13  |             Jind Junction              |        JIND        |     02:37     |     02:40     |     3:00      |       593 KM       |    2     
+  14  |           Narwana Junction             |        NRW         |     03:05     |     03:07     |     2:00      |       627 KM       |    2     
+  15  |                Tohana                  |        TUN         |     03:27     |     03:29     |     2:00      |       653 KM       |    2     
+  16  |            Jakhal Junction             |        JHL         |     04:00     |     04:05     |     5:00      |       665 KM       |    2     
+  17  |                Sangrur                 |        SAG         |     04:56     |     04:58     |     2:00      |       716 KM       |    2     
+  18  |            Dhuri Junction              |        DUI         |     05:30     |     05:35     |     5:00      |       731 KM       |    2     
+  19  |              Malerkotla                |        MET         |     05:48     |     05:50     |     2:00      |       748 KM       |    2     
+  20  |           Ludhiana Junction            |        LDH         |     07:00     |     07:10     |     10:00     |       793 KM       |    2     
+  21  |           Phillaur Junction            |        PHR         |     07:23     |     07:25     |     2:00      |       807 KM       |    2     
+  22  |           Phagwara Junction            |        PGW         |     07:46     |     07:48     |     2:00      |       829 KM       |    2     
+  23  |            Jalandhar Cant              |        JRC         |     08:10     |     08:15     |     5:00      |       846 KM       |    2     
+  24  |               Mukerian                 |        MEX         |     09:24     |     09:26     |     2:00      |       919 KM       |    2     
+  25  |            Pathankot Cantt             |        PTKC        |     10:13     |     10:18     |     5:00      |       958 KM       |    2     
+  26  |                Kathua                  |        KTHU        |     10:48     |     10:50     |     2:00      |       982 KM       |    2     
+  27  |                 Samba                  |        SMBX        |     11:29     |     11:31     |     2:00      |      1025 KM       |    2     
+  28  |              Jammu Tawi                |        JAT         |     13:00     |     13:10     |     10:00     |      1058 KM       |    2     
+  29  |               Udhampur                 |        UHP         |     14:08     |     14:10     |     2:00      |      1111 KM       |    2     

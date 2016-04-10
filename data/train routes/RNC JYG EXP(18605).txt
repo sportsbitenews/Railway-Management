@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Ranchi                  |        RNC         |     Start     |     20:40     |       -       |        0 KM        |    1     
+  2   |                 Muri                   |        MURI        |     21:47     |     21:52     |     5:00      |       66 KM        |    1     
+  3   |            Bokaro Stl City             |        BKSC        |     22:50     |     22:55     |     5:00      |       118 KM       |    1     
+  4   |           Dhanbad Junction             |        DHN         |     00:50     |     00:55     |     5:00      |       167 KM       |    2     
+  5   |           Jasidih Junction             |        JSME        |     03:12     |     03:17     |     5:00      |       318 KM       |    2     
+  6   |             Kiul Junction              |        KIUL        |     05:35     |     05:37     |     2:00      |       416 KM       |    2     
+  7   |           Barauni Junction             |        BJU         |     06:50     |     07:10     |     20:00     |       456 KM       |    2     
+  8   |          Samastipur Junction           |        SPJ         |     08:15     |     08:20     |     5:00      |       507 KM       |    2     
+  9   |          Darbhanga Junction            |        DBG         |     09:15     |     09:25     |     10:00     |       544 KM       |    2     
+  10  |            Sakri Junction              |        SKI         |     10:10     |     10:12     |     2:00      |       563 KM       |    2     
+  11  |               Madhubani                |        MBI         |     10:29     |     10:30     |     1:00      |       580 KM       |    2     
+  12  |               Jaynagar                 |        JYG         |     11:45     |     Ends      |       -       |       612 KM       |    2     

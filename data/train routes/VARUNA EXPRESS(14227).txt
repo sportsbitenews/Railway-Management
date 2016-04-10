@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Varanasi Junction            |        BSB         |     Start     |     04:50     |       -       |        0 KM        |    1     
+  2   |               Jalalganj                |        JLL         |     05:21     |     05:23     |     2:00      |       40 KM        |    1     
+  3   |             Jaunpur City               |        JOP         |     05:45     |     05:47     |     2:00      |       58 KM        |    1     
+  4   |            Srikrishn Nagar             |        SKN         |     06:07     |     06:09     |     2:00      |       86 KM        |    1     
+  5   |               Koiripur                 |        KEPR        |     06:23     |     06:25     |     2:00      |       105 KM       |    1     
+  6   |                Lambhua                 |        LBA         |     06:38     |     06:40     |     2:00      |       122 KM       |    1     
+  7   |               Sultanpur                |        SLN         |     07:06     |     07:08     |     2:00      |       144 KM       |    1     
+  8   |             Musafir Khana              |        MFKA        |     07:32     |     07:34     |     2:00      |       175 KM       |    1     
+  9   |               Nihalgarh                |        NHH         |     07:49     |     07:51     |     2:00      |       194 KM       |    1     
+  10  |              Haidergarh                |        HGH         |     08:22     |     08:24     |     2:00      |       227 KM       |    1     
+  11  |              Lucknow Nr                |        LKO         |     09:50     |     Ends      |       -       |       284 KM       |    1     

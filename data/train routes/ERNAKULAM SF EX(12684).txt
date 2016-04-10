@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |         Bangalore Cy Junction          |        SBC         |     Start     |     18:45     |       -       |        0 KM        |    1     
+  2   |            Bangalore Cant              |        BNC         |     18:55     |     18:57     |     2:00      |        5 KM        |    1     
+  3   |            Krishnarajapurm             |        KJM         |     19:06     |     19:08     |     2:00      |       15 KM        |    1     
+  4   |              Bangarapet                |        BWT         |     20:00     |     20:02     |     2:00      |       71 KM        |    1     
+  5   |          Tirupattur Junction           |        TPT         |     21:34     |     21:35     |     1:00      |       156 KM       |    1     
+  6   |            Salem Junction              |         SA         |     23:02     |     23:05     |     3:00      |       269 KM       |    1     
+  7   |            Erode Junction              |         ED         |     00:05     |     00:10     |     5:00      |       331 KM       |    2     
+  8   |               Tiruppur                 |        TUP         |     00:53     |     00:55     |     2:00      |       382 KM       |    2     
+  9   |           Podanur Junction             |        PTJ         |     01:43     |     01:45     |     2:00      |       425 KM       |    2     
+  10  |               Palakkad                 |        PGT         |     02:45     |     02:50     |     5:00      |       474 KM       |    2     
+  11  |              Ottappalam                |        OTP         |     03:18     |     03:20     |     2:00      |       505 KM       |    2     
+  12  |                Thrisur                 |        TCR         |     04:15     |     04:18     |     3:00      |       551 KM       |    2     
+  13  |                 Aluva                  |        AWY         |     05:08     |     05:10     |     2:00      |       605 KM       |    2     
+  14  |          Eranakulam Junction           |        ERS         |     06:05     |     Ends      |       -       |       625 KM       |    2     

@@ -1,0 +1,14 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            New Jalpaiguri              |        NJP         |     Start     |     21:15     |       -       |        0 KM        |    1     
+  2   |             Aluabari Road              |        AUB         |     23:00     |     23:02     |     2:00      |       57 KM        |    1     
+  3   |              Kishanganj                |        KNE         |     23:27     |     23:29     |     2:00      |       88 KM        |    1     
+  4   |               Dalkolha                 |        DLK         |     23:52     |     23:54     |     2:00      |       116 KM       |    1     
+  5   |           Katihar Junction             |        KIR         |     01:40     |     01:50     |     10:00     |       184 KM       |    2     
+  6   |               Naugachia                |        NNA         |     02:36     |     02:37     |     1:00      |       241 KM       |    2     
+  7   |              Begu Sarai                |        BGS         |     04:11     |     04:12     |     1:00      |       348 KM       |    2     
+  8   |           Barauni Junction             |        BJU         |     05:35     |     05:45     |     10:00     |       363 KM       |    2     
+  9   |          Samastipur Junction           |        SPJ         |     07:05     |     07:10     |     5:00      |       414 KM       |    2     
+  10  |          Darbhanga Junction            |        DBG         |     08:10     |     08:20     |     10:00     |       452 KM       |    2     
+  11  |                Kamtaul                 |        KML         |     08:42     |     08:43     |     1:00      |       475 KM       |    2     
+  12  |             Janakpur Road              |        JNR         |     09:10     |     09:11     |     1:00      |       494 KM       |    2     
+  13  |               Sitamarhi                |        SMI         |     10:30     |     Ends      |       -       |       519 KM       |    2     

@@ -1,0 +1,23 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Kota Junction              |        KOTA        |     Start     |     14:50     |       -       |        0 KM        |    1     
+  2   |               Indargarh                |        IDG         |     15:50     |     15:52     |     2:00      |       72 KM        |    1     
+  3   |            Sawai Madhopur              |        SWM         |     16:20     |     16:25     |     5:00      |       108 KM       |    1     
+  4   |            Nrynpur Tatwar              |        NNW         |     17:18     |     17:20     |     2:00      |       155 KM       |    1     
+  5   |             Gangapur City              |        GGC         |     17:58     |     18:00     |     2:00      |       172 KM       |    1     
+  6   |             Hindaun City               |        HAN         |     18:40     |     18:42     |     2:00      |       216 KM       |    1     
+  7   |            Bayana Junction             |        BXN         |     19:35     |     19:37     |     2:00      |       249 KM       |    1     
+  8   |          Bharatpur Junction            |        BTE         |     20:03     |     20:05     |     2:00      |       291 KM       |    1     
+  9   |           Mathura Junction             |        MTJ         |     20:50     |     21:15     |     25:00     |       324 KM       |    1     
+  10  |              Agra Cantt                |        AGC         |     22:15     |     22:40     |     25:00     |       378 KM       |    1     
+  11  |             Raja Ki Mandi              |        RKM         |     22:50     |     22:52     |     2:00      |       382 KM       |    1     
+  12  |            Tundla Junction             |        TDL         |     00:25     |     00:30     |     5:00      |       407 KM       |    2     
+  13  |            Kanpur Central              |        CNB         |     04:20     |     04:30     |     10:00     |       636 KM       |    2     
+  14  |              Lucknow Nr                |        LKO         |     05:55     |     06:30     |     35:00     |       710 KM       |    2     
+  15  |               Nihalgarh                |        NHH         |     07:47     |     07:49     |     2:00      |       799 KM       |    2     
+  16  |               Sultanpur                |        SLN         |     08:40     |     08:45     |     5:00      |       850 KM       |    2     
+  17  |           Varanasi Junction            |        BSB         |     12:20     |     12:30     |     10:00     |       993 KM       |    2     
+  18  |         Mughal Sarai Junction          |        MGS         |     13:20     |     13:30     |     10:00     |      1010 KM       |    2     
+  19  |                Zamania                 |        ZNA         |     14:06     |     14:08     |     2:00      |      1054 KM       |    2     
+  20  |                 Buxar                  |        BXR         |     14:50     |     14:52     |     2:00      |      1104 KM       |    2     
+  21  |                  Ara                   |        ARA         |     15:52     |     15:54     |     2:00      |      1173 KM       |    2     
+  22  |            Patna Junction              |        PNBE        |     17:30     |     Ends      |       -       |      1222 KM       |    2     

@@ -1,0 +1,10 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Varanasi Junction            |        BSB         |     Start     |     19:30     |       -       |        0 KM        |    1     
+  2   |                Bhadohi                 |        BOY         |     20:07     |     20:09     |     2:00      |       45 KM        |    1     
+  3   |          Partapgarh Junction           |        PBH         |     21:20     |     21:28     |     8:00      |       129 KM       |    1     
+  4   |                Amethi                  |        AME         |     22:09     |     22:11     |     2:00      |       164 KM       |    1     
+  5   |          Rae Bareli Junction           |        RBL         |     23:20     |     23:28     |     8:00      |       224 KM       |    1     
+  6   |              Lucknow Nr                |        LKO         |     01:20     |     01:30     |     10:00     |       302 KM       |    2     
+  7   |               Bareilly                 |         BE         |     04:57     |     05:02     |     5:00      |       537 KM       |    2     
+  8   |               Moradabad                |         MB         |     06:50     |     07:00     |     10:00     |       627 KM       |    2     
+  9   |            Anand Vihar Trm             |        ANVT        |     10:10     |     Ends      |       -       |       781 KM       |    2     

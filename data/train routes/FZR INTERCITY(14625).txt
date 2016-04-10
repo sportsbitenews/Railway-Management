@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Delhi S Rohilla             |        DEE         |     Start     |     06:45     |       -       |        0 KM        |    1     
+  2   |              Shakurbasti               |        SSB         |     07:03     |     07:05     |     2:00      |        9 KM        |    1     
+  3   |              Bahadurgarh               |        BGZ         |     07:33     |     07:35     |     2:00      |       29 KM        |    1     
+  4   |            Rohtak Junction             |        ROK         |     08:30     |     08:32     |     2:00      |       69 KM        |    1     
+  5   |             Jind Junction              |        JIND        |     09:18     |     09:20     |     2:00      |       126 KM       |    1     
+  6   |           Narwana Junction             |        NRW         |     09:43     |     09:45     |     2:00      |       160 KM       |    1     
+  7   |                Tohana                  |        TUN         |     10:06     |     10:08     |     2:00      |       186 KM       |    1     
+  8   |            Jakhal Junction             |        JHL         |     10:33     |     10:35     |     2:00      |       198 KM       |    1     
+  9   |               Budhlada                 |        BLZ         |     10:59     |     11:01     |     2:00      |       227 KM       |    1     
+  10  |                 Mansa                  |        MSZ         |     11:13     |     11:15     |     2:00      |       243 KM       |    1     
+  11  |                 Maur                   |        MAUR        |     11:30     |     11:32     |     2:00      |       262 KM       |    1     
+  12  |           Bhatinda Junction            |        BTI         |     12:40     |     12:50     |     10:00     |       296 KM       |    1     
+  13  |              Kot Kapura                |        KKP         |     13:38     |     13:40     |     2:00      |       338 KM       |    1     
+  14  |               Faridkot                 |        FDK         |     13:49     |     13:51     |     2:00      |       351 KM       |    1     
+  15  |             Firozpur Cant              |        FZR         |     14:45     |     Ends      |       -       |       383 KM       |    1     

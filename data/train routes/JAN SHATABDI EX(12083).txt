@@ -1,0 +1,10 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Mayiladuturai J             |         MV         |     Start     |     14:50     |       -       |        0 KM        |    1     
+  2   |              Kumbakonam                |        KMU         |     15:13     |     15:15     |     2:00      |       32 KM        |    1     
+  3   |               Thanjavur                |         TJ         |     15:43     |     15:45     |     2:00      |       71 KM        |    1     
+  4   |            Tiruchchirapali             |        TPJ         |     16:50     |     17:00     |     10:00     |       121 KM       |    1     
+  5   |                 Karur                  |        KRR         |     18:17     |     18:20     |     3:00      |       196 KM       |    1     
+  6   |            Erode Junction              |         ED         |     19:17     |     19:20     |     3:00      |       262 KM       |    1     
+  7   |               Tiruppur                 |        TUP         |     20:03     |     20:05     |     2:00      |       312 KM       |    1     
+  8   |                Irugur                  |        IGU         |     20:34     |     20:35     |     1:00      |       345 KM       |    1     
+  9   |          Coimbatore Junction           |        CBE         |     21:15     |     Ends      |       -       |       362 KM       |    1     

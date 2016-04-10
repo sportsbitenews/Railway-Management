@@ -1,0 +1,7 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Chakradharpur              |        CKP         |     Start     |     06:20     |       -       |        0 KM        |    1     
+  2   |               Chaibasa                 |        CBSA        |     06:59     |     07:00     |     1:00      |       41 KM        |    1     
+  3   |               Kendposi                 |        KNPS        |     07:34     |     07:35     |     1:00      |       75 KM        |    1     
+  4   |              Dangoaposi                |        DPS         |     07:59     |     08:00     |     1:00      |       96 KM        |    1     
+  5   |              Bara Jamda                |        BJMD        |     08:35     |     08:37     |     2:00      |       117 KM       |    1     
+  6   |                Barabil                 |        BBN         |     08:55     |     Ends      |       -       |       127 KM       |    1     

@@ -1,0 +1,17 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Howrah Junction             |        HWH         |     Start     |     22:50     |       -       |        0 KM        |    1     
+  2   |          Kharagpur Junction            |        KGP         |     00:30     |     00:35     |     5:00      |       116 KM       |    2     
+  3   |          Tatanagar Junction            |        TATA        |     02:25     |     02:30     |     5:00      |       250 KM       |    2     
+  4   |             Chakradharpur              |        CKP         |     03:25     |     03:30     |     5:00      |       312 KM       |    2     
+  5   |               Rourkela                 |        ROU         |     04:50     |     04:57     |     7:00      |       413 KM       |    2     
+  6   |           Bilaspur Junction            |        BSP         |     09:25     |     09:40     |     15:00     |       720 KM       |    2     
+  7   |            Raipur Junction             |         R          |     11:20     |     11:30     |     10:00     |       831 KM       |    2     
+  8   |                 Durg                   |        DURG        |     12:20     |     12:25     |     5:00      |       867 KM       |    2     
+  9   |            Gondia Junction             |         G          |     14:13     |     14:15     |     2:00      |      1001 KM       |    2     
+  10  |                Nagpur                  |        NGP         |     16:20     |     16:30     |     10:00     |      1131 KM       |    2     
+  11  |           Badnera Junction             |         BD         |     19:05     |     19:10     |     5:00      |      1305 KM       |    2     
+  12  |            Akola Junction              |         AK         |     20:00     |     20:05     |     5:00      |      1384 KM       |    2     
+  13  |           Bhusaval Junction            |        BSL         |     21:50     |     22:00     |     10:00     |      1524 KM       |    2     
+  14  |               Igatpuri                 |        IGP         |     02:55     |     03:00     |     5:00      |      1831 KM       |    3     
+  15  |            Kalyan Junction             |        KYN         |     04:37     |     04:40     |     3:00      |      1915 KM       |    3     
+  16  |            Lokmanyatilak T             |        LTT         |     05:45     |     Ends      |       -       |      1952 KM       |    3     

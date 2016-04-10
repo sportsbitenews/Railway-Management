@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Bhagalpur                |        BGP         |     Start     |     17:30     |       -       |        0 KM        |    1     
+  2   |              Sultanganj                |        SGG         |     17:50     |     17:51     |     1:00      |       25 KM        |    1     
+  3   |           Jamalpur Junction            |        JMP         |     18:28     |     18:33     |     5:00      |       53 KM        |    1     
+  4   |               Abhaipur                 |        AHA         |     18:52     |     18:53     |     1:00      |       75 KM        |    1     
+  5   |             Kiul Junction              |        KIUL        |     20:05     |     20:10     |     5:00      |       99 KM        |    1     
+  6   |           Mokameh Junction             |        MKA         |     20:44     |     20:46     |     2:00      |       133 KM       |    1     
+  7   |         Bakhtiyarpur Junction          |        BKP         |     21:15     |     21:17     |     2:00      |       176 KM       |    1     
+  8   |            Patna Junction              |        PNBE        |     22:25     |     22:35     |     10:00     |       222 KM       |    1     
+  9   |          Allahabad Junction            |        ALD         |     04:08     |     04:25     |     17:00     |       586 KM       |    2     
+  10  |            Kanpur Central              |        CNB         |     06:45     |     06:50     |     5:00      |       780 KM       |    2     
+  11  |               New Delhi                |        NDLS        |     13:00     |     Ends      |       -       |      1219 KM       |    2     

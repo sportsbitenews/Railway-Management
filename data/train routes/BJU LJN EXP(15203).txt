@@ -1,0 +1,38 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Barauni Junction             |        BJU         |     Start     |     20:30     |       -       |        0 KM        |    1     
+  2   |           Bachwara Junction            |        BCA         |     20:50     |     20:52     |     2:00      |       17 KM        |    1     
+  3   |            Dalsingh Sarai              |        DSS         |     21:06     |     21:07     |     1:00      |       28 KM        |    1     
+  4   |          Samastipur Junction           |        SPJ         |     21:35     |     21:40     |     5:00      |       51 KM        |    1     
+  5   |            Khudiram B Pusa             |        KRBP        |     21:54     |     21:55     |     1:00      |       65 KM        |    1     
+  6   |                 Dholi                  |        DOL         |     22:07     |     22:08     |     1:00      |       78 KM        |    1     
+  7   |         Muzaffarpur Junction           |        MFP         |     22:35     |     22:40     |     5:00      |       103 KM       |    1     
+  8   |           Hajipur Junction             |        HJP         |     23:29     |     23:30     |     1:00      |       157 KM       |    1     
+  9   |            Sonpur Junction             |        SEE         |     23:40     |     23:45     |     5:00      |       163 KM       |    1     
+  10  |               Dighwara                 |        DGA         |     00:05     |     00:06     |     1:00      |       186 KM       |    2     
+  11  |                Chhapra                 |        CPR         |     01:10     |     01:20     |     10:00     |       216 KM       |    2     
+  12  |            Siwan Junction              |         SV         |     02:05     |     02:10     |     5:00      |       277 KM       |    2     
+  13  |                Mairwa                  |         MW         |     02:33     |     02:35     |     2:00      |       298 KM       |    2     
+  14  |             Bhatpar Rani               |        BHTR        |     02:49     |     02:51     |     2:00      |       313 KM       |    2     
+  15  |            Bhatni Junction             |        BTT         |     03:15     |     03:20     |     5:00      |       326 KM       |    2     
+  16  |             Deoria Sadar               |        DEOS        |     03:38     |     03:40     |     2:00      |       347 KM       |    2     
+  17  |              Gauri Bazar               |         GB         |     03:58     |     04:00     |     2:00      |       362 KM       |    2     
+  18  |             Chauri Chaura              |         CC         |     04:12     |     04:13     |     1:00      |       372 KM       |    2     
+  19  |          Gorakhpur Junction            |        GKP         |     05:25     |     05:45     |     20:00     |       396 KM       |    2     
+  20  |               Jagatbela                |        JTB         |     06:06     |     06:07     |     1:00      |       407 KM       |    2     
+  21  |               Sahjanwa                 |        SWA         |     06:18     |     06:19     |     1:00      |       414 KM       |    2     
+  22  |                Maghar                  |        MHH         |     06:30     |     06:31     |     1:00      |       422 KM       |    2     
+  23  |              Khalilabad                |        KLD         |     06:54     |     06:55     |     1:00      |       431 KM       |    2     
+  24  |               Munderwa                 |        MND         |     07:11     |     07:12     |     1:00      |       446 KM       |    2     
+  25  |                 Basti                  |        BST         |     07:25     |     07:30     |     5:00      |       460 KM       |    2     
+  26  |                Babhnan                 |         BV         |     08:14     |     08:15     |     1:00      |       491 KM       |    2     
+  27  |               Maskanwa                 |        MSW         |     08:39     |     08:41     |     2:00      |       507 KM       |    2     
+  28  |           Mankapur Junction            |        MUR         |     09:04     |     09:06     |     2:00      |       522 KM       |    2     
+  29  |            Gonda Junction              |         GD         |     09:40     |     09:50     |     10:00     |       550 KM       |    2     
+  30  |              Colonelganj               |        CLJ         |     10:13     |     10:15     |     2:00      |       578 KM       |    2     
+  31  |              Jarwal Road               |        JLD         |     10:31     |     10:33     |     2:00      |       595 KM       |    2     
+  32  |                Burhwal                 |        BUW         |     10:53     |     10:55     |     2:00      |       611 KM       |    2     
+  33  |          Barabanki Junction            |        BBK         |     11:32     |     11:34     |     2:00      |       638 KM       |    2     
+  34  |             Gomati Nagar               |        GTNR        |     12:02     |     12:04     |     2:00      |       659 KM       |    2     
+  35  |             Badshahnagar               |        BNZ         |     12:12     |     12:13     |     1:00      |       663 KM       |    2     
+  36  |             Lucknow City               |         LC         |     12:31     |     12:32     |     1:00      |       669 KM       |    2     
+  37  |              Lucknow Ne                |        LJN         |     13:00     |     Ends      |       -       |       674 KM       |    2     

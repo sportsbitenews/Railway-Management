@@ -1,0 +1,17 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Udhampur                 |        UHP         |     Start     |     16:20     |       -       |        0 KM        |    1     
+  2   |              Jammu Tawi                |        JAT         |     17:20     |     17:30     |     10:00     |       54 KM        |    1     
+  3   |            Pathankot Cantt             |        PTKC        |     19:30     |     19:35     |     5:00      |       153 KM       |    1     
+  4   |            Jalandhar Cant              |        JRC         |     21:30     |     21:35     |     5:00      |       266 KM       |    1     
+  5   |           Ludhiana Junction            |        LDH         |     22:40     |     22:50     |     10:00     |       318 KM       |    1     
+  6   |         Ambala Cant Junction           |        UMB         |     01:00     |     01:10     |     10:00     |       432 KM       |    2     
+  7   |              Saharanpur                |        SRE         |     02:37     |     02:42     |     5:00      |       513 KM       |    2     
+  8   |             Muzaffarnagar              |        MOZ         |     03:25     |     03:27     |     2:00      |       571 KM       |    2     
+  9   |              Meerut City               |        MTC         |     04:20     |     04:30     |     10:00     |       626 KM       |    2     
+  10  |                 Hapur                  |        HPU         |     05:03     |     05:08     |     5:00      |       655 KM       |    2     
+  11  |              Bulandshahr               |        BSC         |     06:43     |     06:45     |     2:00      |       696 KM       |    2     
+  12  |            Khurja Junction             |        KRJ         |     07:40     |     08:05     |     25:00     |       719 KM       |    2     
+  13  |           Aligarh Junction             |        ALJN        |     08:36     |     08:41     |     5:00      |       762 KM       |    2     
+  14  |            Tundla Junction             |        TDL         |     10:05     |     10:15     |     10:00     |       840 KM       |    2     
+  15  |                Etawah                  |        ETW         |     11:47     |     11:49     |     2:00      |       932 KM       |    2     
+  16  |            Kanpur Central              |        CNB         |     13:55     |     Ends      |       -       |      1070 KM       |    2     

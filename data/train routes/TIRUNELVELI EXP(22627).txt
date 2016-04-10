@@ -1,0 +1,9 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Tiruchchirapali             |        TPJ         |     Start     |     07:15     |       -       |        0 KM        |    1     
+  2   |           Dindigul Junction            |         DG         |     08:35     |     08:37     |     2:00      |       95 KM        |    1     
+  3   |           Madurai Junction             |        MDU         |     09:35     |     09:40     |     5:00      |       161 KM       |    1     
+  4   |         Virudunagar Junction           |        VPT         |     10:30     |     10:32     |     2:00      |       204 KM       |    1     
+  5   |                 Satur                  |        SRT         |     10:44     |     10:45     |     1:00      |       231 KM       |    1     
+  6   |              Kovilpatti                |        CVP         |     11:14     |     11:15     |     1:00      |       252 KM       |    1     
+  7   |         Maniyachchi Junction           |        MEJ         |     11:59     |     12:00     |     1:00      |       288 KM       |    1     
+  8   |              Tirunelveli               |        TEN         |     13:00     |     Ends      |       -       |       317 KM       |    1     

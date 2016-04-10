@@ -1,0 +1,22 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |         Secunderabad Junction          |         SC         |     Start     |     21:15     |       -       |        0 KM        |    1     
+  2   |                Bhongir                 |         BG         |     21:54     |     21:55     |     1:00      |       47 KM        |    1     
+  3   |                 Aler                   |        ALER        |     22:14     |     22:15     |     1:00      |       70 KM        |    1     
+  4   |                Jangaon                 |         ZN         |     22:24     |     22:25     |     1:00      |       84 KM        |    1     
+  5   |           Kazipet Junction             |        KZJ         |     23:18     |     23:20     |     2:00      |       132 KM       |    1     
+  6   |               Warangal                 |         WL         |     23:33     |     23:35     |     2:00      |       142 KM       |    1     
+  7   |                Nekonda                 |        NKD         |     00:00     |     00:01     |     1:00      |       172 KM       |    2     
+  8   |              Mahbubabad                |        MABD        |     00:21     |     00:22     |     1:00      |       203 KM       |    2     
+  9   |           Dornakal Junction            |        DKJ         |     00:54     |     00:55     |     1:00      |       227 KM       |    2     
+  10  |                Khammam                 |        KMT         |     01:09     |     01:10     |     1:00      |       250 KM       |    2     
+  11  |                Madhira                 |        MDR         |     01:39     |     01:40     |     1:00      |       294 KM       |    2     
+  12  |          Vijayawada Junction           |        BZA         |     03:00     |     03:15     |     15:00     |       351 KM       |    2     
+  13  |                 Eluru                  |         EE         |     04:06     |     04:07     |     1:00      |       410 KM       |    2     
+  14  |            Tadepalligudem              |        TDD         |     04:39     |     04:40     |     1:00      |       458 KM       |    2     
+  15  |          Nidadavolu Junction           |        NDD         |     04:57     |     04:58     |     1:00      |       478 KM       |    2     
+  16  |                Kovvur                  |        KVR         |     05:10     |     05:11     |     1:00      |       493 KM       |    2     
+  17  |              Rajamundry                |        RJY         |     05:37     |     05:39     |     2:00      |       500 KM       |    2     
+  18  |               Dwarapudi                |        DWP         |     06:01     |     06:02     |     1:00      |       520 KM       |    2     
+  19  |           Samalkot Junction            |        SLO         |     06:30     |     06:31     |     1:00      |       550 KM       |    2     
+  20  |             Kakinada Town              |        CCT         |     06:50     |     06:55     |     5:00      |       563 KM       |    2     
+  21  |             Kakinada Port              |        COA         |     07:30     |     Ends      |       -       |       565 KM       |    2     

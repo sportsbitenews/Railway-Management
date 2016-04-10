@@ -1,0 +1,27 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Gorakhpur Junction            |        GKP         |     Start     |     08:00     |       -       |        0 KM        |    1     
+  2   |             Deoria Sadar               |        DEOS        |     08:40     |     08:42     |     2:00      |       50 KM        |    1     
+  3   |            Bhatni Junction             |        BTT         |     09:10     |     09:15     |     5:00      |       71 KM        |    1     
+  4   |           Salempur Junction            |        SRU         |     09:28     |     09:30     |     2:00      |       81 KM        |    1     
+  5   |             Belthara Road              |        BLTR        |     09:58     |     10:00     |     2:00      |       104 KM       |    1     
+  6   |             Mau Junction               |        MAU         |     10:40     |     11:05     |     25:00     |       139 KM       |    1     
+  7   |            Indara Junction             |        IAA         |     11:25     |     11:27     |     2:00      |       147 KM       |    1     
+  8   |                 Rasra                  |        RSR         |     12:03     |     12:05     |     2:00      |       175 KM       |    1     
+  9   |           Phephna Junction             |        PEP         |     12:35     |     12:37     |     2:00      |       197 KM       |    1     
+  10  |                Ballia                  |        BUI         |     13:10     |     13:15     |     5:00      |       208 KM       |    1     
+  11  |              Suraimanpur               |        SIP         |     13:53     |     13:55     |     2:00      |       244 KM       |    1     
+  12  |                Chhapra                 |        CPR         |     14:55     |     15:15     |     20:00     |       273 KM       |    1     
+  13  |           Hajipur Junction             |        HJP         |     16:18     |     16:20     |     2:00      |       332 KM       |    1     
+  14  |                Desari                  |        DES         |     16:40     |     16:42     |     2:00      |       352 KM       |    1     
+  15  |            Shahpur Patoree             |        SPP         |     17:10     |     17:12     |     2:00      |       370 KM       |    1     
+  16  |            Mohiuddinnagar              |        MOG         |     17:32     |     17:34     |     2:00      |       383 KM       |    1     
+  17  |           Barauni Junction             |        BJU         |     19:20     |     19:40     |     20:00     |       420 KM       |    1     
+  18  |                Jhajha                  |        JAJ         |     21:45     |     21:50     |     5:00      |       513 KM       |    1     
+  19  |           Jasidih Junction             |        JSME        |     22:22     |     22:27     |     5:00      |       557 KM       |    1     
+  20  |           Madhupur Junction            |        MDP         |     22:52     |     22:55     |     3:00      |       586 KM       |    1     
+  21  |             Chittaranjan               |        CRJ         |     23:37     |     23:39     |     2:00      |       642 KM       |    1     
+  22  |           Asansol Junction             |        ASN         |     00:22     |     00:27     |     5:00      |       667 KM       |    2     
+  23  |               Durgapur                 |        DGR         |     00:58     |     01:00     |     2:00      |       709 KM       |    2     
+  24  |          Barddhaman Junction           |        BWN         |     01:53     |     01:55     |     2:00      |       773 KM       |    2     
+  25  |            Bandel Junction             |        BDC         |     02:55     |     02:57     |     2:00      |       840 KM       |    2     
+  26  |                Kolkata                 |        KOAA        |     04:25     |     Ends      |       -       |       883 KM       |    2     

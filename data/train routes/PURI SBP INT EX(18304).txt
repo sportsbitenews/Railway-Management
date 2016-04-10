@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Puri                   |        PURI        |     Start     |     15:35     |       -       |        0 KM        |    1     
+  2   |         Khurda Road Junction           |        KUR         |     16:25     |     16:30     |     5:00      |       44 KM        |    1     
+  3   |              Bhubaneswar               |        BBS         |     16:55     |     17:00     |     5:00      |       63 KM        |    1     
+  4   |               Dhenkanal                |        DNKL        |     18:04     |     18:05     |     1:00      |       125 KM       |    1     
+  5   |             Meramandolil               |        MRDL        |     18:29     |     18:30     |     1:00      |       158 KM       |    1     
+  6   |             Talcher Road               |        TLHD        |     18:46     |     18:47     |     1:00      |       173 KM       |    1     
+  7   |                 Angul                  |        ANGL        |     19:30     |     19:35     |     5:00      |       185 KM       |    1     
+  8   |                Boinda                  |        BONA        |     20:05     |     20:07     |     2:00      |       224 KM       |    1     
+  9   |               Rairakhol                |        RAIR        |     20:40     |     20:42     |     2:00      |       270 KM       |    1     
+  10  |               Jujumura                 |        JUJA        |     21:15     |     21:17     |     2:00      |       302 KM       |    1     
+  11  |            Sambalpur Road              |        SBPD        |     21:55     |     21:57     |     2:00      |       339 KM       |    1     
+  12  |               Sambalpur                |        SBP         |     22:10     |     Ends      |       -       |       341 KM       |    1     

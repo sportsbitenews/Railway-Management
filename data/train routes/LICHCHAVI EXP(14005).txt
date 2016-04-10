@@ -1,0 +1,41 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Sitamarhi                |        SMI         |     Start     |     02:35     |       -       |        0 KM        |    1     
+  3   |         Muzaffarpur Junction           |        MFP         |     04:20     |     04:50     |     30:00     |       65 KM        |    1     
+  4   |                Goraul                  |        GRL         |     05:19     |     05:20     |     1:00      |       91 KM        |    1     
+  5   |              Bhagwanpur                |        BNR         |     05:29     |     05:30     |     1:00      |       99 KM        |    1     
+  6   |           Hajipur Junction             |        HJP         |     06:04     |     06:05     |     1:00      |       119 KM       |    1     
+  7   |            Sonpur Junction             |        SEE         |     06:15     |     06:20     |     5:00      |       124 KM       |    1     
+  8   |             Parmanandpur               |        PMU         |     06:30     |     06:31     |     1:00      |       131 KM       |    1     
+  9   |               Nayagaon                 |        NYO         |     06:38     |     06:39     |     1:00      |       136 KM       |    1     
+  10  |               Sitalpur                 |        STLR        |     06:47     |     06:48     |     1:00      |       143 KM       |    1     
+  11  |               Dighwara                 |        DGA         |     06:55     |     06:56     |     1:00      |       148 KM       |    1     
+  12  |              Awatarnagar               |        ATNR        |     07:04     |     07:05     |     1:00      |       153 KM       |    1     
+  13  |               Baragopal                |        BAGL        |     07:16     |     07:17     |     1:00      |       158 KM       |    1     
+  14  |              Dumri Juara               |        DRI         |     07:23     |     07:24     |     1:00      |       162 KM       |    1     
+  15  |              Goldinganj                |        GJH         |     07:30     |     07:31     |     1:00      |       167 KM       |    1     
+  16  |            Chhapra Kacheri             |         CI         |     07:59     |     08:00     |     1:00      |       176 KM       |    1     
+  17  |                Chhapra                 |        CPR         |     08:10     |     08:20     |     10:00     |       178 KM       |    1     
+  18  |                 Ekma                   |        EKMA        |     08:42     |     08:43     |     1:00      |       206 KM       |    1     
+  19  |                Chainwa                 |         CW         |     08:55     |     08:56     |     1:00      |       213 KM       |    1     
+  20  |          Duraundha Junction            |        DDA         |     09:07     |     09:08     |     1:00      |       221 KM       |    1     
+  21  |            Siwan Junction              |         SV         |     09:45     |     09:50     |     5:00      |       239 KM       |    1     
+  22  |                Jiradei                 |        ZRDE        |     10:02     |     10:04     |     2:00      |       249 KM       |    1     
+  23  |                Mairwa                  |         MW         |     10:10     |     10:11     |     1:00      |       260 KM       |    1     
+  24  |             Bhatpar Rani               |        BHTR        |     10:26     |     10:27     |     1:00      |       275 KM       |    1     
+  25  |            Bhatni Junction             |        BTT         |     10:55     |     11:20     |     25:00     |       287 KM       |    1     
+  26  |           Salempur Junction            |        SRU         |     11:33     |     11:35     |     2:00      |       298 KM       |    1     
+  27  |               Lar Road                 |        LRD         |     11:45     |     11:46     |     1:00      |       307 KM       |    1     
+  28  |             Belthara Road              |        BLTR        |     12:00     |     12:01     |     1:00      |       320 KM       |    1     
+  29  |             Mau Junction               |        MAU         |     12:35     |     12:40     |     5:00      |       355 KM       |    1     
+  30  |               Jakhanian                |        JKN         |     13:20     |     13:22     |     2:00      |       385 KM       |    1     
+  31  |           Varanasi Junction            |        BSB         |     14:40     |     14:55     |     15:00     |       448 KM       |    1     
+  32  |               Bhulanpur                |        BHLP        |     15:08     |     15:09     |     1:00      |       454 KM       |    1     
+  33  |              Madhosingh                |        MBS         |     15:48     |     15:50     |     2:00      |       495 KM       |    1     
+  34  |             Gyanpur Road               |        GYN         |     16:09     |     16:10     |     1:00      |       508 KM       |    1     
+  35  |            Allahabad City              |        ALY         |     18:33     |     18:35     |     2:00      |       570 KM       |    1     
+  36  |          Allahabad Junction            |        ALD         |     18:50     |     19:15     |     25:00     |       572 KM       |    1     
+  37  |            Kanpur Central              |        CNB         |     21:55     |     22:00     |     5:00      |       767 KM       |    1     
+  38  |           Aligarh Junction             |        ALJN        |     02:05     |     02:07     |     2:00      |      1074 KM       |    2     
+  39  |            Khurja Junction             |        KRJ         |     02:37     |     02:39     |     2:00      |      1118 KM       |    2     
+  40  |               Ghaziabad                |        GZB         |     04:05     |     04:07     |     2:00      |      1180 KM       |    2     
+  41  |            Anand Vihar Trm             |        ANVT        |     04:35     |     Ends      |       -       |      1193 KM       |    2     

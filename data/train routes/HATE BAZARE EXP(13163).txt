@@ -1,0 +1,24 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Sealdah                 |        SDAH        |     Start     |     20:10     |       -       |        0 KM        |    1     
+  2   |           Naihati Junction             |         NH         |     20:59     |     21:02     |     3:00      |       38 KM        |    1     
+  3   |            Bandel Junction             |        BDC         |     21:23     |     21:28     |     5:00      |       47 KM        |    1     
+  4   |         New Farakka Junction           |        NFK         |     03:33     |     03:38     |     5:00      |       304 KM       |    2     
+  5   |              Malda Town                |        MLDT        |     04:30     |     04:45     |     15:00     |       338 KM       |    2     
+  6   |                Eklakhi                 |        EKI         |     05:04     |     05:06     |     2:00      |       358 KM       |    2     
+  7   |                 Samsi                  |         SM         |     05:19     |     05:21     |     2:00      |       373 KM       |    2     
+  8   |            Bhaluka Road F              |        BKRD        |     05:31     |     05:33     |     2:00      |       384 KM       |    2     
+  9   |            Harischandrpur              |        HCR         |     05:42     |     05:44     |     2:00      |       394 KM       |    2     
+  10  |               Kumedpur                 |        KDPR        |     05:56     |     05:58     |     2:00      |       400 KM       |    2     
+  11  |                 Labha                  |        LAV         |     06:16     |     06:17     |     1:00      |       406 KM       |    2     
+  12  |           Katihar Junction             |        KIR         |     07:45     |     08:15     |     30:00     |       429 KM       |    2     
+  13  |                Semapur                 |        SMO         |     08:29     |     08:30     |     1:00      |       441 KM       |    2     
+  14  |             Karagola Road              |        CRR         |     08:40     |     08:41     |     1:00      |       452 KM       |    2     
+  15  |                Kursela                 |        KUE         |     08:54     |     08:55     |     1:00      |       468 KM       |    2     
+  16  |               Naugachia                |        NNA         |     09:15     |     09:16     |     1:00      |       486 KM       |    2     
+  17  |         Thana Bihpur Junction          |        THB         |     09:31     |     09:32     |     1:00      |       502 KM       |    2     
+  18  |              Narayanpur                |        NNR         |     09:41     |     09:42     |     1:00      |       510 KM       |    2     
+  19  |              Mahes Khunt               |        MSK         |     10:04     |     10:05     |     1:00      |       534 KM       |    2     
+  20  |            Mansi Junction              |        MNE         |     10:55     |     11:20     |     25:00     |       544 KM       |    2     
+  21  |                Koparia                 |        KFA         |     11:42     |     11:43     |     1:00      |       566 KM       |    2     
+  22  |            S Bhakhtiyarpur             |        SBV         |     11:54     |     11:55     |     1:00      |       572 KM       |    2     
+  23  |           Saharsa Junction             |        SHC         |     12:35     |     Ends      |       -       |       589 KM       |    2     

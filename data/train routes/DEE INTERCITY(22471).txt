@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Bikaner Junction             |        BKN         |     Start     |     09:15     |       -       |        0 KM        |    1     
+  2   |                Napasar                 |        NPS         |     09:38     |     09:40     |     2:00      |       27 KM        |    1     
+  3   |                Sudsar                  |        SDF         |     09:58     |     10:00     |     2:00      |       50 KM        |    1     
+  4   |            Sri Dungargarh              |        SDGH        |     10:19     |     10:21     |     2:00      |       74 KM        |    1     
+  5   |              Rajaldesar                |        RJR         |     10:55     |     10:57     |     2:00      |       120 KM       |    1     
+  6   |          Ratangarh Junction            |        RTGH        |     11:15     |     11:20     |     5:00      |       138 KM       |    1     
+  7   |                 Churu                  |        CUR         |     11:55     |     12:05     |     10:00     |       181 KM       |    1     
+  8   |           Sadulpur Junction            |        SDLP        |     13:05     |     13:10     |     5:00      |       238 KM       |    1     
+  9   |                Loharu                  |        LHU         |     13:50     |     13:55     |     5:00      |       288 KM       |    1     
+  10  |             Mahendragarh               |        MHRG        |     14:28     |     14:30     |     2:00      |       329 KM       |    1     
+  11  |                Rewari                  |         RE         |     15:50     |     15:55     |     5:00      |       380 KM       |    1     
+  12  |                Gurgaon                 |        GGN         |     16:36     |     16:38     |     2:00      |       431 KM       |    1     
+  13  |              Delhi Cantt               |        DEC         |     16:53     |     16:55     |     2:00      |       448 KM       |    1     
+  14  |            Delhi S Rohilla             |        DEE         |     17:25     |     Ends      |       -       |       458 KM       |    1     

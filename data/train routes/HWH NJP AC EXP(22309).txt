@@ -1,0 +1,9 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Howrah Junction             |        HWH         |     Start     |     23:05     |       -       |        0 KM        |    1     
+  2   |          Barddhaman Junction           |        BWN         |     00:11     |     00:13     |     2:00      |       95 KM        |    2     
+  3   |              Rampur Hat                |        RPH         |     02:08     |     02:10     |     2:00      |       207 KM       |    2     
+  4   |              Malda Town                |        MLDT        |     05:10     |     05:20     |     10:00     |       328 KM       |    2     
+  5   |            Barsoi Junction             |        BOE         |     06:29     |     06:31     |     2:00      |       416 KM       |    2     
+  6   |              Kishanganj                |        KNE         |     07:15     |     07:17     |     2:00      |       473 KM       |    2     
+  7   |             Aluabari Road              |        AUB         |     07:42     |     07:44     |     2:00      |       504 KM       |    2     
+  8   |            New Jalpaiguri              |        NJP         |     09:00     |     Ends      |       -       |       561 KM       |    2     

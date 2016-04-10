@@ -1,0 +1,28 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Gandhidham Bg              |        GIMB        |     Start     |     22:45     |       -       |        0 KM        |    1     
+  2   |              Bhachau Bg                |        BCOB        |     23:18     |     23:20     |     2:00      |       38 KM        |    1     
+  3   |            Samakhiali B G              |        SIOB        |     23:43     |     23:45     |     2:00      |       53 KM        |    1     
+  4   |              Dhrangdhra                |        DHG         |     01:25     |     01:27     |     2:00      |       170 KM       |    2     
+  5   |          Ahmedabad Junction            |        ADI         |     04:10     |     04:30     |     20:00     |       301 KM       |    2     
+  6   |            Anand Junction              |        ANND        |     05:37     |     05:39     |     2:00      |       365 KM       |    2     
+  7   |           Vadodara Junction            |        BRC         |     06:21     |     06:26     |     5:00      |       401 KM       |    2     
+  8   |                 Surat                  |         ST         |     08:15     |     08:30     |     15:00     |       530 KM       |    2     
+  9   |               Nandurbar                |        NDB         |     11:30     |     11:38     |     8:00      |       690 KM       |    2     
+  10  |           Jalgaon Junction             |         JL         |     14:50     |     14:55     |     5:00      |       841 KM       |    2     
+  11  |           Bhusaval Junction            |        BSL         |     15:20     |     15:30     |     10:00     |       865 KM       |    2     
+  12  |                Nagpur                  |        NGP         |     21:40     |     21:50     |     10:00     |      1257 KM       |    2     
+  13  |            Gondia Junction             |         G          |     23:38     |     23:43     |     5:00      |      1387 KM       |    2     
+  14  |                 Durg                   |        DURG        |     01:50     |     01:55     |     5:00      |      1521 KM       |    3     
+  15  |            Raipur Junction             |         R          |     02:40     |     03:05     |     25:00     |      1558 KM       |    3     
+  16  |             Khariar Road               |        KRAR        |     04:33     |     04:35     |     2:00      |      1663 KM       |    3     
+  17  |              Kantabanji                |        KBJ         |     05:30     |     05:40     |     10:00     |      1727 KM       |    3     
+  18  |               Titlagarh                |        TIG         |     06:15     |     06:40     |     25:00     |      1761 KM       |    3     
+  19  |               Balangir                 |        BLGR        |     07:30     |     07:32     |     2:00      |      1824 KM       |    3     
+  20  |             Bargarh Road               |        BRGA        |     08:38     |     08:40     |     2:00      |      1900 KM       |    3     
+  21  |               Sambalpur                |        SBP         |     09:20     |     09:30     |     10:00     |      1942 KM       |    3     
+  22  |                 Angul                  |        ANGL        |     12:15     |     12:17     |     2:00      |      2098 KM       |    3     
+  23  |             Talcher Road               |        TLHD        |     12:30     |     12:32     |     2:00      |      2110 KM       |    3     
+  24  |               Dhenkanal                |        DNKL        |     13:21     |     13:23     |     2:00      |      2159 KM       |    3     
+  25  |              Bhubaneswar               |        BBS         |     14:35     |     14:40     |     5:00      |      2221 KM       |    3     
+  26  |         Khurda Road Junction           |        KUR         |     15:10     |     15:15     |     5:00      |      2239 KM       |    3     
+  27  |                 Puri                   |        PURI        |     16:10     |     Ends      |       -       |      2283 KM       |    3     

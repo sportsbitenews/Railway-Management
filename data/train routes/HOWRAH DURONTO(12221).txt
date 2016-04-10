@@ -1,0 +1,3 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Pune Junction              |        PUNE        |     Start     |     15:15     |       -       |        0 KM        |    1     
+  2   |            Howrah Junction             |        HWH         |     19:40     |     Ends      |       -       |      2020 KM       |    2     

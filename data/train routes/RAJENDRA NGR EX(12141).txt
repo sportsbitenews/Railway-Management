@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Lokmanyatilak T             |        LTT         |     Start     |     23:35     |       -       |        0 KM        |    1     
+  2   |                 Thane                  |        TNA         |     23:52     |     23:55     |     3:00      |       18 KM        |    1     
+  3   |            Kalyan Junction             |        KYN         |     00:18     |     00:21     |     3:00      |       38 KM        |    2     
+  4   |              Nasik Road                |         NK         |     02:58     |     03:00     |     2:00      |       172 KM       |    2     
+  5   |            Manmad Junction             |        MMR         |     03:58     |     04:00     |     2:00      |       245 KM       |    2     
+  6   |           Jalgaon Junction             |         JL         |     05:38     |     05:40     |     2:00      |       405 KM       |    2     
+  7   |           Bhusaval Junction            |        BSL         |     06:05     |     06:20     |     15:00     |       429 KM       |    2     
+  8   |               Jabalpur                 |        JBP         |     14:15     |     14:25     |     10:00     |       981 KM       |    2     
+  9   |                 Satna                  |        STA         |     17:15     |     17:25     |     10:00     |      1170 KM       |    2     
+  10  |         Mughal Sarai Junction          |        MGS         |     00:40     |     00:50     |     10:00     |      1483 KM       |    3     
+  11  |                 Buxar                  |        BXR         |     01:57     |     01:59     |     2:00      |      1577 KM       |    3     
+  12  |                  Ara                   |        ARA         |     02:42     |     02:44     |     2:00      |      1646 KM       |    3     
+  13  |            Patna Junction              |        PNBE        |     04:15     |     04:25     |     10:00     |      1695 KM       |    3     
+  14  |            Rjndr Ngr Bihar             |        RJPB        |     04:40     |     Ends      |       -       |      1697 KM       |    3     

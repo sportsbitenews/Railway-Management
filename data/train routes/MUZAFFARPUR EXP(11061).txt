@@ -1,0 +1,38 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Lokmanyatilak T             |        LTT         |     Start     |     12:15     |       -       |        0 KM        |    1     
+  2   |                 Thane                  |        TNA         |     12:33     |     12:35     |     2:00      |       18 KM        |    1     
+  3   |            Kalyan Junction             |        KYN         |     12:57     |     13:00     |     3:00      |       38 KM        |    1     
+  4   |               Igatpuri                 |        IGP         |     14:40     |     14:45     |     5:00      |       121 KM       |    1     
+  5   |              Nasik Road                |         NK         |     15:33     |     15:35     |     2:00      |       172 KM       |    1     
+  6   |            Manmad Junction             |        MMR         |     16:25     |     16:30     |     5:00      |       245 KM       |    1     
+  7   |          Chalisgaon Junction           |        CSN         |     17:15     |     17:17     |     2:00      |       312 KM       |    1     
+  8   |           Pachora Junction             |         PC         |     17:43     |     17:45     |     2:00      |       357 KM       |    1     
+  9   |           Jalgaon Junction             |         JL         |     18:23     |     18:25     |     2:00      |       405 KM       |    1     
+  10  |           Bhusaval Junction            |        BSL         |     18:55     |     19:05     |     10:00     |       429 KM       |    1     
+  11  |               Burhanpur                |        BAU         |     19:53     |     19:55     |     2:00      |       483 KM       |    1     
+  12  |                Khandwa                 |        KNW         |     21:25     |     21:30     |     5:00      |       552 KM       |    1     
+  13  |            Itarsi Junction             |         ET         |     00:15     |     00:25     |     10:00     |       736 KM       |    2     
+  14  |               Pipariya                 |        PPI         |     01:18     |     01:20     |     2:00      |       803 KM       |    2     
+  15  |              Narsinghpur               |         NU         |     02:20     |     02:22     |     2:00      |       897 KM       |    2     
+  16  |               Jabalpur                 |        JBP         |     03:40     |     03:50     |     10:00     |       981 KM       |    2     
+  17  |                 Katni                  |        KTE         |     05:10     |     05:15     |     5:00      |      1072 KM       |    2     
+  18  |                Maihar                  |        MYR         |     06:05     |     06:07     |     2:00      |      1135 KM       |    2     
+  19  |                 Satna                  |        STA         |     06:45     |     06:55     |     10:00     |      1170 KM       |    2     
+  20  |           Manikpur Junction            |        MKP         |     08:50     |     08:55     |     5:00      |      1247 KM       |    2     
+  21  |                 Naini                  |        NYN         |     10:20     |     10:22     |     2:00      |      1340 KM       |    2     
+  22  |          Allahabad Junction            |        ALD         |     10:40     |     11:05     |     25:00     |      1348 KM       |    2     
+  23  |            Allahabad City              |        ALY         |     11:13     |     11:15     |     2:00      |      1350 KM       |    2     
+  24  |             Gyanpur Road               |        GYN         |     12:23     |     12:25     |     2:00      |      1412 KM       |    2     
+  25  |               Bhulanpur                |        BHLP        |     13:21     |     13:23     |     2:00      |      1466 KM       |    2     
+  26  |           Varanasi Junction            |        BSB         |     13:55     |     14:05     |     10:00     |      1472 KM       |    2     
+  27  |             Varanasi City              |        BCY         |     14:13     |     14:15     |     2:00      |      1476 KM       |    2     
+  28  |           Aunrihar Junction            |        ARJ         |     15:03     |     15:05     |     2:00      |      1507 KM       |    2     
+  29  |             Ghazipur City              |        GCT         |     15:50     |     15:55     |     5:00      |      1547 KM       |    2     
+  30  |               Yusufpur                 |        YFP         |     16:13     |     16:15     |     2:00      |      1567 KM       |    2     
+  31  |                Ballia                  |        BUI         |     17:30     |     17:35     |     5:00      |      1612 KM       |    2     
+  32  |              Suraimanpur               |        SIP         |     18:43     |     18:45     |     2:00      |      1649 KM       |    2     
+  33  |                Chhapra                 |        CPR         |     19:30     |     19:50     |     20:00     |      1677 KM       |    2     
+  34  |               Dighwara                 |        DGA         |     20:18     |     20:20     |     2:00      |      1708 KM       |    2     
+  35  |            Sonpur Junction             |        SEE         |     20:45     |     20:50     |     5:00      |      1731 KM       |    2     
+  36  |           Hajipur Junction             |        HJP         |     21:02     |     21:05     |     3:00      |      1737 KM       |    2     
+  37  |         Muzaffarpur Junction           |        MFP         |     22:30     |     Ends      |       -       |      1790 KM       |    2     

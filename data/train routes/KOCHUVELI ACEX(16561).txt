@@ -1,0 +1,14 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Yesvantpur Junction           |        YPR         |     Start     |     15:20     |       -       |        0 KM        |    1     
+  2   |            Krishnarajapurm             |        KJM         |     16:07     |     16:08     |     1:00      |       23 KM        |    1     
+  3   |            Salem Junction              |         SA         |     19:47     |     19:50     |     3:00      |       277 KM       |    1     
+  4   |            Erode Junction              |         ED         |     20:45     |     20:50     |     5:00      |       340 KM       |    1     
+  5   |               Tiruppur                 |        TUP         |     21:33     |     21:35     |     2:00      |       390 KM       |    1     
+  6   |          Coimbatore Junction           |        CBE         |     22:35     |     22:40     |     5:00      |       440 KM       |    1     
+  7   |               Palakkad                 |        PGT         |     23:52     |     23:55     |     3:00      |       495 KM       |    1     
+  8   |                Thrisur                 |        TCR         |     01:07     |     01:10     |     3:00      |       572 KM       |    2     
+  9   |            Ernakulam Town              |        ERN         |     02:25     |     02:30     |     5:00      |       644 KM       |    2     
+  10  |               Kottayam                 |        KTYM        |     03:32     |     03:35     |     3:00      |       706 KM       |    2     
+  11  |              Chengannur                |        CNGR        |     04:13     |     04:15     |     2:00      |       740 KM       |    2     
+  12  |            Kollam Junction             |        QLN         |     05:20     |     05:25     |     5:00      |       802 KM       |    2     
+  13  |               Kochuveli                |        KCVL        |     06:50     |     Ends      |       -       |       860 KM       |    2     

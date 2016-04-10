@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Radhikapur                |        RDP         |     Start     |     17:50     |       -       |        0 KM        |    1     
+  2   |              Kaliyanganj               |        KAJ         |     18:02     |     18:04     |     2:00      |       13 KM        |    1     
+  3   |                Raiganj                 |        RGJ         |     18:21     |     18:31     |     10:00     |       33 KM        |    1     
+  4   |            Barsoi Junction             |        BOE         |     18:52     |     18:54     |     2:00      |       54 KM        |    1     
+  5   |            Harischandrpur              |        HCR         |     19:27     |     19:28     |     1:00      |       87 KM        |    1     
+  6   |            Bhaluka Road F              |        BKRD        |     19:38     |     19:39     |     1:00      |       97 KM        |    1     
+  7   |                 Samsi                  |         SM         |     19:50     |     19:51     |     1:00      |       107 KM       |    1     
+  8   |              Malda Town                |        MLDT        |     21:00     |     21:10     |     10:00     |       142 KM       |    1     
+  9   |         New Farakka Junction           |        NFK         |     21:45     |     21:50     |     5:00      |       176 KM       |    1     
+  10  |            Bandel Junction             |        BDC         |     04:20     |     04:22     |     2:00      |       433 KM       |    2     
+  11  |           Naihati Junction             |         NH         |     04:44     |     04:46     |     2:00      |       442 KM       |    2     
+  12  |                Kolkata                 |        KOAA        |     05:35     |     Ends      |       -       |       476 KM       |    2     

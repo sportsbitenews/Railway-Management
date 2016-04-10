@@ -1,0 +1,28 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Rajkot Junction             |        RJT         |     Start     |     05:10     |       -       |        0 KM        |    1     
+  2   |           Wankaner Junction            |        WKR         |     06:09     |     06:11     |     2:00      |       42 KM        |    1     
+  3   |             Surendranagar              |        SUNR        |     07:10     |     07:12     |     2:00      |       117 KM       |    1     
+  4   |           Viramgam Junction            |         VG         |     08:29     |     08:31     |     2:00      |       182 KM       |    1     
+  5   |          Ahmedabad Junction            |        ADI         |     09:40     |     10:00     |     20:00     |       247 KM       |    1     
+  6   |            Nadiad Junction             |         ND         |     10:51     |     10:53     |     2:00      |       293 KM       |    1     
+  7   |            Anand Junction              |        ANND        |     11:08     |     11:10     |     2:00      |       311 KM       |    1     
+  8   |           Vadodara Junction            |        BRC         |     12:00     |     12:02     |     2:00      |       347 KM       |    1     
+  9   |          Ankleshwar Junction           |        AKV         |     12:58     |     13:00     |     2:00      |       426 KM       |    1     
+  10  |                 Surat                  |         ST         |     14:25     |     14:35     |     10:00     |       476 KM       |    1     
+  11  |                Valsad                  |         BL         |     15:31     |     15:33     |     2:00      |       544 KM       |    1     
+  12  |                 Vapi                   |        VAPI        |     15:53     |     15:55     |     2:00      |       569 KM       |    1     
+  13  |              Vasai Road                |        BSR         |     18:20     |     18:30     |     10:00     |       691 KM       |    1     
+  14  |             Bhiwandi Road              |        BIRD        |     18:53     |     18:55     |     2:00      |       718 KM       |    1     
+  15  |            Kalyan Junction             |        KYN         |     19:42     |     19:45     |     3:00      |       743 KM       |    1     
+  16  |                Karjat                  |        KJT         |     20:28     |     20:30     |     2:00      |       790 KM       |    1     
+  17  |               Lonavala                 |        LNL         |     21:18     |     21:20     |     2:00      |       818 KM       |    1     
+  18  |             Pune Junction              |        PUNE        |     22:25     |     22:30     |     5:00      |       882 KM       |    1     
+  19  |            Daund Junction              |         DD         |     23:50     |     23:55     |     5:00      |       957 KM       |    1     
+  20  |           Solapur Junction             |        SUR         |     02:50     |     03:00     |     10:00     |      1145 KM       |    2     
+  21  |               Gulbarga                 |         GR         |     04:51     |     04:53     |     2:00      |      1258 KM       |    2     
+  22  |                 Wadi                   |        WADI        |     05:55     |     06:00     |     5:00      |      1295 KM       |    2     
+  23  |               Chittapur                |         CT         |     06:24     |     06:25     |     1:00      |      1310 KM       |    2     
+  24  |                 Seram                  |        SEM         |     06:31     |     06:32     |     1:00      |      1332 KM       |    2     
+  25  |                Tandur                  |        TDU         |     06:58     |     07:00     |     2:00      |      1365 KM       |    2     
+  26  |               Begampet                 |        BMT         |     09:25     |     09:27     |     2:00      |      1474 KM       |    2     
+  27  |         Secunderabad Junction          |         SC         |     10:30     |     Ends      |       -       |      1478 KM       |    2     

@@ -1,0 +1,14 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Kolkata                 |        KOAA        |     Start     |     20:05     |       -       |        0 KM        |    1     
+  2   |               Durgapur                 |        DGR         |     22:12     |     22:14     |     2:00      |       161 KM       |    1     
+  3   |           Asansol Junction             |        ASN         |     22:46     |     22:51     |     5:00      |       203 KM       |    1     
+  4   |           Madhupur Junction            |        MDP         |     23:57     |     23:59     |     2:00      |       284 KM       |    1     
+  5   |           Jasidih Junction             |        JSME        |     00:24     |     00:26     |     2:00      |       313 KM       |    2     
+  6   |                Jhajha                  |        JAJ         |     01:45     |     01:50     |     5:00      |       357 KM       |    2     
+  7   |                 Jamui                  |        JMU         |     02:09     |     02:10     |     1:00      |       383 KM       |    2     
+  8   |             Kiul Junction              |        KIUL        |     02:35     |     02:37     |     2:00      |       411 KM       |    2     
+  9   |           Mokameh Junction             |        MKA         |     03:28     |     03:30     |     2:00      |       445 KM       |    2     
+  10  |         Bakhtiyarpur Junction          |        BKP         |     04:08     |     04:10     |     2:00      |       489 KM       |    2     
+  11  |              Patna Saheb               |        PNC         |     05:07     |     05:09     |     2:00      |       524 KM       |    2     
+  12  |            Rjndr Ngr Bihar             |        RJPB        |     05:21     |     05:23     |     2:00      |       532 KM       |    2     
+  13  |            Patna Junction              |        PNBE        |     05:30     |     Ends      |       -       |       534 KM       |    2     

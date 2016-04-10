@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Darbhanga Junction            |        DBG         |     Start     |     15:45     |       -       |        0 KM        |    1     
+  2   |          Samastipur Junction           |        SPJ         |     16:40     |     16:45     |     5:00      |       38 KM        |    1     
+  3   |           Barauni Junction             |        BJU         |     17:40     |     18:00     |     20:00     |       89 KM        |    1     
+  4   |                Jhajha                  |        JAJ         |     20:25     |     20:30     |     5:00      |       182 KM       |    1     
+  5   |           Jasidih Junction             |        JSME        |     21:08     |     21:13     |     5:00      |       226 KM       |    1     
+  6   |           Madhupur Junction            |        MDP         |     21:41     |     21:46     |     5:00      |       255 KM       |    1     
+  7   |             Chittaranjan               |        CRJ         |     22:36     |     22:38     |     2:00      |       311 KM       |    1     
+  8   |           Asansol Junction             |        ASN         |     23:15     |     23:20     |     5:00      |       336 KM       |    1     
+  9   |               Durgapur                 |        DGR         |     00:03     |     00:05     |     2:00      |       378 KM       |    2     
+  10  |          Barddhaman Junction           |        BWN         |     01:10     |     01:15     |     5:00      |       442 KM       |    2     
+  11  |            Howrah Junction             |        HWH         |     03:00     |     Ends      |       -       |       536 KM       |    2     

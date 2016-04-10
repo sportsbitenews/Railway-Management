@@ -1,0 +1,60 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Howrah Junction             |        HWH         |     Start     |     11:45     |       -       |        0 KM        |    1     
+  2   |                Mecheda                 |        MCA         |     12:38     |     12:40     |     2:00      |       59 KM        |    1     
+  3   |               Panskura                 |        PKU         |     12:54     |     12:55     |     1:00      |       71 KM        |    1     
+  4   |          Kharagpur Junction            |        KGP         |     13:47     |     13:52     |     5:00      |       116 KM       |    1     
+  5   |                 Belda                  |        BLDA        |     14:21     |     14:23     |     2:00      |       154 KM       |    1     
+  6   |               Jaleswar                 |        JER         |     14:48     |     14:50     |     2:00      |       187 KM       |    1     
+  7   |                 Basta                  |        BTS         |     15:08     |     15:10     |     2:00      |       206 KM       |    1     
+  8   |            Rupsa Junction              |        ROP         |     15:23     |     15:25     |     2:00      |       216 KM       |    1     
+  9   |               Balasore                 |        BLS         |     15:45     |     15:50     |     5:00      |       234 KM       |    1     
+  10  |                 Soro                   |        SORO        |     16:13     |     16:15     |     2:00      |       267 KM       |    1     
+  11  |                Markona                 |        MKO         |     16:28     |     16:30     |     2:00      |       282 KM       |    1     
+  12  |               Bhadrakh                 |        BHC         |     17:13     |     17:15     |     2:00      |       296 KM       |    1     
+  13  |            Baitarani Road              |        BTV         |     17:38     |     17:39     |     1:00      |       328 KM       |    1     
+  14  |              Korai Halt                |        KRIH        |     17:45     |     17:46     |     1:00      |       335 KM       |    1     
+  15  |             Jajpur K Road              |        JJKR        |     17:52     |     17:54     |     2:00      |       340 KM       |    1     
+  16  |              Dhanmandal                |        DNM         |     18:20     |     18:21     |     1:00      |       376 KM       |    1     
+  17  |                Cuttack                 |        CTC         |     18:55     |     19:00     |     5:00      |       412 KM       |    1     
+  18  |                Barang                  |        BRAG        |     19:20     |     19:21     |     1:00      |       423 KM       |    1     
+  19  |              Bhubaneswar               |        BBS         |     19:45     |     19:50     |     5:00      |       439 KM       |    1     
+  20  |         Khurda Road Junction           |        KUR         |     20:25     |     20:40     |     15:00     |       458 KM       |    1     
+  21  |              Nirakarpur                |        NKP         |     21:01     |     21:02     |     1:00      |       484 KM       |    1     
+  22  |             Kalupara Ghat              |        KAPG        |     21:15     |     21:16     |     1:00      |       502 KM       |    1     
+  23  |                Balugan                 |        BALU        |     21:37     |     21:38     |     1:00      |       529 KM       |    1     
+  24  |                Chilka                  |        CLKA        |     21:45     |     21:46     |     1:00      |       536 KM       |    1     
+  25  |               Khallikot                |        KIT         |     21:56     |     21:57     |     1:00      |       546 KM       |    1     
+  26  |               Chatrapur                |        CAP         |     22:23     |     22:24     |     1:00      |       584 KM       |    1     
+  27  |               Brahmapur                |        BAM         |     22:40     |     22:45     |     5:00      |       605 KM       |    1     
+  28  |              Ichchpuram                |        IPM         |     23:06     |     23:07     |     1:00      |       629 KM       |    1     
+  29  |                Sompeta                 |        SPT         |     23:29     |     23:30     |     1:00      |       647 KM       |    1     
+  30  |                Palasa                  |        PSA         |     00:33     |     00:35     |     2:00      |       679 KM       |    2     
+  31  |           Naupada Junction             |        NWP         |     00:56     |     00:57     |     1:00      |       705 KM       |    2     
+  32  |            Srikakulam Road             |        CHE         |     01:33     |     01:35     |     2:00      |       752 KM       |    2     
+  33  |             Chipurupalle               |        CPP         |     02:04     |     02:05     |     1:00      |       791 KM       |    2     
+  34  |         Vizianagram Junction           |        VZM         |     02:35     |     02:40     |     5:00      |       821 KM       |    2     
+  35  |              Kottavalasa               |        KTV         |     03:08     |     03:10     |     2:00      |       856 KM       |    2     
+  36  |              Simhachalam               |        SCM         |     03:26     |     03:27     |     1:00      |       874 KM       |    2     
+  37  |             Vishakapatnam              |        VSKP        |     03:55     |     04:15     |     20:00     |       882 KM       |    2     
+  38  |                Duvvada                 |        DVD         |     04:45     |     04:47     |     2:00      |       900 KM       |    2     
+  39  |              Anakapalle                |        AKP         |     05:09     |     05:10     |     1:00      |       915 KM       |    2     
+  40  |             Ellamanchili               |        YLM         |     05:34     |     05:35     |     1:00      |       939 KM       |    2     
+  41  |                 Tuni                   |        TUNI        |     06:09     |     06:10     |     1:00      |       979 KM       |    2     
+  42  |               Annavaram                |        ANV         |     06:26     |     06:27     |     1:00      |       996 KM       |    2     
+  43  |              Pithapuram                |        PAP         |     06:59     |     07:00     |     1:00      |      1021 KM       |    2     
+  44  |           Samalkot Junction            |        SLO         |     07:09     |     07:10     |     1:00      |      1033 KM       |    2     
+  45  |               Dwarapudi                |        DWP         |     07:39     |     07:40     |     1:00      |      1063 KM       |    2     
+  46  |              Rajamundry                |        RJY         |     08:10     |     08:12     |     2:00      |      1083 KM       |    2     
+  47  |          Nidadavolu Junction           |        NDD         |     08:36     |     08:37     |     1:00      |      1105 KM       |    2     
+  48  |            Tadepalligudem              |        TDD         |     08:53     |     08:54     |     1:00      |      1125 KM       |    2     
+  49  |                 Eluru                  |         EE         |     09:25     |     09:26     |     1:00      |      1173 KM       |    2     
+  50  |          Vijayawada Junction           |        BZA         |     11:15     |     11:35     |     20:00     |      1232 KM       |    2     
+  51  |                Khammam                 |        KMT         |     12:40     |     12:42     |     2:00      |      1334 KM       |    2     
+  52  |              Mahbubabad                |        MABD        |     13:25     |     13:26     |     1:00      |      1381 KM       |    2     
+  53  |               Warangal                 |         WL         |     14:28     |     14:30     |     2:00      |      1441 KM       |    2     
+  54  |           Kazipet Junction             |        KZJ         |     14:43     |     14:45     |     2:00      |      1451 KM       |    2     
+  55  |                Jangaon                 |         ZN         |     15:31     |     15:32     |     1:00      |      1499 KM       |    2     
+  56  |                 Aler                   |        ALER        |     15:55     |     15:56     |     1:00      |      1513 KM       |    2     
+  57  |                Bhongir                 |         BG         |     16:26     |     16:27     |     1:00      |      1536 KM       |    2     
+  58  |         Secunderabad Junction          |         SC         |     18:00     |     18:05     |     5:00      |      1583 KM       |    2     
+  59  |            Hyderabad Decan             |        HYB         |     18:30     |     Ends      |       -       |      1592 KM       |    2     

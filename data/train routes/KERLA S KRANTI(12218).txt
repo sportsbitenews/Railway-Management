@@ -1,0 +1,22 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Chandigarh                |        CDG         |     Start     |     08:55     |       -       |        0 KM        |    1     
+  2   |         Ambala Cant Junction           |        UMB         |     10:15     |     10:20     |     5:00      |       68 KM        |    1     
+  3   |               New Delhi                |        NDLS        |     13:20     |     13:40     |     20:00     |       266 KM       |    1     
+  4   |             H Nizamuddin               |        NZM         |     13:53     |     13:55     |     2:00      |       274 KM       |    1     
+  5   |             Kota Junction              |        KOTA        |     19:45     |     19:55     |     10:00     |       731 KM       |    1     
+  6   |           Vadodara Junction            |        BRC         |     04:05     |     04:29     |     24:00     |      1259 KM       |    2     
+  7   |              Vasai Road                |        BSR         |     10:50     |     11:00     |     10:00     |      1603 KM       |    2     
+  8   |                Panvel                  |        PNVL        |     12:25     |     12:30     |     5:00      |      1670 KM       |    2     
+  9   |                Madgaon                 |        MAO         |     20:55     |     21:05     |     10:00     |      2367 KM       |    2     
+  10  |                 Udupi                  |         UD         |     00:50     |     00:52     |     2:00      |      2716 KM       |    3     
+  11  |          Mangalore Junction            |        MAJN        |     02:15     |     02:25     |     10:00     |      2797 KM       |    3     
+  12  |               Kasaragod                |        KGQ         |     03:03     |     03:05     |     2:00      |      2849 KM       |    3     
+  13  |                Kannur                  |        CAN         |     04:15     |     04:20     |     5:00      |      2934 KM       |    3     
+  14  |               Kozhikode                |        CLT         |     05:45     |     05:50     |     5:00      |      3023 KM       |    3     
+  15  |           Shoranur Junction            |        SRR         |     07:55     |     08:05     |     10:00     |      3109 KM       |    3     
+  16  |                Thrisur                 |        TCR         |     08:33     |     08:36     |     3:00      |      3142 KM       |    3     
+  17  |          Eranakulam Junction           |        ERS         |     10:15     |     10:20     |     5:00      |      3216 KM       |    3     
+  18  |               Alleppey                 |        ALLP        |     11:20     |     11:22     |     2:00      |      3273 KM       |    3     
+  19  |          Kayankulam Junction           |        KYJ         |     12:20     |     12:22     |     2:00      |      3316 KM       |    3     
+  20  |            Kollam Junction             |        QLN         |     13:15     |     13:20     |     5:00      |      3357 KM       |    3     
+  21  |               Kochuveli                |        KCVL        |     14:45     |     Ends      |       -       |      3415 KM       |    3     

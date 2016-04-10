@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Anand Vihar Trm             |        ANVT        |     Start     |     21:15     |       -       |        0 KM        |    1     
+  2   |               Ghaziabad                |        GZB         |     21:40     |     21:42     |     2:00      |       13 KM        |    1     
+  3   |           Aligarh Junction             |        ALJN        |     23:17     |     23:22     |     5:00      |       119 KM       |    1     
+  4   |               Jhinjhak                 |        JJK         |     02:08     |     02:10     |     2:00      |       365 KM       |    2     
+  5   |            Kanpur Central              |        CNB         |     03:20     |     03:25     |     5:00      |       427 KM       |    2     
+  6   |               Fatehpur                 |        FTP         |     04:21     |     04:23     |     2:00      |       504 KM       |    2     
+  7   |          Allahabad Junction            |        ALD         |     06:35     |     06:55     |     20:00     |       621 KM       |    2     
+  8   |              Shankargarh               |        SRJ         |     07:40     |     07:42     |     2:00      |       666 KM       |    2     
+  9   |               Dabhaura                 |        DBR         |     08:07     |     08:09     |     2:00      |       699 KM       |    2     
+  10  |           Manikpur Junction            |        MKP         |     08:43     |     08:45     |     2:00      |       721 KM       |    2     
+  11  |                 Satna                  |        STA         |     09:50     |     10:00     |     10:00     |       799 KM       |    2     
+  12  |                 Rewa                   |        REWA        |     11:00     |     Ends      |       -       |       848 KM       |    2     

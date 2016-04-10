@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Guwahati                 |        GHY         |     Start     |     21:20     |       -       |        0 KM        |    1     
+  2   |               Kamakhya                 |        KYQ         |     21:36     |     21:37     |     1:00      |        7 KM        |    1     
+  3   |               Changsari                |        CGS         |     21:57     |     21:58     |     1:00      |       22 KM        |    1     
+  4   |           Rangiya Junction             |        RNY         |     22:20     |     22:45     |     25:00     |       48 KM        |    1     
+  5   |                Tangla                  |        TNL         |     23:36     |     23:37     |     1:00      |       87 KM        |    1     
+  6   |               Udalguri                 |        ULG         |     00:03     |     00:05     |     2:00      |       109 KM       |    2     
+  7   |            DHEKIAJILI ROAD             |        DKJR        |     00:45     |     00:47     |     2:00      |       148 KM       |    2     
+  8   |            Rangapara North             |        RPAN        |     01:50     |     02:00     |     10:00     |       171 KM       |    2     
+  9   |            Viswanath Chrli             |        VNE         |     02:49     |     02:51     |     2:00      |       222 KM       |    2     
+  10  |                Gohpur                  |        GPZ         |     03:40     |     03:41     |     1:00      |       273 KM       |    2     
+  11  |               Tatibahar                |        TBH         |     04:08     |     04:09     |     1:00      |       296 KM       |    2     
+  12  |                Harmuti                 |        HMY         |     04:40     |     04:50     |     10:00     |       314 KM       |    2     

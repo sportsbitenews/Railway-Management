@@ -1,0 +1,34 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Pune Junction              |        PUNE        |     Start     |     23:10     |       -       |        0 KM        |    1     
+  2   |                Satara                  |        STR         |     02:22     |     02:25     |     3:00      |       146 KM       |    2     
+  3   |                 Karad                  |        KRD         |     03:27     |     03:30     |     3:00      |       204 KM       |    2     
+  4   |                Sangli                  |        SLI         |     04:27     |     04:30     |     3:00      |       272 KM       |    2     
+  5   |            Miraj Junction              |        MRJ         |     05:25     |     05:30     |     5:00      |       280 KM       |    2     
+  6   |              Ghatprabha                |        GPB         |     06:38     |     06:40     |     2:00      |       359 KM       |    2     
+  7   |                Belgaum                 |        BGM         |     07:45     |     07:50     |     5:00      |       417 KM       |    2     
+  8   |            Londa Junction              |         LD         |     09:05     |     09:15     |     10:00     |       468 KM       |    2     
+  9   |              Castle Rock               |        CLR         |     10:10     |     10:20     |     10:00     |       492 KM       |    2     
+  10  |                 Kulem                  |        QLM         |     11:45     |     11:50     |     5:00      |       551 KM       |    2     
+  11  |            Sanverdam Chuch             |        SVM         |     12:08     |     12:10     |     2:00      |       570 KM       |    2     
+  12  |                Madgaon                 |        MAO         |     13:00     |     13:20     |     20:00     |       585 KM       |    2     
+  13  |                Karwar                  |        KAWR        |     14:06     |     14:08     |     2:00      |       667 KM       |    2     
+  14  |             Gokarna Road               |        GOK         |     14:46     |     14:48     |     2:00      |       718 KM       |    2     
+  15  |                 Kumta                  |         KT         |     15:04     |     15:06     |     2:00      |       744 KM       |    2     
+  16  |               Honnavar                 |        HNA         |     15:20     |     15:22     |     2:00      |       764 KM       |    2     
+  17  |              Murdeshwar                |        MRDW        |     15:44     |     15:46     |     2:00      |       800 KM       |    2     
+  18  |                Bhatkal                 |        BTJL        |     16:00     |     16:02     |     2:00      |       821 KM       |    2     
+  19  |               Kundapura                |        KUDA        |     17:00     |     17:02     |     2:00      |       890 KM       |    2     
+  20  |                 Udupi                  |         UD         |     17:38     |     17:40     |     2:00      |       935 KM       |    2     
+  21  |          Mangalore Junction            |        MAJN        |     19:20     |     19:25     |     5:00      |      1016 KM       |    2     
+  22  |               Kasaragod                |        KGQ         |     20:03     |     20:05     |     2:00      |      1067 KM       |    2     
+  23  |               Kanhangad                |        KZE         |     20:23     |     20:25     |     2:00      |      1090 KM       |    2     
+  24  |               Payyanur                 |        PAY         |     20:48     |     20:50     |     2:00      |      1119 KM       |    2     
+  25  |                Kannur                  |        CAN         |     21:22     |     21:25     |     3:00      |      1153 KM       |    2     
+  26  |              Thalassery                |        TLY         |     21:43     |     21:45     |     2:00      |      1174 KM       |    2     
+  27  |               Kozhikode                |        CLT         |     22:47     |     22:50     |     3:00      |      1242 KM       |    2     
+  28  |                 Tirur                  |        TIR         |     23:28     |     23:30     |     2:00      |      1283 KM       |    2     
+  29  |           Shoranur Junction            |        SRR         |     00:20     |     00:30     |     10:00     |      1328 KM       |    3     
+  30  |                Thrisur                 |        TCR         |     01:18     |     01:20     |     2:00      |      1361 KM       |    3     
+  31  |                 Aluva                  |        AWY         |     02:05     |     02:07     |     2:00      |      1415 KM       |    3     
+  32  |            Ernakulam Town              |        ERN         |     02:20     |     02:22     |     2:00      |      1432 KM       |    3     
+  33  |          Eranakulam Junction           |        ERS         |     03:25     |     Ends      |       -       |      1435 KM       |    3     

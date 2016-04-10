@@ -1,0 +1,10 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Ranchi                  |        RNC         |     Start     |     13:45     |       -       |        0 KM        |    1     
+  2   |                 Muri                   |        MURI        |     14:53     |     14:55     |     2:00      |       66 KM        |    1     
+  3   |            Bokaro Stl City             |        BKSC        |     16:00     |     16:05     |     5:00      |       118 KM       |    1     
+  4   |              Chandrapura               |        CRP         |     16:35     |     16:37     |     2:00      |       133 KM       |    1     
+  5   |           Dhanbad Junction             |        DHN         |     17:31     |     17:36     |     5:00      |       167 KM       |    1     
+  6   |           Asansol Junction             |        ASN         |     18:24     |     18:26     |     2:00      |       226 KM       |    1     
+  7   |               Raniganj                 |        RNG         |     18:39     |     18:40     |     1:00      |       244 KM       |    1     
+  8   |               Durgapur                 |        DGR         |     18:58     |     19:00     |     2:00      |       268 KM       |    1     
+  9   |            Howrah Junction             |        HWH         |     21:10     |     Ends      |       -       |       426 KM       |    1     

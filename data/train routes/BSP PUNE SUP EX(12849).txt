@@ -1,0 +1,19 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Bilaspur Junction            |        BSP         |     Start     |     11:35     |       -       |        0 KM        |    1     
+  2   |               Bhatapara                |        BYT         |     12:11     |     12:13     |     2:00      |       47 KM        |    1     
+  3   |            Raipur Junction             |         R          |     13:10     |     13:20     |     10:00     |       111 KM       |    1     
+  4   |                 Durg                   |        DURG        |     14:15     |     14:20     |     5:00      |       147 KM       |    1     
+  5   |             Raj Nandgaon               |        RJN         |     14:41     |     14:43     |     2:00      |       177 KM       |    1     
+  6   |            Gondia Junction             |         G          |     16:08     |     16:10     |     2:00      |       281 KM       |    1     
+  7   |                Nagpur                  |        NGP         |     18:20     |     18:35     |     15:00     |       411 KM       |    1     
+  8   |            Wardha Junction             |         WR         |     19:42     |     19:45     |     3:00      |       490 KM       |    1     
+  9   |           Badnera Junction             |         BD         |     21:27     |     21:30     |     3:00      |       586 KM       |    1     
+  10  |            Akola Junction              |         AK         |     22:25     |     22:30     |     5:00      |       664 KM       |    1     
+  11  |           Bhusaval Junction            |        BSL         |     00:30     |     00:45     |     15:00     |       804 KM       |    2     
+  12  |           Jalgaon Junction             |         JL         |     01:11     |     01:12     |     1:00      |       828 KM       |    2     
+  13  |            Manmad Junction             |        MMR         |     03:20     |     03:25     |     5:00      |       988 KM       |    2     
+  14  |               Kopargaon                |        KPG         |     04:19     |     04:20     |     1:00      |      1030 KM       |    2     
+  15  |                Belapur                 |        BAP         |     04:59     |     05:00     |     1:00      |      1074 KM       |    2     
+  16  |              Ahmadnagar                |        ANG         |     05:50     |     05:55     |     5:00      |      1141 KM       |    2     
+  17  |            Daund Junction              |         DD         |     08:00     |     08:15     |     15:00     |      1225 KM       |    2     
+  18  |             Pune Junction              |        PUNE        |     09:45     |     Ends      |       -       |      1300 KM       |    2     

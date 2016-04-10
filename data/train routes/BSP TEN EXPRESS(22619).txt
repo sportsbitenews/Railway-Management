@@ -1,0 +1,30 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Bilaspur Junction            |        BSP         |     Start     |     08:10     |       -       |        0 KM        |    1     
+  2   |               Bhatapara                |        BYT         |     08:44     |     08:46     |     2:00      |       47 KM        |    1     
+  3   |            Raipur Junction             |         R          |     10:00     |     10:10     |     10:00     |       111 KM       |    1     
+  4   |                 Durg                   |        DURG        |     10:55     |     11:00     |     5:00      |       147 KM       |    1     
+  5   |             Raj Nandgaon               |        RJN         |     11:21     |     11:23     |     2:00      |       177 KM       |    1     
+  6   |              Dongargarh                |        DGG         |     11:44     |     11:46     |     2:00      |       208 KM       |    1     
+  7   |            Gondia Junction             |         G          |     12:53     |     12:55     |     2:00      |       281 KM       |    1     
+  8   |              Tumsar Road               |        TMR         |     13:28     |     13:30     |     2:00      |       331 KM       |    1     
+  9   |             Bhandara Road              |        BRD         |     13:44     |     13:46     |     2:00      |       349 KM       |    1     
+  10  |                Nagpur                  |        NGP         |     15:05     |     15:15     |     10:00     |       411 KM       |    1     
+  11  |              Balharshah                |        BPQ         |     18:40     |     19:00     |     20:00     |       623 KM       |    1     
+  12  |               Warangal                 |         WL         |     23:10     |     23:12     |     2:00      |       865 KM       |    1     
+  13  |          Vijayawada Junction           |        BZA         |     02:50     |     03:00     |     10:00     |      1073 KM       |    2     
+  14  |          Renigunta Junction            |         RU         |     09:25     |     09:35     |     10:00     |      1449 KM       |    2     
+  15  |           Katpadi Junction             |        KPD         |     11:30     |     11:35     |     5:00      |      1582 KM       |    2     
+  16  |            Salem Junction              |         SA         |     14:17     |     14:20     |     3:00      |      1786 KM       |    2     
+  17  |            Erode Junction              |         ED         |     15:30     |     15:40     |     10:00     |      1849 KM       |    2     
+  18  |               Tiruppur                 |        TUP         |     16:23     |     16:25     |     2:00      |      1899 KM       |    2     
+  19  |          Coimbatore Junction           |        CBE         |     17:15     |     17:20     |     5:00      |      1948 KM       |    2     
+  20  |               Palakkad                 |        PGT         |     18:25     |     18:30     |     5:00      |      2003 KM       |    2     
+  21  |                Thrisur                 |        TCR         |     19:45     |     19:48     |     3:00      |      2080 KM       |    2     
+  22  |                 Aluva                  |        AWY         |     20:33     |     20:35     |     2:00      |      2134 KM       |    2     
+  23  |          Eranakulam Junction           |        ERS         |     21:20     |     21:25     |     5:00      |      2154 KM       |    2     
+  24  |               Alleppey                 |        ALLP        |     22:20     |     22:23     |     3:00      |      2211 KM       |    2     
+  25  |          Kayankulam Junction           |        KYJ         |     23:20     |     23:22     |     2:00      |      2254 KM       |    2     
+  26  |            Kollam Junction             |        QLN         |     00:10     |     00:15     |     5:00      |      2295 KM       |    3     
+  27  |            Trivandrum Cntl             |        TVC         |     01:20     |     01:25     |     5:00      |      2359 KM       |    3     
+  28  |            Nager Coil Town             |        NJT         |     02:43     |     02:45     |     2:00      |      2425 KM       |    3     
+  29  |              Tirunelveli               |        TEN         |     05:00     |     Ends      |       -       |      2504 KM       |    3     

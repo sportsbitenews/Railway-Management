@@ -1,0 +1,20 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Jamnagar                 |        JAM         |     Start     |     04:45     |       -       |        0 KM        |    1     
+  2   |                 Hapa                   |        HAPA        |     04:55     |     04:57     |     2:00      |        9 KM        |    1     
+  3   |               Padadhari                |        PDH         |     05:37     |     05:39     |     2:00      |       60 KM        |    1     
+  4   |            Rajkot Junction             |        RJT         |     06:10     |     06:15     |     5:00      |       85 KM        |    1     
+  5   |           Wankaner Junction            |        WKR         |     06:52     |     06:54     |     2:00      |       127 KM       |    1     
+  6   |             Than Junction              |        THAN        |     07:20     |     07:22     |     2:00      |       154 KM       |    1     
+  7   |             Surendranagar              |        SUNR        |     07:58     |     08:00     |     2:00      |       201 KM       |    1     
+  8   |           Viramgam Junction            |         VG         |     09:13     |     09:15     |     2:00      |       267 KM       |    1     
+  9   |          Sabarmati Junction            |        SBT         |     10:03     |     10:05     |     2:00      |       327 KM       |    1     
+  10  |          Ahmedabad Junction            |        ADI         |     10:30     |     10:50     |     20:00     |       332 KM       |    1     
+  11  |            Nadiad Junction             |         ND         |     11:31     |     11:33     |     2:00      |       378 KM       |    1     
+  12  |            Anand Junction              |        ANND        |     11:48     |     11:50     |     2:00      |       396 KM       |    1     
+  13  |           Vadodara Junction            |        BRC         |     12:32     |     12:37     |     5:00      |       432 KM       |    1     
+  14  |            Miyagam Karjan              |        MYG         |     12:59     |     13:01     |     2:00      |       461 KM       |    1     
+  15  |           Bharuch Junction             |         BH         |     13:29     |     13:31     |     2:00      |       502 KM       |    1     
+  16  |          Ankleshwar Junction           |        AKV         |     13:40     |     13:42     |     2:00      |       511 KM       |    1     
+  17  |           Kosamba Junction             |        KSB         |     13:55     |     13:57     |     2:00      |       530 KM       |    1     
+  18  |                  Kim                   |        KIM         |     14:06     |     14:08     |     2:00      |       537 KM       |    1     
+  19  |                 Surat                  |         ST         |     14:45     |     Ends      |       -       |       561 KM       |    1     

@@ -1,0 +1,24 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Rajkot Junction             |        RJT         |     Start     |     12:00     |       -       |        0 KM        |    1     
+  2   |           Wankaner Junction            |        WKR         |     12:49     |     12:51     |     2:00      |       42 KM        |    1     
+  3   |             Surendranagar              |        SUNR        |     14:07     |     14:09     |     2:00      |       117 KM       |    1     
+  4   |           Viramgam Junction            |         VG         |     15:16     |     15:18     |     2:00      |       182 KM       |    1     
+  5   |          Ahmedabad Junction            |        ADI         |     16:30     |     16:50     |     20:00     |       247 KM       |    1     
+  6   |            Nadiad Junction             |         ND         |     17:35     |     17:37     |     2:00      |       293 KM       |    1     
+  7   |            Anand Junction              |        ANND        |     17:52     |     17:54     |     2:00      |       311 KM       |    1     
+  8   |           Vadodara Junction            |        BRC         |     18:36     |     18:41     |     5:00      |       347 KM       |    1     
+  9   |           Bharuch Junction             |         BH         |     19:28     |     19:30     |     2:00      |       417 KM       |    1     
+  10  |                 Surat                  |         ST         |     20:30     |     20:40     |     10:00     |       476 KM       |    1     
+  11  |               Nandurbar                |        NDB         |     23:15     |     23:25     |     10:00     |       636 KM       |    1     
+  12  |                Amalner                 |         AN         |     01:37     |     01:39     |     2:00      |       731 KM       |    2     
+  13  |           Jalgaon Junction             |         JL         |     03:18     |     03:20     |     2:00      |       787 KM       |    2     
+  14  |           Bhusaval Junction            |        BSL         |     03:45     |     03:55     |     10:00     |       811 KM       |    2     
+  15  |                Khandwa                 |        KNW         |     06:27     |     06:30     |     3:00      |       934 KM       |    2     
+  16  |            Itarsi Junction             |         ET         |     09:10     |     09:20     |     10:00     |      1118 KM       |    2     
+  17  |               Pipariya                 |        PPI         |     10:18     |     10:20     |     2:00      |      1185 KM       |    2     
+  18  |              Narsinghpur               |         NU         |     11:22     |     11:24     |     2:00      |      1279 KM       |    2     
+  19  |               Jabalpur                 |        JBP         |     12:35     |     12:45     |     10:00     |      1363 KM       |    2     
+  20  |                 Katni                  |        KTE         |     14:03     |     14:08     |     5:00      |      1454 KM       |    2     
+  21  |                Maihar                  |        MYR         |     14:48     |     14:50     |     2:00      |      1517 KM       |    2     
+  22  |                 Satna                  |        STA         |     15:20     |     15:30     |     10:00     |      1552 KM       |    2     
+  23  |                 Rewa                   |        REWA        |     16:45     |     Ends      |       -       |      1601 KM       |    2     

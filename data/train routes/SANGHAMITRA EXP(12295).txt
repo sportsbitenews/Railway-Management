@@ -1,0 +1,36 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |         Bangalore Cy Junction          |        SBC         |     Start     |     09:00     |       -       |        0 KM        |    1     
+  2   |            Bangalore Cant              |        BNC         |     09:10     |     09:12     |     2:00      |        5 KM        |    1     
+  3   |            Krishnarajapurm             |        KJM         |     09:21     |     09:23     |     2:00      |       15 KM        |    1     
+  4   |              Bangarapet                |        BWT         |     10:08     |     10:10     |     2:00      |       71 KM        |    1     
+  5   |              Jolarpettai               |        JTJ         |     11:28     |     11:30     |     2:00      |       149 KM       |    1     
+  6   |           Katpadi Junction             |        KPD         |     12:38     |     12:40     |     2:00      |       232 KM       |    1     
+  7   |               Arakkonam                |        AJJ         |     13:33     |     13:35     |     2:00      |       293 KM       |    1     
+  8   |            Chennai Central             |        MAS         |     15:15     |     15:45     |     30:00     |       362 KM       |    1     
+  9   |            Gudur Junction              |        GDR         |     18:03     |     18:05     |     2:00      |       499 KM       |    1     
+  10  |                Nellore                 |        NLR         |     18:23     |     18:25     |     2:00      |       538 KM       |    1     
+  11  |                Ongole                  |        OGL         |     19:53     |     19:54     |     1:00      |       653 KM       |    1     
+  12  |          Vijayawada Junction           |        BZA         |     22:25     |     22:35     |     10:00     |       792 KM       |    1     
+  13  |               Warangal                 |         WL         |     01:05     |     01:06     |     1:00      |      1000 KM       |    2     
+  14  |               Ramgundam                |        RDM         |     02:32     |     02:33     |     1:00      |      1103 KM       |    2     
+  15  |            Sirpur Kagazngr             |        SKZR        |     03:32     |     03:33     |     1:00      |      1175 KM       |    2     
+  16  |              Balharshah                |        BPQ         |     05:00     |     05:10     |     10:00     |      1244 KM       |    2     
+  17  |              Chandrapur                |         CD         |     05:29     |     05:30     |     1:00      |      1258 KM       |    2     
+  18  |               Sevagram                 |        SEGM        |     07:12     |     07:13     |     1:00      |      1379 KM       |    2     
+  19  |                Nagpur                  |        NGP         |     08:20     |     08:30     |     10:00     |      1455 KM       |    2     
+  20  |               Pandhurna                |        PAR         |     10:08     |     10:09     |     1:00      |      1559 KM       |    2     
+  21  |                 Betul                  |        BZU         |     11:40     |     11:41     |     1:00      |      1646 KM       |    2     
+  22  |              Ghoradongri               |        GDYA        |     12:22     |     12:24     |     2:00      |      1682 KM       |    2     
+  23  |            Itarsi Junction             |         ET         |     14:35     |     14:45     |     10:00     |      1752 KM       |    2     
+  24  |               Pipariya                 |        PPI         |     15:38     |     15:40     |     2:00      |      1820 KM       |    2     
+  25  |              Narsinghpur               |         NU         |     16:40     |     16:42     |     2:00      |      1914 KM       |    2     
+  26  |               Jabalpur                 |        JBP         |     18:10     |     18:20     |     10:00     |      1998 KM       |    2     
+  27  |                 Katni                  |        KTE         |     19:30     |     19:35     |     5:00      |      2088 KM       |    2     
+  28  |                 Satna                  |        STA         |     21:15     |     21:25     |     10:00     |      2187 KM       |    2     
+  29  |          Allahabad Junction            |        ALD         |     01:35     |     02:03     |     28:00     |      2364 KM       |    3     
+  30  |               Mirzapur                 |        MZP         |     03:13     |     03:15     |     2:00      |      2454 KM       |    3     
+  31  |         Mughal Sarai Junction          |        MGS         |     05:10     |     05:20     |     10:00     |      2517 KM       |    3     
+  32  |                 Buxar                  |        BXR         |     06:48     |     06:50     |     2:00      |      2611 KM       |    3     
+  33  |                  Ara                   |        ARA         |     07:53     |     07:55     |     2:00      |      2680 KM       |    3     
+  34  |                Danapur                 |        DNR         |     08:52     |     08:54     |     2:00      |      2719 KM       |    3     
+  35  |            Patna Junction              |        PNBE        |     09:20     |     Ends      |       -       |      2729 KM       |    3     

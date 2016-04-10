@@ -1,0 +1,29 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Durg                   |        DURG        |     Start     |     16:10     |       -       |        0 KM        |    1     
+  2   |             Bhilai Pwr Hs              |        BPHB        |     16:21     |     16:23     |     2:00      |       10 KM        |    1     
+  3   |            Raipur Junction             |         R          |     17:00     |     17:15     |     15:00     |       37 KM        |    1     
+  4   |              Mahasamund                |        MSMD        |     18:03     |     18:05     |     2:00      |       91 KM        |    1     
+  5   |               Bagbahra                 |        BGBR        |     18:28     |     18:30     |     2:00      |       122 KM       |    1     
+  6   |             Khariar Road               |        KRAR        |     18:50     |     18:52     |     2:00      |       142 KM       |    1     
+  7   |             Nawapara Road              |        NPD         |     19:13     |     19:15     |     2:00      |       154 KM       |    1     
+  8   |           Harishanker Road             |        HSK         |     19:35     |     19:37     |     2:00      |       183 KM       |    1     
+  9   |              Kantabanji                |        KBJ         |     20:10     |     20:15     |     5:00      |       207 KM       |    1     
+  10  |               Titlagarh                |        TIG         |     20:50     |     21:15     |     25:00     |       240 KM       |    1     
+  11  |                Badmal                  |        BUDM        |     21:33     |     21:35     |     2:00      |       260 KM       |    1     
+  12  |               Balangir                 |        BLGR        |     22:05     |     22:10     |     5:00      |       303 KM       |    1     
+  13  |              Dungripali                |        DJX         |     22:43     |     22:45     |     2:00      |       346 KM       |    1     
+  14  |                Barpali                 |        BRPL        |     22:57     |     22:59     |     2:00      |       360 KM       |    1     
+  15  |             Bargarh Road               |        BRGA        |     23:17     |     23:22     |     5:00      |       379 KM       |    1     
+  16  |               Sambalpur                |        SBP         |     00:20     |     00:30     |     10:00     |       421 KM       |    2     
+  17  |            Sambalpur Road              |        SBPD        |     00:35     |     00:37     |     2:00      |       423 KM       |    2     
+  18  |               Rairakhol                |        RAIR        |     01:33     |     01:35     |     2:00      |       492 KM       |    2     
+  19  |                Boinda                  |        BONA        |     02:05     |     02:07     |     2:00      |       539 KM       |    2     
+  20  |                 Angul                  |        ANGL        |     03:50     |     03:52     |     2:00      |       578 KM       |    2     
+  21  |             Talcher Road               |        TLHD        |     04:04     |     04:06     |     2:00      |       590 KM       |    2     
+  22  |                Talcher                 |        TLHR        |     04:20     |     04:45     |     25:00     |       596 KM       |    2     
+  23  |               Dhenkanal                |        DNKL        |     05:33     |     05:35     |     2:00      |       648 KM       |    2     
+  24  |                Cuttack                 |        CTC         |     06:35     |     06:40     |     5:00      |       705 KM       |    2     
+  25  |              Mancheswar                |        MCS         |     07:15     |     07:17     |     2:00      |       726 KM       |    2     
+  26  |              Bhubaneswar               |        BBS         |     07:25     |     07:30     |     5:00      |       733 KM       |    2     
+  27  |         Khurda Road Junction           |        KUR         |     07:55     |     08:00     |     5:00      |       752 KM       |    2     
+  28  |                 Puri                   |        PURI        |     09:10     |     Ends      |       -       |       796 KM       |    2     

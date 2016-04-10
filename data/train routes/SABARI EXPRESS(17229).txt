@@ -1,0 +1,42 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Trivandrum Cntl             |        TVC         |     Start     |     07:15     |       -       |        0 KM        |    1     
+  2   |                Varkala                 |        VAK         |     07:49     |     07:50     |     1:00      |       41 KM        |    1     
+  3   |            Kollam Junction             |        QLN         |     08:15     |     08:20     |     5:00      |       65 KM        |    1     
+  4   |             Karunagapalli              |        KPY         |     08:43     |     08:44     |     1:00      |       92 KM        |    1     
+  5   |          Kayankulam Junction           |        KYJ         |     08:58     |     09:00     |     2:00      |       106 KM       |    1     
+  6   |              Mavelikara                |        MVLK        |     09:06     |     09:08     |     2:00      |       114 KM       |    1     
+  7   |              Chengannur                |        CNGR        |     09:18     |     09:20     |     2:00      |       126 KM       |    1     
+  8   |               Tiruvalla                |        TRVL        |     09:28     |     09:30     |     2:00      |       135 KM       |    1     
+  9   |             Changanaseri               |        CGY         |     09:38     |     09:40     |     2:00      |       143 KM       |    1     
+  10  |               Kottayam                 |        KTYM        |     10:07     |     10:10     |     3:00      |       161 KM       |    1     
+  11  |            Ernakulam Town              |        ERN         |     11:50     |     11:55     |     5:00      |       223 KM       |    1     
+  12  |                 Aluva                  |        AWY         |     12:14     |     12:15     |     1:00      |       240 KM       |    1     
+  13  |                Thrisur                 |        TCR         |     13:00     |     13:03     |     3:00      |       295 KM       |    1     
+  14  |           Shoranur Junction            |        SRR         |     14:15     |     14:25     |     10:00     |       327 KM       |    1     
+  15  |              Ottappalam                |        OTP         |     14:43     |     14:45     |     2:00      |       340 KM       |    1     
+  16  |               Palakkad                 |        PGT         |     15:15     |     15:20     |     5:00      |       372 KM       |    1     
+  17  |          Coimbatore Junction           |        CBE         |     16:30     |     16:35     |     5:00      |       426 KM       |    1     
+  18  |               Tiruppur                 |        TUP         |     17:18     |     17:20     |     2:00      |       476 KM       |    1     
+  19  |            Erode Junction              |         ED         |     18:20     |     18:30     |     10:00     |       527 KM       |    1     
+  20  |            Salem Junction              |         SA         |     19:25     |     19:30     |     5:00      |       589 KM       |    1     
+  21  |               Morappur                 |        MAP         |     20:19     |     20:20     |     1:00      |       655 KM       |    1     
+  22  |              Jolarpettai               |        JTJ         |     21:18     |     21:20     |     2:00      |       709 KM       |    1     
+  23  |           Katpadi Junction             |        KPD         |     22:38     |     22:40     |     2:00      |       793 KM       |    1     
+  24  |                Chittor                 |        CTO         |     23:13     |     23:15     |     2:00      |       826 KM       |    1     
+  25  |               Tirupati                 |        TPTY        |     00:30     |     00:35     |     5:00      |       897 KM       |    2     
+  26  |          Renigunta Junction            |         RU         |     00:50     |     01:00     |     10:00     |       907 KM       |    2     
+  27  |            Gudur Junction              |        GDR         |     02:45     |     02:47     |     2:00      |       990 KM       |    2     
+  28  |                Nellore                 |        NLR         |     03:11     |     03:13     |     2:00      |      1029 KM       |    2     
+  29  |                Ongole                  |        OGL         |     04:39     |     04:40     |     1:00      |      1145 KM       |    2     
+  30  |                Chirala                 |        CLX         |     05:15     |     05:16     |     1:00      |      1194 KM       |    2     
+  31  |                Bapatla                 |        BPP         |     05:28     |     05:29     |     1:00      |      1209 KM       |    2     
+  32  |               Nidubrolu                |        NDO         |     05:47     |     05:48     |     1:00      |      1230 KM       |    2     
+  33  |            Tenali Junction             |        TEL         |     06:42     |     06:44     |     2:00      |      1251 KM       |    2     
+  34  |            Guntur Junction             |        GNT         |     07:15     |     07:35     |     20:00     |      1277 KM       |    2     
+  35  |             Sattenapalle               |        SAP         |     08:15     |     08:16     |     1:00      |      1319 KM       |    2     
+  36  |              Piduguralla               |        PGRL        |     08:45     |     08:46     |     1:00      |      1351 KM       |    2     
+  37  |               Nadikode                 |        NDKD        |     09:08     |     09:09     |     1:00      |      1372 KM       |    2     
+  38  |              Miryalaguda               |        MRGA        |     09:53     |     09:54     |     1:00      |      1411 KM       |    2     
+  39  |               Nalgonda                 |        NLDA        |     10:24     |     10:25     |     1:00      |      1448 KM       |    2     
+  40  |         Secunderabad Junction          |         SC         |     13:10     |     13:15     |     5:00      |      1558 KM       |    2     
+  41  |            Hyderabad Decan             |        HYB         |     13:40     |     Ends      |       -       |      1568 KM       |    2     

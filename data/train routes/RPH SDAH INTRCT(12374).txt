@@ -1,0 +1,8 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Rampur Hat                |        RPH         |     Start     |     11:00     |       -       |        0 KM        |    1     
+  2   |               Sainthia                 |        SNT         |     11:24     |     11:25     |     1:00      |       28 KM        |    1     
+  3   |                Prantik                 |        PNE         |     11:47     |     11:48     |     1:00      |       57 KM        |    1     
+  4   |            Bolpur S Niktn              |        BHP         |     11:55     |     11:57     |     2:00      |       61 KM        |    1     
+  5   |          Barddhaman Junction           |        BWN         |     12:46     |     12:48     |     2:00      |       112 KM       |    1     
+  6   |              Kamarkundu                |        KQU         |     13:31     |     13:32     |     1:00      |       174 KM       |    1     
+  7   |                Sealdah                 |        SDAH        |     14:40     |     Ends      |       -       |       213 KM       |    1     

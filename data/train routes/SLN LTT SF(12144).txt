@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Sultanpur                |        SLN         |     Start     |     23:55     |       -       |        0 KM        |    1     
+  2   |             Musafir Khana              |        MFKA        |     00:19     |     00:21     |     2:00      |       32 KM        |    2     
+  3   |               Nihalgarh                |        NHH         |     00:35     |     00:37     |     2:00      |       51 KM        |    2     
+  4   |              Lucknow Nr                |        LKO         |     02:25     |     02:35     |     10:00     |       140 KM       |    2     
+  5   |            Kanpur Central              |        CNB         |     04:15     |     04:25     |     10:00     |       214 KM       |    2     
+  6   |                 Orai                   |        ORAI        |     06:23     |     06:25     |     2:00      |       320 KM       |    2     
+  7   |            Jhansi Junction             |        JHS         |     10:10     |     10:20     |     10:00     |       434 KM       |    2     
+  8   |             Bina Junction              |        BINA        |     12:45     |     12:50     |     5:00      |       586 KM       |    2     
+  9   |           Bhopal  Junction             |        BPL         |     14:35     |     14:45     |     10:00     |       725 KM       |    2     
+  10  |                Khandwa                 |        KNW         |     18:45     |     18:50     |     5:00      |      1000 KM       |    2     
+  11  |           Bhusaval Junction            |        BSL         |     20:25     |     20:35     |     10:00     |      1123 KM       |    2     
+  12  |            Manmad Junction             |        MMR         |     22:42     |     22:45     |     3:00      |      1307 KM       |    2     
+  13  |              Nasik Road                |         NK         |     23:43     |     23:45     |     2:00      |      1380 KM       |    2     
+  14  |            Lokmanyatilak T             |        LTT         |     04:10     |     Ends      |       -       |      1551 KM       |    3     

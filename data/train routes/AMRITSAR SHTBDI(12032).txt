@@ -1,0 +1,9 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Amritsar Junction            |        ASR         |     Start     |     16:50     |       -       |        0 KM        |    1     
+  2   |                 Beas                   |        BEAS        |     17:18     |     17:20     |     2:00      |       43 KM        |    1     
+  3   |            Jalandhar City              |        JUC         |     17:54     |     17:57     |     3:00      |       79 KM        |    1     
+  4   |           Phagwara Junction            |        PGW         |     18:13     |     18:15     |     2:00      |       100 KM       |    1     
+  5   |           Ludhiana Junction            |        LDH         |     18:50     |     18:55     |     5:00      |       136 KM       |    1     
+  6   |           Rajpura Junction             |        RPJ         |     19:56     |     19:58     |     2:00      |       222 KM       |    1     
+  7   |         Ambala Cant Junction           |        UMB         |     20:30     |     20:32     |     2:00      |       250 KM       |    1     
+  8   |               New Delhi                |        NDLS        |     23:05     |     Ends      |       -       |       448 KM       |    1     

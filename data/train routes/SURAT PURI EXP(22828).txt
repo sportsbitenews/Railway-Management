@@ -1,0 +1,19 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Surat                  |         ST         |     Start     |     08:30     |       -       |        0 KM        |    1     
+  2   |           Jalgaon Junction             |         JL         |     14:50     |     14:55     |     5:00      |       311 KM       |    1     
+  3   |           Bhusaval Junction            |        BSL         |     15:20     |     15:30     |     10:00     |       336 KM       |    1     
+  4   |                Nagpur                  |        NGP         |     21:40     |     21:50     |     10:00     |       728 KM       |    1     
+  5   |            Gondia Junction             |         G          |     23:38     |     23:43     |     5:00      |       858 KM       |    1     
+  6   |                 Durg                   |        DURG        |     01:50     |     01:55     |     5:00      |       992 KM       |    2     
+  7   |            Raipur Junction             |         R          |     02:40     |     03:05     |     25:00     |      1029 KM       |    2     
+  8   |              Kantabanji                |        KBJ         |     05:30     |     05:40     |     10:00     |      1198 KM       |    2     
+  9   |               Titlagarh                |        TIG         |     06:15     |     06:40     |     25:00     |      1232 KM       |    2     
+  10  |               Balangir                 |        BLGR        |     07:30     |     07:32     |     2:00      |      1295 KM       |    2     
+  11  |             Bargarh Road               |        BRGA        |     08:38     |     08:40     |     2:00      |      1371 KM       |    2     
+  12  |               Sambalpur                |        SBP         |     09:20     |     09:30     |     10:00     |      1413 KM       |    2     
+  13  |                 Angul                  |        ANGL        |     12:15     |     12:17     |     2:00      |      1569 KM       |    2     
+  14  |             Talcher Road               |        TLHD        |     12:30     |     12:32     |     2:00      |      1581 KM       |    2     
+  15  |               Dhenkanal                |        DNKL        |     13:21     |     13:23     |     2:00      |      1630 KM       |    2     
+  16  |              Bhubaneswar               |        BBS         |     14:35     |     14:40     |     5:00      |      1691 KM       |    2     
+  17  |         Khurda Road Junction           |        KUR         |     15:10     |     15:15     |     5:00      |      1710 KM       |    2     
+  18  |                 Puri                   |        PURI        |     16:10     |     Ends      |       -       |      1754 KM       |    2     

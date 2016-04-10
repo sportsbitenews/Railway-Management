@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Kolkata                 |        KOAA        |     Start     |     12:55     |       -       |        0 KM        |    1     
+  2   |          Barddhaman Junction           |        BWN         |     14:28     |     14:31     |     3:00      |       98 KM        |    1     
+  3   |            Bolpur S Niktn              |        BHP         |     15:20     |     15:23     |     3:00      |       149 KM       |    1     
+  4   |              Rampur Hat                |        RPH         |     16:40     |     16:45     |     5:00      |       209 KM       |    1     
+  5   |                 Pakur                  |        PKR         |     17:28     |     17:29     |     1:00      |       263 KM       |    1     
+  6   |         New Farakka Junction           |        NFK         |     18:37     |     18:39     |     2:00      |       296 KM       |    1     
+  7   |              Malda Town                |        MLDT        |     19:30     |     19:50     |     20:00     |       331 KM       |    1     
+  8   |                Eklakhi                 |        EKI         |     20:12     |     20:14     |     2:00      |       350 KM       |    1     
+  9   |                Gazole                  |        GZO         |     20:29     |     20:30     |     1:00      |       363 KM       |    1     
+  10  |               Buniadpur                |        BNDP        |     21:10     |     21:15     |     5:00      |       392 KM       |    1     
+  11  |              Gangarampur               |        GRMP        |     21:40     |     21:41     |     1:00      |       404 KM       |    1     
+  12  |               Balurghat                |        BLGT        |     22:35     |     Ends      |       -       |       437 KM       |    1     

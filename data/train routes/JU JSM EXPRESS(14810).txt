@@ -1,0 +1,11 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Jodhpur Junction             |         JU         |     Start     |     23:45     |       -       |        0 KM        |    1     
+  2   |              Raika Bagh                |        RKB         |     23:56     |     23:58     |     2:00      |        3 KM        |    1     
+  3   |            Marwar Mathanya             |        MMY         |     00:25     |     00:27     |     2:00      |       34 KM        |    2     
+  4   |                Osiyan                  |        OSN         |     00:56     |     00:58     |     2:00      |       65 KM        |    2     
+  5   |           Phalodi Junction             |        PLCJ        |     02:02     |     02:07     |     5:00      |       137 KM       |    2     
+  6   |               Ramdevra                 |        RDRA        |     03:11     |     03:13     |     2:00      |       184 KM       |    2     
+  7   |                Pokran                  |        POK         |     03:35     |     04:00     |     25:00     |       194 KM       |    2     
+  8   |            Ashapura Gomat              |        AQG         |     04:06     |     04:08     |     2:00      |       198 KM       |    2     
+  9   |            Shribdrya Lathi             |        SBLT        |     04:41     |     04:43     |     2:00      |       237 KM       |    2     
+  10  |               Jaisalmer                |        JSM         |     06:00     |     Ends      |       -       |       301 KM       |    2     

@@ -1,0 +1,17 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Ahmedabad Junction            |        ADI         |     Start     |     22:05     |       -       |        0 KM        |    1     
+  2   |           Viramgam Junction            |         VG         |     23:12     |     23:14     |     2:00      |       66 KM        |    1     
+  3   |             Surendranagar              |        SUNR        |     00:16     |     00:18     |     2:00      |       131 KM       |    2     
+  4   |             Than Junction              |        THAN        |     00:54     |     00:56     |     2:00      |       179 KM       |    2     
+  5   |           Wankaner Junction            |        WKR         |     01:24     |     01:26     |     2:00      |       206 KM       |    2     
+  6   |            Rajkot Junction             |        RJT         |     02:13     |     02:18     |     5:00      |       247 KM       |    2     
+  7   |             Bhakti Nagar               |        BKNG        |     02:43     |     02:45     |     2:00      |       253 KM       |    2     
+  8   |                Gondal                  |        GDL         |     03:15     |     03:17     |     2:00      |       288 KM       |    2     
+  9   |                Virpur                  |        VRR         |     03:32     |     03:35     |     3:00      |       305 KM       |    2     
+  10  |               Navagadh                 |        NUD         |     03:46     |     03:48     |     2:00      |       319 KM       |    2     
+  11  |           Jetalsar Junction            |        JLR         |     03:55     |     04:00     |     5:00      |       324 KM       |    2     
+  12  |           Junagadh Junction            |        JND         |     04:26     |     04:28     |     2:00      |       350 KM       |    2     
+  13  |                Keshod                  |        KSD         |     04:59     |     05:01     |     2:00      |       386 KM       |    2     
+  14  |             Maliya Hatina              |        MLHA        |     05:30     |     05:32     |     2:00      |       402 KM       |    2     
+  15  |             Chorvad Road               |        CVR         |     05:45     |     05:47     |     2:00      |       414 KM       |    2     
+  16  |                Veraval                 |        VRL         |     06:25     |     Ends      |       -       |       432 KM       |    2     

@@ -1,0 +1,3 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Kanpur Central              |        CNB         |     Start     |     23:45     |       -       |        0 KM        |    1     
+  2   |               New Delhi                |        NDLS        |     06:30     |     Ends      |       -       |       440 KM       |    2     

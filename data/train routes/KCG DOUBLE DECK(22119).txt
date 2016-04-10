@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Tirupati                 |        TPTY        |     Start     |     05:45     |       -       |        0 KM        |    1     
+  2   |          Renigunta Junction            |         RU         |     06:00     |     06:02     |     2:00      |       10 KM        |    1     
+  3   |               Razampeta                |        RJP         |     07:00     |     07:02     |     2:00      |       85 KM        |    1     
+  4   |               Cuddapah                 |         HX         |     07:58     |     08:00     |     2:00      |       135 KM       |    1     
+  5   |              Yerraguntla               |         YA         |     08:33     |     08:35     |     2:00      |       174 KM       |    1     
+  6   |               Tadipatri                |         TU         |     09:44     |     09:45     |     1:00      |       244 KM       |    1     
+  7   |                 Gooty                  |         GY         |     10:35     |     10:37     |     2:00      |       292 KM       |    1     
+  8   |                 Dhone                  |        DHNE        |     12:05     |     12:10     |     5:00      |       347 KM       |    1     
+  9   |             Kurnool Town               |        KRNT        |     13:02     |     13:04     |     2:00      |       400 KM       |    1     
+  10  |                Gadwal                  |        GWD         |     14:04     |     14:05     |     1:00      |       456 KM       |    1     
+  11  |              Mahbubnagar               |        MBNR        |     15:04     |     15:06     |     2:00      |       531 KM       |    1     
+  12  |               Kacheguda                |        KCG         |     17:15     |     Ends      |       -       |       636 KM       |    1     

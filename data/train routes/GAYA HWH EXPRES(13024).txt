@@ -1,0 +1,34 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Gaya Junction              |        GAYA        |     Start     |     12:20     |       -       |        0 KM        |    1     
+  2   |               Wazerganj                |        WZJ         |     12:44     |     12:45     |     1:00      |       24 KM        |    1     
+  3   |                Tilaya                  |        TIA         |     13:02     |     13:03     |     1:00      |       42 KM        |    1     
+  4   |                Nawadah                 |        NWD         |     13:20     |     13:22     |     2:00      |       59 KM        |    1     
+  5   |             Waris Aleganj              |        WRS         |     13:41     |     13:43     |     2:00      |       78 KM        |    1     
+  6   |              Kashi Chak                |        KSC         |     13:52     |     13:54     |     2:00      |       88 KM        |    1     
+  7   |               Sheikpura                |        SHK         |     14:08     |     14:10     |     2:00      |       103 KM       |    1     
+  8   |                Sirari                  |        SRY         |     14:20     |     14:21     |     1:00      |       113 KM       |    1     
+  9   |         Luckeesarai Junction           |        LKR         |     15:00     |     15:01     |     1:00      |       129 KM       |    1     
+  10  |             Kiul Junction              |        KIUL        |     15:40     |     15:50     |     10:00     |       130 KM       |    1     
+  11  |                 Uren                   |        UREN        |     16:04     |     16:05     |     1:00      |       141 KM       |    1     
+  12  |                 Kajra                  |        KJH         |     16:13     |     16:14     |     1:00      |       146 KM       |    1     
+  13  |               Abhaipur                 |        AHA         |     16:24     |     16:25     |     1:00      |       153 KM       |    1     
+  14  |               Dharhara                 |        DRH         |     16:37     |     16:38     |     1:00      |       163 KM       |    1     
+  15  |           Jamalpur Junction            |        JMP         |     17:01     |     17:16     |     15:00     |       175 KM       |    1     
+  16  |               Bariarpur                |        BUP         |     17:28     |     17:29     |     1:00      |       186 KM       |    1     
+  17  |              Sultanganj                |        SGG         |     17:50     |     17:51     |     1:00      |       204 KM       |    1     
+  18  |              Akbarnagar                |        AKN         |     18:02     |     18:03     |     1:00      |       214 KM       |    1     
+  19  |               Bhagalpur                |        BGP         |     18:20     |     18:35     |     15:00     |       228 KM       |    1     
+  20  |               Kahalgaon                |        CLG         |     19:03     |     19:04     |     1:00      |       258 KM       |    1     
+  21  |               Pirpainti                |        PPT         |     19:26     |     19:27     |     1:00      |       278 KM       |    1     
+  22  |          Sahibganj Junction            |        SBG         |     20:05     |     20:15     |     10:00     |       302 KM       |    1     
+  23  |           Tinpahar Junction            |        TPH         |     20:46     |     20:47     |     1:00      |       340 KM       |    1     
+  24  |           Barharwa Junction            |        BHW         |     21:22     |     21:27     |     5:00      |       356 KM       |    1     
+  25  |                 Pakur                  |        PKR         |     21:52     |     21:53     |     1:00      |       382 KM       |    1     
+  26  |              Rampur Hat                |        RPH         |     23:05     |     23:10     |     5:00      |       435 KM       |    1     
+  27  |               Mallarpur                |        MLV         |     23:22     |     23:23     |     1:00      |       448 KM       |    1     
+  28  |               Sainthia                 |        SNT         |     23:38     |     23:40     |     2:00      |       463 KM       |    1     
+  29  |            Bolpur S Niktn              |        BHP         |     00:06     |     00:11     |     5:00      |       496 KM       |    2     
+  30  |                Guskara                 |        GKH         |     00:28     |     00:29     |     1:00      |       515 KM       |    2     
+  31  |          Barddhaman Junction           |        BWN         |     01:16     |     01:21     |     5:00      |       547 KM       |    2     
+  32  |            Bandel Junction             |        BDC         |     02:30     |     02:32     |     2:00      |       615 KM       |    2     
+  33  |            Howrah Junction             |        HWH         |     03:40     |     Ends      |       -       |       654 KM       |    2     

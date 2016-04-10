@@ -1,0 +1,14 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Delhi                  |        DLI         |     Start     |     07:20     |       -       |        0 KM        |    1     
+  2   |            Delhi Shahdara              |        DSA         |     07:36     |     07:38     |     2:00      |        7 KM        |    1     
+  3   |               Ghaziabad                |        GZB         |     08:08     |     08:10     |     2:00      |       20 KM        |    1     
+  4   |                Pilkhua                 |        PKW         |     08:35     |     08:37     |     2:00      |       46 KM        |    1     
+  5   |                 Hapur                  |        HPU         |     08:52     |     08:57     |     5:00      |       57 KM        |    1     
+  6   |           Gajraula Junction            |        GJL         |     09:45     |     10:10     |     25:00     |       108 KM       |    1     
+  7   |            Mandi Dhanaura              |        MNDR        |     10:31     |     10:33     |     2:00      |       123 KM       |    1     
+  8   |              Chand Siau                |        CPS         |     11:00     |     11:02     |     2:00      |       143 KM       |    1     
+  9   |                Haldaur                 |        HLDR        |     11:36     |     11:38     |     2:00      |       161 KM       |    1     
+  10  |                Bijnor                  |        BJO         |     12:08     |     12:10     |     2:00      |       178 KM       |    1     
+  11  |            Muzzampur Nryn              |        MZM         |     13:03     |     13:05     |     2:00      |       203 KM       |    1     
+  12  |          Najibabad Junction            |        NBD         |     13:20     |     13:30     |     10:00     |       214 KM       |    1     
+  13  |               Kotdwara                 |        KTW         |     14:15     |     Ends      |       -       |       238 KM       |    1     

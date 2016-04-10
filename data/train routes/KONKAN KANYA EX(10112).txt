@@ -1,0 +1,21 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Madgaon                 |        MAO         |     Start     |     18:00     |       -       |        0 KM        |    1     
+  2   |                Karmali                 |        KRMI        |     18:31     |     18:32     |     1:00      |       41 KM        |    1     
+  3   |                Thivim                  |        THVM        |     18:54     |     18:55     |     1:00      |       65 KM        |    1     
+  4   |                Pernem                  |        PERN        |     19:10     |     19:11     |     1:00      |       80 KM        |    1     
+  5   |            Sawantwadi Road             |        SWV         |     19:36     |     19:37     |     1:00      |       111 KM       |    1     
+  6   |                 Kudal                  |        KUDL        |     20:00     |     20:01     |     1:00      |       140 KM       |    1     
+  7   |              Sindhudurg                |        SNDD        |     20:11     |     20:12     |     1:00      |       154 KM       |    1     
+  8   |               Kankavali                |        KKW         |     20:37     |     20:38     |     1:00      |       179 KM       |    1     
+  9   |           Vaibhavwadi Road             |        VBW         |     20:57     |     20:58     |     1:00      |       222 KM       |    1     
+  10  |             Rajapur Road               |        RAJP        |     21:16     |     21:17     |     1:00      |       246 KM       |    1     
+  11  |               Vilavade                 |        VID         |     21:36     |     21:37     |     1:00      |       269 KM       |    1     
+  12  |               Ratnagiri                |         RN         |     23:00     |     23:05     |     5:00      |       335 KM       |    1     
+  13  |              Sangmeshwar               |        SGR         |     23:37     |     23:38     |     1:00      |       382 KM       |    1     
+  14  |                Chiplun                 |        CHI         |     00:10     |     00:11     |     1:00      |       441 KM       |    2     
+  15  |                 Khed                   |        KHED        |     00:40     |     00:41     |     1:00      |       482 KM       |    2     
+  16  |                Mangaon                 |        MNI         |     01:43     |     01:44     |     1:00      |       578 KM       |    2     
+  17  |                Panvel                  |        PNVL        |     04:05     |     04:10     |     5:00      |       697 KM       |    2     
+  18  |                 Thane                  |        TNA         |     04:53     |     04:55     |     2:00      |       732 KM       |    2     
+  19  |                 Dadar                  |         DR         |     05:17     |     05:20     |     3:00      |       757 KM       |    2     
+  20  |              Mumbai Cst                |        CSTM        |     05:50     |     Ends      |       -       |       765 KM       |    2     

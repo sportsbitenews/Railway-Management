@@ -1,0 +1,36 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Bhagat Ki Kothi             |        BGKT        |     Start     |     14:05     |       -       |        0 KM        |    1     
+  2   |           Jodhpur Junction             |         JU         |     14:15     |     14:30     |     15:00     |        4 KM        |    1     
+  3   |          Merta Road Junction           |        MTD         |     15:52     |     15:55     |     3:00      |       108 KM       |    1     
+  4   |            Degana Junction             |        DNA         |     16:28     |     16:31     |     3:00      |       153 KM       |    1     
+  5   |           Makrana Junction             |        MKN         |     17:01     |     17:03     |     2:00      |       197 KM       |    1     
+  6   |           Phulera Junction             |         FL         |     19:20     |     19:22     |     2:00      |       262 KM       |    1     
+  7   |                Jaipur                  |         JP         |     20:15     |     20:25     |     10:00     |       316 KM       |    1     
+  8   |               Durgapura                |        DPA         |     20:32     |     20:34     |     2:00      |       324 KM       |    1     
+  9   |            Bansthali Niwai             |        BNLW        |     21:22     |     21:24     |     2:00      |       382 KM       |    1     
+  10  |            Sawai Madhopur              |        SWM         |     22:35     |     22:45     |     10:00     |       448 KM       |    1     
+  11  |             Kota Junction              |        KOTA        |     00:05     |     00:30     |     25:00     |       555 KM       |    2     
+  12  |                 Baran                  |        BAZ         |     01:50     |     01:55     |     5:00      |       622 KM       |    2     
+  13  |             Chhabra Gugor              |        CAG         |     03:33     |     03:35     |     2:00      |       681 KM       |    2     
+  14  |                 Guna                   |        GUNA        |     05:15     |     05:25     |     10:00     |       740 KM       |    2     
+  15  |               Malkhedi                 |        MAKR        |     08:18     |     08:20     |     2:00      |       860 KM       |    2     
+  16  |                Saugor                  |        SGO         |     09:20     |     09:25     |     5:00      |       931 KM       |    2     
+  17  |                 Damoh                  |        DMO         |     10:29     |     10:31     |     2:00      |      1008 KM       |    2     
+  18  |             Katni Murwara              |        KMZ         |     12:40     |     12:50     |     10:00     |      1117 KM       |    2     
+  19  |                Shahdol                 |        SDL         |     15:10     |     15:15     |     5:00      |      1243 KM       |    2     
+  20  |           Anuppur Junction             |        APR         |     16:00     |     16:05     |     5:00      |      1284 KM       |    2     
+  21  |              Pendra Road               |        PND         |     16:43     |     16:45     |     2:00      |      1334 KM       |    2     
+  22  |               Usalapur                 |        USL         |     19:05     |     19:15     |     10:00     |      1426 KM       |    2     
+  23  |               Bhatapara                |        BYT         |     20:06     |     20:08     |     2:00      |      1478 KM       |    2     
+  24  |            Raipur Junction             |         R          |     21:15     |     21:40     |     25:00     |      1542 KM       |    2     
+  25  |              Mahasamund                |        MSMD        |     22:28     |     22:30     |     2:00      |      1595 KM       |    2     
+  26  |             Khariar Road               |        KRAR        |     23:08     |     23:10     |     2:00      |      1647 KM       |    2     
+  27  |              Kantabanji                |        KBJ         |     00:05     |     00:15     |     10:00     |      1711 KM       |    3     
+  28  |               Titlagarh                |        TIG         |     01:10     |     01:20     |     10:00     |      1744 KM       |    3     
+  29  |                Kesinga                 |        KSNG        |     01:33     |     01:35     |     2:00      |      1757 KM       |    3     
+  30  |               Muniguda                 |        MNGD        |     02:45     |     02:47     |     2:00      |      1830 KM       |    3     
+  31  |               Rayagada                 |        RGDA        |     04:25     |     04:35     |     10:00     |      1884 KM       |    3     
+  32  |             Parvatipuram               |        PVP         |     05:18     |     05:20     |     2:00      |      1931 KM       |    3     
+  33  |                Bobbili                 |        VBL         |     05:43     |     05:45     |     2:00      |      1955 KM       |    3     
+  34  |         Vizianagram Junction           |        VZM         |     06:35     |     06:40     |     5:00      |      2008 KM       |    3     
+  35  |             Vishakapatnam              |        VSKP        |     07:55     |     Ends      |       -       |      2069 KM       |    3     

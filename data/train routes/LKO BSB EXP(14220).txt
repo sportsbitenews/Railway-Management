@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Lucknow Nr                |        LKO         |     Start     |     12:55     |       -       |        0 KM        |    1     
+  2   |          Rae Bareli Junction           |        RBL         |     14:30     |     14:35     |     5:00      |       78 KM        |    1     
+  3   |                 Jais                   |        JAIS        |     15:09     |     15:11     |     2:00      |       107 KM       |    1     
+  4   |               Gauriganj                |        GNG         |     15:27     |     15:29     |     2:00      |       125 KM       |    1     
+  5   |                Amethi                  |        AME         |     15:43     |     15:45     |     2:00      |       138 KM       |    1     
+  6   |                 Antu                   |        ANTU        |     16:00     |     16:02     |     2:00      |       153 KM       |    1     
+  7   |          Partapgarh Junction           |        PBH         |     16:44     |     16:46     |     2:00      |       173 KM       |    1     
+  8   |              Badshahpur                |        BSE         |     17:13     |     17:15     |     2:00      |       210 KM       |    1     
+  9   |           Janghai Junction             |        JNH         |     17:31     |     17:33     |     2:00      |       226 KM       |    1     
+  10  |                Bhadohi                 |        BOY         |     18:16     |     18:18     |     2:00      |       257 KM       |    1     
+  11  |           Varanasi Junction            |        BSB         |     20:25     |     Ends      |       -       |       302 KM       |    1     

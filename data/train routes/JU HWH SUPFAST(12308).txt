@@ -1,0 +1,27 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Jodhpur Junction             |         JU         |     Start     |     20:30     |       -       |        0 KM        |    1     
+  2   |          Merta Road Junction           |        MTD         |     21:56     |     22:20     |     24:00     |       105 KM       |    1     
+  3   |            Degana Junction             |        DNA         |     22:53     |     22:56     |     3:00      |       149 KM       |    1     
+  4   |           Makrana Junction             |        MKN         |     23:26     |     23:28     |     2:00      |       193 KM       |    1     
+  5   |             Kuchaman City              |        KMNC        |     23:43     |     23:45     |     2:00      |       207 KM       |    1     
+  6   |                Jaipur                  |         JP         |     01:50     |     02:10     |     20:00     |       313 KM       |    2     
+  7   |          Bharatpur Junction            |        BTE         |     04:43     |     04:45     |     2:00      |       500 KM       |    2     
+  8   |           Achhnera Junction            |         AH         |     05:05     |     05:07     |     2:00      |       528 KM       |    2     
+  9   |               Agra Fort                |         AF         |     05:55     |     06:20     |     25:00     |       554 KM       |    2     
+  10  |                Etawah                  |        ETW         |     08:36     |     08:38     |     2:00      |       668 KM       |    2     
+  11  |            Kanpur Central              |        CNB         |     10:55     |     11:10     |     15:00     |       806 KM       |    2     
+  12  |               Fatehpur                 |        FTP         |     12:11     |     12:13     |     2:00      |       884 KM       |    2     
+  13  |          Allahabad Junction            |        ALD         |     14:00     |     14:10     |     10:00     |      1000 KM       |    2     
+  14  |               Mirzapur                 |        MZP         |     15:18     |     15:20     |     2:00      |      1090 KM       |    2     
+  15  |         Mughal Sarai Junction          |        MGS         |     16:50     |     17:05     |     15:00     |      1153 KM       |    2     
+  16  |              Bhabua Road               |        BBU         |     17:44     |     17:46     |     2:00      |      1205 KM       |    2     
+  17  |                Sasaram                 |        SSM         |     18:18     |     18:20     |     2:00      |      1253 KM       |    2     
+  18  |             Dehri On Sone              |        DOS         |     18:38     |     18:40     |     2:00      |      1271 KM       |    2     
+  19  |            Anugraha N Road             |        AUBR        |     18:51     |     18:53     |     2:00      |      1287 KM       |    2     
+  20  |             Gaya Junction              |        GAYA        |     20:13     |     20:18     |     5:00      |      1356 KM       |    2     
+  21  |                Koderma                 |        KQR         |     21:22     |     21:24     |     2:00      |      1432 KM       |    2     
+  22  |               Parasnath                |        PNME        |     22:29     |     22:31     |     2:00      |      1508 KM       |    2     
+  23  |           Dhanbad Junction             |        DHN         |     23:40     |     23:50     |     10:00     |      1555 KM       |    2     
+  24  |           Asansol Junction             |        ASN         |     00:47     |     00:52     |     5:00      |      1614 KM       |    3     
+  25  |          Barddhaman Junction           |        BWN         |     02:20     |     02:22     |     2:00      |      1719 KM       |    3     
+  26  |            Howrah Junction             |        HWH         |     04:00     |     Ends      |       -       |      1813 KM       |    3     

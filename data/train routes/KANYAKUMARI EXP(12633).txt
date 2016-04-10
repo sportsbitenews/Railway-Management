@@ -1,0 +1,18 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Chennai Egmore              |         MS         |     Start     |     17:30     |       -       |        0 KM        |    1     
+  2   |               Tambaram                 |        TBM         |     17:58     |     18:00     |     2:00      |       25 KM        |    1     
+  3   |             Chengalpattu               |        CGL         |     18:28     |     18:30     |     2:00      |       56 KM        |    1     
+  4   |             Melmaruvattur              |        MLMR        |     18:58     |     19:00     |     2:00      |       92 KM        |    1     
+  5   |              Tindivanam                |        TMV         |     19:23     |     19:25     |     2:00      |       122 KM       |    1     
+  6   |          Villuparam Junction           |         VM         |     20:10     |     20:15     |     5:00      |       159 KM       |    1     
+  7   |         Vridhachalam Junction          |        VRI         |     20:55     |     20:57     |     2:00      |       213 KM       |    1     
+  8   |            Tiruchchirapali             |        TPJ         |     22:50     |     22:55     |     5:00      |       336 KM       |    1     
+  9   |           Dindigul Junction            |         DG         |     00:33     |     00:35     |     2:00      |       431 KM       |    2     
+  10  |           Madurai Junction             |        MDU         |     01:45     |     01:55     |     10:00     |       497 KM       |    2     
+  11  |         Virudunagar Junction           |        VPT         |     02:38     |     02:40     |     2:00      |       540 KM       |    2     
+  12  |                 Satur                  |        SRT         |     02:58     |     03:00     |     2:00      |       567 KM       |    2     
+  13  |              Kovilpatti                |        CVP         |     03:20     |     03:22     |     2:00      |       588 KM       |    2     
+  14  |              Tirunelveli               |        TEN         |     04:50     |     04:55     |     5:00      |       653 KM       |    2     
+  15  |               Valliyur                 |        VLY         |     05:29     |     05:30     |     1:00      |       695 KM       |    2     
+  16  |          Nagercoil Junction            |        NCJ         |     06:15     |     06:20     |     5:00      |       727 KM       |    2     
+  17  |              Kanyakumari               |        CAPE        |     06:50     |     Ends      |       -       |       742 KM       |    2     

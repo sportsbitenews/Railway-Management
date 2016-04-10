@@ -1,0 +1,27 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Ajni                   |        AJNI        |     Start     |     16:15     |       -       |        0 KM        |    1     
+  2   |            Wardha Junction             |         WR         |     17:10     |     17:13     |     3:00      |       76 KM        |    1     
+  3   |           Pulgaon Junction             |        PLO         |     17:36     |     17:38     |     2:00      |       106 KM       |    1     
+  4   |              Dhamangaon                |        DMN         |     18:05     |     18:07     |     2:00      |       126 KM       |    1     
+  5   |                Chandur                 |        CND         |     18:22     |     18:24     |     2:00      |       143 KM       |    1     
+  6   |           Badnera Junction             |         BD         |     19:30     |     19:35     |     5:00      |       172 KM       |    1     
+  7   |              Murtajapur                |        MZR         |     20:08     |     20:10     |     2:00      |       213 KM       |    1     
+  8   |            Akola Junction              |         AK         |     21:25     |     21:35     |     10:00     |       251 KM       |    1     
+  9   |                Washim                  |        WHM         |     22:49     |     22:50     |     1:00      |       329 KM       |    1     
+  10  |            Hingoli Deccan              |        HNL         |     23:39     |     23:40     |     1:00      |       377 KM       |    1     
+  11  |                Basmat                  |        BMF         |     00:38     |     00:40     |     2:00      |       435 KM       |    2     
+  12  |            Purna Junction              |        PAU         |     01:20     |     01:30     |     10:00     |       457 KM       |    2     
+  13  |           Parbhani Junction            |        PBN         |     02:30     |     02:32     |     2:00      |       486 KM       |    2     
+  14  |                 Selu                   |        SELU        |     03:28     |     03:30     |     2:00      |       528 KM       |    2     
+  15  |                Partur                  |        PTU         |     04:03     |     04:05     |     2:00      |       556 KM       |    2     
+  16  |                 Jalna                  |         J          |     04:58     |     05:00     |     2:00      |       601 KM       |    2     
+  17  |              Aurangabad                |        AWB         |     06:25     |     06:30     |     5:00      |       663 KM       |    2     
+  18  |                 Lasur                  |        LSR         |     06:53     |     06:55     |     2:00      |       697 KM       |    2     
+  19  |               Rotegaon                 |        RGO         |     07:18     |     07:20     |     2:00      |       724 KM       |    2     
+  20  |            Manmad Junction             |        MMR         |     08:45     |     08:50     |     5:00      |       776 KM       |    2     
+  21  |              Nasik Road                |         NK         |     09:48     |     09:50     |     2:00      |       850 KM       |    2     
+  22  |                Devlali                 |        DVL         |     09:58     |     10:00     |     2:00      |       855 KM       |    2     
+  23  |               Igatpuri                 |        IGP         |     11:08     |     11:10     |     2:00      |       900 KM       |    2     
+  24  |            Kalyan Junction             |        KYN         |     12:37     |     12:40     |     3:00      |       983 KM       |    2     
+  25  |                 Thane                  |        TNA         |     13:03     |     13:05     |     2:00      |      1004 KM       |    2     
+  26  |            Lokmanyatilak T             |        LTT         |     13:45     |     Ends      |       -       |      1021 KM       |    2     

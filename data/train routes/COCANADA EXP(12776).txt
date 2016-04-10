@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |         Secunderabad Junction          |         SC         |     Start     |     20:45     |       -       |        0 KM        |    1     
+  2   |               Warangal                 |         WL         |     22:43     |     22:45     |     2:00      |       142 KM       |    1     
+  3   |                Khammam                 |        KMT         |     00:08     |     00:10     |     2:00      |       250 KM       |    2     
+  4   |          Vijayawada Junction           |        BZA         |     01:50     |     02:05     |     15:00     |       351 KM       |    2     
+  5   |           Gudivada Junction            |        GDV         |     02:56     |     02:57     |     1:00      |       395 KM       |    2     
+  6   |               Kaikolur                 |        KKLR        |     03:26     |     03:27     |     1:00      |       424 KM       |    2     
+  7   |                Akividu                 |        AKVD        |     03:51     |     03:52     |     1:00      |       441 KM       |    2     
+  8   |            Bhimavaram Town             |        BVRT        |     04:17     |     04:18     |     1:00      |       458 KM       |    2     
+  9   |                Tanuku                  |        TNKU        |     04:51     |     04:52     |     1:00      |       489 KM       |    2     
+  10  |              Rajamundry                |        RJY         |     05:50     |     05:52     |     2:00      |       528 KM       |    2     
+  11  |             Kakinada Town              |        CCT         |     07:20     |     Ends      |       -       |       591 KM       |    2     

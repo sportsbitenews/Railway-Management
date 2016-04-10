@@ -1,0 +1,26 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Amritsar Junction            |        ASR         |     Start     |     12:35     |       -       |        0 KM        |    1     
+  2   |                 Beas                   |        BEAS        |     13:03     |     13:05     |     2:00      |       43 KM        |    1     
+  3   |            Jalandhar City              |        JUC         |     13:45     |     13:50     |     5:00      |       79 KM        |    1     
+  4   |           Ludhiana Junction            |        LDH         |     15:00     |     15:05     |     5:00      |       136 KM       |    1     
+  5   |         Ambala Cant Junction           |        UMB         |     16:47     |     16:55     |     8:00      |       250 KM       |    1     
+  6   |               Jagadhri                 |        JUD         |     17:38     |     17:40     |     2:00      |       301 KM       |    1     
+  7   |              Saharanpur                |        SRE         |     18:20     |     18:30     |     10:00     |       331 KM       |    1     
+  8   |                Roorkee                 |         RK         |     19:00     |     19:02     |     2:00      |       366 KM       |    1     
+  9   |            Laksar Junction             |        LRJ         |     19:22     |     19:24     |     2:00      |       384 KM       |    1     
+  10  |               Moradabad                |         MB         |     21:25     |     21:32     |     7:00      |       523 KM       |    1     
+  11  |               Bareilly                 |         BE         |     22:52     |     22:57     |     5:00      |       614 KM       |    1     
+  12  |              Lucknow Nr                |        LKO         |     02:40     |     02:50     |     10:00     |       849 KM       |    2     
+  13  |           Faizabad Junction            |         FD         |     05:00     |     05:05     |     5:00      |       977 KM       |    2     
+  14  |           Varanasi Junction            |        BSB         |     09:50     |     10:05     |     15:00     |      1172 KM       |    2     
+  15  |         Mughal Sarai Junction          |        MGS         |     11:15     |     11:35     |     20:00     |      1189 KM       |    2     
+  16  |              Bhabua Road               |        BBU         |     12:14     |     12:16     |     2:00      |      1242 KM       |    2     
+  17  |                Sasaram                 |        SSM         |     12:47     |     12:49     |     2:00      |      1289 KM       |    2     
+  18  |             Dehri On Sone              |        DOS         |     13:07     |     13:09     |     2:00      |      1307 KM       |    2     
+  19  |            Anugraha N Road             |        AUBR        |     13:20     |     13:22     |     2:00      |      1324 KM       |    2     
+  20  |             Gaya Junction              |        GAYA        |     14:28     |     14:33     |     5:00      |      1392 KM       |    2     
+  21  |                Koderma                 |        KQR         |     15:36     |     15:38     |     2:00      |      1468 KM       |    2     
+  22  |            Gomoh Junction              |        GMO         |     17:20     |     17:30     |     10:00     |      1562 KM       |    2     
+  23  |            Bokaro Stl City             |        BKSC        |     18:35     |     18:40     |     5:00      |      1594 KM       |    2     
+  24  |           Purulia Junction             |        PRR         |     19:45     |     19:47     |     2:00      |      1658 KM       |    2     
+  25  |          Tatanagar Junction            |        TATA        |     21:45     |     Ends      |       -       |      1749 KM       |    2     

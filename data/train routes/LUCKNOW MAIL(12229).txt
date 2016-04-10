@@ -1,0 +1,10 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Lucknow Nr                |        LKO         |     Start     |     22:15     |       -       |        0 KM        |    1     
+  2   |                Hardoi                  |        HRI         |     23:38     |     23:40     |     2:00      |       102 KM       |    1     
+  3   |             Shahjehanpur               |        SPN         |     00:47     |     00:52     |     5:00      |       165 KM       |    2     
+  4   |               Bareilly                 |         BE         |     01:50     |     01:55     |     5:00      |       236 KM       |    2     
+  5   |                Rampur                  |        RMU         |     02:46     |     02:48     |     2:00      |       299 KM       |    2     
+  6   |               Moradabad                |         MB         |     03:35     |     03:45     |     10:00     |       326 KM       |    2     
+  7   |                 Hapur                  |        HPU         |     05:17     |     05:20     |     3:00      |       430 KM       |    2     
+  8   |               Ghaziabad                |        GZB         |     06:20     |     06:23     |     3:00      |       467 KM       |    2     
+  9   |               New Delhi                |        NDLS        |     07:15     |     Ends      |       -       |       493 KM       |    2     

@@ -1,0 +1,35 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Indore Junction Bg            |        INDB        |     Start     |     23:30     |       -       |        0 KM        |    1     
+  2   |                 Dewas                  |        DWX         |     00:06     |     00:08     |     2:00      |       39 KM        |    2     
+  3   |            Ujjain Junction             |        UJN         |     00:50     |     01:10     |     20:00     |       80 KM        |    2     
+  4   |               Shujalpur                |        SJP         |     02:25     |     02:27     |     2:00      |       183 KM       |    2     
+  5   |           Bhopal  Junction             |        BPL         |     04:00     |     04:10     |     10:00     |       263 KM       |    2     
+  6   |                Vidisha                 |        BHS         |     04:48     |     04:50     |     2:00      |       316 KM       |    2     
+  7   |              Ganj Basoda               |        BAQ         |     05:18     |     05:21     |     3:00      |       356 KM       |    2     
+  8   |             Bina Junction              |        BINA        |     06:20     |     06:25     |     5:00      |       402 KM       |    2     
+  9   |                Khurai                  |        KYE         |     06:50     |     06:52     |     2:00      |       423 KM       |    2     
+  10  |                Saugor                  |        SGO         |     07:45     |     07:50     |     5:00      |       476 KM       |    2     
+  11  |               Patharia                 |        PHA         |     08:31     |     08:33     |     2:00      |       527 KM       |    2     
+  12  |                 Damoh                  |        DMO         |     08:58     |     09:00     |     2:00      |       553 KM       |    2     
+  13  |                 Katni                  |        KTE         |     11:20     |     11:30     |     10:00     |       664 KM       |    2     
+  14  |                Maihar                  |        MYR         |     12:28     |     12:30     |     2:00      |       727 KM       |    2     
+  15  |                 Satna                  |        STA         |     13:05     |     13:15     |     10:00     |       763 KM       |    2     
+  16  |           Manikpur Junction            |        MKP         |     14:55     |     15:00     |     5:00      |       840 KM       |    2     
+  17  |              Shankargarh               |        SRJ         |     15:39     |     15:41     |     2:00      |       895 KM       |    2     
+  18  |                Cheoki                  |        COI         |     16:50     |     17:15     |     25:00     |       932 KM       |    2     
+  19  |              Vindhyachal               |        BDL         |     18:08     |     18:10     |     2:00      |      1005 KM       |    2     
+  20  |               Mirzapur                 |        MZP         |     18:25     |     18:30     |     5:00      |      1013 KM       |    2     
+  21  |                Chunar                  |        CAR         |     18:56     |     18:58     |     2:00      |      1044 KM       |    2     
+  22  |         Mughal Sarai Junction          |        MGS         |     20:00     |     20:10     |     10:00     |      1076 KM       |    2     
+  23  |              Bhabua Road               |        BBU         |     20:53     |     20:55     |     2:00      |      1128 KM       |    2     
+  24  |                Sasaram                 |        SSM         |     21:27     |     21:29     |     2:00      |      1176 KM       |    2     
+  25  |             Dehri On Sone              |        DOS         |     21:46     |     21:48     |     2:00      |      1193 KM       |    2     
+  26  |             Gaya Junction              |        GAYA        |     22:58     |     23:03     |     5:00      |      1279 KM       |    2     
+  27  |                Koderma                 |        KQR         |     00:14     |     00:16     |     2:00      |      1355 KM       |    3     
+  28  |               Parasnath                |        PNME        |     01:18     |     01:20     |     2:00      |      1430 KM       |    3     
+  29  |            Gomoh Junction              |        GMO         |     01:35     |     01:45     |     10:00     |      1448 KM       |    3     
+  30  |           Dhanbad Junction             |        DHN         |     02:57     |     03:02     |     5:00      |      1477 KM       |    3     
+  31  |           Asansol Junction             |        ASN         |     03:50     |     03:55     |     5:00      |      1536 KM       |    3     
+  32  |               Durgapur                 |        DGR         |     04:25     |     04:27     |     2:00      |      1578 KM       |    3     
+  33  |          Barddhaman Junction           |        BWN         |     05:21     |     05:25     |     4:00      |      1642 KM       |    3     
+  34  |            Howrah Junction             |        HWH         |     06:45     |     Ends      |       -       |      1736 KM       |    3     

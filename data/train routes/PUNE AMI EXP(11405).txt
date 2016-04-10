@@ -1,0 +1,19 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Pune Junction              |        PUNE        |     Start     |     22:00     |       -       |        0 KM        |    1     
+  2   |                 Uruli                  |        URI         |     22:26     |     22:27     |     1:00      |       29 KM        |    1     
+  3   |            Daund Junction              |         DD         |     23:05     |     23:10     |     5:00      |       76 KM        |    1     
+  4   |                 Jeur                   |        JEUR        |     00:29     |     00:30     |     1:00      |       151 KM       |    2     
+  5   |               Kurduvadi                |        KWV         |     01:00     |     01:05     |     5:00      |       185 KM       |    2     
+  6   |              Barsi Town                |        BTW         |     01:43     |     01:45     |     2:00      |       222 KM       |    2     
+  7   |               Usmanabad                |        UMD         |     02:22     |     02:25     |     3:00      |       259 KM       |    2     
+  8   |                 Latur                  |        LUR         |     04:00     |     04:10     |     10:00     |       338 KM       |    2     
+  9   |              Latur Road                |        LTRR        |     05:00     |     05:10     |     10:00     |       371 KM       |    2     
+  10  |            Parli Vaijnath              |        PRLI        |     06:45     |     06:55     |     10:00     |       434 KM       |    2     
+  11  |           Parbhani Junction            |        PBN         |     08:13     |     08:15     |     2:00      |       498 KM       |    2     
+  12  |            Purna Junction              |        PAU         |     08:55     |     09:00     |     5:00      |       526 KM       |    2     
+  13  |            Hingoli Deccan              |        HNL         |     10:14     |     10:15     |     1:00      |       607 KM       |    2     
+  14  |                Washim                  |        WHM         |     11:09     |     11:10     |     1:00      |       654 KM       |    2     
+  15  |            Akola Junction              |         AK         |     13:15     |     13:25     |     10:00     |       733 KM       |    2     
+  16  |              Murtajapur                |        MZR         |     13:58     |     14:00     |     2:00      |       771 KM       |    2     
+  17  |           Badnera Junction             |         BD         |     14:25     |     14:30     |     5:00      |       812 KM       |    2     
+  18  |               Amravati                 |        AMI         |     15:00     |     Ends      |       -       |       821 KM       |    2     

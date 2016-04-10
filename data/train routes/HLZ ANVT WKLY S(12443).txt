@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Haldia                  |        HLZ         |     Start     |     08:30     |       -       |        0 KM        |    1     
+  2   |                Tamluk                  |        TMZ         |     09:08     |     09:10     |     2:00      |       46 KM        |    1     
+  3   |               Panskura                 |        PKU         |     09:39     |     09:40     |     1:00      |       70 KM        |    1     
+  4   |          Kharagpur Junction            |        KGP         |     10:25     |     10:45     |     20:00     |       114 KM       |    1     
+  5   |          Tatanagar Junction            |        TATA        |     12:45     |     12:50     |     5:00      |       248 KM       |    1     
+  6   |           Purulia Junction             |        PRR         |     14:25     |     14:27     |     2:00      |       339 KM       |    1     
+  7   |             Gaya Junction              |        GAYA        |     20:12     |     20:17     |     5:00      |       600 KM       |    1     
+  8   |         Mughal Sarai Junction          |        MGS         |     23:07     |     23:17     |     10:00     |       803 KM       |    1     
+  9   |          Allahabad Junction            |        ALD         |     01:20     |     01:25     |     5:00      |       955 KM       |    2     
+  10  |            Kanpur Central              |        CNB         |     03:50     |     04:00     |     10:00     |      1150 KM       |    2     
+  11  |               Ghaziabad                |        GZB         |     11:20     |     11:22     |     2:00      |      1563 KM       |    2     
+  12  |            Anand Vihar Trm             |        ANVT        |     11:50     |     Ends      |       -       |      1576 KM       |    2     

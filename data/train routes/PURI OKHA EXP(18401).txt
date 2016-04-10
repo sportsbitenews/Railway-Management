@@ -1,0 +1,42 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Puri                   |        PURI        |     Start     |     09:05     |       -       |        0 KM        |    1     
+  2   |              Sakhi Gopal               |        SIL         |     09:27     |     09:28     |     1:00      |       17 KM        |    1     
+  3   |         Khurda Road Junction           |        KUR         |     10:05     |     10:30     |     25:00     |       44 KM        |    1     
+  4   |                Balugan                 |        BALU        |     11:21     |     11:22     |     1:00      |       115 KM       |    1     
+  5   |               Chatrapur                |        CAP         |     12:01     |     12:02     |     1:00      |       169 KM       |    1     
+  6   |               Brahmapur                |        BAM         |     12:25     |     12:30     |     5:00      |       191 KM       |    1     
+  7   |                Palasa                  |        PSA         |     13:43     |     13:45     |     2:00      |       265 KM       |    1     
+  8   |            Srikakulam Road             |        CHE         |     14:40     |     14:42     |     2:00      |       338 KM       |    1     
+  9   |         Vizianagram Junction           |        VZM         |     15:50     |     15:55     |     5:00      |       407 KM       |    1     
+  10  |             Vishakapatnam              |        VSKP        |     17:15     |     17:35     |     20:00     |       468 KM       |    1     
+  11  |              Anakapalle                |        AKP         |     18:32     |     18:33     |     1:00      |       501 KM       |    1     
+  12  |           Samalkot Junction            |        SLO         |     19:56     |     19:57     |     1:00      |       618 KM       |    1     
+  13  |              Rajamundry                |        RJY         |     20:55     |     21:00     |     5:00      |       669 KM       |    1     
+  14  |                 Eluru                  |         EE         |     22:12     |     22:13     |     1:00      |       759 KM       |    1     
+  15  |          Vijayawada Junction           |        BZA         |     00:01     |     00:15     |     14:00     |       818 KM       |    2     
+  16  |               Warangal                 |         WL         |     02:58     |     03:00     |     2:00      |      1027 KM       |    2     
+  17  |               Ramgundam                |        RDM         |     05:31     |     05:32     |     1:00      |      1127 KM       |    2     
+  18  |               Mancheral                |        MCI         |     05:41     |     05:42     |     1:00      |      1141 KM       |    2     
+  19  |            Sirpur Kagazngr             |        SKZR        |     06:34     |     06:35     |     1:00      |      1199 KM       |    2     
+  20  |              Balharshah                |        BPQ         |     08:10     |     08:20     |     10:00     |      1269 KM       |    2     
+  21  |              Chandrapur                |         CD         |     08:39     |     08:40     |     1:00      |      1283 KM       |    2     
+  22  |            Wardha Junction             |         WR         |     10:42     |     10:45     |     3:00      |      1401 KM       |    2     
+  23  |           Badnera Junction             |         BD         |     12:40     |     12:43     |     3:00      |      1497 KM       |    2     
+  24  |            Akola Junction              |         AK         |     13:30     |     13:35     |     5:00      |      1576 KM       |    2     
+  25  |                Shegaon                 |        SEG         |     14:04     |     14:05     |     1:00      |      1613 KM       |    2     
+  26  |               Malkapur                 |        MKU         |     14:39     |     14:40     |     1:00      |      1665 KM       |    2     
+  27  |           Bhusaval Junction            |        BSL         |     15:45     |     16:00     |     15:00     |      1715 KM       |    2     
+  28  |           Jalgaon Junction             |         JL         |     16:54     |     16:55     |     1:00      |      1739 KM       |    2     
+  29  |                Amalner                 |         AN         |     18:06     |     18:08     |     2:00      |      1795 KM       |    2     
+  30  |               Nandurbar                |        NDB         |     19:45     |     19:50     |     5:00      |      1890 KM       |    2     
+  31  |                 Surat                  |         ST         |     23:30     |     23:40     |     10:00     |      2050 KM       |    2     
+  32  |           Vadodara Junction            |        BRC         |     01:36     |     01:41     |     5:00      |      2179 KM       |    3     
+  33  |          Ahmedabad Junction            |        ADI         |     03:35     |     03:55     |     20:00     |      2279 KM       |    3     
+  34  |           Viramgam Junction            |         VG         |     04:55     |     04:56     |     1:00      |      2344 KM       |    3     
+  35  |             Surendranagar              |        SUNR        |     06:00     |     06:01     |     1:00      |      2410 KM       |    3     
+  36  |            Rajkot Junction             |        RJT         |     08:20     |     08:35     |     15:00     |      2526 KM       |    3     
+  37  |                 Hapa                   |        HAPA        |     10:04     |     10:05     |     1:00      |      2602 KM       |    3     
+  38  |               Jamnagar                 |        JAM         |     10:21     |     10:22     |     1:00      |      2610 KM       |    3     
+  39  |              Khambhaliya               |        KMBL        |     11:17     |     11:18     |     1:00      |      2665 KM       |    3     
+  40  |                Dwarka                  |        DWK         |     13:02     |     13:03     |     1:00      |      2749 KM       |    3     
+  41  |                 Okha                   |        OKHA        |     13:45     |     Ends      |       -       |      2778 KM       |    3     

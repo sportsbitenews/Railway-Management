@@ -1,0 +1,22 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Mathura Junction             |        MTJ         |     Start     |     23:15     |       -       |        0 KM        |    1     
+  2   |             Hathras City               |        HTC         |     00:06     |     00:08     |     2:00      |       42 KM        |    2     
+  3   |                Kasganj                 |        KSJ         |     01:05     |     01:15     |     10:00     |       105 KM       |    2     
+  4   |               Kaimganj                 |        KMJ         |     02:13     |     02:15     |     2:00      |       183 KM       |    2     
+  5   |              Farrukhabad               |        FBD         |     02:55     |     03:00     |     5:00      |       213 KM       |    2     
+  6   |               Fatehgarh                |        FGR         |     03:15     |     03:17     |     2:00      |       218 KM       |    2     
+  7   |                Kannauj                 |        KJN         |     03:58     |     04:00     |     2:00      |       272 KM       |    2     
+  8   |            Kanpur Anwrganj             |        CPA         |     05:35     |     05:40     |     5:00      |       350 KM       |    2     
+  9   |            Kanpur Central              |        CNB         |     05:55     |     06:00     |     5:00      |       353 KM       |    2     
+  10  |              Lucknow Ne                |        LJN         |     07:20     |     07:45     |     25:00     |       426 KM       |    2     
+  11  |          Barabanki Junction            |        BBK         |     08:36     |     08:38     |     2:00      |       462 KM       |    2     
+  12  |            Gonda Junction              |         GD         |     10:15     |     10:30     |     15:00     |       551 KM       |    2     
+  13  |           Mankapur Junction            |        MUR         |     10:54     |     10:56     |     2:00      |       579 KM       |    2     
+  14  |               Maskanwa                 |        MSW         |     11:09     |     11:11     |     2:00      |       594 KM       |    2     
+  15  |                 Basti                  |        BST         |     11:55     |     12:00     |     5:00      |       640 KM       |    2     
+  16  |              Khalilabad                |        KLD         |     12:21     |     12:23     |     2:00      |       670 KM       |    2     
+  17  |          Gorakhpur Junction            |        GKP         |     13:20     |     13:40     |     20:00     |       705 KM       |    2     
+  18  |             Deoria Sadar               |        DEOS        |     14:25     |     14:30     |     5:00      |       754 KM       |    2     
+  19  |            Bhatni Junction             |        BTT         |     14:50     |     14:55     |     5:00      |       775 KM       |    2     
+  20  |            Siwan Junction              |         SV         |     15:35     |     15:40     |     5:00      |       824 KM       |    2     
+  21  |                Chhapra                 |        CPR         |     17:05     |     Ends      |       -       |       884 KM       |    2     

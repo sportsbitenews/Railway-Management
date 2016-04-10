@@ -1,0 +1,30 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Eranakulam Junction           |        ERS         |     Start     |     19:00     |       -       |        0 KM        |    1     
+  2   |                 Aluva                  |        AWY         |     19:20     |     19:22     |     2:00      |       20 KM        |    1     
+  3   |                Thrisur                 |        TCR         |     20:00     |     20:03     |     3:00      |       75 KM        |    1     
+  4   |               Palakkad                 |        PGT         |     21:40     |     21:45     |     5:00      |       152 KM       |    1     
+  5   |          Coimbatore Junction           |        CBE         |     23:15     |     23:20     |     5:00      |       206 KM       |    1     
+  6   |               Tiruppur                 |        TUP         |     00:03     |     00:05     |     2:00      |       256 KM       |    2     
+  7   |            Erode Junction              |         ED         |     00:50     |     00:55     |     5:00      |       307 KM       |    2     
+  8   |            Salem Junction              |         SA         |     01:50     |     01:55     |     5:00      |       369 KM       |    2     
+  9   |              Jolarpettai               |        JTJ         |     03:43     |     03:45     |     2:00      |       489 KM       |    2     
+  10  |           Katpadi Junction             |        KPD         |     05:28     |     05:30     |     2:00      |       573 KM       |    2     
+  11  |                Chittor                 |        CTO         |     05:59     |     06:00     |     1:00      |       606 KM       |    2     
+  12  |               Tirupati                 |        TPTY        |     07:30     |     07:35     |     5:00      |       677 KM       |    2     
+  13  |          Renigunta Junction            |         RU         |     07:50     |     08:00     |     10:00     |       687 KM       |    2     
+  14  |            Gudur Junction              |        GDR         |     09:33     |     09:35     |     2:00      |       770 KM       |    2     
+  15  |                Ongole                  |        OGL         |     11:35     |     11:36     |     1:00      |       925 KM       |    2     
+  16  |          Vijayawada Junction           |        BZA         |     14:15     |     14:35     |     20:00     |      1063 KM       |    2     
+  17  |               Warangal                 |         WL         |     17:30     |     17:35     |     5:00      |      1272 KM       |    2     
+  18  |              Balharshah                |        BPQ         |     21:15     |     21:25     |     10:00     |      1514 KM       |    2     
+  19  |                Nagpur                  |        NGP         |     00:20     |     00:30     |     10:00     |      1725 KM       |    3     
+  20  |                 Betul                  |        BZU         |     03:02     |     03:03     |     1:00      |      1915 KM       |    3     
+  21  |            Itarsi Junction             |         ET         |     04:40     |     04:45     |     5:00      |      2022 KM       |    3     
+  22  |           Bhopal  Junction             |        BPL         |     06:25     |     06:30     |     5:00      |      2114 KM       |    3     
+  23  |             Bina Junction              |        BINA        |     08:20     |     08:25     |     5:00      |      2252 KM       |    3     
+  24  |            Jhansi Junction             |        JHS         |     10:28     |     10:38     |     10:00     |      2405 KM       |    3     
+  25  |                Gwalior                 |        GWL         |     11:52     |     11:57     |     5:00      |      2502 KM       |    3     
+  26  |              Agra Cantt                |        AGC         |     14:00     |     14:05     |     5:00      |      2620 KM       |    3     
+  27  |             Raja Ki Mandi              |        RKM         |     14:13     |     14:15     |     2:00      |      2624 KM       |    3     
+  28  |           Mathura Junction             |        MTJ         |     14:55     |     15:00     |     5:00      |      2674 KM       |    3     
+  29  |             H Nizamuddin               |        NZM         |     17:10     |     Ends      |       -       |      2807 KM       |    3     

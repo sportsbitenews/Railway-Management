@@ -1,0 +1,27 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Kamakhya                 |        KYQ         |     Start     |     23:45     |       -       |        0 KM        |    1     
+  2   |             Goalpara Town              |        GLPT        |     01:15     |     01:17     |     2:00      |       122 KM       |    2     
+  3   |            New Bongaigaon              |        NBQ         |     02:45     |     02:50     |     5:00      |       202 KM       |    2     
+  4   |               Kokrajhar                |        KOJ         |     03:19     |     03:20     |     1:00      |       230 KM       |    2     
+  5   |         Alipur Duar Junction           |        APDJ        |     04:35     |     04:40     |     5:00      |       311 KM       |    2     
+  6   |           New Mal Junction             |        NMZ         |     06:30     |     06:32     |     2:00      |       425 KM       |    2     
+  7   |           Siliguri Junction            |        SGUJ        |     08:00     |     08:05     |     5:00      |       472 KM       |    2     
+  8   |            New Jalpaiguri              |        NJP         |     08:25     |     08:40     |     15:00     |       480 KM       |    2     
+  9   |              Kishanganj                |        KNE         |     09:45     |     09:50     |     5:00      |       567 KM       |    2     
+  10  |            Barsoi Junction             |        BOE         |     10:43     |     10:45     |     2:00      |       624 KM       |    2     
+  11  |              Malda Town                |        MLDT        |     13:35     |     13:50     |     15:00     |       712 KM       |    2     
+  12  |         New Farakka Junction           |        NFK         |     14:22     |     14:24     |     2:00      |       747 KM       |    2     
+  13  |           Azimganj Junction            |         AZ         |     16:00     |     16:05     |     5:00      |       854 KM       |    2     
+  14  |            Khagraghat Road             |        KGLE        |     16:19     |     16:20     |     1:00      |       868 KM       |    2     
+  15  |                 Katwa                  |        KWAE        |     17:58     |     18:03     |     5:00      |       926 KM       |    2     
+  16  |             Nabadwip Dham              |        NDAE        |     18:35     |     18:39     |     4:00      |       965 KM       |    2     
+  17  |             Ambika Kalna               |        ABKA        |     19:00     |     19:01     |     1:00      |       989 KM       |    2     
+  18  |            Bandel Junction             |        BDC         |     21:18     |     21:20     |     2:00      |      1031 KM       |    2     
+  19  |            Howrah Junction             |        HWH         |     22:30     |     23:15     |     45:00     |      1070 KM       |    2     
+  20  |          Kharagpur Junction            |        KGP         |     00:55     |     01:15     |     20:00     |      1186 KM       |    3     
+  21  |               Bhadrakh                 |        BHC         |     03:40     |     03:42     |     2:00      |      1366 KM       |    3     
+  22  |             Jajpur K Road              |        JJKR        |     04:16     |     04:17     |     1:00      |      1410 KM       |    3     
+  23  |                Cuttack                 |        CTC         |     05:10     |     05:15     |     5:00      |      1482 KM       |    3     
+  24  |              Bhubaneswar               |        BBS         |     05:55     |     06:00     |     5:00      |      1509 KM       |    3     
+  25  |         Khurda Road Junction           |        KUR         |     06:35     |     06:40     |     5:00      |      1528 KM       |    3     
+  26  |                 Puri                   |        PURI        |     07:40     |     Ends      |       -       |      1572 KM       |    3     

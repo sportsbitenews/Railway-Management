@@ -1,0 +1,11 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Rewa                   |        REWA        |     Start     |     06:00     |       -       |        0 KM        |    1     
+  2   |                 Satna                  |        STA         |     06:50     |     07:00     |     10:00     |       50 KM        |    1     
+  3   |               Unchhera                 |        UHR         |     07:13     |     07:15     |     2:00      |       71 KM        |    1     
+  4   |                Maihar                  |        MYR         |     07:28     |     07:30     |     2:00      |       85 KM        |    1     
+  5   |                Amdara                  |        UDR         |     07:48     |     07:50     |     2:00      |       111 KM       |    1     
+  6   |                 Katni                  |        KTE         |     08:30     |     08:35     |     5:00      |       148 KM       |    1     
+  7   |           Sleemanabad Road             |        SBD         |     08:59     |     09:01     |     2:00      |       176 KM       |    1     
+  8   |              Sihora Road               |        SHR         |     09:23     |     09:25     |     2:00      |       200 KM       |    1     
+  9   |               Gosalpur                 |        GSPR        |     09:35     |     09:37     |     2:00      |       211 KM       |    1     
+  10  |               Jabalpur                 |        JBP         |     10:25     |     Ends      |       -       |       239 KM       |    1     

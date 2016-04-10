@@ -1,0 +1,35 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Ledo                   |        LEDO        |     Start     |     14:55     |       -       |        0 KM        |    1     
+  2   |              Margherita                |        MRG         |     15:08     |     15:09     |     1:00      |        8 KM        |    1     
+  3   |                Digboi                  |        DBY         |     15:28     |     15:29     |     1:00      |       21 KM        |    1     
+  4   |            Makum Junction              |        MJN         |     15:57     |     15:59     |     2:00      |       47 KM        |    1     
+  5   |           Tinsukia Junction            |        TSK         |     16:15     |     16:16     |     1:00      |       55 KM        |    1     
+  6   |         New Tinsukia Junction          |        NTSK        |     16:30     |     16:40     |     10:00     |       57 KM        |    1     
+  7   |               Duliajan                 |        DJG         |     17:00     |     17:01     |     1:00      |       73 KM        |    1     
+  8   |              Naharkatiya               |        NHK         |     17:12     |     17:13     |     1:00      |       82 KM        |    1     
+  9   |                Namrup                  |        NAM         |     17:26     |     17:27     |     1:00      |       94 KM        |    1     
+  10  |                Borhat                  |        BFD         |     17:36     |     17:37     |     1:00      |       99 KM        |    1     
+  11  |               Sapekhati                |        SPK         |     17:50     |     17:51     |     1:00      |       112 KM       |    1     
+  12  |                 Bhojo                  |        BOJ         |     18:05     |     18:06     |     1:00      |       126 KM       |    1     
+  13  |                Lakswa                  |        LXA         |     18:25     |     18:26     |     1:00      |       146 KM       |    1     
+  14  |          Simaluguri Junction           |        SLGR        |     18:42     |     18:44     |     2:00      |       160 KM       |    1     
+  15  |               Namtiali                 |        NMT         |     18:58     |     18:59     |     1:00      |       174 KM       |    1     
+  16  |                Amguri                  |        AGI         |     19:16     |     19:17     |     1:00      |       186 KM       |    1     
+  17  |           Mariani Junction             |        MXN         |     20:00     |     20:10     |     10:00     |       214 KM       |    1     
+  18  |                Titabar                 |        TTB         |     20:23     |     20:24     |     1:00      |       226 KM       |    1     
+  19  |            Kamarbandha Ali             |        KXL         |     20:39     |     20:40     |     1:00      |       243 KM       |    1     
+  20  |          Furkating Junction            |        FKG         |     21:10     |     21:45     |     35:00     |       252 KM       |    1     
+  21  |               Barpathar                |        BXP         |     22:16     |     22:17     |     1:00      |       276 KM       |    1     
+  22  |              Sarupathar                |        SZR         |     22:30     |     22:31     |     1:00      |       286 KM       |    1     
+  23  |                Bokajan                 |        BXJ         |     22:54     |     22:55     |     1:00      |       308 KM       |    1     
+  24  |                Dimapur                 |        DMV         |     23:15     |     23:25     |     10:00     |       322 KM       |    1     
+  25  |                 Diphu                  |        DPU         |     00:05     |     00:06     |     1:00      |       359 KM       |    2     
+  26  |           Lumding Junction             |        LMG         |     00:55     |     01:05     |     10:00     |       391 KM       |    2     
+  27  |                 Lanka                  |        LKA         |     01:43     |     01:44     |     1:00      |       421 KM       |    2     
+  28  |                 Hojai                  |        HJI         |     02:04     |     02:05     |     1:00      |       436 KM       |    2     
+  29  |                Kampur                  |        KWM         |     02:29     |     02:30     |     1:00      |       463 KM       |    2     
+  30  |          Chaparmukh Junction           |        CPK         |     02:48     |     02:50     |     2:00      |       480 KM       |    2     
+  31  |               Jagi Road                |        JID         |     03:18     |     03:19     |     1:00      |       514 KM       |    2     
+  32  |                Narangi                 |        NNGE        |     04:24     |     04:25     |     1:00      |       563 KM       |    2     
+  33  |               Guwahati                 |        GHY         |     04:45     |     04:55     |     10:00     |       571 KM       |    2     
+  34  |               Kamakhya                 |        KYQ         |     05:30     |     Ends      |       -       |       578 KM       |    2     

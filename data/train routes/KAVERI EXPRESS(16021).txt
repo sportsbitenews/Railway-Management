@@ -1,0 +1,25 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Chennai Central             |        MAS         |     Start     |     21:00     |       -       |        0 KM        |    1     
+  2   |              Trivellore                |        TRL         |     21:34     |     21:35     |     1:00      |       42 KM        |    1     
+  3   |               Arakkonam                |        AJJ         |     22:03     |     22:05     |     2:00      |       69 KM        |    1     
+  4   |            Anavardikhanpet             |        AVN         |     22:19     |     22:20     |     1:00      |       81 KM        |    1     
+  5   |              Sholinghur                |        SHU         |     22:34     |     22:35     |     1:00      |       90 KM        |    1     
+  6   |         Walajah Road Junction          |        WJR         |     22:49     |     22:50     |     1:00      |       105 KM       |    1     
+  7   |           Katpadi Junction             |        KPD         |     23:23     |     23:25     |     2:00      |       130 KM       |    1     
+  8   |                 Ambur                  |         AB         |     00:03     |     00:05     |     2:00      |       182 KM       |    2     
+  9   |              Jolarpettai               |        JTJ         |     00:40     |     00:42     |     2:00      |       214 KM       |    2     
+  10  |                Kuppam                  |        KPN         |     01:14     |     01:15     |     1:00      |       257 KM       |    2     
+  11  |              Bangarapet                |        BWT         |     01:43     |     01:45     |     2:00      |       292 KM       |    2     
+  12  |              Whitefield                |        WFD         |     02:24     |     02:25     |     1:00      |       338 KM       |    2     
+  13  |            Krishnarajapurm             |        KJM         |     02:38     |     02:40     |     2:00      |       348 KM       |    2     
+  14  |            Bangalore East              |        BNCE        |     02:49     |     02:50     |     1:00      |       355 KM       |    2     
+  15  |            Bangalore Cant              |        BNC         |     02:55     |     03:00     |     5:00      |       357 KM       |    2     
+  16  |         Bangalore Cy Junction          |        SBC         |     03:45     |     04:00     |     15:00     |       362 KM       |    2     
+  17  |                Kengeri                 |        KGI         |     04:18     |     04:19     |     1:00      |       374 KM       |    2     
+  18  |                Bidadi                  |        BID         |     04:34     |     04:35     |     1:00      |       391 KM       |    2     
+  19  |              Ramanagaram               |        RMGM        |     04:44     |     04:45     |     1:00      |       406 KM       |    2     
+  20  |              Channapatna               |        CPT         |     04:54     |     04:55     |     1:00      |       417 KM       |    2     
+  21  |                Maddur                  |        MAD         |     05:09     |     05:10     |     1:00      |       435 KM       |    2     
+  22  |                Mandya                  |        MYA         |     05:24     |     05:25     |     1:00      |       455 KM       |    2     
+  23  |              Pandavapura               |        PANP        |     05:44     |     05:45     |     1:00      |       480 KM       |    2     
+  24  |            Mysore Junction             |        MYS         |     06:50     |     Ends      |       -       |       500 KM       |    2     

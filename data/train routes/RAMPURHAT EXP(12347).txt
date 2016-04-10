@@ -1,0 +1,10 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Howrah Junction             |        HWH         |     Start     |     11:55     |       -       |        0 KM        |    1     
+  2   |              Kamarkundu                |        KQU         |     12:22     |     12:23     |     1:00      |       33 KM        |    1     
+  3   |          Barddhaman Junction           |        BWN         |     13:09     |     13:11     |     2:00      |       95 KM        |    1     
+  4   |                Guskara                 |        GKH         |     13:50     |     13:51     |     1:00      |       127 KM       |    1     
+  5   |            Bolpur S Niktn              |        BHP         |     14:16     |     14:18     |     2:00      |       146 KM       |    1     
+  6   |                Prantik                 |        PNE         |     14:26     |     14:27     |     1:00      |       151 KM       |    1     
+  7   |           Ahmadpur Junction            |        AMP         |     14:43     |     14:44     |     1:00      |       166 KM       |    1     
+  8   |               Sainthia                 |        SNT         |     14:58     |     14:59     |     1:00      |       179 KM       |    1     
+  9   |              Rampur Hat                |        RPH         |     15:35     |     Ends      |       -       |       207 KM       |    1     

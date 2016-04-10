@@ -1,0 +1,20 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Yesvantpur Junction           |        YPR         |     Start     |     14:30     |       -       |        0 KM        |    1     
+  2   |           Yelhanka Junction            |        YNK         |     14:48     |     14:50     |     2:00      |       13 KM        |    1     
+  3   |               Hindupur                 |        HUP         |     16:13     |     16:15     |     2:00      |       96 KM        |    1     
+  4   |             Sai P Nilayam              |        SSPN        |     17:33     |     17:35     |     2:00      |       154 KM       |    1     
+  5   |         Dharmavaram Junction           |        DMM         |     18:25     |     18:30     |     5:00      |       187 KM       |    1     
+  6   |               Anantapur                |        ATP         |     19:04     |     19:05     |     1:00      |       220 KM       |    1     
+  7   |                 Gooty                  |         GY         |     20:03     |     20:05     |     2:00      |       277 KM       |    1     
+  8   |                 Dhone                  |        DHNE        |     21:10     |     21:12     |     2:00      |       332 KM       |    1     
+  9   |              Betamcherla               |        BMH         |     21:42     |     21:44     |     2:00      |       368 KM       |    1     
+  10  |                Nandyal                 |        NDL         |     22:40     |     22:45     |     5:00      |       408 KM       |    1     
+  11  |               Giddalur                 |        GID         |     23:58     |     23:59     |     1:00      |       462 KM       |    1     
+  12  |                Cumbum                  |        CBM         |     00:29     |     00:30     |     1:00      |       495 KM       |    2     
+  13  |             Markapur Road              |        MRK         |     00:57     |     00:58     |     1:00      |       521 KM       |    2     
+  14  |               Donakonda                |        DKD         |     01:25     |     01:26     |     1:00      |       545 KM       |    2     
+  15  |             Narasaraopet               |        NRT         |     02:38     |     02:39     |     1:00      |       620 KM       |    2     
+  16  |            Guntur Junction             |        GNT         |     03:45     |     03:50     |     5:00      |       665 KM       |    2     
+  17  |          Vijayawada Junction           |        BZA         |     05:00     |     05:10     |     10:00     |       697 KM       |    2     
+  18  |           Gudivada Junction            |        GDV         |     06:05     |     06:07     |     2:00      |       741 KM       |    2     
+  19  |             Machelipatnam              |        MTM         |     07:15     |     Ends      |       -       |       778 KM       |    2     

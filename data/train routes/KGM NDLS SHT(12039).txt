@@ -1,0 +1,9 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Kathgodam                |        KGM         |     Start     |     15:35     |       -       |        0 KM        |    1     
+  2   |               Haldwani                 |        HDW         |     15:50     |     15:52     |     2:00      |        7 KM        |    1     
+  3   |               Lal Kuan                 |        LKU         |     16:21     |     16:23     |     2:00      |       23 KM        |    1     
+  4   |             Rudrapur City              |        RUPC        |     16:44     |     16:46     |     2:00      |       45 KM        |    1     
+  5   |                Rampur                  |        RMU         |     17:37     |     17:39     |     2:00      |       90 KM        |    1     
+  6   |               Moradabad                |         MB         |     18:10     |     18:15     |     5:00      |       117 KM       |    1     
+  7   |               Ghaziabad                |        GZB         |     20:20     |     20:22     |     2:00      |       258 KM       |    1     
+  8   |               New Delhi                |        NDLS        |     21:05     |     Ends      |       -       |       281 KM       |    1     

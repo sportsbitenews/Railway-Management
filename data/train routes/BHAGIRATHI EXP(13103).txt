@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Sealdah                 |        SDAH        |     Start     |     18:20     |       -       |        0 KM        |    1     
+  2   |           Ranaghat Junction            |        RHA         |     19:53     |     19:55     |     2:00      |       74 KM        |    1     
+  3   |         Krishngr Cty Junction          |        KNJ         |     20:22     |     20:24     |     2:00      |       100 KM       |    1     
+  4   |             Bethuadahari               |        BTY         |     20:47     |     20:48     |     1:00      |       128 KM       |    1     
+  5   |               Debagram                 |        DEB         |     20:59     |     21:00     |     1:00      |       140 KM       |    1     
+  6   |                Plassey                 |        PLY         |     21:10     |     21:11     |     1:00      |       150 KM       |    1     
+  7   |               Rejinagar                |        REJ         |     21:30     |     21:31     |     1:00      |       159 KM       |    1     
+  8   |               Beldanga                 |        BEB         |     21:43     |     21:44     |     1:00      |       168 KM       |    1     
+  9   |            Berhampore Crt              |        BPC         |     22:00     |     22:02     |     2:00      |       186 KM       |    1     
+  10  |              Cossimbazar               |        CSZ         |     22:06     |     22:07     |     1:00      |       190 KM       |    1     
+  11  |              Murshidabad               |        MBB         |     22:15     |     22:16     |     1:00      |       197 KM       |    1     
+  12  |                Jiaganj                 |        JJG         |     22:23     |     22:24     |     1:00      |       204 KM       |    1     
+  13  |              Bhagwangola               |        BQG         |     22:35     |     22:36     |     1:00      |       216 KM       |    1     
+  14  |                Lalgola                 |        LGL         |     23:00     |     Ends      |       -       |       227 KM       |    1     

@@ -1,0 +1,9 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               New Delhi                |        NDLS        |     Start     |     16:05     |       -       |        0 KM        |    1     
+  2   |            Kanpur Central              |        CNB         |     21:00     |     21:05     |     5:00      |       440 KM       |    1     
+  3   |         Mughal Sarai Junction          |        MGS         |     01:18     |     01:28     |     10:00     |       786 KM       |    2     
+  4   |             Dehri On Sone              |        DOS         |     02:35     |     02:37     |     2:00      |       904 KM       |    2     
+  5   |             Gaya Junction              |        GAYA        |     03:30     |     03:33     |     3:00      |       989 KM       |    2     
+  6   |                Koderma                 |        KQR         |     04:41     |     04:43     |     2:00      |      1066 KM       |    2     
+  7   |            Bokaro Stl City             |        BKSC        |     06:40     |     06:45     |     5:00      |      1191 KM       |    2     
+  8   |                Ranchi                  |        RNC         |     09:10     |     Ends      |       -       |      1305 KM       |    2     

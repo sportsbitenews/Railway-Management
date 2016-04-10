@@ -1,0 +1,18 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Lal Kuan                 |        LKU         |     Start     |     23:15     |       -       |        0 KM        |    1     
+  2   |                Bazpur                  |        BPZ         |     23:55     |     23:57     |     2:00      |       39 KM        |    1     
+  3   |               Kashipur                 |        KPV         |     00:40     |     01:10     |     30:00     |       59 KM        |    2     
+  4   |               Moradabad                |         MB         |     02:40     |     02:50     |     10:00     |       109 KM       |    2     
+  5   |          Najibabad Junction            |        NBD         |     04:25     |     04:30     |     5:00      |       207 KM       |    2     
+  6   |            Laksar Junction             |        LRJ         |     05:08     |     05:10     |     2:00      |       249 KM       |    2     
+  7   |                Roorkee                 |         RK         |     05:28     |     05:30     |     2:00      |       267 KM       |    2     
+  8   |              Saharanpur                |        SRE         |     06:15     |     06:20     |     5:00      |       302 KM       |    2     
+  9   |               Jagadhri                 |        JUD         |     06:46     |     06:48     |     2:00      |       332 KM       |    2     
+  10  |         Ambala Cant Junction           |        UMB         |     07:55     |     08:00     |     5:00      |       383 KM       |    2     
+  11  |              Chandigarh                |        CDG         |     09:00     |     09:15     |     15:00     |       450 KM       |    2     
+  12  |            Sahibzada Asngr             |        SASN        |     09:25     |     09:27     |     2:00      |       462 KM       |    2     
+  13  |           Ludhiana Junction            |        LDH         |     11:50     |     12:20     |     30:00     |       563 KM       |    2     
+  14  |           Phagwara Junction            |        PGW         |     12:51     |     12:53     |     2:00      |       598 KM       |    2     
+  15  |            Jalandhar City              |        JUC         |     13:30     |     13:35     |     5:00      |       620 KM       |    2     
+  16  |                 Beas                   |        BEAS        |     14:07     |     14:09     |     2:00      |       656 KM       |    2     
+  17  |           Amritsar Junction            |        ASR         |     15:15     |     Ends      |       -       |       698 KM       |    2     

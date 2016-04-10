@@ -1,0 +1,9 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Patna Junction              |        PNBE        |     Start     |     12:45     |       -       |        0 KM        |    1     
+  2   |         Bakhtiyarpur Junction          |        BKP         |     13:20     |     13:22     |     2:00      |       46 KM        |    1     
+  3   |           Mokameh Junction             |        MKA         |     13:58     |     14:00     |     2:00      |       90 KM        |    1     
+  4   |              Begu Sarai                |        BGS         |     15:09     |     15:10     |     1:00      |       130 KM       |    1     
+  5   |           Khagaria Junction            |        KGG         |     15:43     |     15:44     |     1:00      |       171 KM       |    1     
+  6   |            Mansi Junction              |        MNE         |     15:59     |     16:00     |     1:00      |       180 KM       |    1     
+  7   |            S Bhakhtiyarpur             |        SBV         |     16:26     |     16:27     |     1:00      |       207 KM       |    1     
+  8   |           Saharsa Junction             |        SHC         |     16:45     |     Ends      |       -       |       224 KM       |    1     

@@ -1,0 +1,25 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Dharmabad                |        DAB         |     Start     |     04:00     |       -       |        0 KM        |    1     
+  2   |               Karkheli                 |        KEK         |     04:12     |     04:13     |     1:00      |       14 KM        |    1     
+  3   |                 Umri                   |        UMRI        |     04:30     |     04:32     |     2:00      |       30 KM        |    1     
+  4   |                Mudkhed                 |        MUE         |     04:57     |     04:59     |     2:00      |       50 KM        |    1     
+  5   |                Nanded                  |        NED         |     05:25     |     05:30     |     5:00      |       72 KM        |    1     
+  6   |            Purna Junction              |        PAU         |     06:03     |     06:05     |     2:00      |       103 KM       |    1     
+  7   |           Parbhani Junction            |        PBN         |     06:38     |     06:40     |     2:00      |       131 KM       |    1     
+  8   |             Manwath Road               |        MVO         |     06:57     |     06:58     |     1:00      |       159 KM       |    1     
+  9   |                 Selu                   |        SELU        |     07:17     |     07:18     |     1:00      |       173 KM       |    1     
+  10  |                Partur                  |        PTU         |     07:44     |     07:45     |     1:00      |       201 KM       |    1     
+  11  |                 Jalna                  |         J          |     08:28     |     08:30     |     2:00      |       246 KM       |    1     
+  12  |               Badnapur                 |        BDU         |     08:49     |     08:50     |     1:00      |       265 KM       |    1     
+  13  |            Mukundawadi Ha              |        MKDD        |     09:29     |     09:30     |     1:00      |       302 KM       |    1     
+  14  |              Aurangabad                |        AWB         |     10:05     |     10:10     |     5:00      |       308 KM       |    1     
+  15  |              Daulatabad                |        DLB         |     10:23     |     10:24     |     1:00      |       321 KM       |    1     
+  16  |                 Potul                  |        POZ         |     10:32     |     10:33     |     1:00      |       330 KM       |    1     
+  17  |                 Lasur                  |        LSR         |     10:41     |     10:42     |     1:00      |       342 KM       |    1     
+  18  |              Karanjgaon                |        KAJG        |     10:54     |     10:55     |     1:00      |       352 KM       |    1     
+  19  |                Parsoda                 |        PSD         |     11:04     |     11:05     |     1:00      |       357 KM       |    1     
+  20  |               Rotegaon                 |        RGO         |     11:19     |     11:20     |     1:00      |       369 KM       |    1     
+  21  |                 Taru                   |         TR         |     11:34     |     11:35     |     1:00      |       383 KM       |    1     
+  22  |               Nagarsol                 |        NSL         |     12:09     |     12:10     |     1:00      |       397 KM       |    1     
+  23  |                 Ankai                  |        ANK         |     12:52     |     12:53     |     1:00      |       407 KM       |    1     
+  24  |            Manmad Junction             |        MMR         |     13:20     |     Ends      |       -       |       422 KM       |    1     

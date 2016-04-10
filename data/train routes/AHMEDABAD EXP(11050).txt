@@ -1,0 +1,19 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            C Shahumharaj T             |        KOP         |     Start     |     12:50     |       -       |        0 KM        |    1     
+  2   |            Miraj Junction              |        MRJ         |     13:40     |     13:45     |     5:00      |       48 KM        |    1     
+  3   |                Sangli                  |        SLI         |     13:57     |     14:00     |     3:00      |       55 KM        |    1     
+  4   |                Satara                  |        STR         |     16:00     |     16:03     |     3:00      |       181 KM       |    1     
+  5   |             Pune Junction              |        PUNE        |     19:40     |     19:50     |     10:00     |       327 KM       |    1     
+  6   |               Lonavala                 |        LNL         |     20:43     |     20:45     |     2:00      |       390 KM       |    1     
+  7   |                Karjat                  |        KJT         |     21:28     |     21:30     |     2:00      |       419 KM       |    1     
+  8   |            Kalyan Junction             |        KYN         |     22:17     |     22:20     |     3:00      |       465 KM       |    1     
+  9   |             Bhiwandi Road              |        BIRD        |     22:48     |     22:50     |     2:00      |       490 KM       |    1     
+  10  |              Vasai Road                |        BSR         |     23:45     |     23:50     |     5:00      |       517 KM       |    1     
+  11  |                 Vapi                   |        VAPI        |     01:45     |     01:47     |     2:00      |       640 KM       |    2     
+  12  |                Navsari                 |        NVS         |     03:03     |     03:05     |     2:00      |       703 KM       |    2     
+  13  |                 Surat                  |         ST         |     03:50     |     03:55     |     5:00      |       732 KM       |    2     
+  14  |           Bharuch Junction             |         BH         |     04:38     |     04:40     |     2:00      |       791 KM       |    2     
+  15  |           Vadodara Junction            |        BRC         |     05:40     |     05:45     |     5:00      |       861 KM       |    2     
+  16  |            Anand Junction              |        ANND        |     06:16     |     06:18     |     2:00      |       897 KM       |    2     
+  17  |            Nadiad Junction             |         ND         |     06:33     |     06:35     |     2:00      |       915 KM       |    2     
+  18  |          Ahmedabad Junction            |        ADI         |     07:45     |     Ends      |       -       |       961 KM       |    2     

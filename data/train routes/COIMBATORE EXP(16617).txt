@@ -1,0 +1,17 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Rameswaram                |        RMM         |     Start     |     19:00     |       -       |        0 KM        |    1     
+  2   |               Mandapam                 |        MMM         |     19:29     |     19:30     |     1:00      |       18 KM        |    1     
+  3   |            Ramanathapuram              |        RMD         |     19:58     |     20:00     |     2:00      |       54 KM        |    1     
+  4   |              Paramakkudi               |        PMK         |     20:29     |     20:30     |     1:00      |       90 KM        |    1     
+  5   |         Manamadurai Junction           |        MNM         |     21:05     |     21:10     |     5:00      |       114 KM       |    1     
+  6   |               Sivaganga                |        SVGA        |     21:34     |     21:35     |     1:00      |       134 KM       |    1     
+  7   |            Devakottai Road             |        DKO         |     22:09     |     22:10     |     1:00      |       170 KM       |    1     
+  8   |          Karaikkudi Junction           |        KKDI        |     22:25     |     22:30     |     5:00      |       175 KM       |    1     
+  9   |               Chettinad                |        CTND        |     22:44     |     22:45     |     1:00      |       187 KM       |    1     
+  10  |              Pudukkottai               |        PDKT        |     23:16     |     23:17     |     1:00      |       212 KM       |    1     
+  11  |            Tiruchchirapali             |        TPJ         |     01:05     |     01:10     |     5:00      |       264 KM       |    2     
+  12  |                 Karur                  |        KRR         |     02:42     |     02:45     |     3:00      |       340 KM       |    2     
+  13  |            Erode Junction              |         ED         |     04:20     |     04:25     |     5:00      |       406 KM       |    2     
+  14  |               Tiruppur                 |        TUP         |     05:08     |     05:10     |     2:00      |       456 KM       |    2     
+  15  |            Coimbatore Nrth             |        CBF         |     05:59     |     06:00     |     1:00      |       503 KM       |    2     
+  16  |          Coimbatore Junction           |        CBE         |     06:40     |     Ends      |       -       |       506 KM       |    2     

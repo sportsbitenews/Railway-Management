@@ -1,0 +1,17 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Nagpur                  |        NGP         |     Start     |     07:20     |       -       |        0 KM        |    1     
+  2   |                 Katol                  |        KATL        |     08:13     |     08:15     |     2:00      |       61 KM        |    1     
+  3   |                Narkher                 |        NRKR        |     08:37     |     08:39     |     2:00      |       86 KM        |    1     
+  4   |               Pandhurna                |        PAR         |     08:56     |     08:58     |     2:00      |       104 KM       |    1     
+  5   |             Amla Junction              |        AMLA        |     10:09     |     10:12     |     3:00      |       168 KM       |    1     
+  6   |                 Betul                  |        BZU         |     10:33     |     10:35     |     2:00      |       191 KM       |    1     
+  7   |              Ghoradongri               |        GDYA        |     11:16     |     11:18     |     2:00      |       227 KM       |    1     
+  8   |            Itarsi Junction             |         ET         |     12:25     |     12:35     |     10:00     |       298 KM       |    1     
+  9   |               Pipariya                 |        PPI         |     13:22     |     13:24     |     2:00      |       365 KM       |    1     
+  10  |              Narsinghpur               |         NU         |     14:43     |     14:45     |     2:00      |       459 KM       |    1     
+  11  |               Shridham                 |        SRID        |     15:38     |     15:40     |     2:00      |       490 KM       |    1     
+  12  |               Jabalpur                 |        JBP         |     17:05     |     17:15     |     10:00     |       543 KM       |    1     
+  13  |                 Katni                  |        KTE         |     18:35     |     18:40     |     5:00      |       633 KM       |    1     
+  14  |                Maihar                  |        MYR         |     19:28     |     19:30     |     2:00      |       696 KM       |    1     
+  15  |                 Satna                  |        STA         |     20:30     |     20:40     |     10:00     |       732 KM       |    1     
+  16  |                 Rewa                   |        REWA        |     22:20     |     Ends      |       -       |       781 KM       |    1     

@@ -1,0 +1,29 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Coimbatore Junction           |        CBE         |     Start     |     15:05     |       -       |        0 KM        |    1     
+  2   |               Tiruppur                 |        TUP         |     15:43     |     15:45     |     2:00      |       51 KM        |    1     
+  3   |            Erode Junction              |         ED         |     16:30     |     16:35     |     5:00      |       101 KM       |    1     
+  4   |            Salem Junction              |         SA         |     17:33     |     17:38     |     5:00      |       164 KM       |    1     
+  5   |              Dharmapuri                |        DPJ         |     18:53     |     18:55     |     2:00      |       230 KM       |    1     
+  6   |                 Hosur                  |        HSRA        |     20:43     |     20:45     |     2:00      |       322 KM       |    1     
+  7   |               Banaswadi                |        BAND        |     22:18     |     22:20     |     2:00      |       373 KM       |    1     
+  8   |          Yesvantpur Junction           |        YPR         |     22:50     |     23:40     |     50:00     |       388 KM       |    1     
+  9   |               Hindupur                 |        HUP         |     01:12     |     01:13     |     1:00      |       484 KM       |    2     
+  10  |         Dharmavaram Junction           |        DMM         |     02:43     |     02:45     |     2:00      |       574 KM       |    2     
+  11  |               Anantapur                |        ATP         |     03:18     |     03:20     |     2:00      |       608 KM       |    2     
+  12  |                 Dhone                  |        DHNE        |     05:40     |     05:45     |     5:00      |       720 KM       |    2     
+  13  |             Kurnool Town               |        KRNT        |     06:33     |     06:35     |     2:00      |       774 KM       |    2     
+  14  |              Mahbubnagar               |        MBNR        |     08:33     |     08:35     |     2:00      |       904 KM       |    2     
+  15  |               Kacheguda                |        KCG         |     10:30     |     10:40     |     10:00     |      1010 KM       |    2     
+  16  |           Kazipet Junction             |        KZJ         |     13:18     |     13:20     |     2:00      |      1147 KM       |    2     
+  17  |              Balharshah                |        BPQ         |     17:25     |     17:35     |     10:00     |      1382 KM       |    2     
+  18  |                Nagpur                  |        NGP         |     21:00     |     21:10     |     10:00     |      1593 KM       |    2     
+  19  |                 Betul                  |        BZU         |     23:31     |     23:32     |     1:00      |      1783 KM       |    2     
+  20  |            Itarsi Junction             |         ET         |     01:40     |     01:45     |     5:00      |      1890 KM       |    3     
+  21  |           Bhopal  Junction             |        BPL         |     03:25     |     03:30     |     5:00      |      1982 KM       |    3     
+  22  |             Bina Junction              |        BINA        |     05:20     |     05:25     |     5:00      |      2120 KM       |    3     
+  23  |            Jhansi Junction             |        JHS         |     07:35     |     07:45     |     10:00     |      2272 KM       |    3     
+  24  |                Gwalior                 |        GWL         |     09:20     |     09:25     |     5:00      |      2370 KM       |    3     
+  25  |              Agra Cantt                |        AGC         |     11:19     |     11:24     |     5:00      |      2488 KM       |    3     
+  26  |             Raja Ki Mandi              |        RKM         |     11:32     |     11:34     |     2:00      |      2492 KM       |    3     
+  27  |           Mathura Junction             |        MTJ         |     12:12     |     12:15     |     3:00      |      2542 KM       |    3     
+  28  |             H Nizamuddin               |        NZM         |     14:15     |     Ends      |       -       |      2675 KM       |    3     

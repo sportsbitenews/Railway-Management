@@ -1,0 +1,17 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Indore Junction Bg            |        INDB        |     Start     |     23:55     |       -       |        0 KM        |    1     
+  2   |                 Dewas                  |        DWX         |     00:36     |     00:38     |     2:00      |       39 KM        |    2     
+  3   |            Ujjain Junction             |        UJN         |     01:25     |     01:35     |     10:00     |       80 KM        |    2     
+  4   |            Nagda Junction              |        NAD         |     03:05     |     03:30     |     25:00     |       135 KM       |    2     
+  5   |             Bhawani Mandi              |        BWM         |     04:48     |     04:50     |     2:00      |       259 KM       |    2     
+  6   |             Kota Junction              |        KOTA        |     06:10     |     06:20     |     10:00     |       360 KM       |    2     
+  7   |            Sawai Madhopur              |        SWM         |     07:45     |     07:50     |     5:00      |       467 KM       |    2     
+  8   |             Gangapur City              |        GGC         |     09:03     |     09:05     |     2:00      |       531 KM       |    2     
+  9   |           Mathura Junction             |        MTJ         |     11:25     |     11:30     |     5:00      |       684 KM       |    2     
+  10  |            Delhi Safdarjng             |        DSJ         |     14:10     |     14:20     |     10:00     |       821 KM       |    2     
+  11  |           Panipat Junction             |        PNP         |     16:37     |     16:39     |       -       |       922 KM       |    2     
+  12  |         Ambala Cant Junction           |        UMB         |     18:35     |     18:45     |     10:00     |      1030 KM       |    2     
+  13  |           Ludhiana Junction            |        LDH         |     20:22     |     20:27     |     5:00      |      1144 KM       |    2     
+  14  |            Jalandhar Cant              |        JRC         |     21:18     |     21:23     |     5:00      |      1196 KM       |    2     
+  15  |            Pathankot Cantt             |        PTKC        |     23:05     |     23:10     |     5:00      |      1309 KM       |    2     
+  16  |              Jammu Tawi                |        JAT         |     01:20     |     Ends      |       -       |      1408 KM       |    3     

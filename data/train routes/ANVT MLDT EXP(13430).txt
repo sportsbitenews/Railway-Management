@@ -1,0 +1,24 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Anand Vihar Trm             |        ANVT        |     Start     |     17:10     |       -       |        0 KM        |    1     
+  2   |               Ghaziabad                |        GZB         |     17:45     |     17:50     |     5:00      |       13 KM        |    1     
+  3   |                 Hapur                  |        HPU         |     18:28     |     18:30     |     2:00      |       50 KM        |    1     
+  4   |               Moradabad                |         MB         |     21:25     |     21:32     |     7:00      |       154 KM       |    1     
+  5   |               Bareilly                 |         BE         |     22:52     |     22:57     |     5:00      |       245 KM       |    1     
+  6   |                Hardoi                  |        HRI         |     00:50     |     00:52     |     2:00      |       378 KM       |    2     
+  7   |              Lucknow Nr                |        LKO         |     02:40     |     03:05     |     25:00     |       480 KM       |    2     
+  8   |          Rae Bareli Junction           |        RBL         |     04:28     |     04:33     |     5:00      |       558 KM       |    2     
+  9   |                Amethi                  |        AME         |     05:32     |     05:34     |     2:00      |       618 KM       |    2     
+  10  |          Partapgarh Junction           |        PBH         |     06:10     |     06:15     |     5:00      |       653 KM       |    2     
+  11  |           Varanasi Junction            |        BSB         |     08:50     |     09:00     |     10:00     |       781 KM       |    2     
+  12  |         Mughal Sarai Junction          |        MGS         |     10:00     |     10:10     |     10:00     |       798 KM       |    2     
+  13  |                  Ara                   |        ARA         |     12:10     |     12:12     |     2:00      |       960 KM       |    2     
+  14  |                Danapur                 |        DNR         |     13:00     |     13:02     |     2:00      |      1000 KM       |    2     
+  15  |            Patna Junction              |        PNBE        |     13:45     |     14:00     |     15:00     |      1009 KM       |    2     
+  16  |         Bakhtiyarpur Junction          |        BKP         |     14:45     |     14:49     |     4:00      |      1055 KM       |    2     
+  17  |           Hathidah Junction            |        HTZ         |     15:44     |     15:46     |     2:00      |      1106 KM       |    2     
+  18  |             Kiul Junction              |        KIUL        |     16:20     |     16:25     |     5:00      |      1133 KM       |    2     
+  19  |               Abhaipur                 |        AHA         |     16:46     |     16:48     |     2:00      |      1156 KM       |    2     
+  20  |           Jamalpur Junction            |        JMP         |     17:22     |     17:27     |     5:00      |      1178 KM       |    2     
+  21  |               Bhagalpur                |        BGP         |     18:45     |     18:50     |     5:00      |      1231 KM       |    2     
+  22  |          Sahibganj Junction            |        SBG         |     20:30     |     20:35     |     5:00      |      1305 KM       |    2     
+  23  |              Malda Town                |        MLDT        |     23:50     |     Ends      |       -       |      1408 KM       |    2     

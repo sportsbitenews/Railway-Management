@@ -1,0 +1,8 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Delhi                  |        DLI         |     Start     |     19:05     |       -       |        0 KM        |    1     
+  2   |            Kanpur Central              |        CNB         |     01:15     |     01:20     |     5:00      |       434 KM       |    2     
+  3   |           Dhanbad Junction             |        DHN         |     12:35     |     12:45     |     10:00     |      1183 KM       |    2     
+  4   |           Asansol Junction             |        ASN         |     13:42     |     13:57     |     15:00     |      1242 KM       |    2     
+  5   |               Durgapur                 |        DGR         |     14:27     |     14:29     |     2:00      |      1284 KM       |    2     
+  6   |          Barddhaman Junction           |        BWN         |     15:20     |     15:23     |     3:00      |      1347 KM       |    2     
+  7   |                Sealdah                 |        SDAH        |     17:25     |     Ends      |       -       |      1448 KM       |    2     

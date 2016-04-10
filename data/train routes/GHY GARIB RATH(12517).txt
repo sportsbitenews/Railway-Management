@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Kolkata                 |        KOAA        |     Start     |     21:40     |       -       |        0 KM        |    1     
+  2   |            Bandel Junction             |        BDC         |     22:52     |     22:54     |     2:00      |       43 KM        |    1     
+  3   |             Nabadwip Dham              |        NDAE        |     23:47     |     23:49     |     2:00      |       108 KM       |    1     
+  4   |                 Katwa                  |        KWAE        |     00:26     |     00:28     |     2:00      |       148 KM       |    2     
+  5   |           Azimganj Junction            |         AZ         |     02:02     |     02:07     |     5:00      |       220 KM       |    2     
+  6   |              Malda Town                |        MLDT        |     04:00     |     04:10     |     10:00     |       334 KM       |    2     
+  7   |              Kishanganj                |        KNE         |     06:00     |     06:02     |     2:00      |       480 KM       |    2     
+  8   |            New Jalpaiguri              |        NJP         |     07:45     |     08:05     |     20:00     |       567 KM       |    2     
+  9   |            New Cooch Behar             |        NCB         |     09:55     |     09:57     |     2:00      |       693 KM       |    2     
+  10  |            New Alipurdaur              |        NOQ         |     10:25     |     10:27     |     2:00      |       712 KM       |    2     
+  11  |               Kokrajhar                |        KOJ         |     11:27     |     11:28     |     1:00      |       791 KM       |    2     
+  12  |            New Bongaigaon              |        NBQ         |     12:35     |     12:37     |     2:00      |       818 KM       |    2     
+  13  |             Goalpara Town              |        GLPT        |     13:16     |     13:18     |     2:00      |       898 KM       |    2     
+  14  |               Guwahati                 |        GHY         |     15:40     |     Ends      |       -       |      1027 KM       |    2     

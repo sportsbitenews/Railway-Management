@@ -1,0 +1,21 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Bhubaneswar               |        BBS         |     Start     |     07:30     |       -       |        0 KM        |    1     
+  2   |         Khurda Road Junction           |        KUR         |     07:50     |     07:55     |     5:00      |       19 KM        |    1     
+  3   |                Balugan                 |        BALU        |     08:44     |     08:45     |     1:00      |       90 KM        |    1     
+  4   |               Brahmapur                |        BAM         |     09:35     |     09:40     |     5:00      |       166 KM       |    1     
+  5   |                Palasa                  |        PSA         |     11:00     |     11:02     |     2:00      |       240 KM       |    1     
+  6   |            Srikakulam Road             |        CHE         |     11:55     |     11:57     |     2:00      |       313 KM       |    1     
+  7   |         Vizianagram Junction           |        VZM         |     12:55     |     13:00     |     5:00      |       382 KM       |    1     
+  8   |             Vishakapatnam              |        VSKP        |     14:10     |     14:30     |     20:00     |       443 KM       |    1     
+  9   |           Samalkot Junction            |        SLO         |     16:45     |     16:46     |     1:00      |       594 KM       |    1     
+  10  |              Rajamundry                |        RJY         |     17:48     |     17:50     |     2:00      |       644 KM       |    1     
+  11  |          Vijayawada Junction           |        BZA         |     20:40     |     20:55     |     15:00     |       793 KM       |    1     
+  12  |                Nellore                 |        NLR         |     00:12     |     00:13     |     1:00      |      1048 KM       |    2     
+  13  |            Gudur Junction              |        GDR         |     01:48     |     01:50     |     2:00      |      1086 KM       |    2     
+  14  |          Renigunta Junction            |         RU         |     03:00     |     03:10     |     10:00     |      1169 KM       |    2     
+  15  |               Tirupati                 |        TPTY        |     03:25     |     03:27     |     2:00      |      1179 KM       |    2     
+  16  |                Chittor                 |        CTO         |     04:29     |     04:30     |     1:00      |      1251 KM       |    2     
+  17  |           Katpadi Junction             |        KPD         |     05:40     |     05:42     |     2:00      |      1283 KM       |    2     
+  18  |              Jolarpettai               |        JTJ         |     07:00     |     07:05     |     5:00      |      1367 KM       |    2     
+  19  |            Krishnarajapurm             |        KJM         |     09:18     |     09:20     |     2:00      |      1501 KM       |    2     
+  20  |          Yesvantpur Junction           |        YPR         |     11:10     |     Ends      |       -       |      1524 KM       |    2     

@@ -1,0 +1,22 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Ramnagar                 |        RMR         |     Start     |     17:55     |       -       |        0 KM        |    1     
+  2   |               Kashipur                 |        KPV         |     18:18     |     18:23     |     5:00      |       28 KM        |    1     
+  3   |                Bazpur                  |        BPZ         |     18:40     |     18:42     |     2:00      |       48 KM        |    1     
+  4   |               Lal Kuan                 |        LKU         |     19:40     |     19:55     |     15:00     |       86 KM        |    1     
+  5   |               Pantnagar                |        PBW         |     20:05     |     20:07     |     2:00      |       92 KM        |    1     
+  6   |                Kichha                  |        KHH         |     20:17     |     20:19     |     2:00      |       104 KM       |    1     
+  7   |                Baheri                  |        BHI         |     20:35     |     20:37     |     2:00      |       119 KM       |    1     
+  8   |              Izzatnagar                |        IZN         |     21:58     |     22:03     |     5:00      |       163 KM       |    1     
+  9   |             Bareilly City              |         BC         |     22:35     |     22:45     |     10:00     |       168 KM       |    1     
+  10  |               Bareilly                 |         BE         |     22:57     |     23:02     |     5:00      |       170 KM       |    1     
+  11  |                Budaun                  |        BEM         |     00:07     |     00:12     |     5:00      |       216 KM       |    2     
+  12  |                Ujhani                  |        UJH         |     00:24     |     00:26     |     2:00      |       229 KM       |    2     
+  13  |                 Soron                  |        SRNK        |     01:04     |     01:06     |     2:00      |       260 KM       |    2     
+  14  |                Kasganj                 |        KSJ         |     01:40     |     01:50     |     10:00     |       275 KM       |    2     
+  15  |             Sikandra Rao               |        SKA         |     02:12     |     02:14     |     2:00      |       304 KM       |    2     
+  16  |             Hathras City               |        HTC         |     02:56     |     02:58     |     2:00      |       338 KM       |    2     
+  17  |             Mathura Cant               |        MRT         |     04:00     |     04:02     |     2:00      |       378 KM       |    2     
+  18  |           Mathura Junction             |        MTJ         |     04:15     |     04:25     |     10:00     |       380 KM       |    2     
+  19  |           Achhnera Junction            |         AH         |     05:15     |     05:17     |     2:00      |       415 KM       |    2     
+  20  |          Idgah Agra Junction           |        IDH         |     06:05     |     06:07     |     2:00      |       439 KM       |    2     
+  21  |               Agra Fort                |         AF         |     06:30     |     Ends      |       -       |       441 KM       |    2     

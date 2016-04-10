@@ -1,0 +1,6 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Mumbai Cst                |        CSTM        |     Start     |     17:10     |       -       |        0 KM        |    1     
+  2   |                Karjat                  |        KJT         |     18:33     |     18:35     |     2:00      |       100 KM       |    1     
+  3   |               Lonavala                 |        LNL         |     19:18     |     19:20     |     2:00      |       128 KM       |    1     
+  4   |              Sivajinagar               |        SVJR        |     20:08     |     20:10     |     2:00      |       190 KM       |    1     
+  5   |             Pune Junction              |        PUNE        |     20:25     |     Ends      |       -       |       192 KM       |    1     

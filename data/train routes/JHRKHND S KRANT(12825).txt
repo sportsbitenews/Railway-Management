@@ -1,0 +1,10 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Ranchi                  |        RNC         |     Start     |     23:40     |       -       |        0 KM        |    1     
+  2   |                 Muri                   |        MURI        |     00:55     |     01:00     |     5:00      |       62 KM        |    2     
+  3   |            Bokaro Stl City             |        BKSC        |     02:10     |     02:20     |     10:00     |       115 KM       |    2     
+  4   |            Gomoh Junction              |        GMO         |     03:10     |     03:20     |     10:00     |       147 KM       |    2     
+  5   |            Hazaribagh Road             |        HZD         |     03:50     |     03:52     |     2:00      |       192 KM       |    2     
+  6   |                Koderma                 |        KQR         |     04:27     |     04:29     |     2:00      |       240 KM       |    2     
+  7   |         Mughal Sarai Junction          |        MGS         |     08:52     |     09:07     |     15:00     |       519 KM       |    2     
+  8   |            Kanpur Central              |        CNB         |     13:40     |     13:55     |     15:00     |       866 KM       |    2     
+  9   |               New Delhi                |        NDLS        |     20:55     |     Ends      |       -       |      1305 KM       |    2     

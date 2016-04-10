@@ -1,0 +1,8 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Dhubri                  |        DBB         |     Start     |     05:50     |       -       |        0 KM        |    1     
+  2   |               Gauripur                 |        GUP         |     06:03     |     06:04     |     1:00      |        7 KM        |    1     
+  3   |             Golakganj Jn               |        GKJ         |     06:25     |     06:30     |     5:00      |       20 KM        |    1     
+  5   |               Tufanganj                |        TFGN        |     07:20     |     07:21     |     1:00      |       55 KM        |    1     
+  6   |            New Cooch Behar             |        NCB         |     07:50     |     07:52     |     2:00      |       79 KM        |    1     
+  7   |              Alipur Duar               |        APD         |     08:19     |     08:20     |     1:00      |       97 KM        |    1     
+  8   |         Alipur Duar Junction           |        APDJ        |     08:45     |     Ends      |       -       |       102 KM       |    1     

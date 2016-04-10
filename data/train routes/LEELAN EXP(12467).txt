@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Bikaner Junction             |        BKN         |     Start     |     06:00     |       -       |        0 KM        |    1     
+  2   |                Deshnok                 |        DSO         |     06:27     |     06:29     |     2:00      |       33 KM        |    1     
+  3   |                 Nokha                  |        NOK         |     06:55     |     06:57     |     2:00      |       65 KM        |    1     
+  4   |                Nagaur                  |        NGO         |     07:45     |     07:47     |     2:00      |       116 KM       |    1     
+  5   |             Marwar Mundwa              |        MDW         |     08:00     |     08:02     |     2:00      |       134 KM       |    1     
+  6   |          Merta Road Junction           |        MTD         |     08:38     |     09:00     |     22:00     |       173 KM       |    1     
+  7   |                  Ren                   |        REN         |     09:12     |     09:14     |     2:00      |       191 KM       |    1     
+  8   |            Degana Junction             |        DNA         |     09:45     |     09:47     |     2:00      |       218 KM       |    1     
+  9   |              Gachhipura                |        GCH         |     09:58     |     10:00     |     2:00      |       233 KM       |    1     
+  10  |           Makrana Junction             |        MKN         |     10:22     |     10:24     |     2:00      |       262 KM       |    1     
+  11  |             Kuchaman City              |        KMNC        |     10:38     |     10:40     |     2:00      |       276 KM       |    1     
+  12  |             Sambhar Lake               |        SBR         |     11:13     |     11:15     |     2:00      |       319 KM       |    1     
+  13  |           Phulera Junction             |         FL         |     11:40     |     11:42     |     2:00      |       327 KM       |    1     
+  14  |            Asalpur Jobner              |        JOB         |     11:56     |     11:58     |     2:00      |       345 KM       |    1     
+  15  |                Jaipur                  |         JP         |     12:35     |     Ends      |       -       |       382 KM       |    1     

@@ -1,0 +1,28 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Nagarsol                 |        NSL         |     Start     |     13:30     |       -       |        0 KM        |    1     
+  2   |              Aurangabad                |        AWB         |     14:45     |     14:50     |     5:00      |       89 KM        |    1     
+  3   |                 Jalna                  |         J          |     15:48     |     15:50     |     2:00      |       152 KM       |    1     
+  4   |           Parbhani Junction            |        PBN         |     17:38     |     17:40     |     2:00      |       267 KM       |    1     
+  5   |            Purna Junction              |        PAU         |     18:20     |     18:25     |     5:00      |       295 KM       |    1     
+  6   |                Nanded                  |        NED         |     19:25     |     19:30     |     5:00      |       326 KM       |    1     
+  7   |                Mudkhed                 |        MUE         |     20:03     |     20:05     |     2:00      |       348 KM       |    1     
+  8   |                 Basar                  |        BSX         |     21:09     |     21:10     |     1:00      |       407 KM       |    1     
+  9   |               Nizamabad                |        NZB         |     21:38     |     21:40     |     2:00      |       436 KM       |    1     
+  10  |               Kamareddi                |        KMC         |     22:27     |     22:28     |     1:00      |       488 KM       |    1     
+  11  |              Malkajgiri                |        MJF         |     00:19     |     00:20     |     1:00      |       593 KM       |    2     
+  12  |               Kacheguda                |        KCG         |     01:25     |     01:35     |     10:00     |       602 KM       |    2     
+  13  |              Mahbubnagar               |        MBNR        |     03:07     |     03:09     |     2:00      |       707 KM       |    2     
+  14  |                Gadwal                  |        GWD         |     04:30     |     04:31     |     1:00      |       782 KM       |    2     
+  15  |             Kurnool Town               |        KRNT        |     05:45     |     05:47     |     2:00      |       838 KM       |    2     
+  16  |                 Dhone                  |        DHNE        |     07:00     |     07:05     |     5:00      |       891 KM       |    2     
+  17  |                 Gooty                  |         GY         |     08:08     |     08:10     |     2:00      |       947 KM       |    2     
+  18  |               Tadipatri                |         TU         |     08:50     |     08:52     |     2:00      |       994 KM       |    2     
+  19  |              Yerraguntla               |         YA         |     09:56     |     09:58     |     2:00      |      1064 KM       |    2     
+  20  |               Cuddapah                 |         HX         |     10:38     |     10:40     |     2:00      |      1103 KM       |    2     
+  21  |               Razampeta                |        RJP         |     11:26     |     11:28     |     2:00      |      1154 KM       |    2     
+  22  |          Renigunta Junction            |         RU         |     13:25     |     13:40     |     15:00     |      1228 KM       |    2     
+  23  |                Puttur                  |        PUT         |     14:03     |     14:05     |     2:00      |      1254 KM       |    2     
+  24  |               Tiruttani                |        TRT         |     14:28     |     14:30     |     2:00      |      1286 KM       |    2     
+  25  |               Arakkonam                |        AJJ         |     14:55     |     15:00     |     5:00      |      1300 KM       |    2     
+  26  |               Perambur                 |        PER         |     15:48     |     15:50     |     2:00      |      1363 KM       |    2     
+  27  |            Chennai Central             |        MAS         |     16:45     |     Ends      |       -       |      1369 KM       |    2     

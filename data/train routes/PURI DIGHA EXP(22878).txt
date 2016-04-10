@@ -1,0 +1,14 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Puri                   |        PURI        |     Start     |     23:35     |       -       |        0 KM        |    1     
+  2   |         Khurda Road Junction           |        KUR         |     00:40     |     00:45     |     5:00      |       44 KM        |    2     
+  3   |              Bhubaneswar               |        BBS         |     01:05     |     01:10     |     5:00      |       63 KM        |    2     
+  4   |                Cuttack                 |        CTC         |     01:45     |     01:50     |     5:00      |       91 KM        |    2     
+  5   |             Jajpur K Road              |        JJKR        |     02:46     |     02:47     |     1:00      |       163 KM       |    2     
+  6   |               Bhadrakh                 |        BHC         |     03:48     |     03:50     |     2:00      |       206 KM       |    2     
+  7   |               Balasore                 |        BLS         |     04:35     |     04:37     |     2:00      |       268 KM       |    2     
+  8   |               Jaleswar                 |        JER         |     05:11     |     05:12     |     1:00      |       316 KM       |    2     
+  9   |          Kharagpur Junction            |        KGP         |     06:10     |     06:20     |     10:00     |       387 KM       |    2     
+  10  |               Panskura                 |        PKU         |     07:00     |     07:02     |     2:00      |       431 KM       |    2     
+  11  |                Tamluk                  |        TMZ         |     07:27     |     07:28     |     1:00      |       455 KM       |    2     
+  12  |              Kanthi P H                |        KATI        |     08:33     |     08:34     |     1:00      |       516 KM       |    2     
+  13  |            Digha Flag Stn              |        DGHA        |     09:25     |     Ends      |       -       |       549 KM       |    2     

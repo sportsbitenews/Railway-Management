@@ -1,0 +1,28 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Sealdah                 |        SDAH        |     Start     |     13:40     |       -       |        0 KM        |    1     
+  2   |           Naihati Junction             |         NH         |     14:27     |     14:32     |     5:00      |       38 KM        |    1     
+  3   |            Bandel Junction             |        BDC         |     14:53     |     14:58     |     5:00      |       47 KM        |    1     
+  4   |         New Farakka Junction           |        NFK         |     21:00     |     21:05     |     5:00      |       304 KM       |    1     
+  5   |              Malda Town                |        MLDT        |     21:50     |     22:05     |     15:00     |       338 KM       |    1     
+  6   |                 Samsi                  |         SM         |     22:33     |     22:35     |     2:00      |       373 KM       |    1     
+  7   |            Bhaluka Road F              |        BKRD        |     22:45     |     22:47     |     2:00      |       384 KM       |    1     
+  8   |            Harischandrpur              |        HCR         |     22:56     |     22:58     |     2:00      |       394 KM       |    1     
+  9   |               Kumedpur                 |        KDPR        |     23:12     |     23:14     |     2:00      |       400 KM       |    1     
+  10  |            Azamnagar Road              |        AZR         |     23:34     |     23:35     |     1:00      |       413 KM       |    1     
+  11  |            Barsoi Junction             |        BOE         |     23:50     |     23:55     |     5:00      |       426 KM       |    1     
+  12  |               Dalkolha                 |        DLK         |     00:18     |     00:19     |     1:00      |       455 KM       |    2     
+  13  |              Kishanganj                |        KNE         |     00:45     |     00:50     |     5:00      |       484 KM       |    2     
+  14  |             Aluabari Road              |        AUB         |     01:15     |     01:17     |     2:00      |       514 KM       |    2     
+  15  |            New Jalpaiguri              |        NJP         |     02:40     |     03:00     |     20:00     |       571 KM       |    2     
+  16  |               Belakoba                 |        BLK         |     03:24     |     03:25     |     1:00      |       589 KM       |    2     
+  17  |            Rningr Jlpaigri             |        RQJ         |     03:35     |     03:55     |     20:00     |       597 KM       |    2     
+  18  |            Jalpaiguri Road             |        JPE         |     04:06     |     04:07     |     1:00      |       605 KM       |    2     
+  19  |             New Maynaguri              |        NMX         |     04:21     |     04:22     |     1:00      |       616 KM       |    2     
+  20  |               Dhupguri                 |        DQG         |     04:50     |     04:55     |     5:00      |       636 KM       |    2     
+  21  |               Falakata                 |        FLK         |     05:19     |     05:20     |     1:00      |       659 KM       |    2     
+  22  |              Ghoksadanga               |        GDX         |     05:41     |     05:42     |     1:00      |       675 KM       |    2     
+  23  |            New Cooch Behar             |        NCB         |     06:35     |     06:40     |     5:00      |       697 KM       |    2     
+  24  |            New Alipurdaur              |        NOQ         |     07:15     |     Ends      |       -       |       716 KM       |    2     
+  25  |            Rningr Jlpaigri             |        RQJ         |     03:35     |     04:15     |     40:00     |       597 KM       |    2     
+  26  |              Jalpaiguri                |        JPG         |     04:27     |     04:32     |     5:00      |       606 KM       |    2     
+  27  |               Haldibari                |        HDB         |     05:05     |     Ends      |       -       |       628 KM       |    2     

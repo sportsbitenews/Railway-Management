@@ -1,0 +1,48 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Vishakapatnam              |        VSKP        |     Start     |     23:50     |       -       |        0 KM        |    1     
+  2   |         Vizianagram Junction           |        VZM         |     00:45     |     00:50     |     5:00      |       61 KM        |    2     
+  3   |            Srikakulam Road             |        CHE         |     01:48     |     01:50     |     2:00      |       131 KM       |    2     
+  4   |                Palasa                  |        PSA         |     02:58     |     03:00     |     2:00      |       203 KM       |    2     
+  5   |               Brahmapur                |        BAM         |     04:10     |     04:15     |     5:00      |       277 KM       |    2     
+  6   |               Chatrapur                |        CAP         |     04:35     |     04:37     |     2:00      |       299 KM       |    2     
+  7   |                Balugan                 |        BALU        |     05:20     |     05:22     |     2:00      |       353 KM       |    2     
+  8   |         Khurda Road Junction           |        KUR         |     06:15     |     06:30     |     15:00     |       424 KM       |    2     
+  9   |              Bhubaneswar               |        BBS         |     06:50     |     06:55     |     5:00      |       443 KM       |    2     
+  10  |               Dhenkanal                |        DNKL        |     08:03     |     08:05     |     2:00      |       505 KM       |    2     
+  11  |                Talcher                 |        TLHR        |     08:55     |     09:20     |     25:00     |       557 KM       |    2     
+  12  |                 Angul                  |        ANGL        |     10:33     |     10:35     |     2:00      |       575 KM       |    2     
+  13  |                Boinda                  |        BONA        |     11:06     |     11:08     |     2:00      |       614 KM       |    2     
+  14  |               Rairakhol                |        RAIR        |     11:46     |     11:47     |     1:00      |       660 KM       |    2     
+  15  |               Sambalpur                |        SBP         |     13:00     |     13:20     |     20:00     |       731 KM       |    2     
+  16  |            Sambalpur Road              |        SBPD        |     13:26     |     13:27     |     1:00      |       733 KM       |    2     
+  17  |          Jharsuguda Junction           |        JSG         |     14:40     |     15:15     |     35:00     |       780 KM       |    2     
+  18  |             Brajrajnagar               |        BRJN        |     15:23     |     15:25     |     2:00      |       793 KM       |    2     
+  19  |               Belpahar                 |        BPH         |     15:33     |     15:35     |     2:00      |       802 KM       |    2     
+  20  |                Raigarh                 |        RIG         |     16:11     |     16:13     |     2:00      |       853 KM       |    2     
+  21  |                Kharsia                 |        KHS         |     16:42     |     16:43     |     1:00      |       887 KM       |    2     
+  22  |                 Sakti                  |        SKT         |     16:58     |     17:00     |     2:00      |       902 KM       |    2     
+  23  |                Champa                  |        CPH         |     17:26     |     17:31     |     5:00      |       933 KM       |    2     
+  24  |               Akaltara                 |        AKT         |     17:52     |     17:54     |     2:00      |       958 KM       |    2     
+  25  |           Bilaspur Junction            |        BSP         |     18:50     |     19:05     |     15:00     |       985 KM       |    2     
+  26  |              Pendra Road               |        PND         |     20:43     |     20:45     |     2:00      |      1086 KM       |    2     
+  27  |           Anuppur Junction             |        APR         |     21:35     |     21:40     |     5:00      |      1136 KM       |    2     
+  28  |                Shahdol                 |        SDL         |     22:25     |     22:27     |     2:00      |      1177 KM       |    2     
+  29  |                Umaria                  |        UMR         |     23:29     |     23:31     |     2:00      |      1244 KM       |    2     
+  30  |             Katni Murwara              |        KMZ         |     01:25     |     01:35     |     10:00     |      1303 KM       |    3     
+  31  |                 Damoh                  |        DMO         |     03:03     |     03:05     |     2:00      |      1412 KM       |    3     
+  32  |                Saugor                  |        SGO         |     04:15     |     04:20     |     5:00      |      1490 KM       |    3     
+  33  |                Khurai                  |        KYE         |     05:13     |     05:15     |     2:00      |      1542 KM       |    3     
+  34  |               Malkhedi                 |        MAKR        |     05:44     |     05:45     |     1:00      |      1560 KM       |    3     
+  35  |               Lalitpur                 |        LAR         |     06:45     |     06:46     |     1:00      |      1623 KM       |    3     
+  36  |            Jhansi Junction             |        JHS         |     08:00     |     08:10     |     10:00     |      1713 KM       |    3     
+  37  |                Gwalior                 |        GWL         |     09:20     |     09:25     |     5:00      |      1810 KM       |    3     
+  38  |              Agra Cantt                |        AGC         |     11:24     |     11:29     |     5:00      |      1928 KM       |    3     
+  39  |           Mathura Junction             |        MTJ         |     12:12     |     12:15     |     3:00      |      1982 KM       |    3     
+  40  |             H Nizamuddin               |        NZM         |     14:15     |     14:17     |     2:00      |      2116 KM       |    3     
+  41  |               New Delhi                |        NDLS        |     14:40     |     15:00     |     20:00     |      2123 KM       |    3     
+  42  |           Panipat Junction             |        PNP         |     16:37     |     16:39     |       -       |      2212 KM       |    3     
+  43  |         Ambala Cant Junction           |        UMB         |     18:35     |     18:45     |     10:00     |      2321 KM       |    3     
+  44  |           Ludhiana Junction            |        LDH         |     20:22     |     20:27     |     5:00      |      2435 KM       |    3     
+  45  |            Jalandhar City              |        JUC         |     21:50     |     21:55     |     5:00      |      2492 KM       |    3     
+  46  |                 Beas                   |        BEAS        |     22:28     |     22:30     |     2:00      |      2528 KM       |    3     
+  47  |           Amritsar Junction            |        ASR         |     23:55     |     Ends      |       -       |      2570 KM       |    3     

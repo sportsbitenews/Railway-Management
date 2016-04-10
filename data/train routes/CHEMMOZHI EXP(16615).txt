@@ -1,0 +1,11 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Mannargudi                |         MQ         |     Start     |     20:10     |       -       |        0 KM        |    1     
+  2   |             Nidamangalam               |        NMJ         |     20:35     |     20:45     |     10:00     |       14 KM        |    1     
+  3   |               Thanjavur                |         TJ         |     21:13     |     21:15     |     2:00      |       44 KM        |    1     
+  4   |                Budalur                 |        BAL         |     21:29     |     21:30     |     1:00      |       61 KM        |    1     
+  5   |            Tiruchchirapali             |        TPJ         |     22:35     |     22:45     |     10:00     |       94 KM        |    1     
+  6   |                 Karur                  |        KRR         |     00:22     |     00:25     |     3:00      |       169 KM       |    2     
+  7   |            Erode Junction              |         ED         |     02:25     |     02:30     |     5:00      |       235 KM       |    2     
+  8   |               Tiruppur                 |        TUP         |     03:13     |     03:15     |     2:00      |       285 KM       |    2     
+  9   |            Coimbatore Nrth             |        CBF         |     04:03     |     04:05     |     2:00      |       333 KM       |    2     
+  10  |          Coimbatore Junction           |        CBE         |     04:45     |     Ends      |       -       |       335 KM       |    2     

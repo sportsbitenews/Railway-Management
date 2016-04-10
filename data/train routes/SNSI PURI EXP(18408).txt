@@ -1,0 +1,27 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Sainagar Shirdi             |        SNSI        |     Start     |     13:55     |       -       |        0 KM        |    1     
+  2   |               Kopargaon                |        KPG         |     14:28     |     14:30     |     2:00      |       41 KM        |    1     
+  3   |            Manmad Junction             |        MMR         |     15:40     |     15:45     |     5:00      |       83 KM        |    1     
+  4   |           Bhusaval Junction            |        BSL         |     18:10     |     18:20     |     10:00     |       267 KM       |    1     
+  5   |            Akola Junction              |         AK         |     20:25     |     20:30     |     5:00      |       407 KM       |    1     
+  6   |           Badnera Junction             |         BD         |     22:20     |     22:25     |     5:00      |       486 KM       |    1     
+  7   |            Wardha Junction             |         WR         |     00:02     |     00:05     |     3:00      |       581 KM       |    2     
+  8   |                Nagpur                  |        NGP         |     01:40     |     01:55     |     15:00     |       660 KM       |    2     
+  9   |            Gondia Junction             |         G          |     04:06     |     04:08     |     2:00      |       790 KM       |    2     
+  10  |                 Durg                   |        DURG        |     06:35     |     06:40     |     5:00      |       924 KM       |    2     
+  11  |            Raipur Junction             |         R          |     07:35     |     07:55     |     20:00     |       960 KM       |    2     
+  12  |              Mahasamund                |        MSMD        |     08:48     |     08:50     |     2:00      |      1014 KM       |    2     
+  13  |             Khariar Road               |        KRAR        |     09:28     |     09:30     |     2:00      |      1065 KM       |    2     
+  14  |              Kantabanji                |        KBJ         |     10:25     |     10:35     |     10:00     |      1130 KM       |    2     
+  15  |               Titlagarh                |        TIG         |     11:45     |     12:10     |     25:00     |      1163 KM       |    2     
+  16  |               Balangir                 |        BLGR        |     13:00     |     13:05     |     5:00      |      1226 KM       |    2     
+  17  |             Bargarh Road               |        BRGA        |     14:00     |     14:02     |     2:00      |      1302 KM       |    2     
+  18  |               Sambalpur                |        SBP         |     15:00     |     15:10     |     10:00     |      1345 KM       |    2     
+  19  |                Boinda                  |        BONA        |     17:15     |     17:17     |     2:00      |      1462 KM       |    2     
+  20  |                 Angul                  |        ANGL        |     18:15     |     18:17     |     2:00      |      1501 KM       |    2     
+  21  |             Talcher Road               |        TLHD        |     18:30     |     18:32     |     2:00      |      1513 KM       |    2     
+  22  |               Dhenkanal                |        DNKL        |     19:20     |     19:22     |     2:00      |      1561 KM       |    2     
+  23  |              Mancheswar                |        MCS         |     20:50     |     20:52     |     2:00      |      1616 KM       |    2     
+  24  |              Bhubaneswar               |        BBS         |     21:00     |     21:05     |     5:00      |      1623 KM       |    2     
+  25  |         Khurda Road Junction           |        KUR         |     21:40     |     21:45     |     5:00      |      1642 KM       |    2     
+  26  |                 Puri                   |        PURI        |     22:50     |     Ends      |       -       |      1685 KM       |    2     

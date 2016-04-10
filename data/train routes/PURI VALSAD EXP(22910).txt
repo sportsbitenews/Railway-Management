@@ -1,0 +1,25 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Puri                   |        PURI        |     Start     |     05:30     |       -       |        0 KM        |    1     
+  2   |         Khurda Road Junction           |        KUR         |     06:30     |     06:35     |     5:00      |       44 KM        |    1     
+  3   |              Bhubaneswar               |        BBS         |     07:00     |     07:10     |     10:00     |       63 KM        |    1     
+  4   |               Dhenkanal                |        DNKL        |     08:43     |     08:44     |     1:00      |       125 KM       |    1     
+  5   |             Talcher Road               |        TLHD        |     09:21     |     09:22     |     1:00      |       173 KM       |    1     
+  6   |                 Angul                  |        ANGL        |     09:55     |     09:57     |     2:00      |       185 KM       |    1     
+  7   |            Sambalpur City              |        SBPY        |     12:19     |     12:20     |     1:00      |       335 KM       |    1     
+  8   |          Jharsuguda Junction           |        JSG         |     13:45     |     14:05     |     20:00     |       380 KM       |    1     
+  9   |                Champa                  |        CPH         |     15:45     |     15:47     |     2:00      |       533 KM       |    1     
+  10  |           Bilaspur Junction            |        BSP         |     17:00     |     17:15     |     15:00     |       586 KM       |    1     
+  11  |              Pendra Road               |        PND         |     19:03     |     19:05     |     2:00      |       686 KM       |    1     
+  12  |           Anuppur Junction             |        APR         |     20:20     |     20:25     |     5:00      |       737 KM       |    1     
+  13  |                Shahdol                 |        SDL         |     21:06     |     21:08     |     2:00      |       778 KM       |    1     
+  14  |              Katni South               |        KTES        |     23:40     |     23:45     |     5:00      |       906 KM       |    1     
+  15  |               Jabalpur                 |        JBP         |     01:05     |     01:15     |     10:00     |       995 KM       |    2     
+  16  |            Itarsi Junction             |         ET         |     04:55     |     05:05     |     10:00     |      1240 KM       |    2     
+  17  |           Bhopal  Junction             |        BPL         |     07:05     |     07:20     |     15:00     |      1332 KM       |    2     
+  18  |                 Maksi                  |        MKC         |     09:22     |     09:24     |     2:00      |      1475 KM       |    2     
+  19  |            Ujjain Junction             |        UJN         |     10:35     |     10:45     |     10:00     |      1516 KM       |    2     
+  20  |            Ratlam Junction             |        RTM         |     12:20     |     12:30     |     10:00     |      1612 KM       |    2     
+  21  |                 Dahod                  |        DHD         |     13:56     |     13:57     |     1:00      |      1725 KM       |    2     
+  22  |           Vadodara Junction            |        BRC         |     16:23     |     16:33     |     10:00     |      1873 KM       |    2     
+  23  |                 Surat                  |         ST         |     18:40     |     18:45     |     5:00      |      2002 KM       |    2     
+  24  |                Valsad                  |         BL         |     19:50     |     Ends      |       -       |      2071 KM       |    2     

@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |         Secunderabad Junction          |         SC         |     Start     |     20:30     |       -       |        0 KM        |    1     
+  2   |               Warangal                 |         WL         |     22:08     |     22:10     |     2:00      |       142 KM       |    1     
+  3   |                Khammam                 |        KMT         |     23:35     |     23:37     |     2:00      |       250 KM       |    1     
+  4   |          Vijayawada Junction           |        BZA         |     01:40     |     01:55     |     15:00     |       351 KM       |    2     
+  5   |                 Eluru                  |         EE         |     02:41     |     02:42     |     1:00      |       410 KM       |    2     
+  6   |            Tadepalligudem              |        TDD         |     03:14     |     03:15     |     1:00      |       458 KM       |    2     
+  7   |              Rajamundry                |        RJY         |     04:06     |     04:08     |     2:00      |       500 KM       |    2     
+  8   |           Samalkot Junction            |        SLO         |     04:46     |     04:47     |     1:00      |       550 KM       |    2     
+  9   |                 Tuni                   |        TUNI        |     05:27     |     05:28     |     1:00      |       604 KM       |    2     
+  10  |              Anakapalle                |        AKP         |     06:24     |     06:25     |     1:00      |       668 KM       |    2     
+  11  |                Duvvada                 |        DVD         |     07:03     |     07:05     |     2:00      |       684 KM       |    2     
+  12  |             Vishakapatnam              |        VSKP        |     07:40     |     Ends      |       -       |       701 KM       |    2     

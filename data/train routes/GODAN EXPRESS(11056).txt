@@ -1,0 +1,24 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Gorakhpur Junction            |        GKP         |     Start     |     06:20     |       -       |        0 KM        |    1     
+  2   |             Deoria Sadar               |        DEOS        |     07:08     |     07:10     |     2:00      |       50 KM        |    1     
+  3   |             Belthara Road              |        BLTR        |     08:16     |     08:18     |     2:00      |       104 KM       |    1     
+  4   |             Mau Junction               |        MAU         |     09:10     |     09:20     |     10:00     |       139 KM       |    1     
+  5   |             Muhammadabad               |        MMA         |     09:46     |     09:48     |     2:00      |       161 KM       |    1     
+  6   |               Azamgarh                 |        AMH         |     10:10     |     10:15     |     5:00      |       182 KM       |    1     
+  7   |               Sarai Mir                |        SMZ         |     10:53     |     10:55     |     2:00      |       208 KM       |    1     
+  8   |             Khorason Road              |        KRND        |     11:08     |     11:10     |     2:00      |       217 KM       |    1     
+  9   |           Shahganj Junction            |        SHG         |     12:00     |     12:11     |     11:00     |       239 KM       |    1     
+  10  |           Jaunpur Junction             |        JNU         |     13:02     |     13:04     |     2:00      |       272 KM       |    1     
+  11  |          Zafarabad Junction            |        ZBD         |     13:16     |     13:18     |     2:00      |       278 KM       |    1     
+  12  |                Mariahu                 |        MAY         |     13:45     |     13:47     |     2:00      |       296 KM       |    1     
+  13  |           Janghai Junction             |        JNH         |     14:31     |     14:33     |     2:00      |       326 KM       |    1     
+  14  |                Phulpur                 |        PLP         |     14:56     |     14:58     |     2:00      |       349 KM       |    1     
+  15  |          Allahabad Junction            |        ALD         |     16:40     |     17:10     |     30:00     |       386 KM       |    1     
+  16  |                 Satna                  |        STA         |     20:30     |     20:40     |     10:00     |       563 KM       |    1     
+  17  |               Jabalpur                 |        JBP         |     23:10     |     23:20     |     10:00     |       752 KM       |    1     
+  18  |            Itarsi Junction             |         ET         |     03:40     |     03:50     |     10:00     |       998 KM       |    2     
+  19  |           Bhusaval Junction            |        BSL         |     08:00     |     08:10     |     10:00     |      1304 KM       |    2     
+  20  |              Nasik Road                |         NK         |     11:13     |     11:15     |     2:00      |      1562 KM       |    2     
+  21  |            Kalyan Junction             |        KYN         |     14:47     |     14:50     |     3:00      |      1695 KM       |    2     
+  22  |                 Thane                  |        TNA         |     15:13     |     15:15     |     2:00      |      1716 KM       |    2     
+  23  |            Lokmanyatilak T             |        LTT         |     15:55     |     Ends      |       -       |      1733 KM       |    2     

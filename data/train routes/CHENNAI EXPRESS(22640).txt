@@ -1,0 +1,27 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Alleppey                 |        ALLP        |     Start     |     16:05     |       -       |        0 KM        |    1     
+  2   |               Shertalai                |        SRTL        |     16:24     |     16:25     |     1:00      |       24 KM        |    1     
+  3   |                Turavur                 |        TUVR        |     16:33     |     16:34     |     1:00      |       34 KM        |    1     
+  4   |          Eranakulam Junction           |        ERS         |     17:15     |     17:20     |     5:00      |       57 KM        |    1     
+  5   |            Ernakulam Town              |        ERN         |     17:26     |     17:28     |     2:00      |       60 KM        |    1     
+  6   |                 Aluva                  |        AWY         |     17:40     |     17:42     |     2:00      |       77 KM        |    1     
+  7   |               Angamali                 |        AFK         |     17:53     |     17:54     |     1:00      |       86 KM        |    1     
+  8   |             Divine Nagar               |        DINR        |     18:06     |     18:07     |     1:00      |       99 KM        |    1     
+  9   |               Chalakudi                |        CKI         |     18:10     |     18:11     |     1:00      |       101 KM       |    1     
+  10  |             Irinjalakuda               |        IJK         |     18:19     |     18:20     |     1:00      |       107 KM       |    1     
+  11  |                Thrisur                 |        TCR         |     18:50     |     18:53     |     3:00      |       131 KM       |    1     
+  12  |               Punkunnam                |        PNQ         |     18:55     |     18:56     |     1:00      |       133 KM       |    1     
+  13  |             Wadakancheri               |        WKI         |     19:14     |     19:15     |     1:00      |       148 KM       |    1     
+  14  |              Ottappalam                |        OTP         |     20:14     |     20:15     |     1:00      |       177 KM       |    1     
+  15  |               Palakkad                 |        PGT         |     20:40     |     20:45     |     5:00      |       208 KM       |    1     
+  16  |           Podanur Junction             |        PTJ         |     21:59     |     22:00     |     1:00      |       257 KM       |    1     
+  17  |          Coimbatore Junction           |        CBE         |     22:12     |     22:15     |     3:00      |       263 KM       |    1     
+  18  |               Tiruppur                 |        TUP         |     22:58     |     23:00     |     2:00      |       313 KM       |    1     
+  19  |            Erode Junction              |         ED         |     23:45     |     23:50     |     5:00      |       363 KM       |    1     
+  20  |            Salem Junction              |         SA         |     00:47     |     00:50     |     3:00      |       426 KM       |    2     
+  21  |              Jolarpettai               |        JTJ         |     02:23     |     02:25     |     2:00      |       546 KM       |    2     
+  22  |           Katpadi Junction             |        KPD         |     03:33     |     03:35     |     2:00      |       630 KM       |    2     
+  23  |               Arakkonam                |        AJJ         |     04:23     |     04:25     |     2:00      |       690 KM       |    2     
+  24  |                 Avadi                  |        AVD         |     04:59     |     05:00     |     1:00      |       738 KM       |    2     
+  25  |               Perambur                 |        PER         |     05:13     |     05:15     |     2:00      |       753 KM       |    2     
+  26  |            Chennai Central             |        MAS         |     05:50     |     Ends      |       -       |       759 KM       |    2     

@@ -1,0 +1,23 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Narasapur                |         NS         |     Start     |     17:20     |       -       |        0 KM        |    1     
+  2   |               Palakollu                |        PKO         |     17:31     |     17:32     |     1:00      |        9 KM        |    1     
+  3   |              Viravasaram               |        VVM         |     17:44     |     17:45     |     1:00      |       19 KM        |    1     
+  4   |          Bhimavaram Junction           |        BVRM        |     18:15     |     18:20     |     5:00      |       30 KM        |    1     
+  5   |            Bhimavaram Town             |        BVRT        |     18:24     |     18:25     |     1:00      |       31 KM        |    1     
+  6   |                Akividu                 |        AKVD        |     18:45     |     18:46     |     1:00      |       49 KM        |    1     
+  7   |               Kaikolur                 |        KKLR        |     19:05     |     19:06     |     1:00      |       66 KM        |    1     
+  8   |           Gudivada Junction            |        GDV         |     20:05     |     20:25     |     20:00     |       95 KM        |    1     
+  9   |              Tarigoppula               |        TGU         |     20:42     |     20:43     |     1:00      |       113 KM       |    1     
+  10  |          Vijayawada Junction           |        BZA         |     21:20     |     21:40     |     20:00     |       139 KM       |    1     
+  11  |            Tenali Junction             |        TEL         |     22:09     |     22:10     |     1:00      |       170 KM       |    1     
+  12  |                Bapatla                 |        BPP         |     22:43     |     22:44     |     1:00      |       213 KM       |    1     
+  13  |                Chirala                 |        CLX         |     22:54     |     22:55     |     1:00      |       228 KM       |    1     
+  14  |                Ongole                  |        OGL         |     23:32     |     23:33     |     1:00      |       277 KM       |    1     
+  15  |                Kavali                  |        KVZ         |     00:17     |     00:18     |     1:00      |       343 KM       |    2     
+  16  |                Nellore                 |        NLR         |     01:08     |     01:10     |     2:00      |       393 KM       |    2     
+  17  |            Gudur Junction              |        GDR         |     02:43     |     02:45     |     2:00      |       432 KM       |    2     
+  18  |                Vendodu                 |        VDD         |     03:02     |     03:03     |     1:00      |       451 KM       |    2     
+  19  |              Venkatagiri               |        VKI         |     03:15     |     03:16     |     1:00      |       467 KM       |    2     
+  20  |             Sri Kalahasti              |        KHT         |     03:36     |     03:37     |     1:00      |       492 KM       |    2     
+  21  |          Renigunta Junction            |         RU         |     04:05     |     04:07     |     2:00      |       515 KM       |    2     
+  22  |               Tirupati                 |        TPTY        |     04:35     |     Ends      |       -       |       524 KM       |    2     

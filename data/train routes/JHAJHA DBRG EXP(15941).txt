@@ -1,0 +1,33 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Jhajha                  |        JAJ         |     Start     |     22:05     |       -       |        0 KM        |    1     
+  2   |           Jasidih Junction             |        JSME        |     22:38     |     22:43     |     5:00      |       44 KM        |    1     
+  3   |           Madhupur Junction            |        MDP         |     23:08     |     23:13     |     5:00      |       73 KM        |    1     
+  4   |             Chittaranjan               |        CRJ         |     23:52     |     23:53     |     1:00      |       130 KM       |    1     
+  5   |           Asansol Junction             |        ASN         |     01:40     |     02:00     |     20:00     |       155 KM       |    2     
+  6   |            Andal Junction              |        UDL         |     02:29     |     02:31     |     2:00      |       181 KM       |    2     
+  7   |               Durgapur                 |        DGR         |     02:48     |     03:12     |     24:00     |       197 KM       |    2     
+  8   |                 Siuri                  |        SURI        |     04:30     |     04:32     |     2:00      |       267 KM       |    2     
+  9   |               Sainthia                 |        SNT         |     05:15     |     05:20     |     5:00      |       287 KM       |    2     
+  10  |              Rampur Hat                |        RPH         |     05:49     |     05:54     |     5:00      |       314 KM       |    2     
+  11  |                 Pakur                  |        PKR         |     06:37     |     06:38     |     1:00      |       368 KM       |    2     
+  12  |         New Farakka Junction           |        NFK         |     07:34     |     07:36     |     2:00      |       401 KM       |    2     
+  13  |              Malda Town                |        MLDT        |     08:25     |     08:40     |     15:00     |       436 KM       |    2     
+  14  |            Barsoi Junction             |        BOE         |     09:50     |     09:52     |     2:00      |       524 KM       |    2     
+  15  |              Kishanganj                |        KNE         |     10:38     |     10:43     |     5:00      |       581 KM       |    2     
+  16  |            New Jalpaiguri              |        NJP         |     12:40     |     12:55     |     15:00     |       668 KM       |    2     
+  17  |           Siliguri Junction            |        SGUJ        |     13:40     |     13:45     |     5:00      |       675 KM       |    2     
+  18  |           New Mal Junction             |        NMZ         |     14:43     |     14:45     |     2:00      |       723 KM       |    2     
+  19  |                Dalgaon                 |        DLO         |     15:32     |     15:33     |     1:00      |       777 KM       |    2     
+  20  |         Alipur Duar Junction           |        APDJ        |     17:25     |     17:30     |     5:00      |       836 KM       |    2     
+  21  |            Gossaigaon Hat              |        GOGH        |     18:07     |     18:08     |     1:00      |       885 KM       |    2     
+  22  |            New Bongaigaon              |        NBQ         |     19:20     |     19:30     |     10:00     |       946 KM       |    2     
+  23  |             Goalpara Town              |        GLPT        |     20:13     |     20:15     |     2:00      |      1026 KM       |    2     
+  24  |               Kamakhya                 |        KYQ         |     22:30     |     22:35     |     5:00      |      1147 KM       |    2     
+  25  |               Guwahati                 |        GHY         |     23:20     |     23:45     |     25:00     |      1154 KM       |    2     
+  26  |                 Lanka                  |        LKA         |     02:14     |     02:15     |     1:00      |      1304 KM       |    3     
+  27  |           Lumding Junction             |        LMG         |     03:15     |     03:20     |     5:00      |      1334 KM       |    3     
+  28  |                 Diphu                  |        DPU         |     04:24     |     04:25     |     1:00      |      1366 KM       |    3     
+  29  |                Dimapur                 |        DMV         |     05:20     |     05:30     |     10:00     |      1403 KM       |    3     
+  30  |           Mariani Junction             |        MXN         |     07:15     |     07:25     |     10:00     |      1512 KM       |    3     
+  31  |         New Tinsukia Junction          |        NTSK        |     10:35     |     10:45     |     10:00     |      1668 KM       |    3     
+  32  |               Dibrugarh                |        DBRG        |     12:05     |     Ends      |       -       |      1710 KM       |    3     

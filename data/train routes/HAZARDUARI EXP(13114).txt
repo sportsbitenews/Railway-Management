@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Lalgola                 |        LGL         |     Start     |     16:10     |       -       |        0 KM        |    1     
+  2   |              Bhagwangola               |        BQG         |     16:23     |     16:24     |     1:00      |       12 KM        |    1     
+  3   |                Jiaganj                 |        JJG         |     16:37     |     16:38     |     1:00      |       23 KM        |    1     
+  4   |              Murshidabad               |        MBB         |     16:47     |     16:49     |     2:00      |       31 KM        |    1     
+  5   |            Berhampore Crt              |        BPC         |     17:01     |     17:03     |     2:00      |       42 KM        |    1     
+  6   |               Beldanga                 |        BEB         |     17:19     |     17:20     |     1:00      |       60 KM        |    1     
+  7   |                Plassey                 |        PLY         |     17:38     |     17:39     |     1:00      |       78 KM        |    1     
+  8   |             Bethuadahari               |        BTY         |     18:02     |     18:03     |     1:00      |       100 KM       |    1     
+  9   |         Krishngr Cty Junction          |        KNJ         |     18:58     |     19:00     |     2:00      |       128 KM       |    1     
+  10  |           Ranaghat Junction            |        RHA         |     19:38     |     19:40     |     2:00      |       154 KM       |    1     
+  11  |                Kolkata                 |        KOAA        |     21:25     |     Ends      |       -       |       223 KM       |    1     

@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               New Delhi                |        NDLS        |     Start     |     23:45     |       -       |        0 KM        |    1     
+  2   |            Kanpur Central              |        CNB         |     06:10     |     06:20     |     10:00     |       440 KM       |    2     
+  3   |          Allahabad Junction            |        ALD         |     08:50     |     09:00     |     10:00     |       634 KM       |    2     
+  4   |            Patna Junction              |        PNBE        |     15:00     |     15:10     |     10:00     |       998 KM       |    2     
+  5   |         Bakhtiyarpur Junction          |        BKP         |     15:48     |     15:50     |     2:00      |      1044 KM       |    2     
+  6   |           Mokameh Junction             |        MKA         |     16:24     |     16:26     |     2:00      |      1087 KM       |    2     
+  7   |             Kiul Junction              |        KIUL        |     17:50     |     17:55     |     5:00      |      1121 KM       |    2     
+  8   |               Abhaipur                 |        AHA         |     18:16     |     18:18     |     2:00      |      1144 KM       |    2     
+  9   |           Jamalpur Junction            |        JMP         |     18:40     |     18:45     |     5:00      |      1166 KM       |    2     
+  10  |              Sultanganj                |        SGG         |     19:12     |     19:14     |     2:00      |      1195 KM       |    2     
+  11  |               Bhagalpur                |        BGP         |     20:00     |     Ends      |       -       |      1219 KM       |    2     

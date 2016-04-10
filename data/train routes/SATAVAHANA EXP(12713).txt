@@ -1,0 +1,10 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Vijayawada Junction           |        BZA         |     Start     |     06:10     |       -       |        0 KM        |    1     
+  2   |                Madhira                 |        MDR         |     06:57     |     06:58     |     1:00      |       57 KM        |    1     
+  3   |                Khammam                 |        KMT         |     07:18     |     07:20     |     2:00      |       102 KM       |    1     
+  4   |           Dornakal Junction            |        DKJ         |     07:49     |     07:50     |     1:00      |       125 KM       |    1     
+  5   |              Mahbubabad                |        MABD        |     08:09     |     08:10     |     1:00      |       149 KM       |    1     
+  6   |              Kesamudram                |        KDM         |     08:29     |     08:30     |     1:00      |       164 KM       |    1     
+  7   |               Warangal                 |         WL         |     09:00     |     09:02     |     2:00      |       209 KM       |    1     
+  8   |           Kazipet Junction             |        KZJ         |     09:20     |     09:22     |     2:00      |       219 KM       |    1     
+  9   |         Secunderabad Junction          |         SC         |     11:45     |     Ends      |       -       |       351 KM       |    1     

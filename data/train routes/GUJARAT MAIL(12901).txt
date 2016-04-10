@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Mumbai Central              |        BCT         |     Start     |     22:00     |       -       |        0 KM        |    1     
+  2   |                 Dadar                  |        DDR         |     22:21     |     22:23     |     2:00      |        6 KM        |    1     
+  3   |               Borivali                 |        BVI         |     22:56     |     22:58     |     2:00      |       30 KM        |    1     
+  4   |                Palghar                 |        PLG         |     23:44     |     23:46     |     2:00      |       87 KM        |    1     
+  5   |                Valsad                  |         BL         |     01:06     |     01:08     |     2:00      |       194 KM       |    2     
+  6   |                Navsari                 |        NVS         |     01:36     |     01:38     |     2:00      |       233 KM       |    2     
+  7   |                 Surat                  |         ST         |     02:10     |     02:15     |     5:00      |       263 KM       |    2     
+  8   |           Bharuch Junction             |         BH         |     03:18     |     03:20     |     2:00      |       322 KM       |    2     
+  9   |           Vadodara Junction            |        BRC         |     04:18     |     04:23     |     5:00      |       392 KM       |    2     
+  10  |            Anand Junction              |        ANND        |     04:54     |     04:56     |     2:00      |       427 KM       |    2     
+  11  |            Nadiad Junction             |         ND         |     05:11     |     05:13     |     2:00      |       446 KM       |    2     
+  12  |           Mhmdvd Kheda Road            |        MHD         |     05:27     |     05:29     |     2:00      |       463 KM       |    2     
+  13  |               Maninagar                |        MAN         |     06:18     |     06:20     |     2:00      |       488 KM       |    2     
+  14  |          Ahmedabad Junction            |        ADI         |     06:35     |     Ends      |       -       |       491 KM       |    2     

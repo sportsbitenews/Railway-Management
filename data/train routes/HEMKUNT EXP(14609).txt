@@ -1,0 +1,21 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Rishikesh                |        RKSH        |     Start     |     16:15     |       -       |        0 KM        |    1     
+  2   |               Virbhadra                |        VRH         |     16:25     |     16:27     |     2:00      |        6 KM        |    1     
+  3   |                Raiwala                 |        RWL         |     16:40     |     16:42     |     2:00      |       12 KM        |    1     
+  4   |           Haridwar Junction            |         HW         |     17:10     |     17:35     |     25:00     |       23 KM        |    1     
+  5   |                Roorkee                 |         RK         |     18:31     |     18:33     |     2:00      |       64 KM        |    1     
+  6   |              Saharanpur                |        SRE         |     19:45     |     19:50     |     5:00      |       99 KM        |    1     
+  7   |               Jagadhri                 |        JUD         |     20:16     |     20:18     |     2:00      |       129 KM       |    1     
+  8   |         Ambala Cant Junction           |        UMB         |     21:10     |     21:20     |     10:00     |       180 KM       |    1     
+  9   |           Sirhind Junction             |        SIR         |     22:07     |     22:09     |     2:00      |       234 KM       |    1     
+  10  |           Ludhiana Junction            |        LDH         |     23:07     |     23:17     |     10:00     |       294 KM       |    1     
+  11  |            Jalandhar Cant              |        JRC         |     00:10     |     00:15     |     5:00      |       346 KM       |    2     
+  12  |              Tanda Urmar               |        TDO         |     00:50     |     00:52     |     2:00      |       389 KM       |    2     
+  13  |                Dasuya                  |        DZA         |     01:06     |     01:08     |     2:00      |       404 KM       |    2     
+  14  |               Mukerian                 |        MEX         |     01:26     |     01:28     |     2:00      |       420 KM       |    2     
+  15  |            Pathankot Cantt             |        PTKC        |     02:15     |     02:20     |     5:00      |       459 KM       |    2     
+  16  |                Kathua                  |        KTHU        |     02:48     |     02:50     |     2:00      |       482 KM       |    2     
+  17  |              Hira Nagar                |        HRNR        |     03:18     |     03:20     |     2:00      |       511 KM       |    2     
+  18  |                Ghagwal                 |        GHGL        |     03:28     |     03:30     |     2:00      |       517 KM       |    2     
+  19  |              Jammu Tawi                |        JAT         |     04:30     |     04:40     |     10:00     |       558 KM       |    2     
+  20  |               Udhampur                 |        UHP         |     05:38     |     05:40     |     2:00      |       612 KM       |    2     

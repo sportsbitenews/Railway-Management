@@ -1,0 +1,18 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Kolkata                 |        KOAA        |     Start     |     20:55     |       -       |        0 KM        |    1     
+  2   |           Naihati Junction             |         NH         |     21:45     |     21:47     |     2:00      |       34 KM        |    1     
+  3   |            Bandel Junction             |        BDC         |     22:15     |     22:17     |     2:00      |       43 KM        |    1     
+  4   |          Barddhaman Junction           |        BWN         |     23:20     |     23:25     |     5:00      |       110 KM       |    1     
+  5   |               Durgapur                 |        DGR         |     00:15     |     00:17     |     2:00      |       174 KM       |    2     
+  6   |           Asansol Junction             |        ASN         |     00:52     |     01:12     |     20:00     |       216 KM       |    2     
+  7   |             Chittaranjan               |        CRJ         |     01:36     |     01:37     |     1:00      |       241 KM       |    2     
+  8   |           Madhupur Junction            |        MDP         |     02:16     |     02:21     |     5:00      |       297 KM       |    2     
+  9   |           Jasidih Junction             |        JSME        |     02:47     |     02:52     |     5:00      |       326 KM       |    2     
+  10  |                Jhajha                  |        JAJ         |     04:10     |     04:20     |     10:00     |       370 KM       |    2     
+  11  |             Kiul Junction              |        KIUL        |     05:04     |     05:06     |     2:00      |       424 KM       |    2     
+  12  |           Barauni Junction             |        BJU         |     06:35     |     06:55     |     20:00     |       463 KM       |    2     
+  13  |          Samastipur Junction           |        SPJ         |     07:55     |     08:00     |     5:00      |       514 KM       |    2     
+  14  |          Darbhanga Junction            |        DBG         |     09:00     |     09:10     |     10:00     |       552 KM       |    2     
+  15  |            Sakri Junction              |        SKI         |     09:35     |     09:40     |     5:00      |       571 KM       |    2     
+  16  |               Madhubani                |        MBI         |     10:09     |     10:10     |     1:00      |       588 KM       |    2     
+  17  |               Jaynagar                 |        JYG         |     11:00     |     Ends      |       -       |       620 KM       |    2     

@@ -1,0 +1,34 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Dehradun                 |        DDN         |     Start     |     05:50     |       -       |        0 KM        |    1     
+  2   |           Haridwar Junction            |         HW         |     07:15     |     07:50     |     35:00     |       52 KM        |    1     
+  3   |                Roorkee                 |         RK         |     08:40     |     08:42     |     2:00      |       98 KM        |    1     
+  4   |                 Tapri                  |        TPZ         |     10:03     |     10:05     |     2:00      |       139 KM       |    1     
+  5   |                Deoband                 |        DBD         |     10:29     |     10:31     |     2:00      |       167 KM       |    1     
+  6   |             Muzaffarnagar              |        MOZ         |     10:51     |     10:53     |     2:00      |       191 KM       |    1     
+  7   |              Meerut City               |        MTC         |     11:34     |     11:36     |     2:00      |       246 KM       |    1     
+  8   |               Modinagar                |        MDNR        |     11:51     |     11:53     |     2:00      |       266 KM       |    1     
+  9   |               Ghaziabad                |        GZB         |     12:30     |     12:32     |     2:00      |       293 KM       |    1     
+  10  |               New Delhi                |        NDLS        |     13:10     |     13:25     |     15:00     |       316 KM       |    1     
+  11  |            Delhi S Rohilla             |        DEE         |     13:50     |     13:52     |     2:00      |       322 KM       |    1     
+  12  |              Delhi Cantt               |        DEC         |     14:08     |     14:10     |     2:00      |       331 KM       |    1     
+  13  |                Gurgaon                 |        GGN         |     14:25     |     14:27     |     2:00      |       348 KM       |    1     
+  14  |                Rewari                  |         RE         |     15:20     |     15:22     |     2:00      |       400 KM       |    1     
+  15  |               Khairthal                |        KRH         |     15:56     |     15:58     |     2:00      |       447 KM       |    1     
+  16  |                 Alwar                  |        AWR         |     16:20     |     16:23     |     3:00      |       474 KM       |    1     
+  17  |                Jaipur                  |         JP         |     18:55     |     19:10     |     15:00     |       625 KM       |    1     
+  18  |            Ajmer Junction              |        AII         |     21:30     |     21:40     |     10:00     |       759 KM       |    1     
+  19  |                Beawar                  |        BER         |     22:21     |     22:23     |     2:00      |       811 KM       |    1     
+  20  |                 Falna                  |         FA         |     00:55     |     00:57     |     2:00      |       966 KM       |    2     
+  21  |               Abu Road                 |        ABR         |     02:35     |     02:45     |     10:00     |      1064 KM       |    2     
+  22  |           Palanpur Junction            |        PNU         |     04:10     |     04:12     |     2:00      |      1117 KM       |    2     
+  23  |               Siddhpur                 |        SID         |     04:37     |     04:39     |     2:00      |      1147 KM       |    2     
+  24  |                 Unjha                  |        UJA         |     04:54     |     04:56     |     2:00      |      1160 KM       |    2     
+  25  |           Mahesana Junction            |        MSH         |     05:28     |     05:30     |     2:00      |      1182 KM       |    2     
+  26  |           Viramgam Junction            |         VG         |     07:13     |     07:15     |     2:00      |      1246 KM       |    2     
+  27  |             Surendranagar              |        SUNR        |     08:19     |     08:21     |     2:00      |      1311 KM       |    2     
+  28  |            Rajkot Junction             |        RJT         |     10:50     |     11:05     |     15:00     |      1428 KM       |    2     
+  29  |                 Hapa                   |        HAPA        |     12:29     |     12:31     |     2:00      |      1504 KM       |    2     
+  30  |               Jamnagar                 |        JAM         |     12:46     |     12:48     |     2:00      |      1512 KM       |    2     
+  31  |              Khambhaliya               |        KMBL        |     13:40     |     13:42     |     2:00      |      1567 KM       |    2     
+  32  |                Dwarka                  |        DWK         |     15:36     |     15:38     |     2:00      |      1651 KM       |    2     
+  33  |                 Okha                   |        OKHA        |     16:15     |     Ends      |       -       |      1680 KM       |    2     

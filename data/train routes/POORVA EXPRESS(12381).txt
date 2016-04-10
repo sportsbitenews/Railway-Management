@@ -1,0 +1,22 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Howrah Junction             |        HWH         |     Start     |     08:15     |       -       |        0 KM        |    1     
+  2   |          Barddhaman Junction           |        BWN         |     09:20     |     09:23     |     3:00      |       95 KM        |    1     
+  3   |               Durgapur                 |        DGR         |     10:17     |     10:19     |     2:00      |       158 KM       |    1     
+  4   |           Asansol Junction             |        ASN         |     10:48     |     10:53     |     5:00      |       200 KM       |    1     
+  5   |           Dhanbad Junction             |        DHN         |     11:57     |     12:05     |     8:00      |       259 KM       |    1     
+  6   |               Parasnath                |        PNME        |     12:40     |     12:42     |     2:00      |       306 KM       |    1     
+  7   |                Koderma                 |        KQR         |     13:31     |     13:33     |     2:00      |       382 KM       |    1     
+  8   |             Gaya Junction              |        GAYA        |     14:50     |     14:55     |     5:00      |       458 KM       |    1     
+  9   |               Rafiganj                 |        RFJ         |     15:22     |     15:23     |     1:00      |       495 KM       |    1     
+  10  |            Anugraha N Road             |        AUBR        |     15:46     |     15:47     |     1:00      |       526 KM       |    1     
+  11  |             Dehri On Sone              |        DOS         |     16:02     |     16:04     |     2:00      |       543 KM       |    1     
+  12  |              Bhabua Road               |        BBU         |     16:49     |     16:50     |     1:00      |       608 KM       |    1     
+  13  |         Mughal Sarai Junction          |        MGS         |     17:42     |     18:02     |     20:00     |       661 KM       |    1     
+  14  |           Varanasi Junction            |        BSB         |     18:37     |     18:47     |     10:00     |       678 KM       |    1     
+  15  |           Janghai Junction             |        JNH         |     20:04     |     20:05     |     1:00      |       753 KM       |    1     
+  16  |          Allahabad Junction            |        ALD         |     21:45     |     21:55     |     10:00     |       812 KM       |    1     
+  17  |            Kanpur Central              |        CNB         |     00:25     |     00:30     |     5:00      |      1007 KM       |    2     
+  18  |                Etawah                  |        ETW         |     02:02     |     02:03     |     1:00      |      1145 KM       |    2     
+  19  |            Tundla Junction             |        TDL         |     03:35     |     03:40     |     5:00      |      1236 KM       |    2     
+  20  |           Aligarh Junction             |        ALJN        |     04:35     |     04:40     |     5:00      |      1314 KM       |    2     
+  21  |               New Delhi                |        NDLS        |     07:35     |     Ends      |       -       |      1446 KM       |    2     

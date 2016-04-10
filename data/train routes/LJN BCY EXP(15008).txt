@@ -1,0 +1,37 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Lucknow Ne                |        LJN         |     Start     |     23:05     |       -       |        0 KM        |    1     
+  2   |             Lucknow City               |         LC         |     23:19     |     23:21     |     2:00      |        6 KM        |    1     
+  3   |             Badshahnagar               |        BNZ         |     23:38     |     23:40     |     2:00      |       12 KM        |    1     
+  4   |          Barabanki Junction            |        BBK         |     00:18     |     00:20     |     2:00      |       37 KM        |    2     
+  5   |                Burhwal                 |        BUW         |     00:44     |     00:46     |     2:00      |       64 KM        |    2     
+  6   |              Jarwal Road               |        JLD         |     01:00     |     01:02     |     2:00      |       80 KM        |    2     
+  7   |              Colonelganj               |        CLJ         |     01:23     |     01:25     |     2:00      |       97 KM        |    2     
+  8   |            Gonda Junction              |         GD         |     02:15     |     02:30     |     15:00     |       125 KM       |    2     
+  9   |           Mankapur Junction            |        MUR         |     02:54     |     02:56     |     2:00      |       153 KM       |    2     
+  10  |               Maskanwa                 |        MSW         |     03:10     |     03:12     |     2:00      |       168 KM       |    2     
+  11  |                Babhnan                 |         BV         |     03:30     |     03:32     |     2:00      |       184 KM       |    2     
+  12  |                 Basti                  |        BST         |     04:00     |     04:05     |     5:00      |       214 KM       |    2     
+  13  |              Khalilabad                |        KLD         |     04:38     |     04:40     |     2:00      |       244 KM       |    2     
+  14  |                Maghar                  |        MHH         |     04:50     |     04:52     |     2:00      |       253 KM       |    2     
+  15  |                Sihapar                 |        SIPR        |     05:00     |     05:02     |     2:00      |       256 KM       |    2     
+  16  |               Sahjanwa                 |        SWA         |     05:10     |     05:12     |     2:00      |       261 KM       |    2     
+  17  |               Jagatbela                |        JTB         |     05:28     |     05:30     |     2:00      |       268 KM       |    2     
+  18  |               Domingarh                |        DMG         |     05:48     |     05:50     |     2:00      |       275 KM       |    2     
+  19  |          Gorakhpur Junction            |        GKP         |     06:15     |     06:35     |     20:00     |       279 KM       |    2     
+  20  |            Gorakhpur Cant              |        GKC         |     06:48     |     06:50     |     2:00      |       282 KM       |    2     
+  21  |             Chauri Chaura              |         CC         |     07:08     |     07:10     |     2:00      |       303 KM       |    2     
+  22  |              Gauri Bazar               |         GB         |     07:21     |     07:23     |     2:00      |       313 KM       |    2     
+  23  |             Deoria Sadar               |        DEOS        |     07:38     |     07:40     |     2:00      |       328 KM       |    2     
+  24  |            Bhatni Junction             |        BTT         |     08:05     |     08:10     |     5:00      |       349 KM       |    2     
+  25  |           Salempur Junction            |        SRU         |     08:23     |     08:25     |     2:00      |       360 KM       |    2     
+  26  |               Lar Road                 |        LRD         |     08:34     |     08:36     |     2:00      |       369 KM       |    2     
+  27  |             Belthara Road              |        BLTR        |     08:52     |     08:54     |     2:00      |       382 KM       |    2     
+  28  |              Kirihrapur                |        KER         |     09:20     |     09:22     |     2:00      |       396 KM       |    2     
+  29  |            Indara Junction             |        IAA         |     09:41     |     09:43     |     2:00      |       409 KM       |    2     
+  30  |             Mau Junction               |        MAU         |     09:55     |     10:00     |     5:00      |       417 KM       |    2     
+  31  |              Dullahapur                |        DLR         |     10:16     |     10:18     |     2:00      |       438 KM       |    2     
+  32  |               Jakhanian                |        JKN         |     10:38     |     10:40     |     2:00      |       447 KM       |    2     
+  33  |                 Sadat                  |        SDT         |     11:09     |     11:11     |     2:00      |       456 KM       |    2     
+  34  |           Aunrihar Junction            |        ARJ         |     11:35     |     11:37     |     2:00      |       475 KM       |    2     
+  35  |                Sarnath                 |        SRNT        |     12:35     |     12:37     |     2:00      |       499 KM       |    2     
+  36  |             Varanasi City              |        BCY         |     13:00     |     Ends      |       -       |       506 KM       |    2     

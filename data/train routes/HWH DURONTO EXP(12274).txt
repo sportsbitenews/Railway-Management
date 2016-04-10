@@ -1,0 +1,3 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               New Delhi                |        NDLS        |     Start     |     12:55     |       -       |        0 KM        |    1     
+  2   |            Howrah Junction             |        HWH         |     06:10     |     Ends      |       -       |      1446 KM       |    2     

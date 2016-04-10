@@ -1,0 +1,32 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Bhavnagar Trmus             |        BVC         |     Start     |     04:25     |       -       |        0 KM        |    1     
+  2   |            Botad Junction              |        BTD         |     05:36     |     05:38     |     2:00      |       92 KM        |    1     
+  3   |            Surendranagar G             |        SRGT        |     06:40     |     06:42     |     2:00      |       167 KM       |    1     
+  4   |           Viramgam Junction            |         VG         |     08:29     |     08:31     |     2:00      |       232 KM       |    1     
+  5   |          Ahmedabad Junction            |        ADI         |     09:40     |     10:00     |     20:00     |       298 KM       |    1     
+  6   |           Vadodara Junction            |        BRC         |     11:53     |     12:03     |     10:00     |       397 KM       |    1     
+  7   |                 Surat                  |         ST         |     14:25     |     14:35     |     10:00     |       526 KM       |    1     
+  8   |                Valsad                  |         BL         |     15:31     |     15:33     |     2:00      |       595 KM       |    1     
+  9   |              Vasai Road                |        BSR         |     18:20     |     18:30     |     10:00     |       741 KM       |    1     
+  10  |            Kalyan Junction             |        KYN         |     19:42     |     19:45     |     3:00      |       794 KM       |    1     
+  11  |               Lonavala                 |        LNL         |     21:18     |     21:20     |     2:00      |       868 KM       |    1     
+  12  |             Pune Junction              |        PUNE        |     22:25     |     22:30     |     5:00      |       932 KM       |    1     
+  13  |            Daund Junction              |         DD         |     23:50     |     23:55     |     5:00      |      1008 KM       |    1     
+  14  |           Solapur Junction             |        SUR         |     02:50     |     03:00     |     10:00     |      1195 KM       |    2     
+  15  |               Gulbarga                 |         GR         |     04:51     |     04:53     |     2:00      |      1308 KM       |    2     
+  16  |               Shahabad                 |        SDB         |     05:18     |     05:20     |     2:00      |      1335 KM       |    2     
+  17  |                 Wadi                   |        WADI        |     05:55     |     06:00     |     5:00      |      1345 KM       |    2     
+  18  |                 Seram                  |        SEM         |     06:31     |     06:32     |     1:00      |      1382 KM       |    2     
+  19  |                Tandur                  |        TDU         |     06:58     |     07:00     |     2:00      |      1416 KM       |    2     
+  20  |          Vikarabad Junction            |        VKB         |     08:10     |     08:20     |     10:00     |      1457 KM       |    2     
+  21  |         Secunderabad Junction          |         SC         |     10:30     |     10:40     |     10:00     |      1528 KM       |    2     
+  22  |               Nalgonda                 |        NLDA        |     12:18     |     12:19     |     1:00      |      1638 KM       |    2     
+  23  |              Miryalaguda               |        MRGA        |     12:45     |     12:46     |     1:00      |      1676 KM       |    2     
+  24  |               Nadikode                 |        NDKD        |     13:20     |     13:21     |     1:00      |      1714 KM       |    2     
+  25  |             Sattenapalle               |        SAP         |     14:24     |     14:25     |     1:00      |      1767 KM       |    2     
+  26  |            Guntur Junction             |        GNT         |     15:45     |     15:50     |     5:00      |      1810 KM       |    2     
+  27  |          Vijayawada Junction           |        BZA         |     16:55     |     17:15     |     20:00     |      1841 KM       |    2     
+  28  |              Rajamundry                |        RJY         |     19:37     |     19:42     |     5:00      |      1991 KM       |    2     
+  29  |           Samalkot Junction            |        SLO         |     20:28     |     20:30     |     2:00      |      2041 KM       |    2     
+  30  |             Kakinada Town              |        CCT         |     21:00     |     21:02     |     2:00      |      2053 KM       |    2     
+  31  |             Kakinada Port              |        COA         |     21:15     |     Ends      |       -       |      2055 KM       |    2     

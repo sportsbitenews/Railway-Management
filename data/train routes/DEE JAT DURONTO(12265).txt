@@ -1,0 +1,3 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Delhi S Rohilla             |        DEE         |     Start     |     22:15     |       -       |        0 KM        |    1     
+  2   |              Jammu Tawi                |        JAT         |     07:20     |     Ends      |       -       |       578 KM       |    2     

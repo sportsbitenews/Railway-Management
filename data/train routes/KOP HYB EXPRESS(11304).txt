@@ -1,0 +1,37 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            C Shahumharaj T             |        KOP         |     Start     |     07:35     |       -       |        0 KM        |    1     
+  2   |              Hatkanagale               |        HTK         |     07:50     |     07:52     |     2:00      |       21 KM        |    1     
+  3   |            Miraj Junction              |        MRJ         |     08:45     |     09:15     |     30:00     |       48 KM        |    1     
+  4   |                Kudachi                 |        KUD         |     09:30     |     09:32     |     2:00      |       81 KM        |    1     
+  5   |                Raybag                  |        RBG         |     09:46     |     09:48     |     2:00      |       98 KM        |    1     
+  6   |              Ghatprabha                |        GPB         |     10:20     |     10:22     |     2:00      |       127 KM       |    1     
+  7   |                Belgaum                 |        BGM         |     12:00     |     12:05     |     5:00      |       185 KM       |    1     
+  8   |            Londa Junction              |         LD         |     13:08     |     13:10     |     2:00      |       236 KM       |    1     
+  9   |           Alnavar Junction             |        LWR         |     13:43     |     13:45     |     2:00      |       270 KM       |    1     
+  10  |                Dharwar                 |        DWR         |     14:55     |     15:00     |     5:00      |       306 KM       |    1     
+  11  |            Hubli Junction              |        UBL         |     16:05     |     16:15     |     10:00     |       326 KM       |    1     
+  12  |            Gadag Junction              |        GDG         |     17:13     |     17:15     |     2:00      |       384 KM       |    1     
+  13  |                Koppal                  |        KBL         |     18:15     |     18:17     |     2:00      |       442 KM       |    1     
+  14  |            Hospet Junction             |        HPT         |     18:58     |     19:00     |     2:00      |       470 KM       |    1     
+  15  |              Toranagallu               |        TNGL        |     19:43     |     19:45     |     2:00      |       502 KM       |    1     
+  16  |           Bellary Junction             |        BAY         |     20:45     |     20:50     |     5:00      |       535 KM       |    1     
+  17  |           Guntakal Junction            |        GTL         |     21:35     |     21:55     |     20:00     |       585 KM       |    1     
+  18  |                 Adoni                  |         AD         |     22:30     |     22:32     |     2:00      |       637 KM       |    1     
+  19  |                 Kosgi                  |         KO         |     22:52     |     22:53     |     1:00      |       665 KM       |    1     
+  20  |           Manthralayam Road            |        MALM        |     23:08     |     23:10     |     2:00      |       678 KM       |    1     
+  21  |                Raichur                 |         RC         |     23:38     |     23:40     |     2:00      |       706 KM       |    1     
+  22  |                Krishna                 |        KSN         |     00:01     |     00:02     |     1:00      |       731 KM       |    2     
+  24  |                Yadgir                  |         YG         |     00:38     |     00:40     |     2:00      |       775 KM       |    2     
+  25  |                Nalwar                  |         NW         |     01:33     |     01:35     |     2:00      |       800 KM       |    2     
+  26  |               Chittapur                |         CT         |     02:24     |     02:26     |     2:00      |       829 KM       |    2     
+  27  |             Malkhaid Road              |        MQR         |     02:31     |     02:33     |     2:00      |       838 KM       |    2     
+  28  |                 Seram                  |        SEM         |     02:41     |     02:43     |     2:00      |       851 KM       |    2     
+  29  |               Kurgunta                 |        KQT         |     02:51     |     02:53     |     2:00      |       859 KM       |    2     
+  30  |               Nawandgi                 |        NAW         |     03:13     |     03:15     |     2:00      |       867 KM       |    2     
+  31  |                Tandur                  |        TDU         |     03:28     |     03:30     |     2:00      |       884 KM       |    2     
+  32  |          Vikarabad Junction            |        VKB         |     04:18     |     04:20     |     2:00      |       925 KM       |    2     
+  33  |             Shankarpalli               |        SKP         |     04:38     |     04:40     |     2:00      |       954 KM       |    2     
+  34  |              Lingampalli               |        LPI         |     04:58     |     05:00     |     2:00      |       975 KM       |    2     
+  35  |              Sanat Nagar               |        SNF         |     05:18     |     05:20     |     2:00      |       989 KM       |    2     
+  36  |               Begampet                 |        BMT         |     05:37     |     05:38     |     1:00      |       993 KM       |    2     
+  37  |            Hyderabad Decan             |        HYB         |     06:45     |     Ends      |       -       |       998 KM       |    2     

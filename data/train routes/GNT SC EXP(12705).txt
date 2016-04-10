@@ -1,0 +1,14 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Guntur Junction             |        GNT         |     Start     |     15:00     |       -       |        0 KM        |    1     
+  2   |              Mangalagiri               |        MAG         |     15:19     |     15:20     |     1:00      |       20 KM        |    1     
+  3   |          Vijayawada Junction           |        BZA         |     15:50     |     16:00     |     10:00     |       32 KM        |    1     
+  4   |                Madhira                 |        MDR         |     16:47     |     16:48     |     1:00      |       89 KM        |    1     
+  5   |                Khammam                 |        KMT         |     17:09     |     17:11     |     2:00      |       134 KM       |    1     
+  6   |           Dornakal Junction            |        DKJ         |     17:38     |     17:39     |     1:00      |       156 KM       |    1     
+  7   |              Mahbubabad                |        MABD        |     17:57     |     17:58     |     1:00      |       180 KM       |    1     
+  8   |               Warangal                 |         WL         |     18:45     |     18:47     |     2:00      |       241 KM       |    1     
+  9   |           Kazipet Junction             |        KZJ         |     19:11     |     19:13     |     2:00      |       251 KM       |    1     
+  10  |                Ghanpur                 |        GNP         |     19:30     |     19:31     |     1:00      |       271 KM       |    1     
+  11  |                Jangaon                 |         ZN         |     20:00     |     20:01     |     1:00      |       299 KM       |    1     
+  12  |                 Aler                   |        ALER        |     20:12     |     20:13     |     1:00      |       313 KM       |    1     
+  13  |         Secunderabad Junction          |         SC         |     21:50     |     Ends      |       -       |       383 KM       |    1     

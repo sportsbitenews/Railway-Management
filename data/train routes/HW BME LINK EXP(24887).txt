@@ -1,0 +1,40 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Haridwar Junction            |         HW         |     Start     |     19:10     |       -       |        0 KM        |    1     
+  2   |               Jwalapur                 |        JWP         |     19:15     |     19:17     |     2:00      |        4 KM        |    1     
+  3   |                Roorkee                 |         RK         |     20:01     |     20:03     |     2:00      |       42 KM        |    1     
+  4   |              Saharanpur                |        SRE         |     20:55     |     21:05     |     10:00     |       76 KM        |    1     
+  5   |               Jagadhri                 |        JUD         |     21:31     |     21:33     |     2:00      |       107 KM       |    1     
+  6   |         Ambala Cant Junction           |        UMB         |     22:40     |     23:45     |     65:00     |       158 KM       |    1     
+  7   |              Ambala City               |        UBC         |     23:56     |     23:58     |     2:00      |       165 KM       |    1     
+  8   |           Rajpura Junction             |        RPJ         |     00:16     |     00:18     |     2:00      |       185 KM       |    2     
+  9   |                Patiala                 |        PTA         |     00:40     |     00:42     |     2:00      |       211 KM       |    2     
+  10  |                 Nabha                  |        NBA         |     01:06     |     01:08     |     2:00      |       236 KM       |    2     
+  11  |            Dhuri Junction              |        DUI         |     01:35     |     01:40     |     5:00      |       264 KM       |    2     
+  12  |                Barnala                 |        BNN         |     02:04     |     02:06     |     2:00      |       294 KM       |    2     
+  13  |                 Tapa                   |        TAPA        |     02:23     |     02:25     |     2:00      |       313 KM       |    2     
+  14  |             Rampura Phul               |        PUL         |     02:38     |     02:40     |     2:00      |       327 KM       |    2     
+  15  |           Bhatinda Junction            |        BTI         |     03:35     |     04:25     |     50:00     |       359 KM       |    2     
+  16  |                Sangat                  |        SGF         |     04:42     |     04:44     |     2:00      |       376 KM       |    2     
+  17  |             Mandi Dabwali              |        MBY         |     05:00     |     05:02     |     2:00      |       395 KM       |    2     
+  18  |                Dhaban                  |        DABN        |     05:21     |     05:23     |     2:00      |       414 KM       |    2     
+  19  |               Sangaria                 |        SGRA        |     05:34     |     05:36     |     2:00      |       425 KM       |    2     
+  20  |               Manaksar                 |        MNSR        |     05:49     |     05:51     |     2:00      |       440 KM       |    2     
+  21  |         Hanumangarh Junction           |        HMH         |     06:10     |     06:20     |     10:00     |       451 KM       |    2     
+  22  |              Pili Bangan               |        PGK         |     06:41     |     06:43     |     2:00      |       476 KM       |    2     
+  23  |          Suratgarh Junction            |        SOG         |     07:15     |     07:30     |     15:00     |       501 KM       |    2     
+  24  |                Mahajan                 |        MHJ         |     08:21     |     08:23     |     2:00      |       564 KM       |    2     
+  25  |              Lunkaransar               |        LKS         |     08:54     |     08:56     |     2:00      |       603 KM       |    2     
+  26  |                Dhirera                 |        DHRR        |     09:15     |     09:17     |     2:00      |       625 KM       |    2     
+  27  |           Lalgarh Junction             |        LGH         |     10:07     |     10:09     |     2:00      |       679 KM       |    2     
+  28  |           Bikaner Junction             |        BKN         |     10:45     |     11:00     |     15:00     |       683 KM       |    2     
+  29  |                Deshnok                 |        DSO         |     11:27     |     11:29     |     2:00      |       715 KM       |    2     
+  30  |                 Nokha                  |        NOK         |     11:56     |     11:58     |     2:00      |       747 KM       |    2     
+  31  |                Nagaur                  |        NGO         |     13:11     |     13:13     |     2:00      |       798 KM       |    2     
+  32  |          Merta Road Junction           |        MTD         |     14:02     |     14:07     |     5:00      |       856 KM       |    2     
+  33  |                 Gotan                  |        GOTN        |     14:22     |     14:24     |     2:00      |       876 KM       |    2     
+  34  |           Jodhpur Junction             |         JU         |     16:00     |     16:15     |     15:00     |       960 KM       |    2     
+  35  |             Luni Junction              |        LUNI        |     16:44     |     16:47     |     3:00      |       991 KM       |    2     
+  36  |           Samdhari Junction            |        SMR         |     17:25     |     17:30     |     5:00      |      1040 KM       |    2     
+  37  |           Balotra Junction             |        BLT         |     18:00     |     18:02     |     2:00      |      1073 KM       |    2     
+  38  |                 Baytu                  |        BUT         |     18:39     |     18:41     |     2:00      |      1123 KM       |    2     
+  39  |                Barmer                  |        BME         |     20:15     |     Ends      |       -       |      1169 KM       |    2     

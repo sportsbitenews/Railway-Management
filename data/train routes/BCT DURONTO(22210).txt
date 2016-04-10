@@ -1,0 +1,3 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               New Delhi                |        NDLS        |     Start     |     23:25     |       -       |        0 KM        |    1     
+  2   |            Mumbai Central              |        BCT         |     16:15     |     Ends      |       -       |      1384 KM       |    2     

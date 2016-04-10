@@ -1,0 +1,11 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Chennai Central             |        MAS         |     Start     |     16:30     |       -       |        0 KM        |    1     
+  1   |            Chennai Central             |        MAS         |     Start     |     16:30     |       -       |        0 KM        |    1     
+  2   |          Eranakulam Junction           |        ERS         |     01:55     |     02:00     |     5:00      |       689 KM       |    2     
+  2   |          Eranakulam Junction           |        ERS         |     01:55     |     02:00     |     5:00      |       689 KM       |    2     
+  3   |               Alleppey                 |        ALLP        |     02:55     |     02:57     |     2:00      |       746 KM       |    2     
+  3   |               Alleppey                 |        ALLP        |     02:55     |     02:57     |     2:00      |       746 KM       |    2     
+  4   |            Kollam Junction             |        QLN         |     04:18     |     04:20     |     2:00      |       830 KM       |    2     
+  4   |            Kollam Junction             |        QLN         |     04:18     |     04:20     |     2:00      |       830 KM       |    2     
+  5   |            Trivandrum Cntl             |        TVC         |     05:45     |     Ends      |       -       |       895 KM       |    2     
+  5   |            Trivandrum Cntl             |        TVC         |     05:45     |     Ends      |       -       |       895 KM       |    2     

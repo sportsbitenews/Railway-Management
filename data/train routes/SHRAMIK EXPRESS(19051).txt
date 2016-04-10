@@ -1,0 +1,16 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Valsad                  |         BL         |     Start     |     19:40     |       -       |        0 KM        |    1     
+  2   |            Udhna Junction              |        UDN         |     21:03     |     21:05     |     2:00      |       65 KM        |    1     
+  3   |                 Vyara                  |        VYA         |     21:55     |     21:57     |     2:00      |       122 KM       |    1     
+  4   |               Nandurbar                |        NDB         |     23:55     |     00:15     |     20:00     |       221 KM       |    2     
+  5   |           Jalgaon Junction             |         JL         |     03:38     |     03:40     |     2:00      |       372 KM       |    2     
+  6   |           Bhusaval Junction            |        BSL         |     04:10     |     04:20     |     10:00     |       396 KM       |    2     
+  7   |               Jabalpur                 |        JBP         |     12:35     |     12:45     |     10:00     |       948 KM       |    2     
+  8   |                 Katni                  |        KTE         |     14:03     |     14:08     |     5:00      |      1039 KM       |    2     
+  9   |                 Satna                  |        STA         |     15:20     |     15:30     |     10:00     |      1137 KM       |    2     
+  10  |           Varanasi Junction            |        BSB         |     22:10     |     22:45     |     35:00     |      1463 KM       |    2     
+  11  |                Ballia                  |        BUI         |     01:18     |     01:20     |     2:00      |      1610 KM       |    3     
+  12  |                Chhapra                 |        CPR         |     03:40     |     03:50     |     10:00     |      1668 KM       |    3     
+  13  |            Sonpur Junction             |        SEE         |     04:40     |     04:45     |     5:00      |      1722 KM       |    3     
+  14  |           Hajipur Junction             |        HJP         |     04:58     |     05:00     |     2:00      |      1728 KM       |    3     
+  15  |         Muzaffarpur Junction           |        MFP         |     07:15     |     Ends      |       -       |      1781 KM       |    3     

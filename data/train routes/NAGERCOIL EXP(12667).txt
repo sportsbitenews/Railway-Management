@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Chennai Egmore              |         MS         |     Start     |     18:50     |       -       |        0 KM        |    1     
+  2   |             Chengalpattu               |        CGL         |     19:43     |     19:45     |     2:00      |       56 KM        |    1     
+  3   |             Melmaruvattur              |        MLMR        |     20:13     |     20:15     |     2:00      |       92 KM        |    1     
+  4   |          Villuparam Junction           |         VM         |     21:15     |     21:20     |     5:00      |       159 KM       |    1     
+  5   |         Vridhachalam Junction          |        VRI         |     22:05     |     22:07     |     2:00      |       213 KM       |    1     
+  6   |            Tiruchchirapali             |        TPJ         |     00:30     |     00:35     |     5:00      |       336 KM       |    2     
+  7   |           Dindigul Junction            |         DG         |     02:13     |     02:15     |     2:00      |       431 KM       |    2     
+  8   |           Madurai Junction             |        MDU         |     03:20     |     03:25     |     5:00      |       497 KM       |    2     
+  9   |         Virudunagar Junction           |        VPT         |     04:10     |     04:12     |     2:00      |       540 KM       |    2     
+  10  |                 Satur                  |        SRT         |     04:34     |     04:35     |     1:00      |       567 KM       |    2     
+  11  |              Tirunelveli               |        TEN         |     06:25     |     06:30     |     5:00      |       653 KM       |    2     
+  12  |          Nagercoil Junction            |        NCJ         |     08:05     |     Ends      |       -       |       727 KM       |    2     

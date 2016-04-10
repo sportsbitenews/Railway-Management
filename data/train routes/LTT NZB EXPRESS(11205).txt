@@ -1,0 +1,21 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Lokmanyatilak T             |        LTT         |     Start     |     16:40     |       -       |        0 KM        |    1     
+  2   |            Kalyan Junction             |        KYN         |     17:17     |     17:20     |     3:00      |       38 KM        |    1     
+  3   |               Igatpuri                 |        IGP         |     19:53     |     19:55     |     2:00      |       121 KM       |    1     
+  4   |                Devlali                 |        DVL         |     20:33     |     20:35     |     2:00      |       166 KM       |    1     
+  5   |              Nasik Road                |         NK         |     20:43     |     20:45     |     2:00      |       172 KM       |    1     
+  6   |            Manmad Junction             |        MMR         |     22:10     |     22:15     |     5:00      |       245 KM       |    1     
+  7   |               Rotegaon                 |        RGO         |     22:48     |     22:50     |     2:00      |       297 KM       |    1     
+  8   |                 Lasur                  |        LSR         |     23:08     |     23:10     |     2:00      |       325 KM       |    1     
+  9   |              Aurangabad                |        AWB         |     00:20     |     00:30     |     10:00     |       358 KM       |    2     
+  10  |                 Jalna                  |         J          |     01:30     |     01:32     |     2:00      |       421 KM       |    2     
+  11  |                Partur                  |        PTU         |     01:58     |     02:00     |     2:00      |       466 KM       |    2     
+  12  |                 Selu                   |        SELU        |     02:28     |     02:30     |     2:00      |       493 KM       |    2     
+  13  |           Parbhani Junction            |        PBN         |     04:00     |     04:02     |     2:00      |       535 KM       |    2     
+  14  |            Purna Junction              |        PAU         |     05:00     |     05:10     |     10:00     |       564 KM       |    2     
+  15  |                Nanded                  |        NED         |     05:40     |     05:45     |     5:00      |       594 KM       |    2     
+  16  |                Mudkhed                 |        MUE         |     06:30     |     06:35     |     5:00      |       617 KM       |    2     
+  17  |                 Umri                   |        UMRI        |     06:58     |     07:00     |     2:00      |       636 KM       |    2     
+  18  |               Dharmabad                |        DAB         |     07:26     |     07:28     |     2:00      |       666 KM       |    2     
+  19  |                 Basar                  |        BSX         |     07:38     |     07:40     |     2:00      |       676 KM       |    2     
+  20  |               Nizamabad                |        NZB         |     09:15     |     Ends      |       -       |       705 KM       |    2     

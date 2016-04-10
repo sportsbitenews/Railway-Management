@@ -1,0 +1,31 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Sealdah                 |        SDAH        |     Start     |     13:20     |       -       |        0 KM        |    1     
+  2   |           Naihati Junction             |         NH         |     14:08     |     14:11     |     3:00      |       38 KM        |    1     
+  3   |            Bandel Junction             |        BDC         |     14:30     |     14:35     |     5:00      |       47 KM        |    1     
+  4   |          Barddhaman Junction           |        BWN         |     15:42     |     15:47     |     5:00      |       114 KM       |    1     
+  5   |               Durgapur                 |        DGR         |     16:33     |     16:35     |     2:00      |       178 KM       |    1     
+  6   |           Asansol Junction             |        ASN         |     17:07     |     17:15     |     8:00      |       220 KM       |    1     
+  7   |             Chittaranjan               |        CRJ         |     17:39     |     17:40     |     1:00      |       245 KM       |    1     
+  8   |           Madhupur Junction            |        MDP         |     18:19     |     18:21     |     2:00      |       301 KM       |    1     
+  9   |           Jasidih Junction             |        JSME        |     18:46     |     18:51     |     5:00      |       330 KM       |    1     
+  10  |                Jhajha                  |        JAJ         |     20:45     |     20:55     |     10:00     |       374 KM       |    1     
+  11  |                Gidhaur                 |        GHR         |     21:05     |     21:07     |     2:00      |       385 KM       |    1     
+  12  |                 Jamui                  |        JMU         |     21:19     |     21:21     |     2:00      |       400 KM       |    1     
+  13  |             Kiul Junction              |        KIUL        |     21:59     |     22:04     |     5:00      |       428 KM       |    1     
+  14  |                Barhiya                 |        BRYA        |     22:26     |     22:27     |     1:00      |       444 KM       |    1     
+  15  |           Barauni Junction             |        BJU         |     23:30     |     23:45     |     15:00     |       467 KM       |    1     
+  16  |             Vidyapatidham              |        VPDA        |     00:13     |     00:14     |     1:00      |       494 KM       |    2     
+  17  |            Mohiuddinnagar              |        MOG         |     00:24     |     00:25     |     1:00      |       504 KM       |    2     
+  18  |            Shahpur Patoree             |        SPP         |     00:51     |     00:52     |     1:00      |       517 KM       |    2     
+  19  |              Mehnar Road               |        MNO         |     00:59     |     01:00     |     1:00      |       525 KM       |    2     
+  20  |                Desari                  |        DES         |     01:10     |     01:11     |     1:00      |       535 KM       |    2     
+  21  |            Akshaywat R Ngr             |        AYRN        |     01:24     |     01:25     |     1:00      |       545 KM       |    2     
+  22  |           Hajipur Junction             |        HJP         |     01:49     |     01:50     |     1:00      |       555 KM       |    2     
+  23  |            Sonpur Junction             |        SEE         |     02:00     |     02:20     |     20:00     |       561 KM       |    2     
+  24  |               Nayagaon                 |        NYO         |     02:33     |     02:34     |     1:00      |       572 KM       |    2     
+  25  |               Sitalpur                 |        STLR        |     02:42     |     02:43     |     1:00      |       579 KM       |    2     
+  26  |               Dighwara                 |        DGA         |     02:50     |     02:51     |     1:00      |       584 KM       |    2     
+  27  |                Chhapra                 |        CPR         |     04:00     |     04:20     |     20:00     |       614 KM       |    2     
+  28  |              Suraimanpur               |        SIP         |     04:59     |     05:00     |     1:00      |       643 KM       |    2     
+  29  |               Sahatwar                 |        STW         |     05:23     |     05:25     |     2:00      |       662 KM       |    2     
+  30  |                Ballia                  |        BUI         |     06:10     |     Ends      |       -       |       679 KM       |    2     

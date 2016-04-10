@@ -1,0 +1,32 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Kacheguda                |        KCG         |     Start     |     16:00     |       -       |        0 KM        |    1     
+  2   |              Mahbubnagar               |        MBNR        |     17:18     |     17:20     |     2:00      |       106 KM       |    1     
+  3   |                Gadwal                  |        GWD         |     18:29     |     18:30     |     1:00      |       181 KM       |    1     
+  4   |             Kurnool Town               |        KRNT        |     19:53     |     19:55     |     2:00      |       237 KM       |    1     
+  5   |                 Dhone                  |        DHNE        |     20:40     |     20:45     |     5:00      |       290 KM       |    1     
+  6   |                 Gooty                  |         GY         |     21:48     |     21:50     |     2:00      |       345 KM       |    1     
+  7   |               Tadipatri                |         TU         |     22:33     |     22:35     |     2:00      |       393 KM       |    1     
+  8   |              Yerraguntla               |         YA         |     23:30     |     23:32     |     2:00      |       462 KM       |    1     
+  9   |               Cuddapah                 |         HX         |     00:18     |     00:20     |     2:00      |       501 KM       |    2     
+  10  |               Razampeta                |        RJP         |     01:09     |     01:10     |     1:00      |       552 KM       |    2     
+  11  |                Koduru                  |        KOU         |     01:39     |     01:40     |     1:00      |       586 KM       |    2     
+  12  |          Renigunta Junction            |         RU         |     02:50     |     03:00     |     10:00     |       626 KM       |    2     
+  13  |               Tirupati                 |        TPTY        |     03:25     |     03:27     |     2:00      |       636 KM       |    2     
+  14  |                Chittor                 |        CTO         |     04:28     |     04:30     |     2:00      |       708 KM       |    2     
+  15  |           Katpadi Junction             |        KPD         |     06:08     |     06:10     |     2:00      |       741 KM       |    2     
+  16  |              Gudiyattam                |        GYM         |     06:33     |     06:35     |     2:00      |       765 KM       |    2     
+  17  |              Vaniyambadi               |         VN         |     07:03     |     07:05     |     2:00      |       809 KM       |    2     
+  18  |              Jolarpettai               |        JTJ         |     07:45     |     07:50     |     5:00      |       824 KM       |    2     
+  19  |            Salem Junction              |         SA         |     09:35     |     09:40     |     5:00      |       944 KM       |    2     
+  20  |               Rasipuram                |        RASP        |     10:04     |     10:05     |     1:00      |       970 KM       |    2     
+  21  |               Namakkal                 |        NMKL        |     10:39     |     10:40     |     1:00      |       996 KM       |    2     
+  22  |                 Karur                  |        KRR         |     11:12     |     11:15     |     3:00      |      1030 KM       |    2     
+  23  |            Tiruchchirapali             |        TPJ         |     12:40     |     12:45     |     5:00      |      1105 KM       |    2     
+  24  |           Dindigul Junction            |         DG         |     14:00     |     14:02     |     2:00      |      1200 KM       |    2     
+  25  |           Madurai Junction             |        MDU         |     15:15     |     15:20     |     5:00      |      1266 KM       |    2     
+  26  |         Virudunagar Junction           |        VPT         |     15:58     |     16:00     |     2:00      |      1309 KM       |    2     
+  27  |                 Satur                  |        SRT         |     16:24     |     16:25     |     1:00      |      1336 KM       |    2     
+  28  |              Kovilpatti                |        CVP         |     16:44     |     16:45     |     1:00      |      1357 KM       |    2     
+  29  |              Tirunelveli               |        TEN         |     19:00     |     19:05     |     5:00      |      1422 KM       |    2     
+  30  |               Valliyur                 |        VLY         |     19:39     |     19:40     |     1:00      |      1464 KM       |    2     
+  31  |          Nagercoil Junction            |        NCJ         |     21:10     |     Ends      |       -       |      1495 KM       |    2     

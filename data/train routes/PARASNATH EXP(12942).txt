@@ -1,0 +1,31 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Asansol Junction             |        ASN         |     Start     |     19:50     |       -       |        0 KM        |    1     
+  2   |           Dhanbad Junction             |        DHN         |     20:43     |     20:53     |     10:00     |       59 KM        |    1     
+  3   |               Parasnath                |        PNME        |     21:38     |     21:39     |     1:00      |       106 KM       |    1     
+  4   |                Koderma                 |        KQR         |     22:28     |     22:30     |     2:00      |       182 KM       |    1     
+  5   |             Gaya Junction              |        GAYA        |     23:48     |     23:53     |     5:00      |       258 KM       |    1     
+  6   |             Dehri On Sone              |        DOS         |     00:52     |     00:54     |     2:00      |       343 KM       |    2     
+  7   |                Sasaram                 |        SSM         |     01:08     |     01:09     |     1:00      |       361 KM       |    2     
+  8   |              Bhabua Road               |        BBU         |     01:43     |     01:44     |     1:00      |       409 KM       |    2     
+  9   |         Mughal Sarai Junction          |        MGS         |     03:10     |     03:20     |     10:00     |       461 KM       |    2     
+  10  |          Allahabad Junction            |        ALD         |     05:30     |     05:35     |     5:00      |       614 KM       |    2     
+  11  |            Kanpur Central              |        CNB         |     08:00     |     08:15     |     15:00     |       808 KM       |    2     
+  12  |            Tundla Junction             |        TDL         |     11:35     |     11:40     |     5:00      |      1038 KM       |    2     
+  13  |               Agra Fort                |         AF         |     12:25     |     12:30     |     5:00      |      1060 KM       |    2     
+  14  |            Shri Mahabirji              |        SMBJ        |     15:02     |     15:04     |     2:00      |      1188 KM       |    2     
+  15  |             Gangapur City              |        GGC         |     15:34     |     15:35     |     1:00      |      1222 KM       |    2     
+  16  |            Sawai Madhopur              |        SWM         |     16:20     |     16:25     |     5:00      |      1285 KM       |    2     
+  17  |             Kota Junction              |        KOTA        |     17:40     |     17:50     |     10:00     |      1393 KM       |    2     
+  18  |             Ramganj Mandi              |        RMA         |     18:54     |     18:55     |     1:00      |      1465 KM       |    2     
+  19  |             Bhawani Mandi              |        BWM         |     19:17     |     19:18     |     1:00      |      1493 KM       |    2     
+  20  |            Ratlam Junction             |        RTM         |     22:30     |     22:40     |     10:00     |      1659 KM       |    2     
+  21  |                 Dahod                  |        DHD         |     00:06     |     00:07     |     1:00      |      1773 KM       |    3     
+  22  |           Vadodara Junction            |        BRC         |     02:24     |     02:49     |     25:00     |      1921 KM       |    3     
+  23  |            Nadiad Junction             |         ND         |     03:41     |     03:42     |     1:00      |      1975 KM       |    3     
+  24  |          Ahmedabad Junction            |        ADI         |     04:55     |     05:10     |     15:00     |      2021 KM       |    3     
+  25  |           Viramgam Junction            |         VG         |     07:01     |     07:02     |     1:00      |      2086 KM       |    3     
+  26  |         Jorawarnagar Junction          |        JVN         |     08:16     |     08:17     |     1:00      |      2154 KM       |    3     
+  27  |            Botad Junction              |        BTD         |     09:15     |     09:17     |     2:00      |      2226 KM       |    3     
+  28  |            Dhola Junction              |        DLJ         |     09:53     |     09:59     |     6:00      |      2269 KM       |    3     
+  29  |                Songadh                 |        SGD         |     10:19     |     10:20     |     1:00      |      2290 KM       |    3     
+  30  |            Bhavnagar Trmus             |        BVC         |     11:35     |     Ends      |       -       |      2318 KM       |    3     

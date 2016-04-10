@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Chennai Central             |        MAS         |     Start     |     06:10     |       -       |        0 KM        |    1     
+  2   |            Gudur Junction              |        GDR         |     08:00     |     08:01     |     1:00      |       138 KM       |    1     
+  3   |                Ongole                  |        OGL         |     09:49     |     09:50     |     1:00      |       292 KM       |    1     
+  4   |          Vijayawada Junction           |        BZA         |     11:50     |     12:00     |     10:00     |       431 KM       |    1     
+  5   |              Balharshah                |        BPQ         |     17:50     |     18:00     |     10:00     |       881 KM       |    1     
+  6   |                Nagpur                  |        NGP         |     20:35     |     20:45     |     10:00     |      1093 KM       |    1     
+  7   |           Bhopal  Junction             |        BPL         |     02:00     |     02:10     |     10:00     |      1481 KM       |    2     
+  8   |            Jhansi Junction             |        JHS         |     05:26     |     05:31     |     5:00      |      1772 KM       |    2     
+  9   |                Gwalior                 |        GWL         |     06:30     |     06:32     |     2:00      |      1869 KM       |    2     
+  10  |              Agra Cantt                |        AGC         |     07:55     |     07:57     |     2:00      |      1988 KM       |    2     
+  11  |             H Nizamuddin               |        NZM         |     10:25     |     Ends      |       -       |      2175 KM       |    2     

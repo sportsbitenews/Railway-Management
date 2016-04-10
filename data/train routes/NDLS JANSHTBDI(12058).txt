@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Una Himachal               |        UHL         |     Start     |     05:00     |       -       |        0 KM        |    1     
+  2   |              Nangal Dam                |        NLDM        |     05:24     |     05:27     |     3:00      |       17 KM        |    1     
+  3   |            Anandpur Sahib              |        ANSB        |     05:44     |     05:46     |     2:00      |       37 KM        |    1     
+  4   |            Kiratpur Sahib              |        KART        |     05:56     |     05:58     |     2:00      |       45 KM        |    1     
+  5   |               Rupnagar                 |        RPAR        |     06:26     |     06:28     |     2:00      |       72 KM        |    1     
+  6   |            Sahibzada Asngr             |        SASN        |     07:15     |     07:17     |     2:00      |       133 KM       |    1     
+  7   |              Chandigarh                |        CDG         |     07:30     |     07:38     |     8:00      |       144 KM       |    1     
+  8   |         Ambala Cant Junction           |        UMB         |     08:30     |     08:45     |     15:00     |       211 KM       |    1     
+  9   |         Kurukshetra Junction           |        KKDE        |     09:18     |     09:20     |     2:00      |       253 KM       |    1     
+  10  |                Karnal                  |        KUN         |     09:45     |     09:47     |     2:00      |       286 KM       |    1     
+  11  |           Panipat Junction             |        PNP         |     10:16     |     10:18     |     2:00      |       320 KM       |    1     
+  12  |                Sonipat                 |        SNP         |     10:49     |     10:51     |     2:00      |       365 KM       |    1     
+  13  |              Subzi Mandi               |        SZM         |     11:34     |     11:36     |     2:00      |       406 KM       |    1     
+  14  |               New Delhi                |        NDLS        |     12:00     |     Ends      |       -       |       410 KM       |    1     

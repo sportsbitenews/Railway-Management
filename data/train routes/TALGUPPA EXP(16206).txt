@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Mysore Junction             |        MYS         |     Start     |     05:50     |       -       |        0 KM        |    1     
+  2   |            Krishanrajanaga             |        KRNR        |     06:24     |     06:25     |     1:00      |       35 KM        |    1     
+  3   |             Hole Narsipur              |        HLN         |     07:14     |     07:15     |     1:00      |       89 KM        |    1     
+  4   |                Hassan                  |        HAS         |     07:43     |     07:45     |     2:00      |       121 KM       |    1     
+  5   |           Arsikere Junction            |        ASK         |     08:43     |     08:45     |     2:00      |       168 KM       |    1     
+  6   |            Birur Junction              |        RRB         |     09:33     |     09:35     |     2:00      |       213 KM       |    1     
+  7   |           Tarikere Junction            |        TKE         |     10:04     |     10:05     |     1:00      |       237 KM       |    1     
+  8   |              Bhadravati                |        BDVT        |     10:23     |     10:25     |     2:00      |       257 KM       |    1     
+  9   |             Shimoga Town               |        SMET        |     10:50     |     10:55     |     5:00      |       276 KM       |    1     
+  10  |              Anandapuram               |        ANF         |     11:59     |     12:00     |     1:00      |       331 KM       |    1     
+  11  |            Sagar Jambagaru             |        SRF         |     12:28     |     12:30     |     2:00      |       357 KM       |    1     
+  12  |               Talguppa                 |        TLGP        |     13:30     |     Ends      |       -       |       373 KM       |    1     

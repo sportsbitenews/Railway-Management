@@ -1,0 +1,20 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Chandigarh                |        CDG         |     Start     |     19:10     |       -       |        0 KM        |    1     
+  2   |         Ambala Cant Junction           |        UMB         |     19:58     |     20:08     |     10:00     |       68 KM        |    1     
+  3   |           Panipat Junction             |        PNP         |     21:24     |     21:26     |     2:00      |       177 KM       |    1     
+  4   |               New Delhi                |        NDLS        |     23:15     |     23:35     |     20:00     |       266 KM       |    1     
+  5   |             H Nizamuddin               |        NZM         |     23:40     |     23:50     |     10:00     |       274 KM       |    1     
+  6   |               Faridabad                |        FDB         |     00:09     |     00:11     |     2:00      |       294 KM       |    2     
+  7   |           Mathura Junction             |        MTJ         |     01:35     |     01:38     |     3:00      |       407 KM       |    2     
+  8   |              Agra Cantt                |        AGC         |     02:25     |     02:30     |     5:00      |       461 KM       |    2     
+  9   |                Morena                  |        MRA         |     03:50     |     03:52     |     2:00      |       541 KM       |    2     
+  10  |                Gwalior                 |        GWL         |     05:00     |     05:05     |     5:00      |       579 KM       |    2     
+  11  |               Shivpuri                 |        SVPI        |     07:00     |     07:05     |     5:00      |       705 KM       |    2     
+  12  |                 Guna                   |        GUNA        |     09:30     |     09:45     |     15:00     |       807 KM       |    2     
+  13  |               Ruthiyai                 |        RTA         |     10:06     |     10:11     |     5:00      |       827 KM       |    2     
+  14  |            Biyavra Rajgarh             |        BRRG        |     11:38     |     11:40     |     2:00      |       904 KM       |    2     
+  15  |               Shajapur                 |        SFY         |     12:56     |     12:58     |     2:00      |       993 KM       |    2     
+  16  |                 Maksi                  |        MKC         |     14:10     |     14:12     |     2:00      |      1021 KM       |    2     
+  17  |            Ujjain Junction             |        UJN         |     14:50     |     15:15     |     25:00     |      1062 KM       |    2     
+  18  |                 Dewas                  |        DWX         |     16:03     |     16:05     |     2:00      |      1102 KM       |    2     
+  19  |          Indore Junction Bg            |        INDB        |     17:35     |     Ends      |       -       |      1141 KM       |    2     

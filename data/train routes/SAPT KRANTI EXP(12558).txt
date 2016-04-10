@@ -1,0 +1,17 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Anand Vihar Trm             |        ANVT        |     Start     |     14:50     |       -       |        0 KM        |    1     
+  2   |               Moradabad                |         MB         |     17:35     |     17:45     |     10:00     |       154 KM       |    1     
+  3   |              Lucknow Nr                |        LKO         |     22:40     |     22:50     |     10:00     |       480 KM       |    1     
+  4   |          Gorakhpur Junction            |        GKP         |     03:50     |     04:05     |     15:00     |       750 KM       |    2     
+  5   |          Kaptanganj Junction           |        CPJ         |     04:41     |     04:43     |     2:00      |       789 KM       |    2     
+  6   |              Siswa Bazar               |        SBZ         |     05:00     |     05:02     |     2:00      |       815 KM       |    2     
+  7   |                Bagaha                  |        BUG         |     05:58     |     06:00     |     2:00      |       859 KM       |    2     
+  8   |               Harinagar                |        HIR         |     06:22     |     06:24     |     2:00      |       885 KM       |    2     
+  9   |         Narkatiaganj Junction          |        NKE         |     06:45     |     06:50     |     5:00      |       900 KM       |    2     
+  10  |                Bettiah                 |        BTH         |     07:25     |     07:27     |     2:00      |       937 KM       |    2     
+  11  |           Sagauli Junction             |        SGL         |     07:45     |     07:47     |     2:00      |       959 KM       |    2     
+  12  |            Bapudm Motihari             |        BMKI        |     08:15     |     08:20     |     5:00      |       980 KM       |    2     
+  13  |                Chakia                  |        CAA         |     08:48     |     08:50     |     2:00      |      1012 KM       |    2     
+  14  |                 Mehsi                  |        MAI         |     09:00     |     09:02     |     2:00      |      1020 KM       |    2     
+  15  |                Motipur                 |        MTR         |     09:18     |     09:20     |     2:00      |      1033 KM       |    2     
+  16  |         Muzaffarpur Junction           |        MFP         |     10:25     |     Ends      |       -       |      1060 KM       |    2     

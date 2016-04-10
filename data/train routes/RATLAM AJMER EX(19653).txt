@@ -1,0 +1,21 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Ratlam Junction             |        RTM         |     Start     |     06:40     |       -       |        0 KM        |    1     
+  2   |                 Namli                  |        NLI         |     06:54     |     06:56     |     2:00      |       13 KM        |    1     
+  3   |                 Jaora                  |        JAO         |     07:13     |     07:15     |     2:00      |       34 KM        |    1     
+  4   |                Dhodhar                 |        DOD         |     07:28     |     07:30     |     2:00      |       50 KM        |    1     
+  5   |                Dalauda                 |        DLD         |     07:42     |     07:44     |     2:00      |       70 KM        |    1     
+  6   |               Mandasor                 |        MDS         |     07:55     |     07:57     |     2:00      |       84 KM        |    1     
+  7   |                Piplia                  |        PIP         |     08:11     |     08:13     |     2:00      |       100 KM       |    1     
+  8   |              Malhargarh                |        MLG         |     08:23     |     08:25     |     2:00      |       108 KM       |    1     
+  9   |                Nimach                  |        NMH         |     08:45     |     08:50     |     5:00      |       133 KM       |    1     
+  10  |              Jawad Road                |        JWO         |     09:08     |     09:10     |     2:00      |       150 KM       |    1     
+  11  |               Nimbahera                |        NBH         |     09:20     |     09:22     |     2:00      |       160 KM       |    1     
+  12  |             Chittaurgarh               |        COR         |     10:00     |     10:10     |     10:00     |       189 KM       |    1     
+  13  |              Chanderiya                |        CNA         |     10:32     |     10:34     |     2:00      |       197 KM       |    1     
+  14  |                Gangrar                 |        GGR         |     10:44     |     10:46     |     2:00      |       211 KM       |    1     
+  15  |               Hamirgarh                |        HMG         |     10:58     |     11:00     |     2:00      |       225 KM       |    1     
+  16  |               Bhilwara                 |        BHL         |     11:20     |     11:25     |     5:00      |       243 KM       |    1     
+  17  |                Sareri                  |        SSR         |     11:56     |     11:58     |     2:00      |       284 KM       |    1     
+  18  |              Bijainagar                |        BJNR        |     12:17     |     12:19     |     2:00      |       310 KM       |    1     
+  19  |               Nasirabad                |        NSD         |     12:52     |     12:54     |     2:00      |       352 KM       |    1     
+  20  |            Ajmer Junction              |        AII         |     13:50     |     Ends      |       -       |       375 KM       |    1     

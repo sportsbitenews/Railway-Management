@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Delhi                  |        DLI         |     Start     |     13:10     |       -       |        0 KM        |    1     
+  2   |            Delhi Shahdara              |        DSA         |     13:24     |     13:26     |     2:00      |        7 KM        |    1     
+  3   |               Ghaziabad                |        GZB         |     13:58     |     14:00     |     2:00      |       20 KM        |    1     
+  4   |               Modinagar                |        MDNR        |     14:23     |     14:25     |     2:00      |       48 KM        |    1     
+  5   |              Meerut City               |        MTC         |     14:48     |     14:50     |     2:00      |       68 KM        |    1     
+  6   |               Khatauli                 |        KAT         |     15:23     |     15:25     |     2:00      |       101 KM       |    1     
+  7   |             Muzaffarnagar              |        MOZ         |     15:48     |     15:50     |     2:00      |       123 KM       |    1     
+  8   |              Saharanpur                |        SRE         |     16:55     |     17:10     |     15:00     |       181 KM       |    1     
+  9   |               Jagadhri                 |        JUD         |     17:36     |     17:38     |     2:00      |       211 KM       |    1     
+  10  |            Jagadhri Wshop              |        JUDW        |     17:45     |     17:47     |     2:00      |       216 KM       |    1     
+  11  |                Barara                  |        RAA         |     18:03     |     18:05     |     2:00      |       238 KM       |    1     
+  12  |         Ambala Cant Junction           |        UMB         |     19:10     |     Ends      |       -       |       262 KM       |    1     

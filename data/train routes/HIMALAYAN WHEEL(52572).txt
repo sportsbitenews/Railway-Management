@@ -1,0 +1,2 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Kurseong                 |        KGN         |     Start     |     14:00     |       -       |        0 KM        |    1     

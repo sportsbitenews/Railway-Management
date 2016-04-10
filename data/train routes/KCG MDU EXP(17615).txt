@@ -1,0 +1,24 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Kacheguda                |        KCG         |     Start     |     06:05     |       -       |        0 KM        |    1     
+  2   |              Mahbubnagar               |        MBNR        |     07:50     |     07:51     |     1:00      |       106 KM       |    1     
+  3   |                Gadwal                  |        GWD         |     09:15     |     09:16     |     1:00      |       181 KM       |    1     
+  4   |             Kurnool Town               |        KRNT        |     10:15     |     10:16     |     1:00      |       237 KM       |    1     
+  5   |                 Dhone                  |        DHNE        |     11:10     |     11:15     |     5:00      |       290 KM       |    1     
+  6   |               Anantapur                |        ATP         |     12:54     |     12:55     |     1:00      |       402 KM       |    1     
+  7   |         Dharmavaram Junction           |        DMM         |     13:55     |     13:57     |     2:00      |       436 KM       |    1     
+  8   |                Kadiri                  |        KRY         |     15:00     |     15:02     |     2:00      |       503 KM       |    1     
+  9   |           Madanapalle Road             |        MPL         |     16:08     |     16:10     |     2:00      |       580 KM       |    1     
+  10  |                 Piler                  |        PIL         |     16:53     |     16:55     |     2:00      |       622 KM       |    1     
+  11  |            Pakala Junction             |        PAK         |     18:29     |     18:30     |     1:00      |       663 KM       |    1     
+  12  |                Chittor                 |        CTO         |     19:09     |     19:10     |     1:00      |       693 KM       |    1     
+  13  |           Katpadi Junction             |        KPD         |     20:08     |     20:10     |     2:00      |       726 KM       |    1     
+  14  |                 Ambur                  |         AB         |     20:54     |     20:55     |     1:00      |       778 KM       |    1     
+  15  |              Vaniyambadi               |         VN         |     21:09     |     21:10     |     1:00      |       794 KM       |    1     
+  16  |              Jolarpettai               |        JTJ         |     21:28     |     21:30     |     2:00      |       809 KM       |    1     
+  17  |            Salem Junction              |         SA         |     23:02     |     23:05     |     3:00      |       930 KM       |    1     
+  18  |            Erode Junction              |         ED         |     00:20     |     00:30     |     10:00     |       992 KM       |    2     
+  19  |                 Karur                  |        KRR         |     01:30     |     01:35     |     5:00      |      1057 KM       |    2     
+  20  |            Tiruchchirapali             |        TPJ         |     03:35     |     03:40     |     5:00      |      1133 KM       |    2     
+  21  |           Dindigul Junction            |         DG         |     04:48     |     04:50     |     2:00      |      1228 KM       |    2     
+  22  |            Kodaikanal Road             |        KQN         |     05:14     |     05:15     |     1:00      |      1253 KM       |    2     
+  23  |           Madurai Junction             |        MDU         |     06:45     |     Ends      |       -       |      1293 KM       |    2     

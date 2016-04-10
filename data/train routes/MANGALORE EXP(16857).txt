@@ -1,0 +1,20 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Puducherry                |        PDY         |     Start     |     16:35     |       -       |        0 KM        |    1     
+  2   |          Villuparam Junction           |         VM         |     17:20     |     17:30     |     10:00     |       38 KM        |    1     
+  3   |         Vridhachalam Junction          |        VRI         |     18:30     |     18:32     |     2:00      |       93 KM        |    1     
+  4   |               Ariyalur                 |        ALU         |     19:01     |     19:02     |     1:00      |       146 KM       |    1     
+  5   |               Srirangam                |        SRGM        |     19:59     |     20:00     |     1:00      |       204 KM       |    1     
+  6   |            Tiruchchirapali             |        TPJ         |     20:40     |     20:50     |     10:00     |       216 KM       |    1     
+  7   |                 Karur                  |        KRR         |     22:12     |     22:15     |     3:00      |       291 KM       |    1     
+  8   |            Erode Junction              |         ED         |     23:40     |     23:50     |     10:00     |       357 KM       |    1     
+  9   |               Tiruppur                 |        TUP         |     00:33     |     00:35     |     2:00      |       407 KM       |    2     
+  10  |          Coimbatore Junction           |        CBE         |     01:55     |     02:00     |     5:00      |       457 KM       |    2     
+  11  |               Palakkad                 |        PGT         |     03:25     |     03:30     |     5:00      |       512 KM       |    2     
+  12  |           Shoranur Junction            |        SRR         |     04:30     |     04:40     |     10:00     |       556 KM       |    2     
+  13  |                 Tirur                  |        TIR         |     05:19     |     05:20     |     1:00      |       601 KM       |    2     
+  14  |               Kozhikode                |        CLT         |     06:25     |     06:30     |     5:00      |       642 KM       |    2     
+  15  |                 Mahe                   |        MAHE        |     07:14     |     07:15     |     1:00      |       701 KM       |    2     
+  16  |              Thalassery                |        TLY         |     07:29     |     07:30     |     1:00      |       710 KM       |    2     
+  17  |                Kannur                  |        CAN         |     08:10     |     08:15     |     5:00      |       731 KM       |    2     
+  18  |               Kasaragod                |        KGQ         |     09:44     |     09:45     |     1:00      |       817 KM       |    2     
+  19  |            Mangalore Cntl              |        MAQ         |     11:10     |     Ends      |       -       |       863 KM       |    2     

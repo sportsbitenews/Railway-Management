@@ -1,0 +1,11 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Allahabad Junction            |        ALD         |     Start     |     06:00     |       -       |        0 KM        |    1     
+  2   |                Prayag                  |        PRG         |     06:11     |     06:13     |     2:00      |        7 KM        |    1     
+  3   |          Phaphamau Junction            |        PFM         |     06:27     |     06:29     |     2:00      |       13 KM        |    1     
+  4   |            Kunda Harnamgnj             |        KHNM        |     07:04     |     07:06     |     2:00      |       56 KM        |    1     
+  5   |           Pwn Klaknder Road            |        PQN         |     07:23     |     07:25     |     2:00      |       75 KM        |    1     
+  6   |           Unchahar Junction            |        UCR         |     07:38     |     07:40     |     2:00      |       86 KM        |    1     
+  7   |              Lachhmanpur               |        LMN         |     08:03     |     08:05     |     2:00      |       103 KM       |    1     
+  8   |          Rae Bareli Junction           |        RBL         |     08:28     |     08:33     |     5:00      |       123 KM       |    1     
+  9   |              Bachhrawan                |        BCN         |     08:57     |     08:59     |     2:00      |       154 KM       |    1     
+  10  |              Lucknow Nr                |        LKO         |     10:15     |     Ends      |       -       |       201 KM       |    1     

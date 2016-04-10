@@ -1,0 +1,26 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Bhubaneswar               |        BBS         |     Start     |     12:00     |       -       |        0 KM        |    1     
+  2   |         Khurda Road Junction           |        KUR         |     12:25     |     12:30     |     5:00      |       19 KM        |    1     
+  3   |               Brahmapur                |        BAM         |     14:15     |     14:20     |     5:00      |       166 KM       |    1     
+  4   |         Vizianagram Junction           |        VZM         |     17:35     |     17:40     |     5:00      |       382 KM       |    1     
+  5   |             Vishakapatnam              |        VSKP        |     19:00     |     19:20     |     20:00     |       443 KM       |    1     
+  6   |                Duvvada                 |        DVD         |     19:50     |     19:52     |     2:00      |       461 KM       |    1     
+  7   |          Vijayawada Junction           |        BZA         |     01:25     |     01:35     |     10:00     |       793 KM       |    2     
+  8   |                Nellore                 |        NLR         |     04:47     |     04:48     |     1:00      |      1048 KM       |    2     
+  9   |            Gudur Junction              |        GDR         |     05:55     |     06:00     |     5:00      |      1086 KM       |    2     
+  10  |            Chennai Egmore              |         MS         |     08:35     |     08:55     |     20:00     |      1228 KM       |    2     
+  11  |          Villuparam Junction           |         VM         |     12:20     |     12:30     |     10:00     |      1386 KM       |    2     
+  12  |            Tirupadripulyur             |        TDPR        |     13:13     |     13:14     |     1:00      |      1429 KM       |    2     
+  13  |               Sirkazhi                 |         SY         |     14:27     |     14:28     |     1:00      |      1488 KM       |    2     
+  14  |            Mayiladuturai J             |         MV         |     14:53     |     14:55     |     2:00      |      1508 KM       |    2     
+  15  |              Kumbakonam                |        KMU         |     15:24     |     15:25     |     1:00      |      1539 KM       |    2     
+  16  |               Thanjavur                |         TJ         |     16:13     |     16:15     |     2:00      |      1578 KM       |    2     
+  17  |            Tiruchchirapali             |        TPJ         |     17:05     |     17:15     |     10:00     |      1628 KM       |    2     
+  18  |              Pudukkottai               |        PDKT        |     18:14     |     18:15     |     1:00      |      1681 KM       |    2     
+  19  |          Karaikkudi Junction           |        KKDI        |     19:15     |     19:18     |     3:00      |      1718 KM       |    2     
+  20  |            Devakottai Road             |        DKO         |     19:23     |     19:24     |     1:00      |      1723 KM       |    2     
+  21  |               Sivaganga                |        SVGA        |     20:14     |     20:15     |     1:00      |      1758 KM       |    2     
+  22  |         Manamadurai Junction           |        MNM         |     20:50     |     20:55     |     5:00      |      1779 KM       |    2     
+  23  |              Paramakkudi               |        PMK         |     21:14     |     21:15     |     1:00      |      1803 KM       |    2     
+  24  |            Ramanathapuram              |        RMD         |     21:30     |     21:32     |     2:00      |      1839 KM       |    2     
+  25  |              Rameswaram                |        RMM         |     23:55     |     Ends      |       -       |      1892 KM       |    2     

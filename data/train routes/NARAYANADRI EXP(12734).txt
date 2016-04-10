@@ -1,0 +1,24 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |         Secunderabad Junction          |         SC         |     Start     |     18:05     |       -       |        0 KM        |    1     
+  2   |               Bibinagar                |         BN         |     18:28     |     18:30     |     2:00      |       34 KM        |    1     
+  3   |              Ramannapet                |        RMNP        |     19:11     |     19:12     |     1:00      |       76 KM        |    1     
+  4   |               Chityala                 |        CTYL        |     19:22     |     19:23     |     1:00      |       85 KM        |    1     
+  5   |               Nalgonda                 |        NLDA        |     19:48     |     19:49     |     1:00      |       110 KM       |    1     
+  6   |              Miryalaguda               |        MRGA        |     20:15     |     20:16     |     1:00      |       148 KM       |    1     
+  7   |              Vishnupuram               |        VNUP        |     20:36     |     20:37     |     1:00      |       169 KM       |    1     
+  8   |               Nadikode                 |        NDKD        |     20:56     |     20:58     |     2:00      |       186 KM       |    1     
+  9   |              Piduguralla               |        PGRL        |     21:18     |     21:19     |     1:00      |       208 KM       |    1     
+  10  |             Sattenapalle               |        SAP         |     21:47     |     21:48     |     1:00      |       239 KM       |    1     
+  11  |            Guntur Junction             |        GNT         |     22:55     |     23:10     |     15:00     |       282 KM       |    1     
+  12  |            Tenali Junction             |        TEL         |     00:01     |     00:02     |     1:00      |       307 KM       |    2     
+  13  |                Bapatla                 |        BPP         |     00:34     |     00:35     |     1:00      |       349 KM       |    2     
+  14  |                Chirala                 |        CLX         |     00:47     |     00:48     |     1:00      |       364 KM       |    2     
+  15  |                Ongole                  |        OGL         |     01:32     |     01:33     |     1:00      |       414 KM       |    2     
+  16  |            Singarayakonda              |        SKM         |     01:55     |     01:56     |     1:00      |       442 KM       |    2     
+  17  |                Kavali                  |        KVZ         |     02:21     |     02:22     |     1:00      |       480 KM       |    2     
+  18  |                Nellore                 |        NLR         |     02:57     |     02:58     |     1:00      |       530 KM       |    2     
+  19  |            Gudur Junction              |        GDR         |     04:13     |     04:15     |     2:00      |       568 KM       |    2     
+  20  |              Venkatagiri               |        VKI         |     04:42     |     04:43     |     1:00      |       604 KM       |    2     
+  21  |             Sri Kalahasti              |        KHT         |     05:01     |     05:02     |     1:00      |       628 KM       |    2     
+  22  |          Renigunta Junction            |         RU         |     05:30     |     05:32     |     2:00      |       651 KM       |    2     
+  23  |               Tirupati                 |        TPTY        |     06:05     |     Ends      |       -       |       661 KM       |    2     

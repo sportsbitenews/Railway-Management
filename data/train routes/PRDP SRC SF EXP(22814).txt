@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Paradip                 |        PRDP        |     Start     |     23:55     |       -       |        0 KM        |    1     
+  2   |                Rahama                  |        RHMA        |     00:14     |     00:16     |     2:00      |       24 KM        |    2     
+  3   |             Raghunathpur               |        RCTC        |     00:38     |     00:40     |     2:00      |       52 KM        |    2     
+  4   |                Cuttack                 |        CTC         |     01:45     |     01:50     |     5:00      |       83 KM        |    2     
+  5   |             Jajpur K Road              |        JJKR        |     02:45     |     02:47     |     2:00      |       155 KM       |    2     
+  6   |            Baitarani Road              |        BTV         |     02:57     |     02:59     |     2:00      |       167 KM       |    2     
+  7   |               Bhadrakh                 |        BHC         |     03:48     |     03:50     |     2:00      |       199 KM       |    2     
+  8   |                 Soro                   |        SORO        |     04:10     |     04:11     |     1:00      |       228 KM       |    2     
+  9   |               Balasore                 |        BLS         |     04:35     |     04:37     |     2:00      |       261 KM       |    2     
+  10  |               Jaleswar                 |        JER         |     05:11     |     05:12     |     1:00      |       308 KM       |    2     
+  11  |          Kharagpur Junction            |        KGP         |     06:10     |     06:20     |     10:00     |       379 KM       |    2     
+  12  |         Santragachi Junction           |        SRC         |     08:45     |     Ends      |       -       |       487 KM       |    2     

@@ -1,0 +1,55 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Firozpur Cant              |        FZR         |     Start     |     21:40     |       -       |        0 KM        |    1     
+  2   |               Faridkot                 |        FDK         |     22:05     |     22:07     |     2:00      |       33 KM        |    1     
+  3   |              Kot Kapura                |        KKP         |     22:23     |     22:25     |     2:00      |       45 KM        |    1     
+  4   |             Gangsar Jaitu              |        GJUT        |     22:38     |     22:40     |     2:00      |       61 KM        |    1     
+  5   |                Goneana                 |        GNA         |     22:54     |     22:56     |     2:00      |       76 KM        |    1     
+  6   |           Bhatinda Junction            |        BTI         |     23:25     |     23:35     |     10:00     |       88 KM        |    1     
+  7   |                 Maur                   |        MAUR        |     00:02     |     00:04     |     2:00      |       122 KM       |    2     
+  8   |                 Mansa                  |        MSZ         |     00:18     |     00:20     |     2:00      |       141 KM       |    2     
+  9   |               Budhlada                 |        BLZ         |     00:33     |     00:35     |     2:00      |       157 KM       |    2     
+  10  |                Bareta                  |        BRZ         |     00:48     |     00:50     |     2:00      |       172 KM       |    2     
+  11  |            Jakhal Junction             |        JHL         |     01:02     |     01:04     |     2:00      |       186 KM       |    2     
+  12  |                Tohana                  |        TUN         |     01:16     |     01:18     |     2:00      |       198 KM       |    2     
+  13  |           Narwana Junction             |        NRW         |     01:38     |     01:40     |     2:00      |       224 KM       |    2     
+  14  |             Jind Junction              |        JIND        |     02:07     |     02:10     |     3:00      |       258 KM       |    2     
+  15  |            Rohtak Junction             |        ROK         |     02:58     |     03:00     |     2:00      |       315 KM       |    2     
+  16  |              Bahadurgarh               |        BGZ         |     03:30     |     03:32     |     2:00      |       355 KM       |    2     
+  17  |              Shakurbasti               |        SSB         |     04:06     |     04:08     |     2:00      |       375 KM       |    2     
+  18  |            Delhi Kishangnj             |        DKZ         |     04:21     |     04:23     |     2:00      |       382 KM       |    2     
+  19  |               New Delhi                |        NDLS        |     04:45     |     05:15     |     30:00     |       386 KM       |    2     
+  20  |               Faridabad                |        FDB         |     05:44     |     05:46     |     2:00      |       414 KM       |    2     
+  21  |              Kosi Kalan                |        KSV         |     06:57     |     06:59     |     2:00      |       486 KM       |    2     
+  22  |           Mathura Junction             |        MTJ         |     07:37     |     07:40     |     3:00      |       527 KM       |    2     
+  23  |             Raja Ki Mandi              |        RKM         |     08:16     |     08:18     |     2:00      |       577 KM       |    2     
+  24  |              Agra Cantt                |        AGC         |     08:30     |     08:35     |     5:00      |       580 KM       |    2     
+  25  |               Dhaulpur                 |        DHO         |     09:33     |     09:35     |     2:00      |       633 KM       |    2     
+  26  |                Morena                  |        MRA         |     09:58     |     10:00     |     2:00      |       660 KM       |    2     
+  27  |                Gwalior                 |        GWL         |     10:31     |     10:36     |     5:00      |       699 KM       |    2     
+  28  |                 Dabra                  |        DBA         |     11:11     |     11:13     |     2:00      |       741 KM       |    2     
+  29  |                 Datia                  |        DAA         |     11:36     |     11:38     |     2:00      |       771 KM       |    2     
+  30  |            Jhansi Junction             |        JHS         |     12:25     |     12:35     |     10:00     |       796 KM       |    2     
+  31  |                Babina                  |        BAB         |     12:58     |     13:00     |     2:00      |       821 KM       |    2     
+  32  |               Lalitpur                 |        LAR         |     13:45     |     13:47     |     2:00      |       886 KM       |    2     
+  33  |             Bina Junction              |        BINA        |     14:45     |     14:50     |     5:00      |       949 KM       |    2     
+  34  |              Ganj Basoda               |        BAQ         |     15:23     |     15:25     |     2:00      |       994 KM       |    2     
+  35  |                Vidisha                 |        BHS         |     15:52     |     15:54     |     2:00      |      1034 KM       |    2     
+  36  |           Bhopal  Junction             |        BPL         |     16:50     |     16:55     |     5:00      |      1087 KM       |    2     
+  37  |               Habibganj                |        HBJ         |     17:05     |     17:07     |     2:00      |      1093 KM       |    2     
+  38  |              Hoshangabad               |        HBD         |     18:05     |     18:07     |     2:00      |      1161 KM       |    2     
+  39  |            Itarsi Junction             |         ET         |     18:35     |     18:40     |     5:00      |      1179 KM       |    2     
+  40  |               Banapura                 |        BPF         |     19:04     |     19:06     |     2:00      |      1212 KM       |    2     
+  41  |                 Harda                  |         HD         |     19:37     |     19:39     |     2:00      |      1254 KM       |    2     
+  42  |               Khirkiya                 |        KKN         |     20:04     |     20:06     |     2:00      |      1286 KM       |    2     
+  43  |                Khandwa                 |        KNW         |     21:40     |     21:45     |     5:00      |      1362 KM       |    2     
+  44  |               Burhanpur                |        BAU         |     22:33     |     22:35     |     2:00      |      1431 KM       |    2     
+  45  |           Bhusaval Junction            |        BSL         |     23:25     |     23:35     |     10:00     |      1485 KM       |    2     
+  46  |           Jalgaon Junction             |         JL         |     23:59     |     00:01     |     2:00      |      1510 KM       |    3     
+  47  |          Chalisgaon Junction           |        CSN         |     00:59     |     01:01     |     2:00      |      1602 KM       |    3     
+  48  |            Manmad Junction             |        MMR         |     01:50     |     01:55     |     5:00      |      1669 KM       |    3     
+  49  |              Nasik Road                |         NK         |     02:48     |     02:50     |     2:00      |      1743 KM       |    3     
+  50  |                Devlali                 |        DVL         |     02:58     |     03:00     |     2:00      |      1748 KM       |    3     
+  51  |               Igatpuri                 |        IGP         |     04:28     |     04:30     |     2:00      |      1793 KM       |    3     
+  52  |            Kalyan Junction             |        KYN         |     06:20     |     06:25     |     5:00      |      1876 KM       |    3     
+  53  |                 Dadar                  |         DR         |     07:03     |     07:05     |     2:00      |      1921 KM       |    3     
+  54  |              Mumbai Cst                |        CSTM        |     07:35     |     Ends      |       -       |      1930 KM       |    3     

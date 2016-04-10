@@ -1,0 +1,9 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Raipur Junction             |         R          |     Start     |     18:40     |       -       |        0 KM        |    1     
+  2   |             Bhilai Pwr Hs              |        BPHB        |     19:13     |     19:15     |     2:00      |       28 KM        |    1     
+  3   |                 Durg                   |        DURG        |     19:40     |     20:15     |     35:00     |       37 KM        |    1     
+  4   |                Marauda                 |        MXA         |     20:30     |     20:50     |     20:00     |       49 KM        |    1     
+  5   |                Risama                  |        RSA         |     21:00     |     21:01     |     1:00      |       61 KM        |    1     
+  6   |              Gundardehi                |        GDZ         |     21:13     |     21:15     |     2:00      |       73 KM        |    1     
+  7   |                 Balod                  |        BXA         |     21:38     |     21:40     |     2:00      |       101 KM       |    1     
+  8   |             Dalli Rajhara              |        DRZ         |     22:15     |     Ends      |       -       |       126 KM       |    1     

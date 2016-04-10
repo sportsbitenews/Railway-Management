@@ -1,0 +1,29 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Mangalore Cntl              |        MAQ         |     Start     |     20:00     |       -       |        0 KM        |    1     
+  2   |               Kasaragod                |        KGQ         |     20:38     |     20:40     |     2:00      |       46 KM        |    1     
+  3   |               Kanhangad                |        KZE         |     20:58     |     21:00     |     2:00      |       69 KM        |    1     
+  4   |               Payyanur                 |        PAY         |     21:23     |     21:25     |     2:00      |       98 KM        |    1     
+  5   |                Kannur                  |        CAN         |     22:05     |     22:10     |     5:00      |       132 KM       |    1     
+  6   |              Thalassery                |        TLY         |     22:28     |     22:30     |     2:00      |       153 KM       |    1     
+  7   |               Vadakara                 |        BDJ         |     22:48     |     22:50     |     2:00      |       175 KM       |    1     
+  8   |               Kozhikode                |        CLT         |     23:35     |     23:40     |     5:00      |       221 KM       |    1     
+  9   |                 Tirur                  |        TIR         |     00:23     |     00:25     |     2:00      |       262 KM       |    2     
+  10  |           Shoranur Junction            |        SRR         |     01:25     |     01:35     |     10:00     |       307 KM       |    2     
+  11  |               Palakkad                 |        PGT         |     02:30     |     02:35     |     5:00      |       351 KM       |    2     
+  12  |          Coimbatore Junction           |        CBE         |     04:05     |     04:10     |     5:00      |       406 KM       |    2     
+  13  |               Tiruppur                 |        TUP         |     04:53     |     04:55     |     2:00      |       456 KM       |    2     
+  14  |            Erode Junction              |         ED         |     05:45     |     05:50     |     5:00      |       506 KM       |    2     
+  15  |            Salem Junction              |         SA         |     06:40     |     06:45     |     5:00      |       569 KM       |    2     
+  16  |              Jolarpettai               |        JTJ         |     08:50     |     08:55     |     5:00      |       689 KM       |    2     
+  17  |           Katpadi Junction             |        KPD         |     10:03     |     10:05     |     2:00      |       773 KM       |    2     
+  18  |          Renigunta Junction            |         RU         |     13:15     |     13:20     |     5:00      |       906 KM       |    2     
+  19  |               Razampeta                |        RJP         |     14:38     |     14:40     |     2:00      |       980 KM       |    2     
+  20  |               Cuddapah                 |         HX         |     15:20     |     15:22     |     2:00      |      1031 KM       |    2     
+  21  |              Yerraguntla               |         YA         |     15:57     |     15:58     |     1:00      |      1070 KM       |    2     
+  22  |                 Gooty                  |         GY         |     18:08     |     18:10     |     2:00      |      1187 KM       |    2     
+  23  |                 Dhone                  |        DHNE        |     21:25     |     21:30     |     5:00      |      1242 KM       |    2     
+  24  |             Kurnool Town               |        KRNT        |     22:30     |     22:32     |     2:00      |      1295 KM       |    2     
+  25  |                Gadwal                  |        GWD         |     00:01     |     00:02     |     1:00      |      1351 KM       |    3     
+  26  |              Mahbubnagar               |        MBNR        |     01:00     |     01:02     |     2:00      |      1426 KM       |    3     
+  27  |               Jadcherla                |        JCL         |     01:19     |     01:20     |     1:00      |      1444 KM       |    3     
+  28  |               Kacheguda                |        KCG         |     03:40     |     Ends      |       -       |      1532 KM       |    3     

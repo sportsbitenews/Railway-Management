@@ -1,0 +1,21 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Pathankot                |        PTK         |     Start     |     23:20     |       -       |        0 KM        |    1     
+  2   |               Mukerian                 |        MEX         |     00:04     |     00:06     |     2:00      |       44 KM        |    2     
+  3   |                Dasuya                  |        DZA         |     00:22     |     00:24     |     2:00      |       59 KM        |    2     
+  4   |              Tanda Urmar               |        TDO         |     00:38     |     00:40     |     2:00      |       75 KM        |    2     
+  5   |            Jalandhar Cant              |        JRC         |     01:30     |     01:35     |     5:00      |       117 KM       |    2     
+  6   |           Ludhiana Junction            |        LDH         |     02:45     |     02:55     |     10:00     |       169 KM       |    2     
+  7   |              Malerkotla                |        MET         |     03:30     |     03:32     |     2:00      |       214 KM       |    2     
+  8   |            Dhuri Junction              |        DUI         |     03:55     |     04:05     |     10:00     |       231 KM       |    2     
+  9   |                Sangrur                 |        SAG         |     04:18     |     04:20     |     2:00      |       247 KM       |    2     
+  10  |                 Sunam                  |        SFM         |     04:33     |     04:35     |     2:00      |       260 KM       |    2     
+  11  |              Lehra Gaga                |        LHA         |     05:05     |     05:07     |     2:00      |       281 KM       |    2     
+  12  |            Jakhal Junction             |        JHL         |     05:55     |     05:58     |     3:00      |       297 KM       |    2     
+  13  |           Narwana Junction             |        NRW         |     06:25     |     06:27     |     2:00      |       336 KM       |    2     
+  14  |             Jind Junction              |        JIND        |     07:00     |     07:05     |     5:00      |       369 KM       |    2     
+  15  |            Rohtak Junction             |        ROK         |     08:20     |     08:25     |     5:00      |       426 KM       |    2     
+  16  |              Bahadurgarh               |        BGZ         |     09:06     |     09:08     |     2:00      |       467 KM       |    2     
+  17  |                Nangloi                 |        NNO         |     09:38     |     09:40     |     2:00      |       479 KM       |    2     
+  18  |              Shakurbasti               |        SSB         |     09:53     |     09:55     |     2:00      |       486 KM       |    2     
+  19  |            Delhi Kishangnj             |        DKZ         |     10:06     |     10:08     |     2:00      |       493 KM       |    2     
+  20  |                 Delhi                  |        DLI         |     10:25     |     Ends      |       -       |       496 KM       |    2     

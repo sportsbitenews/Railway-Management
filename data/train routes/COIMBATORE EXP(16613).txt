@@ -1,0 +1,35 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Rajkot Junction             |        RJT         |     Start     |     05:10     |       -       |        0 KM        |    1     
+  2   |             Surendranagar              |        SUNR        |     07:10     |     07:12     |     2:00      |       117 KM       |    1     
+  3   |           Viramgam Junction            |         VG         |     08:29     |     08:31     |     2:00      |       182 KM       |    1     
+  4   |          Ahmedabad Junction            |        ADI         |     09:40     |     10:00     |     20:00     |       247 KM       |    1     
+  5   |            Nadiad Junction             |         ND         |     10:51     |     10:53     |     2:00      |       293 KM       |    1     
+  6   |            Anand Junction              |        ANND        |     11:08     |     11:10     |     2:00      |       311 KM       |    1     
+  7   |           Vadodara Junction            |        BRC         |     11:53     |     12:03     |     10:00     |       347 KM       |    1     
+  8   |          Ankleshwar Junction           |        AKV         |     12:58     |     13:00     |     2:00      |       426 KM       |    1     
+  9   |                 Surat                  |         ST         |     14:25     |     14:35     |     10:00     |       476 KM       |    1     
+  10  |                Valsad                  |         BL         |     15:26     |     15:28     |     2:00      |       544 KM       |    1     
+  11  |              Vasai Road                |        BSR         |     18:20     |     18:30     |     10:00     |       691 KM       |    1     
+  12  |             Bhiwandi Road              |        BIRD        |     18:53     |     18:55     |     2:00      |       718 KM       |    1     
+  13  |            Kalyan Junction             |        KYN         |     19:42     |     19:45     |     3:00      |       743 KM       |    1     
+  14  |                Karjat                  |        KJT         |     20:28     |     20:30     |     2:00      |       790 KM       |    1     
+  15  |               Lonavala                 |        LNL         |     21:18     |     21:20     |     2:00      |       818 KM       |    1     
+  16  |             Pune Junction              |        PUNE        |     22:25     |     22:30     |     5:00      |       882 KM       |    1     
+  17  |            Daund Junction              |         DD         |     23:50     |     23:55     |     5:00      |       957 KM       |    1     
+  18  |           Solapur Junction             |        SUR         |     02:50     |     03:00     |     10:00     |      1145 KM       |    2     
+  19  |               Gulbarga                 |         GR         |     04:51     |     04:53     |     2:00      |      1258 KM       |    2     
+  20  |                 Wadi                   |        WADI        |     05:55     |     06:00     |     5:00      |      1295 KM       |    2     
+  21  |                Raichur                 |         RC         |     07:18     |     07:20     |     2:00      |      1402 KM       |    2     
+  22  |                 Adoni                  |         AD         |     08:38     |     08:40     |     2:00      |      1471 KM       |    2     
+  23  |           Guntakal Junction            |        GTL         |     09:48     |     09:50     |     2:00      |      1523 KM       |    2     
+  24  |                 Gooty                  |         GY         |     10:28     |     10:30     |     2:00      |      1551 KM       |    2     
+  25  |               Anantapur                |        ATP         |     11:53     |     11:55     |     2:00      |      1609 KM       |    2     
+  26  |         Dharmavaram Junction           |        DMM         |     13:00     |     13:05     |     5:00      |      1642 KM       |    2     
+  27  |               Hindupur                 |        HUP         |     14:18     |     14:20     |     2:00      |      1721 KM       |    2     
+  28  |            Krishnarajapurm             |        KJM         |     16:20     |     16:25     |     5:00      |      1820 KM       |    2     
+  29  |              Bangarapet                |        BWT         |     18:10     |     18:30     |     20:00     |      1876 KM       |    2     
+  30  |          Tirupattur Junction           |        TPT         |     20:58     |     21:00     |     2:00      |      1962 KM       |    2     
+  31  |            Salem Junction              |         SA         |     22:32     |     22:35     |     3:00      |      2074 KM       |    2     
+  32  |            Erode Junction              |         ED         |     23:40     |     23:45     |     5:00      |      2137 KM       |    2     
+  33  |               Tiruppur                 |        TUP         |     00:28     |     00:30     |     2:00      |      2187 KM       |    3     
+  34  |          Coimbatore Junction           |        CBE         |     02:00     |     Ends      |       -       |      2237 KM       |    3     

@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Manikpur Junction            |        MKP         |     Start     |     17:05     |       -       |        0 KM        |    1     
+  2   |               Chitrakot                |        CKTD        |     17:35     |     17:37     |     2:00      |       32 KM        |    1     
+  3   |                Atarra                  |        ATE         |     18:01     |     18:03     |     2:00      |       69 KM        |    1     
+  4   |            Banda Junction              |        BNDA        |     18:40     |     18:48     |     8:00      |       101 KM       |    1     
+  5   |                Mahoba                  |        MBA         |     19:58     |     20:00     |     2:00      |       154 KM       |    1     
+  6   |               Kulpahar                 |        KLAR        |     20:28     |     20:30     |     2:00      |       176 KM       |    1     
+  7   |               Harpalpur                |        HPP         |     20:58     |     21:00     |     2:00      |       207 KM       |    1     
+  8   |              Mau Ranipur               |        MRPR        |     21:28     |     21:30     |     2:00      |       228 KM       |    1     
+  9   |            Jhansi Junction             |        JHS         |     23:10     |     23:30     |     20:00     |       292 KM       |    1     
+  10  |              Agra Cantt                |        AGC         |     02:20     |     02:25     |     5:00      |       508 KM       |    2     
+  11  |           Mathura Junction             |        MTJ         |     03:09     |     03:11     |     2:00      |       561 KM       |    2     
+  12  |             H Nizamuddin               |        NZM         |     05:25     |     Ends      |       -       |       695 KM       |    2     

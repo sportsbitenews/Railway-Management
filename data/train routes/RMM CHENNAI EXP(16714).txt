@@ -1,0 +1,21 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Rameswaram                |        RMM         |     Start     |     20:00     |       -       |        0 KM        |    1     
+  2   |               Mandapam                 |        MMM         |     20:29     |     20:30     |     1:00      |       18 KM        |    1     
+  3   |            Ramanathapuram              |        RMD         |     21:00     |     21:05     |     5:00      |       54 KM        |    1     
+  4   |              Paramakkudi               |        PMK         |     21:34     |     21:35     |     1:00      |       90 KM        |    1     
+  5   |         Manamadurai Junction           |        MNM         |     22:05     |     22:10     |     5:00      |       114 KM       |    1     
+  6   |               Sivaganga                |        SVGA        |     22:33     |     22:35     |     2:00      |       134 KM       |    1     
+  7   |            Devakottai Road             |        DKO         |     23:03     |     23:05     |     2:00      |       170 KM       |    1     
+  8   |          Karaikkudi Junction           |        KKDI        |     23:25     |     23:30     |     5:00      |       175 KM       |    1     
+  9   |              Pudukkottai               |        PDKT        |     00:13     |     00:15     |     2:00      |       212 KM       |    2     
+  10  |            Tiruchchirapali             |        TPJ         |     01:45     |     01:50     |     5:00      |       264 KM       |    2     
+  11  |               Srirangam                |        SRGM        |     02:07     |     02:08     |     1:00      |       276 KM       |    2     
+  12  |               Ariyalur                 |        ALU         |     03:01     |     03:02     |     1:00      |       334 KM       |    2     
+  13  |         Vridhachalam Junction          |        VRI         |     03:35     |     03:37     |     2:00      |       387 KM       |    2     
+  14  |          Villuparam Junction           |         VM         |     04:38     |     04:40     |     2:00      |       442 KM       |    2     
+  15  |              Tindivanam                |        TMV         |     05:13     |     05:15     |     2:00      |       479 KM       |    2     
+  16  |             Melmaruvattur              |        MLMR        |     05:38     |     05:40     |     2:00      |       509 KM       |    2     
+  17  |             Chengalpattu               |        CGL         |     06:28     |     06:30     |     2:00      |       545 KM       |    2     
+  18  |               Tambaram                 |        TBM         |     06:58     |     07:00     |     2:00      |       576 KM       |    2     
+  19  |               Mambalam                 |        MBM         |     07:18     |     07:20     |     2:00      |       593 KM       |    2     
+  20  |            Chennai Egmore              |         MS         |     08:20     |     Ends      |       -       |       600 KM       |    2     

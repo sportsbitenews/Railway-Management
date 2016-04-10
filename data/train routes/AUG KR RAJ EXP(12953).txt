@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Mumbai Central              |        BCT         |     Start     |     17:40     |       -       |        0 KM        |    1     
+  2   |                Andheri                 |        ADH         |     18:03     |     18:05     |     2:00      |       18 KM        |    1     
+  3   |               Borivali                 |        BVI         |     18:19     |     18:21     |     2:00      |       30 KM        |    1     
+  4   |                 Vapi                   |        VAPI        |     19:42     |     19:44     |     2:00      |       170 KM       |    1     
+  5   |                Valsad                  |         BL         |     20:05     |     20:07     |     2:00      |       194 KM       |    1     
+  6   |                 Surat                  |         ST         |     20:50     |     20:55     |     5:00      |       263 KM       |    1     
+  7   |           Bharuch Junction             |         BH         |     21:30     |     21:32     |     2:00      |       322 KM       |    1     
+  8   |           Vadodara Junction            |        BRC         |     22:21     |     22:31     |     10:00     |       392 KM       |    1     
+  9   |            Ratlam Junction             |        RTM         |     02:18     |     02:20     |     2:00      |       653 KM       |    2     
+  10  |            Nagda Junction              |        NAD         |     03:10     |     03:12     |     2:00      |       695 KM       |    2     
+  11  |             Kota Junction              |        KOTA        |     05:10     |     05:20     |     10:00     |       920 KM       |    2     
+  12  |            Sawai Madhopur              |        SWM         |     06:26     |     06:28     |     2:00      |      1027 KM       |    2     
+  13  |           Mathura Junction             |        MTJ         |     09:00     |     09:02     |     2:00      |      1244 KM       |    2     
+  14  |             H Nizamuddin               |        NZM         |     10:55     |     Ends      |       -       |      1377 KM       |    2     

@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Eranakulam Junction           |        ERS         |     Start     |     09:10     |       -       |        0 KM        |    1     
+  2   |                 Aluva                  |        AWY         |     09:32     |     09:34     |     2:00      |       20 KM        |    1     
+  3   |                Thrisur                 |        TCR         |     10:18     |     10:20     |     2:00      |       75 KM        |    1     
+  4   |               Palakkad                 |        PGT         |     11:40     |     11:42     |     2:00      |       152 KM       |    1     
+  5   |          Coimbatore Junction           |        CBE         |     12:47     |     12:50     |     3:00      |       206 KM       |    1     
+  6   |               Tiruppur                 |        TUP         |     13:33     |     13:35     |     2:00      |       256 KM       |    1     
+  7   |            Erode Junction              |         ED         |     14:25     |     14:35     |     10:00     |       307 KM       |    1     
+  8   |              Sankaridrug               |        SGE         |     14:59     |     15:00     |     1:00      |       328 KM       |    1     
+  9   |            Salem Junction              |         SA         |     15:37     |     15:40     |     3:00      |       369 KM       |    1     
+  10  |              Dharmapuri                |        DPJ         |     16:38     |     16:40     |     2:00      |       435 KM       |    1     
+  11  |                 Hosur                  |        HSRA        |     18:13     |     18:15     |     2:00      |       528 KM       |    1     
+  12  |              Karamelaram               |        CRLM        |     18:47     |     18:48     |     1:00      |       562 KM       |    1     
+  13  |            Bangalore Cant              |        BNC         |     19:18     |     19:20     |     2:00      |       583 KM       |    1     
+  14  |         Bangalore Cy Junction          |        SBC         |     19:50     |     Ends      |       -       |       587 KM       |    1     

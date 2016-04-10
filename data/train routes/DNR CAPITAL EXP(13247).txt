@@ -1,0 +1,45 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Guwahati                 |        GHY         |     Start     |     04:30     |       -       |        0 KM        |    1     
+  2   |               Kamakhya                 |        KYQ         |     04:45     |     05:00     |     15:00     |        7 KM        |    1     
+  3   |             Goalpara Town              |        GLPT        |     06:48     |     06:50     |     2:00      |       129 KM       |    1     
+  4   |            New Bongaigaon              |        NBQ         |     08:20     |     08:25     |     5:00      |       209 KM       |    1     
+  5   |         Alipur Duar Junction           |        APDJ        |     09:55     |     10:05     |     10:00     |       318 KM       |    1     
+  6   |               Hasimara                 |        HSA         |     10:40     |     10:42     |     2:00      |       353 KM       |    1     
+  7   |                Dalgaon                 |        DLO         |     11:09     |     11:10     |     1:00      |       378 KM       |    1     
+  8   |               Binnaguri                |        BNV         |     11:21     |     11:22     |     1:00      |       387 KM       |    1     
+  9   |           New Mal Junction             |        NMZ         |     12:03     |     12:05     |     2:00      |       431 KM       |    1     
+  10  |           Siliguri Junction            |        SGUJ        |     13:45     |     13:50     |     5:00      |       479 KM       |    1     
+  11  |            New Jalpaiguri              |        NJP         |     14:20     |     14:40     |     20:00     |       486 KM       |    1     
+  12  |              Kishanganj                |        KNE         |     15:40     |     15:45     |     5:00      |       573 KM       |    1     
+  13  |               Dalkolha                 |        DLK         |     16:09     |     16:10     |     1:00      |       602 KM       |    1     
+  14  |                 Telta                  |        TETA        |     16:20     |     16:21     |     1:00      |       610 KM       |    1     
+  15  |                Sudhani                 |        SUD         |     16:32     |     16:33     |     1:00      |       619 KM       |    1     
+  16  |            Barsoi Junction             |        BOE         |     16:45     |     16:47     |     2:00      |       631 KM       |    1     
+  17  |            Azamnagar Road              |        AZR         |     17:01     |     17:02     |     1:00      |       644 KM       |    1     
+  18  |                Khurial                 |        KWE         |     17:11     |     17:12     |     1:00      |       651 KM       |    1     
+  19  |                 Labha                  |        LAV         |     17:51     |     17:52     |     1:00      |       664 KM       |    1     
+  20  |           Katihar Junction             |        KIR         |     19:10     |     19:30     |     20:00     |       687 KM       |    1     
+  21  |                Semapur                 |        SMO         |     19:44     |     19:45     |     1:00      |       698 KM       |    1     
+  22  |             Karagola Road              |        CRR         |     19:55     |     19:56     |     1:00      |       709 KM       |    1     
+  23  |                Kursela                 |        KUE         |     20:09     |     20:10     |     1:00      |       726 KM       |    1     
+  24  |               Katareah                 |        KTRH        |     20:24     |     20:25     |     1:00      |       733 KM       |    1     
+  25  |               Naugachia                |        NNA         |     20:35     |     20:36     |     1:00      |       744 KM       |    1     
+  26  |         Thana Bihpur Junction          |        THB         |     20:55     |     20:56     |     1:00      |       760 KM       |    1     
+  27  |              Narayanpur                |        NNR         |     21:07     |     21:08     |     1:00      |       767 KM       |    1     
+  28  |              Mahes Khunt               |        MSK         |     21:41     |     21:42     |     1:00      |       791 KM       |    1     
+  29  |            Mansi Junction              |        MNE         |     21:58     |     21:59     |     1:00      |       802 KM       |    1     
+  30  |           Khagaria Junction            |        KGG         |     22:13     |     22:14     |     1:00      |       811 KM       |    1     
+  31  |               Lakhminia                |        LKN         |     22:30     |     22:31     |     1:00      |       833 KM       |    1     
+  32  |              Begu Sarai                |        BGS         |     22:50     |     22:51     |     1:00      |       851 KM       |    1     
+  33  |           Barauni Junction             |        BJU         |     23:50     |     00:35     |     45:00     |       866 KM       |    2     
+  35  |           Mokameh Junction             |        MKA         |     01:59     |     02:02     |     3:00      |       887 KM       |    2     
+  36  |                 Barh                   |        BARH        |     02:20     |     02:21     |     1:00      |       913 KM       |    2     
+  37  |         Bakhtiyarpur Junction          |        BKP         |     02:37     |     02:39     |     2:00      |       931 KM       |    2     
+  38  |               Khusropur                |        KOO         |     02:50     |     02:51     |     1:00      |       946 KM       |    2     
+  39  |                 Fatwa                  |        FUT         |     03:00     |     03:01     |     1:00      |       955 KM       |    2     
+  40  |              Banka Ghat                |        BKG         |     03:08     |     03:09     |     1:00      |       960 KM       |    2     
+  41  |              Patna Saheb               |        PNC         |     03:16     |     03:17     |     1:00      |       967 KM       |    2     
+  42  |            Rjndr Ngr Bihar             |        RJPB        |     03:29     |     03:31     |     2:00      |       974 KM       |    2     
+  43  |            Patna Junction              |        PNBE        |     04:00     |     04:10     |     10:00     |       976 KM       |    2     
+  44  |            Phulwari Sharif             |        PWS         |     04:21     |     04:22     |     1:00      |       983 KM       |    2     
+  45  |                Danapur                 |        DNR         |     04:58     |     Ends      |       -       |       986 KM       |    2     

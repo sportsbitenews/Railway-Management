@@ -1,0 +1,23 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Kolkata                 |        KOAA        |     Start     |     14:30     |       -       |        0 KM        |    1     
+  2   |           Naihati Junction             |         NH         |     15:22     |     15:24     |     2:00      |       34 KM        |    1     
+  3   |            Bandel Junction             |        BDC         |     15:45     |     15:47     |     2:00      |       43 KM        |    1     
+  4   |          Barddhaman Junction           |        BWN         |     16:50     |     16:52     |     2:00      |       110 KM       |    1     
+  5   |               Durgapur                 |        DGR         |     17:41     |     17:43     |     2:00      |       174 KM       |    1     
+  6   |           Asansol Junction             |        ASN         |     18:17     |     18:22     |     5:00      |       216 KM       |    1     
+  7   |             Chittaranjan               |        CRJ         |     18:46     |     18:47     |     1:00      |       241 KM       |    1     
+  8   |           Madhupur Junction            |        MDP         |     19:26     |     19:29     |     3:00      |       297 KM       |    1     
+  9   |           Jasidih Junction             |        JSME        |     19:54     |     19:58     |     4:00      |       326 KM       |    1     
+  10  |                Jhajha                  |        JAJ         |     21:05     |     21:10     |     5:00      |       370 KM       |    1     
+  11  |           Barauni Junction             |        BJU         |     23:15     |     23:35     |     20:00     |       463 KM       |    1     
+  12  |          Samastipur Junction           |        SPJ         |     00:25     |     00:30     |     5:00      |       514 KM       |    2     
+  13  |         Muzaffarpur Junction           |        MFP         |     01:25     |     01:30     |     5:00      |       566 KM       |    2     
+  14  |                Chakia                  |        CAA         |     02:09     |     02:10     |     1:00      |       614 KM       |    2     
+  15  |            Bapudm Motihari             |        BMKI        |     02:40     |     02:45     |     5:00      |       645 KM       |    2     
+  16  |           Sagauli Junction             |        SGL         |     03:02     |     03:04     |     2:00      |       667 KM       |    2     
+  17  |                Bettiah                 |        BTH         |     03:25     |     03:26     |     1:00      |       688 KM       |    2     
+  18  |         Narkatiaganj Junction          |        NKE         |     04:00     |     04:05     |     5:00      |       725 KM       |    2     
+  19  |                Bagaha                  |        BUG         |     04:43     |     04:48     |     5:00      |       767 KM       |    2     
+  20  |              Siswa Bazar               |        SBZ         |     06:21     |     06:22     |     1:00      |       810 KM       |    2     
+  21  |          Kaptanganj Junction           |        CPJ         |     06:50     |     06:55     |     5:00      |       836 KM       |    2     
+  22  |          Gorakhpur Junction            |        GKP         |     08:10     |     Ends      |       -       |       875 KM       |    2     

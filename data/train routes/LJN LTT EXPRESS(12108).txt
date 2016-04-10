@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Lucknow Ne                |        LJN         |     Start     |     22:45     |       -       |        0 KM        |    1     
+  2   |            Kanpur Central              |        CNB         |     00:15     |     00:20     |     5:00      |       74 KM        |    2     
+  3   |                 Orai                   |        ORAI        |     01:41     |     01:43     |     2:00      |       180 KM       |    2     
+  4   |            Jhansi Junction             |        JHS         |     03:35     |     03:45     |     10:00     |       294 KM       |    2     
+  5   |               Lalitpur                 |        LAR         |     04:48     |     04:50     |     2:00      |       384 KM       |    2     
+  6   |           Bhopal  Junction             |        BPL         |     08:10     |     08:20     |     10:00     |       585 KM       |    2     
+  7   |           Bhusaval Junction            |        BSL         |     14:40     |     14:50     |     10:00     |       983 KM       |    2     
+  8   |              Nasik Road                |         NK         |     18:23     |     18:25     |     2:00      |      1240 KM       |    2     
+  9   |            Kalyan Junction             |        KYN         |     21:32     |     21:35     |     3:00      |      1374 KM       |    2     
+  10  |                 Thane                  |        TNA         |     21:53     |     21:55     |     2:00      |      1395 KM       |    2     
+  11  |            Lokmanyatilak T             |        LTT         |     22:35     |     Ends      |       -       |      1412 KM       |    2     

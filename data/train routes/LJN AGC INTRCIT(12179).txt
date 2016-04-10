@@ -1,0 +1,14 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Lucknow Ne                |        LJN         |     Start     |     15:55     |       -       |        0 KM        |    1     
+  2   |            Unnao Junction              |         ON         |     16:48     |     16:50     |     2:00      |       57 KM        |    1     
+  3   |            Kanpur Central              |        CNB         |     17:25     |     17:30     |     5:00      |       74 KM        |    1     
+  4   |                 Panki                  |        PNK         |     17:46     |     17:48     |     2:00      |       84 KM        |    1     
+  5   |                 Rura                   |        RURA        |     18:12     |     18:14     |     2:00      |       117 KM       |    1     
+  6   |               Jhinjhak                 |        JJK         |     18:30     |     18:31     |     1:00      |       136 KM       |    1     
+  7   |               Phaphund                 |        PHD         |     18:46     |     18:48     |     2:00      |       156 KM       |    1     
+  8   |                Etawah                  |        ETW         |     19:26     |     19:28     |     2:00      |       212 KM       |    1     
+  9   |          Shikohabad Junction           |        SKB         |     20:03     |     20:05     |     2:00      |       268 KM       |    1     
+  10  |               Firozabad                |        FZD         |     20:19     |     20:21     |     2:00      |       288 KM       |    1     
+  11  |            Tundla Junction             |        TDL         |     20:48     |     20:50     |     2:00      |       304 KM       |    1     
+  12  |             Raja Ki Mandi              |        RKM         |     21:34     |     21:36     |     2:00      |       328 KM       |    1     
+  13  |              Agra Cantt                |        AGC         |     21:55     |     Ends      |       -       |       332 KM       |    1     

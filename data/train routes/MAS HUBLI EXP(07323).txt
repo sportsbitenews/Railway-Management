@@ -1,0 +1,19 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Chennai Central             |        MAS         |     Start     |     13:45     |       -       |        0 KM        |    1     
+  2   |               Arakkonam                |        AJJ         |     15:00     |     15:05     |     5:00      |       69 KM        |    1     
+  3   |          Renigunta Junction            |         RU         |     16:15     |     16:30     |     15:00     |       141 KM       |    1     
+  4   |                Koduru                  |        KOU         |     17:15     |     17:17     |     2:00      |       182 KM       |    1     
+  5   |               Razampeta                |        RJP         |     17:50     |     17:52     |     2:00      |       216 KM       |    1     
+  6   |               Nandalur                 |        NRE         |     18:10     |     18:12     |     2:00      |       227 KM       |    1     
+  7   |               Cuddapah                 |         HX         |     18:54     |     18:56     |     2:00      |       266 KM       |    1     
+  8   |              Yerraguntla               |         YA         |     19:15     |     19:17     |     2:00      |       305 KM       |    1     
+  9   |               Muddanuru                |        MOO         |     19:30     |     19:32     |     2:00      |       322 KM       |    1     
+  10  |               Tadipatri                |         TU         |     20:25     |     20:27     |     2:00      |       375 KM       |    1     
+  11  |                 Gooty                  |         GY         |     22:08     |     22:10     |     2:00      |       423 KM       |    1     
+  12  |           Guntakal Junction            |        GTL         |     22:45     |     22:50     |     5:00      |       451 KM       |    1     
+  13  |           Bellary Junction             |        BAY         |     00:50     |     00:55     |     5:00      |       501 KM       |    2     
+  14  |              Toranagallu               |        TNGL        |     01:30     |     01:32     |     2:00      |       534 KM       |    2     
+  15  |            Hospet Junction             |        HPT         |     02:15     |     02:20     |     5:00      |       567 KM       |    2     
+  16  |                Koppal                  |        KBL         |     03:04     |     03:06     |     2:00      |       594 KM       |    2     
+  17  |            Gadag Junction              |        GDG         |     04:08     |     04:10     |     2:00      |       652 KM       |    2     
+  18  |            Hubli Junction              |        UBL         |     05:25     |     Ends      |       -       |       710 KM       |    2     

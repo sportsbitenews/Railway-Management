@@ -1,0 +1,28 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Kannur                  |        CAN         |     Start     |     05:00     |       -       |        0 KM        |    1     
+  2   |              Thalassery                |        TLY         |     05:18     |     05:20     |     2:00      |       21 KM        |    1     
+  3   |                 Mahe                   |        MAHE        |     05:28     |     05:30     |     2:00      |       31 KM        |    1     
+  4   |               Vadakara                 |        BDJ         |     05:38     |     05:40     |     2:00      |       43 KM        |    1     
+  5   |               Quilandi                 |        QLD         |     05:58     |     06:00     |     2:00      |       65 KM        |    1     
+  6   |               Kozhikode                |        CLT         |     06:25     |     06:30     |     5:00      |       90 KM        |    1     
+  7   |                 Ferok                  |         FK         |     06:48     |     06:50     |     2:00      |       99 KM        |    1     
+  8   |              Vallikunnu                |        VLI         |     07:01     |     07:02     |     1:00      |       110 KM       |    1     
+  9   |             Parpanangadi               |        PGI         |     07:08     |     07:10     |     2:00      |       115 KM       |    1     
+  10  |                 Tanur                  |         TA         |     07:18     |     07:20     |     2:00      |       123 KM       |    1     
+  11  |                 Tirur                  |        TIR         |     07:28     |     07:30     |     2:00      |       131 KM       |    1     
+  12  |              Tirunnavaya               |        TUA         |     07:38     |     07:40     |     2:00      |       139 KM       |    1     
+  13  |              Kuttippuram               |        KTU         |     07:48     |     07:50     |     2:00      |       146 KM       |    1     
+  14  |               Pattambi                 |        PTB         |     08:13     |     08:15     |     2:00      |       164 KM       |    1     
+  15  |           Shoranur Junction            |        SRR         |     08:40     |     08:45     |     5:00      |       176 KM       |    1     
+  16  |             Wadakancheri               |        WKI         |     09:13     |     09:15     |     2:00      |       192 KM       |    1     
+  17  |                Thrisur                 |        TCR         |     09:35     |     09:37     |     2:00      |       208 KM       |    1     
+  18  |                Pudukad                 |        PUK         |     09:55     |     09:57     |     2:00      |       222 KM       |    1     
+  19  |             Irinjalakuda               |        IJK         |     10:00     |     10:03     |     3:00      |       232 KM       |    1     
+  20  |               Chalakudi                |        CKI         |     10:11     |     10:13     |     2:00      |       239 KM       |    1     
+  21  |               Angamali                 |        AFK         |     10:25     |     10:27     |     2:00      |       254 KM       |    1     
+  22  |                 Aluva                  |        AWY         |     10:36     |     10:38     |     2:00      |       263 KM       |    1     
+  23  |            Ernakulam Town              |        ERN         |     11:00     |     11:02     |     2:00      |       280 KM       |    1     
+  24  |          Eranakulam Junction           |        ERS         |     11:30     |     11:35     |     5:00      |       283 KM       |    1     
+  25  |                Turavur                 |        TUVR        |     12:03     |     12:05     |     2:00      |       305 KM       |    1     
+  26  |               Shertalai                |        SRTL        |     12:13     |     12:15     |     2:00      |       316 KM       |    1     
+  27  |               Alleppey                 |        ALLP        |     13:05     |     Ends      |       -       |       339 KM       |    1     

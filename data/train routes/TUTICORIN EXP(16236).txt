@@ -1,0 +1,34 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Mysore Junction             |        MYS         |     Start     |     17:45     |       -       |        0 KM        |    1     
+  2   |              Pandavapura               |        PANP        |     18:04     |     18:05     |     1:00      |       19 KM        |    1     
+  3   |                Mandya                  |        MYA         |     18:23     |     18:25     |     2:00      |       45 KM        |    1     
+  4   |                Maddur                  |        MAD         |     18:44     |     18:45     |     1:00      |       64 KM        |    1     
+  5   |              Channapatna               |        CPT         |     19:04     |     19:05     |     1:00      |       83 KM        |    1     
+  6   |              Ramanagaram               |        RMGM        |     19:19     |     19:20     |     1:00      |       94 KM        |    1     
+  7   |                Kengeri                 |        KGI         |     20:04     |     20:05     |     1:00      |       126 KM       |    1     
+  8   |         Bangalore Cy Junction          |        SBC         |     21:00     |     21:15     |     15:00     |       139 KM       |    1     
+  9   |            Bangalore Cant              |        BNC         |     21:25     |     21:27     |     2:00      |       143 KM       |    1     
+  10  |              Karamelaram               |        CRLM        |     21:55     |     21:56     |     1:00      |       163 KM       |    1     
+  11  |                 Hosur                  |        HSRA        |     22:23     |     22:25     |     2:00      |       198 KM       |    1     
+  12  |               Palakkodu                |        PCV         |     23:34     |     23:35     |     1:00      |       269 KM       |    1     
+  13  |              Dharmapuri                |        DPJ         |     23:53     |     23:55     |     2:00      |       290 KM       |    1     
+  14  |            Salem Junction              |         SA         |     02:02     |     02:05     |     3:00      |       357 KM       |    2     
+  15  |            Erode Junction              |         ED         |     03:15     |     03:25     |     10:00     |       419 KM       |    2     
+  16  |               Kodumudi                 |        KMD         |     03:58     |     04:00     |     2:00      |       457 KM       |    2     
+  17  |                Pugalur                 |        PGR         |     04:13     |     04:15     |     2:00      |       470 KM       |    2     
+  18  |                 Karur                  |        KRR         |     04:52     |     04:55     |     3:00      |       485 KM       |    2     
+  19  |           Dindigul Junction            |         DG         |     06:10     |     06:15     |     5:00      |       558 KM       |    2     
+  20  |            Kodaikanal Road             |        KQN         |     06:33     |     06:35     |     2:00      |       584 KM       |    2     
+  21  |              Sholavandan               |        SDN         |     06:48     |     06:50     |     2:00      |       603 KM       |    2     
+  22  |           Madurai Junction             |        MDU         |     07:20     |     07:25     |     5:00      |       624 KM       |    2     
+  23  |            Tiruparankndrm              |        TDN         |     07:35     |     07:36     |     1:00      |       631 KM       |    2     
+  24  |             Tirumangalam               |        TMQ         |     07:45     |     07:46     |     1:00      |       642 KM       |    2     
+  25  |         Virudunagar Junction           |        VPT         |     08:05     |     08:07     |     2:00      |       668 KM       |    2     
+  26  |                 Satur                  |        SRT         |     08:29     |     08:30     |     1:00      |       694 KM       |    2     
+  27  |              Kovilpatti                |        CVP         |     08:51     |     08:52     |     1:00      |       716 KM       |    2     
+  28  |               Kadambur                 |        KDU         |     09:29     |     09:30     |     1:00      |       738 KM       |    2     
+  29  |         Maniyachchi Junction           |        MEJ         |     09:57     |     10:00     |     3:00      |       752 KM       |    2     
+  30  |             Kailasapuram               |        KLPM        |     10:09     |     10:10     |     1:00      |       764 KM       |    2     
+  31  |              Milavittan                |        MVN         |     10:24     |     10:25     |     1:00      |       776 KM       |    2     
+  32  |              Tuti Melur                |        TME         |     10:34     |     10:35     |     1:00      |       782 KM       |    2     
+  33  |               Tuticorin                |         TN         |     11:15     |     Ends      |       -       |       783 KM       |    2     

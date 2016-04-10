@@ -1,0 +1,14 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Solapur Junction             |        SUR         |     Start     |     19:20     |       -       |        0 KM        |    1     
+  2   |               Gulbarga                 |         GR         |     20:55     |     21:05     |     10:00     |       113 KM       |    1     
+  3   |               Shahabad                 |        SDB         |     21:29     |     21:30     |     1:00      |       140 KM       |    1     
+  4   |                 Wadi                   |        WADI        |     21:55     |     22:00     |     5:00      |       150 KM       |    1     
+  5   |                Yadgir                  |         YG         |     22:28     |     22:30     |     2:00      |       189 KM       |    1     
+  6   |                Raichur                 |         RC         |     23:23     |     23:25     |     2:00      |       258 KM       |    1     
+  7   |           Manthralayam Road            |        MALM        |     23:48     |     23:50     |     2:00      |       286 KM       |    1     
+  8   |                 Adoni                  |         AD         |     00:28     |     00:30     |     2:00      |       327 KM       |    2     
+  9   |           Guntakal Junction            |        GTL         |     01:30     |     01:35     |     5:00      |       379 KM       |    2     
+  10  |               Anantapur                |        ATP         |     03:03     |     03:05     |     2:00      |       446 KM       |    2     
+  11  |         Dharmavaram Junction           |        DMM         |     04:00     |     04:05     |     5:00      |       480 KM       |    2     
+  12  |           Yelhanka Junction            |        YNK         |     06:36     |     06:38     |     2:00      |       642 KM       |    2     
+  13  |          Yesvantpur Junction           |        YPR         |     07:10     |     Ends      |       -       |       654 KM       |    2     

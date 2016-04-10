@@ -1,0 +1,17 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Lokmanyatilak T             |        LTT         |     Start     |     00:15     |       -       |        0 KM        |    1     
+  2   |            Manmad Junction             |        MMR         |     04:25     |     04:30     |     5:00      |       245 KM       |    1     
+  3   |           Bhusaval Junction            |        BSL         |     06:40     |     06:50     |     10:00     |       429 KM       |    1     
+  4   |            Wardha Junction             |         WR         |     11:52     |     11:55     |     3:00      |       743 KM       |    1     
+  5   |                Nagpur                  |        NGP         |     13:40     |     14:00     |     20:00     |       821 KM       |    1     
+  6   |            Raipur Junction             |         R          |     18:25     |     18:35     |     10:00     |      1122 KM       |    1     
+  7   |           Bilaspur Junction            |        BSP         |     20:20     |     20:35     |     15:00     |      1232 KM       |    1     
+  8   |                Raigarh                 |        RIG         |     22:16     |     22:18     |     2:00      |      1365 KM       |    1     
+  9   |          Jharsuguda Junction           |        JSG         |     23:30     |     23:50     |     20:00     |      1438 KM       |    1     
+  10  |               Sambalpur                |        SBP         |     00:45     |     01:10     |     25:00     |      1487 KM       |    2     
+  11  |                 Angul                  |        ANGL        |     04:20     |     04:22     |     2:00      |      1643 KM       |    2     
+  12  |             Talcher Road               |        TLHD        |     04:35     |     04:37     |     2:00      |      1655 KM       |    2     
+  13  |                Cuttack                 |        CTC         |     06:20     |     06:25     |     5:00      |      1761 KM       |    2     
+  14  |              Bhubaneswar               |        BBS         |     07:10     |     07:15     |     5:00      |      1788 KM       |    2     
+  15  |         Khurda Road Junction           |        KUR         |     07:50     |     07:55     |     5:00      |      1807 KM       |    2     
+  16  |                 Puri                   |        PURI        |     08:55     |     Ends      |       -       |      1851 KM       |    2     

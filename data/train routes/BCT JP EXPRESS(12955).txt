@@ -1,0 +1,20 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Mumbai Central              |        BCT         |     Start     |     18:50     |       -       |        0 KM        |    1     
+  2   |               Borivali                 |        BVI         |     19:31     |     19:33     |     2:00      |       30 KM        |    1     
+  3   |                 Surat                  |         ST         |     22:40     |     22:45     |     5:00      |       263 KM       |    1     
+  4   |          Ankleshwar Junction           |        AKV         |     23:21     |     23:23     |     2:00      |       312 KM       |    1     
+  5   |           Vadodara Junction            |        BRC         |     00:29     |     00:39     |     10:00     |       392 KM       |    2     
+  6   |                 Dahod                  |        DHD         |     02:37     |     02:39     |     2:00      |       540 KM       |    2     
+  7   |               Meghnagar                |        MGN         |     03:01     |     03:03     |     2:00      |       573 KM       |    2     
+  8   |            Ratlam Junction             |        RTM         |     04:30     |     04:40     |     10:00     |       653 KM       |    2     
+  9   |            Nagda Junction              |        NAD         |     05:36     |     05:38     |     2:00      |       695 KM       |    2     
+  10  |            Vikramgarh Alot             |        VMA         |     06:04     |     06:06     |     2:00      |       734 KM       |    2     
+  11  |              Chau Mahla                |        CMU         |     06:24     |     06:26     |     2:00      |       757 KM       |    2     
+  12  |                Suwasra                 |        SVA         |     06:40     |     06:42     |     2:00      |       772 KM       |    2     
+  13  |               Shamgarh                 |        SGZ         |     06:54     |     06:56     |     2:00      |       786 KM       |    2     
+  14  |             Bhawani Mandi              |        BWM         |     07:18     |     07:20     |     2:00      |       819 KM       |    2     
+  15  |             Ramganj Mandi              |        RMA         |     07:40     |     07:42     |     2:00      |       847 KM       |    2     
+  16  |             Kota Junction              |        KOTA        |     08:45     |     08:55     |     10:00     |       920 KM       |    2     
+  17  |            Sawai Madhopur              |        SWM         |     10:30     |     10:40     |     10:00     |      1027 KM       |    2     
+  18  |               Durgapura                |        DPA         |     12:19     |     12:20     |     1:00      |      1151 KM       |    2     
+  19  |                Jaipur                  |         JP         |     12:40     |     Ends      |       -       |      1159 KM       |    2     

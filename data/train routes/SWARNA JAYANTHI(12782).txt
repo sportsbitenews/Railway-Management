@@ -1,0 +1,33 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             H Nizamuddin               |        NZM         |     Start     |     05:55     |       -       |        0 KM        |    1     
+  2   |           Mathura Junction             |        MTJ         |     07:56     |     08:01     |     5:00      |       134 KM       |    1     
+  3   |             Raja Ki Mandi              |        RKM         |     08:36     |     08:38     |     2:00      |       184 KM       |    1     
+  4   |              Agra Cantt                |        AGC         |     08:50     |     08:55     |     5:00      |       188 KM       |    1     
+  5   |                Gwalior                 |        GWL         |     10:59     |     11:04     |     5:00      |       306 KM       |    1     
+  6   |            Jhansi Junction             |        JHS         |     12:35     |     12:45     |     10:00     |       403 KM       |    1     
+  7   |             Bina Junction              |        BINA        |     15:00     |     15:05     |     5:00      |       556 KM       |    1     
+  8   |           Bhopal  Junction             |        BPL         |     17:05     |     17:10     |     5:00      |       694 KM       |    1     
+  9   |            Itarsi Junction             |         ET         |     18:50     |     18:55     |     5:00      |       786 KM       |    1     
+  10  |                Khandwa                 |        KNW         |     21:55     |     22:00     |     5:00      |       969 KM       |    1     
+  11  |           Bhusaval Junction            |        BSL         |     23:45     |     23:55     |     10:00     |      1093 KM       |    1     
+  12  |            Manmad Junction             |        MMR         |     02:10     |     02:15     |     5:00      |      1277 KM       |    2     
+  13  |               Kopargaon                |        KPG         |     03:48     |     03:50     |     2:00      |      1318 KM       |    2     
+  14  |                Belapur                 |        BAP         |     04:33     |     04:35     |     2:00      |      1363 KM       |    2     
+  15  |              Ahmadnagar                |        ANG         |     05:32     |     05:35     |     3:00      |      1429 KM       |    2     
+  16  |            Daund Junction              |         DD         |     07:40     |     07:55     |     15:00     |      1513 KM       |    2     
+  17  |             Pune Junction              |        PUNE        |     09:15     |     09:30     |     15:00     |      1589 KM       |    2     
+  18  |                Satara                  |        STR         |     12:05     |     12:08     |     3:00      |      1734 KM       |    2     
+  19  |                 Karad                  |        KRD         |     13:06     |     13:08     |     2:00      |      1793 KM       |    2     
+  20  |                Sangli                  |        SLI         |     14:15     |     14:18     |     3:00      |      1861 KM       |    2     
+  21  |            Miraj Junction              |        MRJ         |     14:55     |     15:00     |     5:00      |      1868 KM       |    2     
+  22  |                Belgaum                 |        BGM         |     17:08     |     17:10     |     2:00      |      2005 KM       |    2     
+  23  |                Dharwar                 |        DWR         |     19:18     |     19:20     |     2:00      |      2127 KM       |    2     
+  24  |            Hubli Junction              |        UBL         |     20:15     |     20:25     |     10:00     |      2147 KM       |    2     
+  25  |                Haveri                  |        HVR         |     21:28     |     21:30     |     2:00      |      2222 KM       |    2     
+  26  |              Ranibennur                |        RNR         |     22:05     |     22:07     |     2:00      |      2254 KM       |    2     
+  27  |                Harihar                 |        HRR         |     22:33     |     22:35     |     2:00      |      2277 KM       |    2     
+  28  |               Davangere                |        DVG         |     22:50     |     22:53     |     3:00      |      2290 KM       |    2     
+  29  |            Birur Junction              |        RRB         |     00:38     |     00:40     |     2:00      |      2405 KM       |    3     
+  30  |           Arsikere Junction            |        ASK         |     01:30     |     01:35     |     5:00      |      2450 KM       |    3     
+  31  |                Hassan                  |        HAS         |     02:33     |     02:35     |     2:00      |      2497 KM       |    3     
+  32  |            Mysore Junction             |        MYS         |     04:55     |     Ends      |       -       |      2617 KM       |    3     

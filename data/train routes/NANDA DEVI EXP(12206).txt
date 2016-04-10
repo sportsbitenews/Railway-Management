@@ -1,0 +1,8 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Dehradun                 |        DDN         |     Start     |     23:30     |       -       |        0 KM        |    1     
+  2   |           Haridwar Junction            |         HW         |     00:47     |     00:52     |     5:00      |       52 KM        |    2     
+  3   |                Roorkee                 |         RK         |     01:36     |     01:38     |     2:00      |       93 KM        |    2     
+  4   |             Muzaffarnagar              |        MOZ         |     02:50     |     02:52     |     2:00      |       177 KM       |    2     
+  5   |              Meerut City               |        MTC         |     03:34     |     03:37     |     3:00      |       232 KM       |    2     
+  6   |               Ghaziabad                |        GZB         |     04:33     |     04:35     |     2:00      |       280 KM       |    2     
+  7   |               New Delhi                |        NDLS        |     05:20     |     Ends      |       -       |       305 KM       |    2     

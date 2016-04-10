@@ -1,0 +1,60 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Trivandrum Cntl             |        TVC         |     Start     |     15:35     |       -       |        0 KM        |    1     
+  2   |            Kollam Junction             |        QLN         |     16:25     |     16:30     |     5:00      |       65 KM        |    1     
+  3   |              Mavelikara                |        MVLK        |     17:13     |     17:15     |     2:00      |       114 KM       |    1     
+  4   |              Chengannur                |        CNGR        |     17:20     |     17:22     |     2:00      |       126 KM       |    1     
+  5   |               Tiruvalla                |        TRVL        |     17:30     |     17:32     |     2:00      |       135 KM       |    1     
+  6   |               Kottayam                 |        KTYM        |     18:22     |     18:25     |     3:00      |       161 KM       |    1     
+  7   |            Ernakulam Town              |        ERN         |     20:00     |     20:05     |     5:00      |       223 KM       |    1     
+  8   |                 Aluva                  |        AWY         |     20:23     |     20:25     |     2:00      |       240 KM       |    1     
+  9   |                Thrisur                 |        TCR         |     21:17     |     21:20     |     3:00      |       295 KM       |    1     
+  10  |           Shoranur Junction            |        SRR         |     22:20     |     22:30     |     10:00     |       327 KM       |    1     
+  11  |               Pattambi                 |        PTB         |     22:43     |     22:45     |     2:00      |       339 KM       |    1     
+  12  |              Kuttippuram               |        KTU         |     23:03     |     23:05     |     2:00      |       357 KM       |    1     
+  13  |                 Tirur                  |        TIR         |     23:23     |     23:25     |     2:00      |       372 KM       |    1     
+  14  |             Parpanangadi               |        PGI         |     23:38     |     23:40     |     2:00      |       388 KM       |    1     
+  15  |                 Ferok                  |         FK         |     23:53     |     23:55     |     2:00      |       404 KM       |    1     
+  16  |               Kozhikode                |        CLT         |     00:15     |     00:20     |     5:00      |       413 KM       |    2     
+  17  |               Quilandi                 |        QLD         |     00:38     |     00:40     |     2:00      |       438 KM       |    2     
+  18  |               Vadakara                 |        BDJ         |     00:53     |     00:55     |     2:00      |       460 KM       |    2     
+  19  |              Thalassery                |        TLY         |     01:13     |     01:15     |     2:00      |       482 KM       |    2     
+  20  |                Kannur                  |        CAN         |     01:50     |     01:55     |     5:00      |       502 KM       |    2     
+  21  |              Kannapuram                |        KPQ         |     02:08     |     02:10     |     2:00      |       517 KM       |    2     
+  22  |               Payyanur                 |        PAY         |     02:28     |     02:30     |     2:00      |       536 KM       |    2     
+  23  |               Kanhangad                |        KZE         |     02:58     |     03:00     |     2:00      |       565 KM       |    2     
+  24  |               Kasaragod                |        KGQ         |     03:18     |     03:20     |     2:00      |       588 KM       |    2     
+  25  |          Mangalore Junction            |        MAJN        |     04:35     |     04:45     |     10:00     |       639 KM       |    2     
+  26  |               Padubidri                |        PDD         |     06:00     |     06:02     |     2:00      |       698 KM       |    2     
+  27  |                 Udupi                  |         UD         |     06:20     |     06:22     |     2:00      |       721 KM       |    2     
+  28  |               Kundapura                |        KUDA        |     06:48     |     06:50     |     2:00      |       765 KM       |    2     
+  29  |                Byndoor                 |        BYNR        |     07:16     |     07:18     |     2:00      |       812 KM       |    2     
+  30  |                Ankola                  |        ANKL        |     08:48     |     08:50     |     2:00      |       949 KM       |    2     
+  31  |                Karwar                  |        KAWR        |     09:28     |     09:30     |     2:00      |       988 KM       |    2     
+  32  |                Madgaon                 |        MAO         |     11:20     |     11:30     |     10:00     |      1070 KM       |    2     
+  33  |                Karmali                 |        KRMI        |     12:00     |     12:02     |     2:00      |      1110 KM       |    2     
+  34  |                 Kudal                  |        KUDL        |     13:08     |     13:10     |     2:00      |      1209 KM       |    2     
+  35  |               Ratnagiri                |         RN         |     16:10     |     16:15     |     5:00      |      1404 KM       |    2     
+  36  |                 Khed                   |        KHED        |     17:46     |     17:48     |     2:00      |      1552 KM       |    2     
+  37  |                Panvel                  |        PNVL        |     21:20     |     21:25     |     5:00      |      1767 KM       |    2     
+  38  |             Bhiwandi Road              |        BIRD        |     22:23     |     22:25     |     2:00      |      1807 KM       |    2     
+  39  |              Vasai Road                |        BSR         |     23:10     |     23:20     |     10:00     |      1834 KM       |    2     
+  40  |                Boisar                  |        BOR         |     00:06     |     00:08     |     2:00      |      1885 KM       |    3     
+  41  |                 Vapi                   |        VAPI        |     01:00     |     01:02     |     2:00      |      1956 KM       |    3     
+  42  |                Valsad                  |         BL         |     01:46     |     01:48     |     2:00      |      1980 KM       |    3     
+  43  |                Navsari                 |        NVS         |     02:21     |     02:23     |     2:00      |      2019 KM       |    3     
+  44  |                 Surat                  |         ST         |     03:10     |     03:22     |     12:00     |      2049 KM       |    3     
+  45  |          Ankleshwar Junction           |        AKV         |     04:05     |     04:07     |     2:00      |      2098 KM       |    3     
+  46  |           Vadodara Junction            |        BRC         |     05:12     |     05:22     |     10:00     |      2178 KM       |    3     
+  47  |            Anand Junction              |        ANND        |     05:51     |     05:53     |     2:00      |      2214 KM       |    3     
+  48  |               Maninagar                |        MAN         |     06:56     |     06:58     |     2:00      |      2274 KM       |    3     
+  49  |          Ahmedabad Junction            |        ADI         |     07:15     |     07:35     |     20:00     |      2278 KM       |    3     
+  50  |           Viramgam Junction            |         VG         |     08:39     |     08:41     |     2:00      |      2343 KM       |    3     
+  51  |             Surendranagar              |        SUNR        |     09:42     |     09:44     |     2:00      |      2408 KM       |    3     
+  52  |           Wankaner Junction            |        WKR         |     10:43     |     10:45     |     2:00      |      2483 KM       |    3     
+  53  |            Rajkot Junction             |        RJT         |     11:42     |     11:57     |     15:00     |      2524 KM       |    3     
+  54  |             Bhakti Nagar               |        BKNG        |     12:55     |     12:56     |     1:00      |      2530 KM       |    3     
+  55  |                Gondal                  |        GDL         |     13:38     |     13:39     |     1:00      |      2565 KM       |    3     
+  56  |               Navagadh                 |        NUD         |     14:25     |     14:26     |     1:00      |      2596 KM       |    3     
+  57  |           Junagadh Junction            |        JND         |     15:15     |     15:17     |     2:00      |      2627 KM       |    3     
+  58  |                Keshod                  |        KSD         |     15:52     |     15:53     |     1:00      |      2663 KM       |    3     
+  59  |                Veraval                 |        VRL         |     16:55     |     Ends      |       -       |      2709 KM       |    3     

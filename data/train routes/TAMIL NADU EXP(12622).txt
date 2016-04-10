@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               New Delhi                |        NDLS        |     Start     |     22:30     |       -       |        0 KM        |    1     
+  2   |              Agra Cantt                |        AGC         |     01:00     |     01:03     |     3:00      |       195 KM       |    2     
+  3   |                Gwalior                 |        GWL         |     02:32     |     02:35     |     3:00      |       313 KM       |    2     
+  4   |            Jhansi Junction             |        JHS         |     04:00     |     04:12     |     12:00     |       410 KM       |    2     
+  5   |           Bhopal  Junction             |        BPL         |     07:50     |     08:00     |     10:00     |       701 KM       |    2     
+  6   |            Itarsi Junction             |         ET         |     09:40     |     09:45     |     5:00      |       793 KM       |    2     
+  7   |                Nagpur                  |        NGP         |     14:15     |     14:30     |     15:00     |      1090 KM       |    2     
+  8   |              Balharshah                |        BPQ         |     17:25     |     17:35     |     10:00     |      1301 KM       |    2     
+  9   |               Warangal                 |         WL         |     20:48     |     20:50     |     2:00      |      1544 KM       |    2     
+  10  |          Vijayawada Junction           |        BZA         |     00:15     |     00:25     |     10:00     |      1752 KM       |    3     
+  11  |            Chennai Central             |        MAS         |     07:10     |     Ends      |       -       |      2182 KM       |    3     

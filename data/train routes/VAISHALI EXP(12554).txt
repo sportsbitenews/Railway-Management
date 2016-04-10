@@ -1,0 +1,22 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               New Delhi                |        NDLS        |     Start     |     19:50     |       -       |        0 KM        |    1     
+  2   |               Ghaziabad                |        GZB         |     20:30     |     20:32     |     2:00      |       26 KM        |    1     
+  3   |           Aligarh Junction             |        ALJN        |     21:54     |     21:59     |     5:00      |       132 KM       |    1     
+  4   |            Tundla Junction             |        TDL         |     23:05     |     23:10     |     5:00      |       210 KM       |    1     
+  5   |                Etawah                  |        ETW         |     00:08     |     00:10     |     2:00      |       302 KM       |    2     
+  6   |            Kanpur Central              |        CNB         |     02:20     |     02:25     |     5:00      |       440 KM       |    2     
+  7   |              Lucknow Ne                |        LJN         |     03:45     |     04:05     |     20:00     |       513 KM       |    2     
+  8   |          Barabanki Junction            |        BBK         |     04:55     |     04:57     |     2:00      |       550 KM       |    2     
+  9   |            Gonda Junction              |         GD         |     06:20     |     06:25     |     5:00      |       638 KM       |    2     
+  10  |                 Basti                  |        BST         |     07:35     |     07:40     |     5:00      |       727 KM       |    2     
+  11  |              Khalilabad                |        KLD         |     08:03     |     08:05     |     2:00      |       757 KM       |    2     
+  12  |          Gorakhpur Junction            |        GKP         |     09:00     |     09:15     |     15:00     |       792 KM       |    2     
+  13  |             Deoria Sadar               |        DEOS        |     09:53     |     09:55     |     2:00      |       841 KM       |    2     
+  14  |            Siwan Junction              |         SV         |     11:00     |     11:05     |     5:00      |       911 KM       |    2     
+  15  |                Chhapra                 |        CPR         |     12:20     |     12:25     |     5:00      |       972 KM       |    2     
+  16  |            Sonpur Junction             |        SEE         |     13:25     |     13:30     |     5:00      |      1025 KM       |    2     
+  17  |           Hajipur Junction             |        HJP         |     13:43     |     13:45     |     2:00      |      1031 KM       |    2     
+  18  |         Muzaffarpur Junction           |        MFP         |     14:48     |     14:53     |     5:00      |      1085 KM       |    2     
+  19  |          Samastipur Junction           |        SPJ         |     15:55     |     16:00     |     5:00      |      1136 KM       |    2     
+  20  |            Dalsingh Sarai              |        DSS         |     16:20     |     16:22     |     2:00      |      1160 KM       |    2     
+  21  |           Barauni Junction             |        BJU         |     17:15     |     Ends      |       -       |      1187 KM       |    2     

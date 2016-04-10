@@ -1,0 +1,10 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Dadar                  |         DR         |     Start     |     05:25     |       -       |        0 KM        |    1     
+  2   |                 Thane                  |        TNA         |     05:47     |     05:50     |     3:00      |       25 KM        |    1     
+  3   |                Panvel                  |        PNVL        |     06:36     |     06:38     |     2:00      |       60 KM        |    1     
+  4   |                Chiplun                 |        CHI         |     09:26     |     09:28     |     2:00      |       316 KM       |    1     
+  5   |               Ratnagiri                |         RN         |     10:40     |     10:45     |     5:00      |       422 KM       |    1     
+  6   |               Kankavali                |        KKW         |     11:56     |     11:58     |     2:00      |       578 KM       |    1     
+  7   |                 Kudal                  |        KUDL        |     12:20     |     12:22     |     2:00      |       617 KM       |    1     
+  8   |                Thivim                  |        THVM        |     13:02     |     13:04     |     2:00      |       692 KM       |    1     
+  9   |                Madgaon                 |        MAO         |     14:05     |     Ends      |       -       |       757 KM       |    1     

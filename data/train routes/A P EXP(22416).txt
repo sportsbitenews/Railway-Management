@@ -1,0 +1,22 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               New Delhi                |        NDLS        |     Start     |     06:40     |       -       |        0 KM        |    1     
+  2   |              Agra Cantt                |        AGC         |     09:15     |     09:20     |     5:00      |       195 KM       |    1     
+  3   |                Gwalior                 |        GWL         |     11:17     |     11:22     |     5:00      |       313 KM       |    1     
+  4   |            Jhansi Junction             |        JHS         |     12:50     |     13:00     |     10:00     |       410 KM       |    1     
+  5   |           Bhopal  Junction             |        BPL         |     17:25     |     17:35     |     10:00     |       701 KM       |    1     
+  6   |                Nagpur                  |        NGP         |     00:30     |     00:40     |     10:00     |      1090 KM       |    2     
+  7   |              Chandrapur                |         CD         |     03:22     |     03:24     |     2:00      |      1287 KM       |    2     
+  8   |              Balharshah                |        BPQ         |     04:55     |     05:05     |     10:00     |      1301 KM       |    2     
+  9   |            Sirpur Kagazngr             |        SKZR        |     05:44     |     05:46     |     2:00      |      1371 KM       |    2     
+  10  |               Ramgundam                |        RDM         |     06:39     |     06:41     |     2:00      |      1443 KM       |    2     
+  11  |              Peddapalli                |        PDPL        |     06:52     |     06:54     |     2:00      |      1460 KM       |    2     
+  12  |               Warangal                 |         WL         |     08:00     |     08:02     |     2:00      |      1544 KM       |    2     
+  13  |                Khammam                 |        KMT         |     09:44     |     09:46     |     2:00      |      1651 KM       |    2     
+  14  |          Vijayawada Junction           |        BZA         |     12:10     |     12:30     |     20:00     |      1752 KM       |    2     
+  15  |                 Eluru                  |         EE         |     13:30     |     13:32     |     2:00      |      1812 KM       |    2     
+  16  |            Tadepalligudem              |        TDD         |     14:12     |     14:14     |     2:00      |      1859 KM       |    2     
+  17  |              Rajamundry                |        RJY         |     15:00     |     15:02     |     2:00      |      1902 KM       |    2     
+  18  |           Samalkot Junction            |        SLO         |     15:48     |     15:50     |     2:00      |      1952 KM       |    2     
+  19  |              Anakapalle                |        AKP         |     17:48     |     17:50     |     2:00      |      2069 KM       |    2     
+  20  |                Duvvada                 |        DVD         |     18:13     |     18:15     |     2:00      |      2085 KM       |    2     
+  21  |             Vishakapatnam              |        VSKP        |     18:45     |     Ends      |       -       |      2103 KM       |    2     

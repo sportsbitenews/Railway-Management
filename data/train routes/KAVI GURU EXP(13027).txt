@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Howrah Junction             |        HWH         |     Start     |     22:40     |       -       |        0 KM        |    1     
+  2   |            Bandel Junction             |        BDC         |     23:28     |     23:30     |     2:00      |       40 KM        |    1     
+  3   |          Barddhaman Junction           |        BWN         |     00:40     |     00:42     |     2:00      |       107 KM       |    2     
+  4   |            Bolpur S Niktn              |        BHP         |     01:30     |     01:32     |     2:00      |       159 KM       |    2     
+  5   |           Ahmadpur Junction            |        AMP         |     01:49     |     01:50     |     1:00      |       178 KM       |    2     
+  6   |               Sainthia                 |        SNT         |     02:04     |     02:06     |     2:00      |       191 KM       |    2     
+  7   |              Rampur Hat                |        RPH         |     02:40     |     02:42     |     2:00      |       219 KM       |    2     
+  8   |           Nalhati Junction             |        NHT         |     03:01     |     03:03     |     2:00      |       233 KM       |    2     
+  9   |                Morgram                 |        MGAE        |     03:26     |     03:27     |     1:00      |       252 KM       |    2     
+  10  |              Sagardighi                |        SDI         |     03:40     |     03:41     |     1:00      |       260 KM       |    2     
+  11  |           Azimganj Junction            |         AZ         |     04:20     |     Ends      |       -       |       278 KM       |    2     

@@ -1,0 +1,28 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Indore Junction Bg            |        INDB        |     Start     |     06:00     |       -       |        0 KM        |    1     
+  2   |                 Dewas                  |        DWX         |     06:39     |     06:41     |     2:00      |       39 KM        |    1     
+  3   |            Ujjain Junction             |        UJN         |     07:35     |     07:45     |     10:00     |       80 KM        |    1     
+  4   |            Nagda Junction              |        NAD         |     09:00     |     09:25     |     25:00     |       135 KM       |    1     
+  5   |            Vikramgarh Alot             |        VMA         |     09:51     |     09:53     |     2:00      |       174 KM       |    1     
+  6   |              Chau Mahla                |        CMU         |     10:10     |     10:12     |     2:00      |       197 KM       |    1     
+  7   |                Suwasra                 |        SVA         |     10:25     |     10:27     |     2:00      |       212 KM       |    1     
+  8   |               Shamgarh                 |        SGZ         |     10:33     |     10:35     |     2:00      |       226 KM       |    1     
+  9   |             Bhawani Mandi              |        BWM         |     11:00     |     11:02     |     2:00      |       259 KM       |    1     
+  10  |             Ramganj Mandi              |        RMA         |     11:22     |     11:24     |     2:00      |       287 KM       |    1     
+  11  |            Dakaniya Talav              |        DKNT        |     12:10     |     12:12     |     2:00      |       350 KM       |    1     
+  12  |             Kota Junction              |        KOTA        |     12:25     |     12:35     |     10:00     |       360 KM       |    1     
+  13  |                Lakheri                 |        LKE         |     13:13     |     13:15     |     2:00      |       420 KM       |    1     
+  14  |               Indargarh                |        IDG         |     13:25     |     13:27     |     2:00      |       431 KM       |    1     
+  15  |            Sawai Madhopur              |        SWM         |     14:25     |     14:35     |     10:00     |       467 KM       |    1     
+  16  |            Chauth Ka Brwra             |        CKB         |     14:55     |     14:57     |     2:00      |       489 KM       |    1     
+  17  |                Isarda                  |        ISA         |     15:09     |     15:11     |     2:00      |       507 KM       |    1     
+  18  |            Bansthali Niwai             |        BNLW        |     15:33     |     15:35     |     2:00      |       533 KM       |    1     
+  19  |               Durgapura                |        DPA         |     16:14     |     16:16     |     2:00      |       591 KM       |    1     
+  20  |                Jaipur                  |         JP         |     16:45     |     17:00     |     15:00     |       599 KM       |    1     
+  21  |               Nawa City                |        NAC         |     18:17     |     18:19     |     2:00      |       689 KM       |    1     
+  22  |           Makrana Junction             |        MKN         |     18:43     |     18:45     |     2:00      |       718 KM       |    1     
+  23  |            Degana Junction             |        DNA         |     19:20     |     19:22     |     2:00      |       762 KM       |    1     
+  24  |          Merta Road Junction           |        MTD         |     20:15     |     20:18     |     3:00      |       807 KM       |    1     
+  25  |                 Gotan                  |        GOTN        |     20:33     |     20:35     |     2:00      |       827 KM       |    1     
+  26  |              Raika Bagh                |        RKB         |     21:51     |     21:53     |     2:00      |       909 KM       |    1     
+  27  |           Jodhpur Junction             |         JU         |     22:15     |     Ends      |       -       |       911 KM       |    1     

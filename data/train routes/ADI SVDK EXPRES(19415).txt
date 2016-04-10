@@ -1,0 +1,31 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Ahmedabad Junction            |        ADI         |     Start     |     19:10     |       -       |        0 KM        |    1     
+  2   |          Sabarmati Junction            |        SBI         |     19:27     |     19:29     |     2:00      |       26 KM        |    1     
+  3   |           Mahesana Junction            |        MSH         |     20:25     |     20:27     |     2:00      |       89 KM        |    1     
+  4   |           Palanpur Junction            |        PNU         |     21:58     |     22:20     |     22:00     |       154 KM       |    1     
+  5   |               Abu Road                 |        ABR         |     23:05     |     23:15     |     10:00     |       207 KM       |    1     
+  6   |                 Falna                  |         FA         |     00:53     |     00:55     |     2:00      |       305 KM       |    2     
+  7   |                 Rani                   |        RANI        |     01:10     |     01:12     |     2:00      |       320 KM       |    2     
+  8   |            Marwar Junction             |         MJ         |     02:13     |     02:15     |     2:00      |       372 KM       |    2     
+  9   |                Beawar                  |        BER         |     03:39     |     03:41     |     2:00      |       459 KM       |    2     
+  10  |            Ajmer Junction              |        AII         |     05:15     |     05:25     |     10:00     |       512 KM       |    2     
+  11  |              Kishangarh                |        KSG         |     05:56     |     05:58     |     2:00      |       541 KM       |    2     
+  12  |           Phulera Junction             |         FL         |     06:37     |     06:39     |     2:00      |       592 KM       |    2     
+  13  |                Jaipur                  |         JP         |     07:35     |     07:45     |     10:00     |       646 KM       |    2     
+  14  |            Gandhinagar Jpr             |        GADJ        |     07:53     |     07:55     |     2:00      |       652 KM       |    2     
+  15  |                 Dausa                  |         DO         |     08:35     |     08:37     |     2:00      |       708 KM       |    2     
+  16  |           Bandikui Junction            |        BKI         |     09:10     |     09:25     |     15:00     |       737 KM       |    2     
+  17  |                 Alwar                  |        AWR         |     10:17     |     10:20     |     3:00      |       797 KM       |    2     
+  18  |               Khairthal                |        KRH         |     10:37     |     10:39     |     2:00      |       824 KM       |    2     
+  19  |                Rewari                  |         RE         |     11:50     |     11:55     |     5:00      |       871 KM       |    2     
+  20  |                Bhiwani                 |        BNW         |     13:05     |     13:10     |     5:00      |       954 KM       |    2     
+  21  |                 Hisar                  |        HSR         |     14:00     |     14:10     |     10:00     |      1014 KM       |    2     
+  22  |                 Sirsa                  |        SSA         |     15:35     |     15:40     |     5:00      |      1095 KM       |    2     
+  23  |           Bhatinda Junction            |        BTI         |     17:15     |     17:25     |     10:00     |      1171 KM       |    2     
+  24  |             Firozpur Cant              |        FZR         |     18:45     |     19:10     |     25:00     |      1258 KM       |    2     
+  25  |            Jalandhar City              |        JUC         |     21:45     |     22:10     |     25:00     |      1376 KM       |    2     
+  26  |                 Beas                   |        BEAS        |     22:43     |     22:45     |     2:00      |      1412 KM       |    2     
+  27  |           Amritsar Junction            |        ASR         |     23:40     |     00:05     |     25:00     |      1454 KM       |    3     
+  28  |               Pathankot                |        PTK         |     02:15     |     02:40     |     25:00     |      1561 KM       |    3     
+  29  |              Jammu Tawi                |        JAT         |     04:55     |     05:05     |     10:00     |      1661 KM       |    3     
+  30  |               Udhampur                 |        UHP         |     06:05     |     06:07     |     2:00      |      1714 KM       |    3     

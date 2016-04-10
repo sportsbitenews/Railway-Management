@@ -1,0 +1,71 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Kanyakumari               |        CAPE        |     Start     |     14:10     |       -       |        0 KM        |    1     
+  2   |          Nagercoil Junction            |        NCJ         |     14:30     |     14:35     |     5:00      |       16 KM        |    1     
+  3   |              Kulitthurai               |        KZT         |     15:14     |     15:15     |     1:00      |       49 KM        |    1     
+  4   |            Trivandrum Cntl             |        TVC         |     15:55     |     16:00     |     5:00      |       87 KM        |    1     
+  5   |            Kollam Junction             |        QLN         |     17:00     |     17:05     |     5:00      |       152 KM       |    1     
+  6   |          Kayankulam Junction           |        KYJ         |     17:34     |     17:36     |     2:00      |       192 KM       |    1     
+  7   |              Chengannur                |        CNGR        |     17:56     |     17:58     |     2:00      |       213 KM       |    1     
+  8   |               Tiruvalla                |        TRVL        |     18:06     |     18:08     |     2:00      |       222 KM       |    1     
+  9   |               Kottayam                 |        KTYM        |     18:52     |     18:55     |     3:00      |       247 KM       |    1     
+  10  |            Ernakulam Town              |        ERN         |     20:35     |     20:40     |     5:00      |       310 KM       |    1     
+  11  |                 Aluva                  |        AWY         |     21:00     |     21:02     |     2:00      |       326 KM       |    1     
+  12  |                Thrisur                 |        TCR         |     22:03     |     22:05     |     2:00      |       381 KM       |    1     
+  13  |              Ottappalam                |        OTP         |     23:18     |     23:20     |     2:00      |       427 KM       |    1     
+  14  |               Palakkad                 |        PGT         |     23:52     |     23:55     |     3:00      |       458 KM       |    1     
+  15  |          Coimbatore Junction           |        CBE         |     01:20     |     01:25     |     5:00      |       513 KM       |    2     
+  16  |               Tiruppur                 |        TUP         |     02:08     |     02:10     |     2:00      |       563 KM       |    2     
+  17  |            Erode Junction              |         ED         |     03:20     |     03:30     |     10:00     |       613 KM       |    2     
+  18  |            Salem Junction              |         SA         |     04:25     |     04:30     |     5:00      |       676 KM       |    2     
+  19  |              Jolarpettai               |        JTJ         |     06:08     |     06:10     |     2:00      |       796 KM       |    2     
+  20  |           Katpadi Junction             |        KPD         |     07:23     |     07:25     |     2:00      |       879 KM       |    2     
+  21  |                Chittor                 |        CTO         |     08:07     |     08:08     |     1:00      |       912 KM       |    2     
+  22  |               Tirupati                 |        TPTY        |     09:33     |     09:35     |     2:00      |       984 KM       |    2     
+  23  |          Renigunta Junction            |         RU         |     09:50     |     10:00     |     10:00     |       994 KM       |    2     
+  24  |            Gudur Junction              |        GDR         |     11:38     |     11:40     |     2:00      |      1077 KM       |    2     
+  25  |                Nellore                 |        NLR         |     12:05     |     12:06     |     1:00      |      1115 KM       |    2     
+  26  |                Ongole                  |        OGL         |     13:44     |     13:45     |     1:00      |      1231 KM       |    2     
+  27  |            Tenali Junction             |        TEL         |     15:04     |     15:06     |     2:00      |      1338 KM       |    2     
+  28  |          Vijayawada Junction           |        BZA         |     16:10     |     16:25     |     15:00     |      1370 KM       |    2     
+  29  |                Khammam                 |        KMT         |     17:30     |     17:32     |     2:00      |      1471 KM       |    2     
+  30  |               Warangal                 |         WL         |     19:40     |     19:45     |     5:00      |      1578 KM       |    2     
+  31  |               Ramgundam                |        RDM         |     21:04     |     21:06     |     2:00      |      1679 KM       |    2     
+  32  |              Balharshah                |        BPQ         |     23:30     |     23:40     |     10:00     |      1820 KM       |    2     
+  33  |              Chandrapur                |         CD         |     23:55     |     23:57     |     2:00      |      1834 KM       |    2     
+  34  |               Sevagram                 |        SEGM        |     01:35     |     01:36     |     1:00      |      1955 KM       |    3     
+  35  |                Nagpur                  |        NGP         |     02:45     |     02:55     |     10:00     |      2032 KM       |    3     
+  36  |            Itarsi Junction             |         ET         |     07:25     |     07:30     |     5:00      |      2329 KM       |    3     
+  37  |           Bhopal  Junction             |        BPL         |     09:15     |     09:20     |     5:00      |      2420 KM       |    3     
+  38  |            Jhansi Junction             |        JHS         |     13:55     |     14:05     |     10:00     |      2711 KM       |    3     
+  39  |                Gwalior                 |        GWL         |     15:28     |     15:30     |     2:00      |      2808 KM       |    3     
+  40  |               Dhaulpur                 |        DHO         |     16:40     |     16:42     |     2:00      |      2874 KM       |    3     
+  41  |              Agra Cantt                |        AGC         |     17:25     |     17:30     |     5:00      |      2927 KM       |    3     
+  42  |               Faridabad                |        FDB         |     20:00     |     20:01     |     1:00      |      3093 KM       |    3     
+  43  |             H Nizamuddin               |        NZM         |     20:40     |     21:10     |     30:00     |      3114 KM       |    3     
+  44  |               New Delhi                |        NDLS        |     21:40     |     00:10     |    150:00     |      3121 KM       |    4     
+  45  |              Shakurbasti               |        SSB         |     00:43     |     00:44     |     1:00      |      3133 KM       |    4     
+  46  |              Bahadurgarh               |        BGZ         |     01:01     |     01:02     |     1:00      |      3152 KM       |    4     
+  47  |            Rohtak Junction             |        ROK         |     01:37     |     01:42     |     5:00      |      3192 KM       |    4     
+  48  |             Jind Junction              |        JIND        |     02:35     |     02:40     |     5:00      |      3249 KM       |    4     
+  49  |           Narwana Junction             |        NRW         |     03:06     |     03:07     |     1:00      |      3283 KM       |    4     
+  50  |                Tohana                  |        TUN         |     03:28     |     03:29     |     1:00      |      3309 KM       |    4     
+  51  |            Jakhal Junction             |        JHL         |     04:00     |     04:05     |     5:00      |      3321 KM       |    4     
+  52  |              Lehra Gaga                |        LHA         |     04:22     |     04:24     |     2:00      |      3338 KM       |    4     
+  53  |                 Sunam                  |        SFM         |     04:42     |     04:44     |     2:00      |      3359 KM       |    4     
+  54  |                Sangrur                 |        SAG         |     04:56     |     04:58     |     2:00      |      3372 KM       |    4     
+  55  |            Dhuri Junction              |        DUI         |     05:30     |     05:35     |     5:00      |      3388 KM       |    4     
+  56  |              Malerkotla                |        MET         |     05:48     |     05:50     |     2:00      |      3405 KM       |    4     
+  57  |               Ahmadgarh                |        AHH         |     06:08     |     06:10     |     2:00      |      3424 KM       |    4     
+  58  |              Kila Raipur               |        QRP         |     06:28     |     06:30     |     2:00      |      3432 KM       |    4     
+  59  |           Ludhiana Junction            |        LDH         |     07:00     |     07:10     |     10:00     |      3450 KM       |    4     
+  60  |           Phillaur Junction            |        PHR         |     07:23     |     07:25     |     2:00      |      3463 KM       |    4     
+  61  |           Phagwara Junction            |        PGW         |     07:46     |     07:48     |     2:00      |      3485 KM       |    4     
+  62  |            Jalandhar Cant              |        JRC         |     08:10     |     08:15     |     5:00      |      3502 KM       |    4     
+  63  |              Tanda Urmar               |        TDO         |     08:50     |     08:52     |     2:00      |      3544 KM       |    4     
+  64  |                Dasuya                  |        DZA         |     09:06     |     09:08     |     2:00      |      3560 KM       |    4     
+  65  |               Mukerian                 |        MEX         |     09:24     |     09:26     |     2:00      |      3575 KM       |    4     
+  66  |            Pathankot Cantt             |        PTKC        |     10:13     |     10:18     |     5:00      |      3615 KM       |    4     
+  67  |                Kathua                  |        KTHU        |     10:48     |     10:50     |     2:00      |      3638 KM       |    4     
+  68  |                 Samba                  |        SMBX        |     11:29     |     11:31     |     2:00      |      3682 KM       |    4     
+  69  |              Jammu Tawi                |        JAT         |     13:00     |     13:10     |     10:00     |      3714 KM       |    4     
+  70  |               Udhampur                 |        UHP         |     14:08     |     14:10     |     2:00      |      3767 KM       |    4     

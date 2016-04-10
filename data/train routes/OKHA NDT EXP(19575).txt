@@ -1,0 +1,21 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Okha                   |        OKHA        |     Start     |     07:15     |       -       |        0 KM        |    1     
+  2   |                Dwarka                  |        DWK         |     08:01     |     08:03     |     2:00      |       29 KM        |    1     
+  3   |              Khambhaliya               |        KMBL        |     09:16     |     09:18     |     2:00      |       114 KM       |    1     
+  4   |               Jamnagar                 |        JAM         |     10:10     |     10:12     |     2:00      |       168 KM       |    1     
+  5   |                 Hapa                   |        HAPA        |     10:32     |     10:34     |     2:00      |       177 KM       |    1     
+  6   |            Rajkot Junction             |        RJT         |     12:05     |     12:15     |     10:00     |       253 KM       |    1     
+  7   |           Wankaner Junction            |        WKR         |     13:09     |     13:11     |     2:00      |       294 KM       |    1     
+  8   |             Surendranagar              |        SUNR        |     14:33     |     14:35     |     2:00      |       369 KM       |    1     
+  9   |          Ahmedabad Junction            |        ADI         |     16:55     |     17:15     |     20:00     |       499 KM       |    1     
+  10  |            Nadiad Junction             |         ND         |     18:01     |     18:03     |     2:00      |       545 KM       |    1     
+  11  |            Anand Junction              |        ANND        |     18:18     |     18:20     |     2:00      |       563 KM       |    1     
+  12  |           Vadodara Junction            |        BRC         |     19:07     |     19:35     |     28:00     |       599 KM       |    1     
+  13  |            Godhra Junction             |        GDA         |     20:45     |     20:47     |     2:00      |       673 KM       |    1     
+  14  |                 Dahod                  |        DHD         |     21:52     |     21:54     |     2:00      |       747 KM       |    1     
+  15  |            Ratlam Junction             |        RTM         |     23:25     |     23:45     |     20:00     |       861 KM       |    1     
+  16  |               Mandasor                 |        MDS         |     01:20     |     01:22     |     2:00      |       945 KM       |    2     
+  17  |                Nimach                  |        NMH         |     02:33     |     02:35     |     2:00      |       994 KM       |    2     
+  18  |             Chittaurgarh               |        COR         |     03:40     |     03:50     |     10:00     |      1049 KM       |    2     
+  19  |            Mavli Junction              |        MVJ         |     04:55     |     05:20     |     25:00     |      1121 KM       |    2     
+  20  |               Nathdwara                |        NDT         |     05:50     |     Ends      |       -       |      1136 KM       |    2     

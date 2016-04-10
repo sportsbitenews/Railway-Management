@@ -1,0 +1,27 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Puri                   |        PURI        |     Start     |     14:00     |       -       |        0 KM        |    1     
+  2   |              Sakhi Gopal               |        SIL         |     14:27     |     14:28     |     1:00      |       17 KM        |    1     
+  3   |         Khurda Road Junction           |        KUR         |     15:05     |     15:10     |     5:00      |       44 KM        |    1     
+  4   |              Bhubaneswar               |        BBS         |     15:30     |     15:35     |     5:00      |       63 KM        |    1     
+  5   |                Cuttack                 |        CTC         |     16:10     |     16:15     |     5:00      |       91 KM        |    1     
+  6   |               Bhadrakh                 |        BHC         |     18:13     |     18:15     |     2:00      |       206 KM       |    1     
+  7   |               Balasore                 |        BLS         |     19:07     |     19:12     |     5:00      |       268 KM       |    1     
+  8   |                Hijilli                 |        HIJ         |     20:41     |     20:42     |     1:00      |       380 KM       |    1     
+  9   |               Midnapore                |        MDN         |     21:45     |     21:47     |     2:00      |       403 KM       |    1     
+  10  |                Bankura                 |        BQA         |     23:02     |     23:04     |     2:00      |       505 KM       |    1     
+  11  |             Adra Junction              |        ADRA        |     00:20     |     00:35     |     15:00     |       559 KM       |    2     
+  12  |           Asansol Junction             |        ASN         |     01:52     |     02:00     |     8:00      |       600 KM       |    2     
+  13  |               Durgapur                 |        DGR         |     02:48     |     03:12     |     24:00     |       642 KM       |    2     
+  14  |                 Siuri                  |        SURI        |     04:31     |     04:32     |     1:00      |       713 KM       |    2     
+  15  |              Rampur Hat                |        RPH         |     05:49     |     05:54     |     5:00      |       760 KM       |    2     
+  16  |                 Pakur                  |        PKR         |     06:37     |     06:38     |     1:00      |       813 KM       |    2     
+  17  |         New Farakka Junction           |        NFK         |     07:34     |     07:36     |     2:00      |       846 KM       |    2     
+  18  |              Malda Town                |        MLDT        |     08:25     |     08:40     |     15:00     |       881 KM       |    2     
+  19  |              Kishanganj                |        KNE         |     10:38     |     10:43     |     5:00      |      1026 KM       |    2     
+  20  |            New Jalpaiguri              |        NJP         |     12:40     |     12:55     |     15:00     |      1113 KM       |    2     
+  21  |            New Cooch Behar             |        NCB         |     15:55     |     16:00     |     5:00      |      1240 KM       |    2     
+  22  |            New Alipurdaur              |        NOQ         |     16:18     |     16:20     |     2:00      |      1258 KM       |    2     
+  23  |            New Bongaigaon              |        NBQ         |     18:25     |     18:35     |     10:00     |      1365 KM       |    2     
+  24  |             Barpeta Road               |        BPRD        |     19:26     |     19:27     |     1:00      |      1409 KM       |    2     
+  25  |           Rangiya Junction             |        RNY         |     20:40     |     20:50     |     10:00     |      1474 KM       |    2     
+  26  |               Guwahati                 |        GHY         |     22:20     |     Ends      |       -       |      1522 KM       |    2     

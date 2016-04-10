@@ -1,0 +1,4 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               New Delhi                |        NDLS        |     Start     |     17:25     |       -       |        0 KM        |    1     
+  2   |            Patna Junction              |        PNBE        |     06:55     |     07:05     |     10:00     |       997 KM       |    2     
+  3   |            Rjndr Ngr Bihar             |        RJPB        |     07:35     |     Ends      |       -       |      1001 KM       |    2     

@@ -1,0 +1,3 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               New Delhi                |        NDLS        |     Start     |     19:40     |       -       |        0 KM        |    1     
+  2   |                Sealdah                 |        SDAH        |     12:35     |     Ends      |       -       |      1453 KM       |    2     

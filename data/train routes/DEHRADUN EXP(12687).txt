@@ -1,0 +1,35 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Madurai Junction             |        MDU         |     Start     |     23:35     |       -       |        0 KM        |    1     
+  2   |           Dindigul Junction            |         DG         |     00:32     |     00:35     |     3:00      |       66 KM        |    2     
+  3   |                 Karur                  |        KRR         |     01:42     |     01:45     |     3:00      |       140 KM       |    2     
+  4   |            Erode Junction              |         ED         |     02:55     |     03:05     |     10:00     |       206 KM       |    2     
+  5   |            Salem Junction              |         SA         |     03:55     |     04:00     |     5:00      |       268 KM       |    2     
+  6   |              Jolarpettai               |        JTJ         |     05:48     |     05:50     |     2:00      |       388 KM       |    2     
+  7   |              Vaniyambadi               |         VN         |     06:08     |     06:10     |     2:00      |       404 KM       |    2     
+  8   |                 Ambur                  |         AB         |     06:23     |     06:25     |     2:00      |       420 KM       |    2     
+  9   |           Katpadi Junction             |        KPD         |     07:03     |     07:05     |     2:00      |       472 KM       |    2     
+  10  |               Arakkonam                |        AJJ         |     07:53     |     07:55     |     2:00      |       533 KM       |    2     
+  11  |            Chennai Central             |        MAS         |     09:20     |     09:45     |     25:00     |       601 KM       |    2     
+  12  |              Nayadupeta                |        NYP         |     11:13     |     11:15     |     2:00      |       711 KM       |    2     
+  13  |          Vijayawada Junction           |        BZA         |     16:40     |     16:55     |     15:00     |      1031 KM       |    2     
+  14  |               Warangal                 |         WL         |     20:30     |     20:35     |     5:00      |      1240 KM       |    2     
+  15  |               Ramgundam                |        RDM         |     21:48     |     21:50     |     2:00      |      1341 KM       |    2     
+  16  |              Balharshah                |        BPQ         |     00:30     |     00:40     |     10:00     |      1482 KM       |    3     
+  17  |               Sevagram                 |        SEGM        |     02:35     |     02:36     |     1:00      |      1617 KM       |    3     
+  18  |                Nagpur                  |        NGP         |     03:40     |     03:50     |     10:00     |      1694 KM       |    3     
+  19  |           Bhopal  Junction             |        BPL         |     09:40     |     09:50     |     10:00     |      2082 KM       |    3     
+  20  |            Jhansi Junction             |        JHS         |     14:02     |     14:12     |     10:00     |      2373 KM       |    3     
+  21  |                Gwalior                 |        GWL         |     15:30     |     15:35     |     5:00      |      2470 KM       |    3     
+  22  |              Agra Cantt                |        AGC         |     17:25     |     17:30     |     5:00      |      2589 KM       |    3     
+  23  |             H Nizamuddin               |        NZM         |     20:40     |     21:10     |     30:00     |      2776 KM       |    3     
+  24  |               Ghaziabad                |        GZB         |     22:08     |     22:10     |     2:00      |      2806 KM       |    3     
+  25  |              Meerut City               |        MTC         |     22:48     |     22:51     |     3:00      |      2853 KM       |    3     
+  26  |             Muzaffarnagar              |        MOZ         |     23:28     |     23:30     |     2:00      |      2909 KM       |    3     
+  27  |              Saharanpur                |        SRE         |     01:10     |     02:05     |     55:00     |      2967 KM       |    4     
+  28  |                Roorkee                 |         RK         |     02:35     |     02:37     |     2:00      |      3002 KM       |    4     
+  29  |           Haridwar Junction            |         HW         |     03:20     |     03:28     |     8:00      |      3043 KM       |    4     
+  30  |               Dehradun                 |        DDN         |     05:00     |     Ends      |       -       |      3095 KM       |    4     
+  31  |              Saharanpur                |        SRE         |     01:10     |     02:00     |     50:00     |      2967 KM       |    4     
+  32  |               Jagadhri                 |        JUD         |     02:27     |     02:28     |     1:00      |      2997 KM       |    4     
+  33  |         Ambala Cant Junction           |        UMB         |     03:30     |     03:38     |     8:00      |      3048 KM       |    4     
+  34  |              Chandigarh                |        CDG         |     04:25     |     Ends      |       -       |      3116 KM       |    4     

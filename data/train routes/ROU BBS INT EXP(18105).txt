@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Rourkela                 |        ROU         |     Start     |     05:10     |       -       |        0 KM        |    1     
+  2   |              Raj Gangpur               |         GP         |     05:38     |     05:39     |     1:00      |       31 KM        |    1     
+  3   |                 Bamra                  |        BMB         |     06:10     |     06:11     |     1:00      |       65 KM        |    1     
+  4   |          Jharsuguda Junction           |        JSG         |     06:47     |     06:57     |     10:00     |       102 KM       |    1     
+  5   |                Rengali                 |        RGL         |     07:21     |     07:22     |     1:00      |       128 KM       |    1     
+  6   |            Sambalpur City              |        SBPY        |     07:46     |     07:47     |     1:00      |       147 KM       |    1     
+  7   |               Rairakhol                |        RAIR        |     08:36     |     08:37     |     1:00      |       212 KM       |    1     
+  8   |                Boinda                  |        BONA        |     09:19     |     09:20     |     1:00      |       258 KM       |    1     
+  9   |                 Angul                  |        ANGL        |     10:33     |     10:35     |     2:00      |       297 KM       |    1     
+  10  |             Talcher Road               |        TLHD        |     10:47     |     10:48     |     1:00      |       309 KM       |    1     
+  11  |               Dhenkanal                |        DNKL        |     11:31     |     11:32     |     1:00      |       357 KM       |    1     
+  12  |              Bhubaneswar               |        BBS         |     12:55     |     Ends      |       -       |       419 KM       |    1     

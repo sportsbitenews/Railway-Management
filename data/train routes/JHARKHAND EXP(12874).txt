@@ -1,0 +1,21 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Anand Vihar Trm             |        ANVT        |     Start     |     19:45     |       -       |        0 KM        |    1     
+  2   |            Kanpur Central              |        CNB         |     01:45     |     01:50     |     5:00      |       427 KM       |    2     
+  3   |          Allahabad Junction            |        ALD         |     04:20     |     04:30     |     10:00     |       621 KM       |    2     
+  4   |                Chunar                  |        CAR         |     06:40     |     06:42     |     2:00      |       742 KM       |    2     
+  5   |             Roberts Ganj               |        RBGJ        |     08:08     |     08:10     |     2:00      |       818 KM       |    2     
+  6   |                Chopan                  |        CPU         |     09:40     |     09:50     |     10:00     |       845 KM       |    2     
+  7   |                Renukut                 |        RNQ         |     10:30     |     10:32     |     2:00      |       886 KM       |    2     
+  8   |             Nagar Untari               |        NUQ         |     11:31     |     11:33     |     2:00      |       942 KM       |    2     
+  9   |                Garhwa                  |        GHQ         |     12:06     |     12:08     |     2:00      |       976 KM       |    2     
+  10  |              Garwa Road                |        GHD         |     12:25     |     12:27     |     2:00      |       986 KM       |    2     
+  11  |              Daltonganj                |        DTO         |     12:59     |     13:01     |     2:00      |      1019 KM       |    2     
+  12  |           Barwadih Junction            |        BRWD        |     13:24     |     13:29     |     5:00      |      1046 KM       |    2     
+  13  |                Latehar                 |        LTHR        |     14:13     |     14:15     |     2:00      |      1087 KM       |    2     
+  14  |                 Tori                   |        TORI        |     14:41     |     14:43     |     2:00      |      1120 KM       |    2     
+  15  |                Patratu                 |        PTRU        |     16:13     |     16:15     |     2:00      |      1184 KM       |    2     
+  16  |              Barka Kana                |        BRKA        |     16:40     |     17:00     |     20:00     |      1204 KM       |    2     
+  17  |             Ramgarh Cant               |        RMT         |     17:11     |     17:13     |     2:00      |      1209 KM       |    2     
+  18  |                 Muri                   |        MURI        |     18:08     |     18:10     |     2:00      |      1262 KM       |    2     
+  19  |                Ranchi                  |        RNC         |     19:25     |     19:35     |     10:00     |      1327 KM       |    2     
+  20  |                 Hatia                  |        HTE         |     19:55     |     Ends      |       -       |      1334 KM       |    2     

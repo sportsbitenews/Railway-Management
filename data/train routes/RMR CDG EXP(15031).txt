@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Ramnagar                 |        RMR         |     Start     |     05:30     |       -       |        0 KM        |    1     
+  2   |               Kashipur                 |        KPV         |     05:53     |     06:03     |     10:00     |       28 KM        |    1     
+  3   |               Pipalsana                |        PLS         |     06:36     |     06:38     |     2:00      |       58 KM        |    1     
+  4   |               Moradabad                |         MB         |     07:35     |     07:45     |     10:00     |       78 KM        |    1     
+  5   |          Najibabad Junction            |        NBD         |     09:05     |     09:07     |     2:00      |       176 KM       |    1     
+  6   |            Laksar Junction             |        LRJ         |     09:48     |     09:50     |     2:00      |       218 KM       |    1     
+  7   |                Roorkee                 |         RK         |     10:08     |     10:10     |     2:00      |       236 KM       |    1     
+  8   |              Saharanpur                |        SRE         |     11:00     |     11:10     |     10:00     |       271 KM       |    1     
+  9   |               Jagadhri                 |        JUD         |     11:38     |     11:40     |     2:00      |       301 KM       |    1     
+  10  |         Ambala Cant Junction           |        UMB         |     12:30     |     12:42     |     12:00     |       352 KM       |    1     
+  11  |              Chandigarh                |        CDG         |     13:35     |     Ends      |       -       |       419 KM       |    1     

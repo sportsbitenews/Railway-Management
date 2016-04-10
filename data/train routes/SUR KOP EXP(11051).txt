@@ -1,0 +1,10 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Solapur Junction             |        SUR         |     Start     |     23:35     |       -       |        0 KM        |    1     
+  2   |               Kurduvadi                |        KWV         |     01:15     |     01:20     |     5:00      |       79 KM        |    2     
+  3   |                Modnimb                 |        MLB         |     01:38     |     01:40     |     2:00      |       101 KM       |    2     
+  4   |              Pandharpur                |        PVR         |     02:10     |     02:15     |     5:00      |       132 KM       |    2     
+  5   |                Sangola                 |        SGLA        |     02:38     |     02:40     |     2:00      |       161 KM       |    2     
+  6   |               Dhalgaon                 |        DLGN        |     03:19     |     03:20     |     1:00      |       207 KM       |    2     
+  7   |            Kavathe Mahankl             |        KVK         |     03:35     |     03:37     |     2:00      |       223 KM       |    2     
+  8   |            Miraj Junction              |        MRJ         |     04:55     |     05:10     |     15:00     |       268 KM       |    2     
+  9   |            C Shahumharaj T             |        KOP         |     06:20     |     Ends      |       -       |       315 KM       |    2     

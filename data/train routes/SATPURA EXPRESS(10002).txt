@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Jabalpur                 |        JBP         |     Start     |     05:30     |       -       |        0 KM        |    1     
+  2   |            Howbadh Jablpur             |        HBG         |     05:35     |     05:37     |     2:00      |        3 KM        |    1     
+  3   |                 Bargi                  |        BUQ         |     06:26     |     06:28     |     2:00      |       29 KM        |    1     
+  4   |                Shikara                 |        SKY         |     07:11     |     07:13     |     2:00      |       55 KM        |    1     
+  5   |                Ghonsor                 |        GNS         |     08:03     |     08:05     |     2:00      |       76 KM        |    1     
+  6   |                Pindrai                 |        PDE         |     08:48     |     08:50     |     2:00      |       98 KM        |    1     
+  7   |           Nainpur Junction             |        NIR         |     09:25     |     09:35     |     10:00     |       111 KM       |    1     
+  8   |               Nagarwara                |        NWA         |     10:18     |     10:20     |     2:00      |       138 KM       |    1     
+  9   |                 Lamta                  |        LTA         |     10:34     |     10:36     |     2:00      |       146 KM       |    1     
+  10  |               Charegaon                |        CRN         |     10:57     |     10:59     |     2:00      |       157 KM       |    1     
+  11  |               Samnapur                 |        SMC         |     11:21     |     11:23     |     2:00      |       171 KM       |    1     
+  12  |           Balaghat Junction            |        BTC         |     12:10     |     Ends      |       -       |       187 KM       |    1     

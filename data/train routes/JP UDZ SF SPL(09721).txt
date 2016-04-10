@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Jaipur                  |         JP         |     Start     |     06:15     |       -       |        0 KM        |    1     
+  2   |           Phulera Junction             |         FL         |     06:57     |     06:59     |     2:00      |       55 KM        |    1     
+  3   |              Kishangarh                |        KSG         |     07:41     |     07:43     |     2:00      |       106 KM       |    1     
+  4   |            Ajmer Junction              |        AII         |     08:20     |     08:25     |     5:00      |       135 KM       |    1     
+  5   |               Nasirabad                |        NSD         |     08:49     |     08:51     |     2:00      |       158 KM       |    1     
+  6   |              Bijainagar                |        BJNR        |     09:21     |     09:23     |     2:00      |       200 KM       |    1     
+  7   |               Bhilwara                 |        BHL         |     10:15     |     10:17     |     2:00      |       267 KM       |    1     
+  8   |              Chanderiya                |        CNA         |     11:10     |     11:12     |     2:00      |       313 KM       |    1     
+  9   |            Mavli Junction              |        MVJ         |     12:18     |     12:20     |     2:00      |       387 KM       |    1     
+  10  |            Ranapratapnagar             |        RPZ         |     12:58     |     13:00     |     2:00      |       426 KM       |    1     
+  11  |             Udaipur City               |        UDZ         |     13:15     |     Ends      |       -       |       430 KM       |    1     

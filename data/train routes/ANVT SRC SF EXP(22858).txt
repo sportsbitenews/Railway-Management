@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Anand Vihar Trm             |        ANVT        |     Start     |     13:45     |       -       |        0 KM        |    1     
+  2   |           Aligarh Junction             |        ALJN        |     15:40     |     15:43     |     3:00      |       119 KM       |    1     
+  3   |            Kanpur Central              |        CNB         |     19:55     |     20:05     |     10:00     |       427 KM       |    1     
+  4   |          Allahabad Junction            |        ALD         |     22:35     |     22:45     |     10:00     |       621 KM       |    1     
+  5   |         Mughal Sarai Junction          |        MGS         |     02:45     |     02:55     |     10:00     |       774 KM       |    2     
+  6   |             Gaya Junction              |        GAYA        |     05:48     |     05:53     |     5:00      |       977 KM       |    2     
+  7   |            Gomoh Junction              |        GMO         |     08:50     |     09:00     |     10:00     |      1146 KM       |    2     
+  8   |           Purulia Junction             |        PRR         |     11:05     |     11:07     |     2:00      |      1238 KM       |    2     
+  9   |          Tatanagar Junction            |        TATA        |     12:45     |     12:50     |     5:00      |      1328 KM       |    2     
+  10  |          Kharagpur Junction            |        KGP         |     14:40     |     14:45     |     5:00      |      1462 KM       |    2     
+  11  |         Santragachi Junction           |        SRC         |     17:00     |     Ends      |       -       |      1570 KM       |    2     

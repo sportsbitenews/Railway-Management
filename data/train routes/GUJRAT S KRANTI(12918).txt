@@ -1,0 +1,11 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             H Nizamuddin               |        NZM         |     Start     |     13:55     |       -       |        0 KM        |    1     
+  2   |           Mathura Junction             |        MTJ         |     16:03     |     16:05     |     2:00      |       134 KM       |    1     
+  3   |             Kota Junction              |        KOTA        |     19:45     |     19:55     |     10:00     |       458 KM       |    1     
+  4   |            Ratlam Junction             |        RTM         |     23:45     |     23:50     |     5:00      |       724 KM       |    1     
+  5   |                 Dahod                  |        DHD         |     01:16     |     01:18     |     2:00      |       838 KM       |    2     
+  6   |            Godhra Junction             |        GDA         |     02:53     |     02:55     |     2:00      |       912 KM       |    2     
+  7   |           Vadodara Junction            |        BRC         |     04:05     |     04:30     |     25:00     |       986 KM       |    2     
+  8   |            Anand Junction              |        ANND        |     05:03     |     05:05     |     2:00      |      1021 KM       |    2     
+  9   |            Nadiad Junction             |         ND         |     05:24     |     05:26     |     2:00      |      1040 KM       |    2     
+  10  |          Ahmedabad Junction            |        ADI         |     06:45     |     Ends      |       -       |      1085 KM       |    2     

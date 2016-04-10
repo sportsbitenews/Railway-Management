@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Haridwar Junction            |         HW         |     Start     |     14:30     |       -       |        0 KM        |    1     
+  2   |                Roorkee                 |         RK         |     15:13     |     15:15     |     2:00      |       42 KM        |    1     
+  3   |              Saharanpur                |        SRE         |     16:10     |     16:15     |     5:00      |       76 KM        |    1     
+  4   |               Jagadhri                 |        JUD         |     16:41     |     16:43     |     2:00      |       107 KM       |    1     
+  5   |         Ambala Cant Junction           |        UMB         |     17:35     |     18:20     |     45:00     |       158 KM       |    1     
+  6   |              Chandigarh                |        CDG         |     19:05     |     19:15     |     10:00     |       225 KM       |    1     
+  7   |            Sahibzada Asngr             |        SASN        |     19:24     |     19:26     |     2:00      |       236 KM       |    1     
+  8   |               Rupnagar                 |        RPAR        |     20:22     |     20:25     |     3:00      |       296 KM       |    1     
+  9   |            Anandpur Sahib              |        ANSB        |     21:08     |     21:10     |     2:00      |       332 KM       |    1     
+  10  |              Nangal Dam                |        NLDM        |     21:35     |     21:40     |     5:00      |       352 KM       |    1     
+  11  |             Una Himachal               |        UHL         |     22:10     |     Ends      |       -       |       368 KM       |    1     

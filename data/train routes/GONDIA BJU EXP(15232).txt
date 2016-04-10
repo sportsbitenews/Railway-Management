@@ -1,0 +1,33 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Gondia Junction             |         G          |     Start     |     21:00     |       -       |        0 KM        |    1     
+  2   |                Amgaon                  |        AGN         |     21:18     |     21:20     |     2:00      |       23 KM        |    1     
+  3   |              Dongargarh                |        DGG         |     22:08     |     22:10     |     2:00      |       74 KM        |    1     
+  4   |             Raj Nandgaon               |        RJN         |     22:33     |     22:35     |     2:00      |       105 KM       |    1     
+  5   |                 Durg                   |        DURG        |     23:10     |     23:15     |     5:00      |       134 KM       |    1     
+  6   |            Raipur Junction             |         R          |     00:05     |     00:15     |     10:00     |       171 KM       |    2     
+  7   |               Bhatapara                |        BYT         |     01:04     |     01:06     |     2:00      |       235 KM       |    2     
+  8   |               Usalapur                 |        USL         |     02:15     |     02:25     |     10:00     |       287 KM       |    2     
+  9   |              Pendra Road               |        PND         |     04:15     |     04:20     |     5:00      |       379 KM       |    2     
+  10  |           Anuppur Junction             |        APR         |     05:10     |     05:15     |     5:00      |       429 KM       |    2     
+  11  |                Shahdol                 |        SDL         |     06:05     |     06:10     |     5:00      |       470 KM       |    2     
+  12  |                Umaria                  |        UMR         |     07:13     |     07:15     |     2:00      |       537 KM       |    2     
+  13  |                 Katni                  |        KTE         |     09:30     |     09:45     |     15:00     |       597 KM       |    2     
+  14  |                Maihar                  |        MYR         |     10:48     |     10:50     |     2:00      |       660 KM       |    2     
+  15  |                 Satna                  |        STA         |     12:10     |     12:20     |     10:00     |       695 KM       |    2     
+  16  |           Manikpur Junction            |        MKP         |     14:15     |     14:17     |     2:00      |       773 KM       |    2     
+  17  |              Shankargarh               |        SRJ         |     14:56     |     14:58     |     2:00      |       828 KM       |    2     
+  18  |                Cheoki                  |        COI         |     15:46     |     15:48     |     2:00      |       865 KM       |    2     
+  19  |              Vindhyachal               |        BDL         |     16:54     |     16:56     |     2:00      |       938 KM       |    2     
+  20  |               Mirzapur                 |        MZP         |     17:10     |     17:12     |     2:00      |       945 KM       |    2     
+  21  |           Varanasi Junction            |        BSB         |     19:25     |     19:40     |     15:00     |      1021 KM       |    2     
+  22  |           Jaunpur Junction             |        JNU         |     20:50     |     20:55     |     5:00      |      1079 KM       |    2     
+  23  |                KIRAKAT                 |        KCT         |     21:23     |     21:24     |     1:00      |      1107 KM       |    2     
+  24  |           Aunrihar Junction            |        ARJ         |     22:05     |     22:10     |     5:00      |      1137 KM       |    2     
+  25  |             Ghazipur City              |        GCT         |     22:40     |     22:45     |     5:00      |      1177 KM       |    2     
+  26  |                Ballia                  |        BUI         |     00:10     |     00:15     |     5:00      |      1243 KM       |    3     
+  27  |                Chhapra                 |        CPR         |     02:40     |     02:50     |     10:00     |      1308 KM       |    3     
+  28  |            Sonpur Junction             |        SEE         |     03:45     |     03:50     |     5:00      |      1361 KM       |    3     
+  29  |           Hajipur Junction             |        HJP         |     04:03     |     04:05     |     2:00      |      1367 KM       |    3     
+  30  |         Muzaffarpur Junction           |        MFP         |     05:10     |     05:15     |     5:00      |      1421 KM       |    3     
+  31  |          Samastipur Junction           |        SPJ         |     07:05     |     07:10     |     5:00      |      1472 KM       |    3     
+  32  |           Barauni Junction             |        BJU         |     08:30     |     Ends      |       -       |      1523 KM       |    3     

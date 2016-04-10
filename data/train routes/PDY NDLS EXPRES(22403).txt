@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Puducherry                |        PDY         |     Start     |     09:05     |       -       |        0 KM        |    1     
+  2   |            Chennai Egmore              |         MS         |     12:40     |     13:00     |     20:00     |       197 KM       |    1     
+  3   |            Gudur Junction              |        GDR         |     15:50     |     15:52     |     2:00      |       338 KM       |    1     
+  4   |          Vijayawada Junction           |        BZA         |     20:05     |     20:20     |     15:00     |       631 KM       |    1     
+  5   |               Warangal                 |         WL         |     23:50     |     23:55     |     5:00      |       840 KM       |    1     
+  6   |            Sirpur Kagazngr             |        SKZR        |     02:10     |     02:11     |     1:00      |      1012 KM       |    2     
+  7   |              Balharshah                |        BPQ         |     04:10     |     04:20     |     10:00     |      1082 KM       |    2     
+  8   |                Nagpur                  |        NGP         |     07:35     |     07:45     |     10:00     |      1293 KM       |    2     
+  9   |            Itarsi Junction             |         ET         |     12:55     |     13:00     |     5:00      |      1590 KM       |    2     
+  10  |           Bhopal  Junction             |        BPL         |     14:35     |     14:45     |     10:00     |      1682 KM       |    2     
+  11  |            Jhansi Junction             |        JHS         |     19:20     |     19:30     |     10:00     |      1973 KM       |    2     
+  12  |              Agra Cantt                |        AGC         |     23:45     |     23:50     |     5:00      |      2188 KM       |    2     
+  13  |           Mathura Junction             |        MTJ         |     00:34     |     00:37     |     3:00      |      2242 KM       |    3     
+  14  |               New Delhi                |        NDLS        |     03:20     |     Ends      |       -       |      2383 KM       |    3     

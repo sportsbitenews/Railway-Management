@@ -1,0 +1,8 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               New Delhi                |        NDLS        |     Start     |     21:20     |       -       |        0 KM        |    1     
+  2   |               Ghaziabad                |        GZB         |     21:54     |     21:56     |     2:00      |       26 KM        |    1     
+  3   |           Aligarh Junction             |        ALJN        |     23:29     |     23:32     |     3:00      |       132 KM       |    1     
+  4   |            Tundla Junction             |        TDL         |     00:36     |     00:39     |     3:00      |       210 KM       |    2     
+  5   |            Kanpur Central              |        CNB         |     03:30     |     03:35     |     5:00      |       440 KM       |    2     
+  6   |               Fatehpur                 |        FTP         |     04:33     |     04:35     |     2:00      |       517 KM       |    2     
+  7   |          Allahabad Junction            |        ALD         |     06:50     |     Ends      |       -       |       634 KM       |    2     

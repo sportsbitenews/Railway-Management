@@ -1,0 +1,12 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Howrah Junction             |        HWH         |     Start     |     20:55     |       -       |        0 KM        |    1     
+  2   |          Kharagpur Junction            |        KGP         |     22:40     |     22:50     |     10:00     |       116 KM       |    1     
+  3   |               Balasore                 |        BLS         |     00:25     |     00:27     |     2:00      |       234 KM       |    2     
+  4   |               Bhadrakh                 |        BHC         |     01:35     |     01:40     |     5:00      |       296 KM       |    2     
+  5   |             Jajpur K Road              |        JJKR        |     02:14     |     02:15     |     1:00      |       340 KM       |    2     
+  6   |               Dhenkanal                |        DNKL        |     03:41     |     03:42     |     1:00      |       444 KM       |    2     
+  7   |             Talcher Road               |        TLHD        |     04:27     |     04:28     |     1:00      |       493 KM       |    2     
+  8   |                 Angul                  |        ANGL        |     05:03     |     05:05     |     2:00      |       505 KM       |    2     
+  9   |                Boinda                  |        BONA        |     05:36     |     05:37     |     1:00      |       543 KM       |    2     
+  10  |               Rairakhol                |        RAIR        |     06:13     |     06:14     |     1:00      |       590 KM       |    2     
+  11  |               Sambalpur                |        SBP         |     07:45     |     Ends      |       -       |       661 KM       |    2     

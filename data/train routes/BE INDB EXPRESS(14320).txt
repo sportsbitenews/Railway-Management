@@ -1,0 +1,20 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Bareilly                 |         BE         |     Start     |     10:40     |       -       |        0 KM        |    1     
+  2   |                 Aonla                  |         AO         |     11:31     |     11:33     |     2:00      |       28 KM        |    1     
+  3   |          Chandausi Junction            |         CH         |     12:38     |     12:43     |     5:00      |       70 KM        |    1     
+  4   |                Bahjoi                  |         BJ         |     12:59     |     13:01     |     2:00      |       86 KM        |    1     
+  5   |           Aligarh Junction             |        ALJN        |     15:38     |     15:43     |     5:00      |       168 KM       |    1     
+  6   |               Agra City                |        AGA         |     18:11     |     18:13     |     2:00      |       269 KM       |    1     
+  7   |              Agra Cantt                |        AGC         |     18:40     |     18:45     |     5:00      |       275 KM       |    1     
+  8   |                Gwalior                 |        GWL         |     20:50     |     20:55     |     5:00      |       393 KM       |    1     
+  9   |            Jhansi Junction             |        JHS         |     22:30     |     22:40     |     10:00     |       490 KM       |    1     
+  10  |             Bina Junction              |        BINA        |     02:20     |     02:25     |     5:00      |       643 KM       |    2     
+  11  |                Vidisha                 |        BHS         |     03:20     |     03:22     |     2:00      |       728 KM       |    2     
+  12  |           Bhopal  Junction             |        BPL         |     04:25     |     05:05     |     40:00     |       781 KM       |    2     
+  13  |               Bairagarh                |        BIH         |     05:21     |     05:23     |     2:00      |       791 KM       |    2     
+  14  |                Sehore                  |        SEH         |     05:43     |     05:45     |     2:00      |       820 KM       |    2     
+  15  |               Shujalpur                |        SJP         |     06:23     |     06:25     |     2:00      |       861 KM       |    2     
+  16  |                Berchha                 |        BCH         |     07:08     |     07:10     |     2:00      |       904 KM       |    2     
+  17  |            Ujjain Junction             |        UJN         |     09:05     |     09:30     |     25:00     |       964 KM       |    2     
+  18  |                 Dewas                  |        DWX         |     10:30     |     10:40     |     10:00     |      1005 KM       |    2     
+  19  |          Indore Junction Bg            |        INDB        |     11:20     |     Ends      |       -       |      1044 KM       |    2     

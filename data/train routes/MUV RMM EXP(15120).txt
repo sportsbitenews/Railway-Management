@@ -1,0 +1,37 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Manduadih                |        MUV         |     Start     |     21:00     |       -       |        0 KM        |    1     
+  2   |             Gyanpur Road               |        GYN         |     21:48     |     21:50     |     2:00      |       57 KM        |    1     
+  3   |          Allahabad Junction            |        ALD         |     00:05     |     00:55     |     50:00     |       121 KM       |    2     
+  4   |                 Satna                  |        STA         |     03:45     |     03:55     |     10:00     |       299 KM       |    2     
+  5   |                 Katni                  |        KTE         |     05:00     |     05:05     |     5:00      |       397 KM       |    2     
+  6   |               Jabalpur                 |        JBP         |     06:25     |     06:35     |     10:00     |       488 KM       |    2     
+  7   |            Itarsi Junction             |         ET         |     10:35     |     10:45     |     10:00     |       733 KM       |    2     
+  8   |                Nagpur                  |        NGP         |     15:10     |     15:20     |     10:00     |      1030 KM       |    2     
+  9   |               Sevagram                 |        SEGM        |     16:19     |     16:21     |     2:00      |      1106 KM       |    2     
+  10  |              Chandrapur                |         CD         |     17:58     |     18:00     |     2:00      |      1228 KM       |    2     
+  11  |            Sirpur Kagazngr             |        SKZR        |     19:58     |     20:00     |     2:00      |      1311 KM       |    2     
+  12  |               Ramgundam                |        RDM         |     20:48     |     20:50     |     2:00      |      1383 KM       |    2     
+  13  |               Warangal                 |         WL         |     23:10     |     23:12     |     2:00      |      1484 KM       |    2     
+  14  |          Vijayawada Junction           |        BZA         |     02:50     |     03:00     |     10:00     |      1692 KM       |    3     
+  15  |            Tenali Junction             |        TEL         |     03:26     |     03:28     |     2:00      |      1724 KM       |    3     
+  16  |                Ongole                  |        OGL         |     04:51     |     04:53     |     2:00      |      1831 KM       |    3     
+  17  |                Nellore                 |        NLR         |     06:27     |     06:29     |     2:00      |      1947 KM       |    3     
+  18  |            Gudur Junction              |        GDR         |     07:53     |     07:55     |     2:00      |      1985 KM       |    3     
+  19  |            Chennai Egmore              |         MS         |     10:30     |     10:50     |     20:00     |      2127 KM       |    3     
+  20  |             Chengalpattu               |        CGL         |     11:43     |     11:45     |     2:00      |      2182 KM       |    3     
+  21  |          Villuparam Junction           |         VM         |     13:25     |     13:35     |     10:00     |      2285 KM       |    3     
+  22  |            Cuddalore Port              |        CUPJ        |     14:25     |     14:27     |     2:00      |      2332 KM       |    3     
+  23  |              Chidambaram               |        CDM         |     15:00     |     15:02     |     2:00      |      2370 KM       |    3     
+  24  |               Sirkazhi                 |         SY         |     15:20     |     15:22     |     2:00      |      2387 KM       |    3     
+  25  |            Mayiladuturai J             |         MV         |     15:58     |     16:00     |     2:00      |      2407 KM       |    3     
+  26  |              Kumbakonam                |        KMU         |     16:25     |     16:27     |     2:00      |      2438 KM       |    3     
+  27  |               Thanjavur                |         TJ         |     17:00     |     17:02     |     2:00      |      2477 KM       |    3     
+  28  |            Tiruchchirapali             |        TPJ         |     18:25     |     18:30     |     5:00      |      2527 KM       |    3     
+  29  |              Pudukkottai               |        PDKT        |     19:23     |     19:25     |     2:00      |      2580 KM       |    3     
+  30  |          Karaikkudi Junction           |        KKDI        |     20:15     |     20:20     |     5:00      |      2617 KM       |    3     
+  31  |            Devakottai Road             |        DKO         |     20:24     |     20:26     |     2:00      |      2621 KM       |    3     
+  32  |               Sivaganga                |        SVGA        |     21:10     |     21:12     |     2:00      |      2657 KM       |    3     
+  33  |         Manamadurai Junction           |        MNM         |     22:00     |     22:05     |     5:00      |      2678 KM       |    3     
+  34  |              Paramakkudi               |        PMK         |     22:28     |     22:30     |     2:00      |      2702 KM       |    3     
+  35  |            Ramanathapuram              |        RMD         |     22:58     |     23:00     |     2:00      |      2737 KM       |    3     
+  36  |              Rameswaram                |        RMM         |     01:15     |     Ends      |       -       |      2791 KM       |    4     

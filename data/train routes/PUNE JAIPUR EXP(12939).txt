@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Pune Junction              |        PUNE        |     Start     |     15:20     |       -       |        0 KM        |    1     
+  2   |            Kalyan Junction             |        KYN         |     17:42     |     17:45     |     3:00      |       139 KM       |    1     
+  3   |              Vasai Road                |        BSR         |     19:50     |     20:00     |     10:00     |       191 KM       |    1     
+  4   |                 Surat                  |         ST         |     22:55     |     23:00     |     5:00      |       406 KM       |    1     
+  5   |           Vadodara Junction            |        BRC         |     00:50     |     01:00     |     10:00     |       535 KM       |    2     
+  6   |            Ratlam Junction             |        RTM         |     04:55     |     05:05     |     10:00     |       797 KM       |    2     
+  7   |             Ramganj Mandi              |        RMA         |     08:05     |     08:07     |     2:00      |       991 KM       |    2     
+  8   |             Kota Junction              |        KOTA        |     09:20     |     09:30     |     10:00     |      1063 KM       |    2     
+  9   |            Sawai Madhopur              |        SWM         |     11:20     |     11:30     |     10:00     |      1171 KM       |    2     
+  10  |            Bansthali Niwai             |        BNLW        |     12:24     |     12:26     |     2:00      |      1236 KM       |    2     
+  11  |               Durgapura                |        DPA         |     13:05     |     13:07     |     2:00      |      1295 KM       |    2     
+  12  |                Jaipur                  |         JP         |     13:40     |     Ends      |       -       |      1302 KM       |    2     

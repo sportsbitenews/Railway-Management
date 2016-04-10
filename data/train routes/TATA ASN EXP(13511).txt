@@ -1,0 +1,10 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Tatanagar Junction            |        TATA        |     Start     |     13:00     |       -       |        0 KM        |    1     
+  2   |                Kandra                  |        KND         |     13:27     |     13:28     |     1:00      |       22 KM        |    1     
+  3   |           Chandil Junction             |        CNI         |     13:58     |     14:00     |     2:00      |       37 KM        |    1     
+  4   |               Barabhum                 |        BBM         |     14:15     |     14:16     |     1:00      |       59 KM        |    1     
+  5   |           Purulia Junction             |        PRR         |     14:48     |     14:50     |     2:00      |       91 KM        |    1     
+  6   |                 Anara                  |        ANR         |     15:12     |     15:13     |     1:00      |       116 KM       |    1     
+  7   |            Joychandi Pahar             |        JOC         |     15:29     |     15:30     |     1:00      |       130 KM       |    1     
+  8   |                Burnpur                 |        BURN        |     16:15     |     16:16     |     1:00      |       162 KM       |    1     
+  9   |           Asansol Junction             |        ASN         |     16:30     |     Ends      |       -       |       167 KM       |    1     

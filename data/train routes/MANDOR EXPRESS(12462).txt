@@ -1,0 +1,17 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Jodhpur Junction             |         JU         |     Start     |     20:00     |       -       |        0 KM        |    1     
+  2   |                 Gotan                  |        GOTN        |     21:05     |     21:07     |     2:00      |       84 KM        |    1     
+  3   |          Merta Road Junction           |        MTD         |     21:27     |     21:32     |     5:00      |       105 KM       |    1     
+  4   |            Degana Junction             |        DNA         |     22:05     |     22:08     |     3:00      |       149 KM       |    1     
+  5   |           Makrana Junction             |        MKN         |     22:38     |     22:40     |     2:00      |       193 KM       |    1     
+  6   |             Kuchaman City              |        KMNC        |     22:54     |     22:56     |     2:00      |       207 KM       |    1     
+  7   |                Jaipur                  |         JP         |     00:50     |     01:00     |     10:00     |       313 KM       |    2     
+  8   |                 Dausa                  |         DO         |     01:48     |     01:50     |     2:00      |       374 KM       |    2     
+  9   |           Bandikui Junction            |        BKI         |     02:20     |     02:22     |     2:00      |       403 KM       |    2     
+  10  |                 Alwar                  |        AWR         |     03:07     |     03:10     |     3:00      |       464 KM       |    2     
+  11  |                Rewari                  |         RE         |     04:53     |     04:55     |     2:00      |       538 KM       |    2     
+  12  |             Pataudi Road               |        PTRD        |     05:14     |     05:16     |     2:00      |       559 KM       |    2     
+  13  |             Garhi Harsaru              |        GHH         |     05:30     |     05:32     |     2:00      |       579 KM       |    2     
+  14  |                Gurgaon                 |        GGN         |     05:41     |     05:43     |     2:00      |       589 KM       |    2     
+  15  |              Delhi Cantt               |        DEC         |     06:00     |     06:02     |     2:00      |       606 KM       |    2     
+  16  |                 Delhi                  |        DLI         |     06:45     |     Ends      |       -       |       620 KM       |    2     

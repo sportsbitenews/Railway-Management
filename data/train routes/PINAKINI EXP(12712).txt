@@ -1,0 +1,14 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Chennai Central             |        MAS         |     Start     |     14:05     |       -       |        0 KM        |    1     
+  2   |              Sullurupeta               |        SPE         |     15:14     |     15:15     |     1:00      |       83 KM        |    1     
+  3   |            Gudur Junction              |        GDR         |     16:25     |     16:27     |     2:00      |       138 KM       |    1     
+  4   |                Nellore                 |        NLR         |     16:52     |     16:53     |     1:00      |       176 KM       |    1     
+  5   |              Bitragunta                |        BTTR        |     17:19     |     17:20     |     1:00      |       210 KM       |    1     
+  6   |                Kavali                  |        KVZ         |     17:31     |     17:32     |     1:00      |       227 KM       |    1     
+  7   |            Singarayakonda              |        SKM         |     17:55     |     17:57     |     2:00      |       264 KM       |    1     
+  8   |                Ongole                  |        OGL         |     18:27     |     18:29     |     2:00      |       292 KM       |    1     
+  9   |                Chirala                 |        CLX         |     19:05     |     19:06     |     1:00      |       342 KM       |    1     
+  10  |                Bapatla                 |        BPP         |     19:17     |     19:18     |     1:00      |       357 KM       |    1     
+  11  |               Nidubrolu                |        NDO         |     19:32     |     19:34     |     2:00      |       377 KM       |    1     
+  12  |            Tenali Junction             |        TEL         |     19:48     |     19:50     |     2:00      |       399 KM       |    1     
+  13  |          Vijayawada Junction           |        BZA         |     21:10     |     Ends      |       -       |       431 KM       |    1     

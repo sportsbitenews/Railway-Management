@@ -1,0 +1,9 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |          Gorakhpur Junction            |        GKP         |     Start     |     20:55     |       -       |        0 KM        |    1     
+  2   |              Khalilabad                |        KLD         |     21:33     |     21:35     |     2:00      |       35 KM        |    1     
+  3   |                 Basti                  |        BST         |     22:00     |     22:05     |     5:00      |       65 KM        |    1     
+  4   |            Gonda Junction              |         GD         |     23:15     |     23:20     |     5:00      |       154 KM       |    1     
+  5   |              Lucknow Nr                |        LKO         |     01:55     |     02:05     |     10:00     |       271 KM       |    2     
+  6   |               Moradabad                |         MB         |     07:35     |     07:45     |     10:00     |       597 KM       |    2     
+  7   |               Ghaziabad                |        GZB         |     10:25     |     10:27     |     2:00      |       738 KM       |    2     
+  8   |            Anand Vihar Trm             |        ANVT        |     11:00     |     Ends      |       -       |       750 KM       |    2     

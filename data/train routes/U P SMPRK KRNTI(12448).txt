@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             H Nizamuddin               |        NZM         |     Start     |     20:10     |       -       |        0 KM        |    1     
+  2   |           Mathura Junction             |        MTJ         |     22:10     |     22:12     |     2:00      |       134 KM       |    1     
+  3   |              Agra Cantt                |        AGC         |     23:05     |     23:10     |     5:00      |       188 KM       |    1     
+  4   |            Jhansi Junction             |        JHS         |     02:05     |     02:25     |     20:00     |       403 KM       |    2     
+  5   |              Mau Ranipur               |        MRPR        |     03:25     |     03:27     |     2:00      |       467 KM       |    2     
+  6   |               Harpalpur                |        HPP         |     03:49     |     03:51     |     2:00      |       488 KM       |    2     
+  7   |               Kulpahar                 |        KLAR        |     04:25     |     04:27     |     2:00      |       520 KM       |    2     
+  8   |                Mahoba                  |        MBA         |     05:08     |     05:10     |     2:00      |       541 KM       |    2     
+  9   |            Banda Junction              |        BNDA        |     06:20     |     06:28     |     8:00      |       595 KM       |    2     
+  10  |                Atarra                  |        ATE         |     06:51     |     06:53     |     2:00      |       627 KM       |    2     
+  11  |               Chitrakot                |        CKTD        |     07:25     |     07:27     |     2:00      |       664 KM       |    2     
+  12  |           Manikpur Junction            |        MKP         |     08:35     |     Ends      |       -       |       695 KM       |    2     
+  13  |                Mahoba                  |        MBA         |     05:08     |     05:20     |     12:00     |       541 KM       |    2     
+  14  |               Khajuraho                |        KURJ        |     06:35     |     Ends      |       -       |       604 KM       |    2     

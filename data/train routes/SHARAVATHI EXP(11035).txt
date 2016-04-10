@@ -1,0 +1,28 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Dadar                  |         DR         |     Start     |     21:30     |       -       |        0 KM        |    1     
+  2   |            Kalyan Junction             |        KYN         |     22:11     |     22:13     |     2:00      |       45 KM        |    1     
+  3   |                Karjat                  |        KJT         |     22:53     |     22:55     |     2:00      |       91 KM        |    1     
+  4   |               Lonavala                 |        LNL         |     23:43     |     23:45     |     2:00      |       119 KM       |    1     
+  5   |             Pune Junction              |        PUNE        |     01:00     |     01:10     |     10:00     |       183 KM       |    2     
+  6   |                Satara                  |        STR         |     03:57     |     04:00     |     3:00      |       328 KM       |    2     
+  7   |                 Karad                  |        KRD         |     04:53     |     04:55     |     2:00      |       387 KM       |    2     
+  8   |                Sangli                  |        SLI         |     06:12     |     06:15     |     3:00      |       455 KM       |    2     
+  9   |            Miraj Junction              |        MRJ         |     06:50     |     06:55     |     5:00      |       462 KM       |    2     
+  10  |                Kudachi                 |        KUD         |     07:23     |     07:25     |     2:00      |       495 KM       |    2     
+  11  |              Ghatprabha                |        GPB         |     08:00     |     08:02     |     2:00      |       542 KM       |    2     
+  12  |                Belgaum                 |        BGM         |     09:03     |     09:05     |     2:00      |       600 KM       |    2     
+  13  |            Londa Junction              |         LD         |     09:58     |     10:00     |     2:00      |       651 KM       |    2     
+  14  |           Alnavar Junction             |        LWR         |     10:38     |     10:40     |     2:00      |       684 KM       |    2     
+  15  |                Dharwar                 |        DWR         |     11:25     |     11:27     |     2:00      |       721 KM       |    2     
+  16  |            Hubli Junction              |        UBL         |     12:30     |     12:40     |     10:00     |       741 KM       |    2     
+  17  |                Haveri                  |        HVR         |     13:43     |     13:45     |     2:00      |       816 KM       |    2     
+  18  |              Ranibennur                |        RNR         |     14:13     |     14:15     |     2:00      |       849 KM       |    2     
+  19  |                Harihar                 |        HRR         |     14:43     |     14:45     |     2:00      |       871 KM       |    2     
+  20  |               Davangere                |        DVG         |     15:03     |     15:05     |     2:00      |       885 KM       |    2     
+  21  |            Birur Junction              |        RRB         |     17:03     |     17:05     |     2:00      |       999 KM       |    2     
+  22  |                 Kadur                  |        DRU         |     17:15     |     17:17     |     2:00      |      1005 KM       |    2     
+  23  |           Arsikere Junction            |        ASK         |     18:05     |     18:10     |     5:00      |      1045 KM       |    2     
+  24  |                Hassan                  |        HAS         |     18:58     |     19:00     |     2:00      |      1091 KM       |    2     
+  25  |             Hole Narsipur              |        HLN         |     19:28     |     19:30     |     2:00      |      1123 KM       |    2     
+  26  |            Krishanrajanaga             |        KRNR        |     20:33     |     20:35     |     2:00      |      1177 KM       |    2     
+  27  |            Mysore Junction             |        MYS         |     21:40     |     Ends      |       -       |      1212 KM       |    2     

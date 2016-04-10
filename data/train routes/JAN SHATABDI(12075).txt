@@ -1,0 +1,13 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               Kozhikode                |        CLT         |     Start     |     13:40     |       -       |        0 KM        |    1     
+  2   |                 Tirur                  |        TIR         |     14:13     |     14:15     |     2:00      |       41 KM        |    1     
+  3   |           Shoranur Junction            |        SRR         |     15:00     |     15:10     |     10:00     |       86 KM        |    1     
+  4   |                Thrisur                 |        TCR         |     15:54     |     15:56     |     2:00      |       119 KM       |    1     
+  5   |                 Aluva                  |        AWY         |     16:37     |     16:38     |     1:00      |       174 KM       |    1     
+  6   |          Eranakulam Junction           |        ERS         |     17:15     |     17:20     |     5:00      |       193 KM       |    1     
+  7   |               Shertalai                |        SRTL        |     17:49     |     17:50     |     1:00      |       226 KM       |    1     
+  8   |               Alleppey                 |        ALLP        |     18:10     |     18:12     |     2:00      |       250 KM       |    1     
+  9   |          Kayankulam Junction           |        KYJ         |     18:59     |     19:00     |     1:00      |       293 KM       |    1     
+  10  |            Kollam Junction             |        QLN         |     19:35     |     19:37     |     2:00      |       334 KM       |    1     
+  11  |                Varkala                 |        VAK         |     19:57     |     19:58     |     1:00      |       358 KM       |    1     
+  12  |            Trivandrum Cntl             |        TVC         |     20:55     |     Ends      |       -       |       399 KM       |    1     

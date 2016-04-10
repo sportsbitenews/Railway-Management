@@ -1,0 +1,26 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Sainagar Shirdi             |        SNSI        |     Start     |     19:10     |       -       |        0 KM        |    1     
+  2   |               Puntamba                 |         PB         |     19:29     |     19:30     |     1:00      |       17 KM        |    1     
+  3   |               Kopargaon                |        KPG         |     20:09     |     20:10     |     1:00      |       41 KM        |    1     
+  4   |            Manmad Junction             |        MMR         |     21:15     |     21:20     |     5:00      |       83 KM        |    1     
+  5   |               Nagarsol                 |        NSL         |     22:05     |     22:10     |     5:00      |       107 KM       |    1     
+  6   |              Aurangabad                |        AWB         |     23:20     |     23:25     |     5:00      |       196 KM       |    1     
+  7   |                 Jalna                  |         J          |     00:18     |     00:20     |     2:00      |       259 KM       |    2     
+  8   |           Parbhani Junction            |        PBN         |     02:18     |     02:20     |     2:00      |       374 KM       |    2     
+  9   |            Purna Junction              |        PAU         |     03:03     |     03:05     |     2:00      |       402 KM       |    2     
+  10  |                Nanded                  |        NED         |     03:40     |     03:45     |     5:00      |       432 KM       |    2     
+  11  |               Nizamabad                |        NZB         |     06:20     |     06:22     |     2:00      |       543 KM       |    2     
+  12  |               Kamareddi                |        KMC         |     07:13     |     07:15     |     2:00      |       595 KM       |    2     
+  13  |         Secunderabad Junction          |         SC         |     09:25     |     09:35     |     10:00     |       704 KM       |    2     
+  14  |           Kazipet Junction             |        KZJ         |     11:23     |     11:25     |     2:00      |       836 KM       |    2     
+  15  |               Warangal                 |         WL         |     11:38     |     11:40     |     2:00      |       846 KM       |    2     
+  16  |                Khammam                 |        KMT         |     13:05     |     13:07     |     2:00      |       953 KM       |    2     
+  17  |          Vijayawada Junction           |        BZA         |     15:20     |     15:40     |     20:00     |      1054 KM       |    2     
+  18  |                 Eluru                  |         EE         |     16:25     |     16:27     |     2:00      |      1114 KM       |    2     
+  19  |              Rajamundry                |        RJY         |     17:59     |     18:01     |     2:00      |      1204 KM       |    2     
+  20  |           Samalkot Junction            |        SLO         |     18:50     |     18:52     |     2:00      |      1254 KM       |    2     
+  21  |                 Tuni                   |        TUNI        |     19:25     |     19:27     |     2:00      |      1307 KM       |    2     
+  22  |             Ellamanchili               |        YLM         |     19:55     |     19:57     |     2:00      |      1347 KM       |    2     
+  23  |              Anakapalle                |        AKP         |     20:18     |     20:20     |     2:00      |      1371 KM       |    2     
+  24  |                Duvvada                 |        DVD         |     21:43     |     21:45     |     2:00      |      1387 KM       |    2     
+  25  |             Vishakapatnam              |        VSKP        |     22:15     |     Ends      |       -       |      1404 KM       |    2     

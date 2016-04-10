@@ -1,0 +1,20 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Mannargudi                |         MQ         |     Start     |     05:30     |       -       |        0 KM        |    1     
+  2   |             Nidamangalam               |        NMJ         |     05:53     |     05:55     |     2:00      |       14 KM        |    1     
+  3   |          Thiruvarur Junction           |        TVR         |     06:20     |     06:25     |     5:00      |       38 KM        |    1     
+  4   |              Peralam Jn                |        PEM         |     06:54     |     06:55     |     1:00      |       61 KM        |    1     
+  5   |            Mayiladuturai J             |         MV         |     07:15     |     07:20     |     5:00      |       77 KM        |    1     
+  6   |            Vithisvarankol              |        VDL         |     07:34     |     07:35     |     1:00      |       91 KM        |    1     
+  7   |               Sirkazhi                 |         SY         |     07:41     |     07:42     |     1:00      |       97 KM        |    1     
+  8   |              Chidambaram               |        CDM         |     07:58     |     08:00     |     2:00      |       114 KM       |    1     
+  9   |            Cuddalore Port              |        CUPJ        |     08:35     |     08:36     |     1:00      |       152 KM       |    1     
+  10  |          Villuparam Junction           |         VM         |     09:50     |     09:55     |     5:00      |       199 KM       |    1     
+  11  |              Tirukoilur                |        TRK         |     10:24     |     10:25     |     1:00      |       232 KM       |    1     
+  12  |            Tiruvannamalai              |        TNM         |     11:18     |     11:20     |     2:00      |       266 KM       |    1     
+  13  |                 Polur                  |        PRL         |     11:54     |     11:55     |     1:00      |       297 KM       |    1     
+  14  |               Arni Road                |        ARV         |     12:09     |     12:10     |     1:00      |       314 KM       |    1     
+  15  |             Vellore Cant               |        VLR         |     12:48     |     12:50     |     2:00      |       349 KM       |    1     
+  16  |           Katpadi Junction             |        KPD         |     13:40     |     13:45     |     5:00      |       359 KM       |    1     
+  17  |                Chittor                 |        CTO         |     14:41     |     14:42     |     1:00      |       391 KM       |    1     
+  18  |            Pakala Junction             |        PAK         |     15:19     |     15:20     |     1:00      |       421 KM       |    1     
+  19  |               Tirupati                 |        TPTY        |     16:35     |     Ends      |       -       |       463 KM       |    1     

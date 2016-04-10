@@ -1,0 +1,21 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Kolkata                 |        KOAA        |     Start     |     22:45     |       -       |        0 KM        |    1     
+  2   |          Barddhaman Junction           |        BWN         |     00:07     |     00:10     |     3:00      |       98 KM        |    2     
+  3   |               Durgapur                 |        DGR         |     01:00     |     01:02     |     2:00      |       161 KM       |    2     
+  4   |           Asansol Junction             |        ASN         |     01:31     |     01:36     |     5:00      |       203 KM       |    2     
+  5   |           Dhanbad Junction             |        DHN         |     02:50     |     03:00     |     10:00     |       262 KM       |    2     
+  6   |                Koderma                 |        KQR         |     04:28     |     04:29     |     1:00      |       384 KM       |    2     
+  7   |             Gaya Junction              |        GAYA        |     05:50     |     05:55     |     5:00      |       460 KM       |    2     
+  8   |         Mughal Sarai Junction          |        MGS         |     09:02     |     09:22     |     20:00     |       663 KM       |    2     
+  9   |          Allahabad Junction            |        ALD         |     11:30     |     11:35     |     5:00      |       816 KM       |    2     
+  10  |            Kanpur Central              |        CNB         |     14:00     |     14:15     |     15:00     |      1010 KM       |    2     
+  11  |            Tundla Junction             |        TDL         |     17:20     |     17:25     |     5:00      |      1240 KM       |    2     
+  12  |               Agra Fort                |         AF         |     18:05     |     18:30     |     25:00     |      1263 KM       |    2     
+  13  |           Achhnera Junction            |         AH         |     19:04     |     19:06     |     2:00      |      1289 KM       |    2     
+  14  |          Bharatpur Junction            |        BTE         |     19:43     |     19:45     |     2:00      |      1316 KM       |    2     
+  15  |           Bandikui Junction            |        BKI         |     21:45     |     21:47     |     2:00      |      1413 KM       |    2     
+  16  |                Jaipur                  |         JP         |     23:10     |     23:20     |     10:00     |      1503 KM       |    2     
+  17  |            Degana Junction             |        DNA         |     01:40     |     01:43     |     3:00      |      1667 KM       |    3     
+  18  |                Nagaur                  |        NGO         |     03:34     |     03:35     |     1:00      |      1769 KM       |    3     
+  19  |                 Nokha                  |        NOK         |     04:16     |     04:17     |     1:00      |      1820 KM       |    3     
+  20  |           Bikaner Junction             |        BKN         |     05:50     |     Ends      |       -       |      1885 KM       |    3     

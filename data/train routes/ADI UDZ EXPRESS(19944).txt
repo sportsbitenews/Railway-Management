@@ -1,0 +1,9 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  2   |            Asarva Junction             |        ASV         |     23:13     |     23:15     |     2:00      |        2 KM        |    1     
+  3   |              Sardargram                |        SDGM        |     23:24     |     23:26     |     2:00      |        7 KM        |    1     
+  4   |              Himmatnagar               |        HMT         |     01:35     |     01:50     |     15:00     |       88 KM        |    2     
+  5   |               Dungarpur                |        DNRP        |     04:55     |     04:57     |     2:00      |       183 KM       |    2     
+  6   |            Jai Samand Road             |        JYM         |     06:35     |     06:37     |     2:00      |       235 KM       |    2     
+  7   |                 Zawar                  |         ZW         |     07:17     |     07:19     |     2:00      |       258 KM       |    2     
+  8   |             Kharwa Chanda              |        KRCD        |     08:08     |     08:10     |     2:00      |       273 KM       |    2     
+  9   |             Udaipur City               |        UDZ         |     09:20     |     Ends      |       -       |       298 KM       |    2     

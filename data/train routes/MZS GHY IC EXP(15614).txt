@@ -1,0 +1,24 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Murkeongselek              |        MZS         |     Start     |     20:00     |       -       |        0 KM        |    1     
+  2   |                 Telam                  |        TQM         |     20:28     |     20:30     |     2:00      |       25 KM        |    1     
+  4   |              Silapathar                |        SPTR        |     21:04     |     21:06     |     2:00      |       62 KM        |    1     
+  5   |                Dhemaji                 |        DMC         |     21:33     |     21:35     |     2:00      |       85 KM        |    1     
+  6   |               Gogamukh                 |        GOM         |     22:01     |     22:03     |     2:00      |       111 KM       |    1     
+  7   |            North Lakhimpur             |        NLP         |     23:00     |     23:05     |     5:00      |       154 KM       |    1     
+  8   |            KATHAL PUKHURI              |        KTPR        |     23:25     |     23:27     |     2:00      |       171 KM       |    1     
+  9   |                Harmuti                 |        HMY         |     23:47     |     23:49     |     2:00      |       184 KM       |    1     
+  10  |               Tatibahar                |        TBH         |     00:10     |     00:12     |     2:00      |       202 KM       |    2     
+  11  |                Gohpur                  |        GPZ         |     00:38     |     00:40     |     2:00      |       225 KM       |    2     
+  12  |                 Helem                  |        HML         |     01:08     |     01:10     |     2:00      |       244 KM       |    2     
+  13  |            Viswanath Chrli             |        VNE         |     01:42     |     01:44     |     2:00      |       276 KM       |    2     
+  14  |               BALIPARA                 |        BVU         |     02:47     |     02:49     |     2:00      |       318 KM       |    2     
+  15  |            Rangapara North             |        RPAN        |     03:00     |     03:15     |     15:00     |       327 KM       |    2     
+  16  |             New Misamari               |        NMM         |     03:30     |     03:32     |     2:00      |       338 KM       |    2     
+  17  |                Majbat                  |        MJBT        |     04:04     |     04:05     |     1:00      |       367 KM       |    2     
+  18  |              Rowta Bagan               |        RWTB        |     04:17     |     04:18     |     1:00      |       377 KM       |    2     
+  19  |               Udalguri                 |        ULG         |     04:35     |     04:37     |     2:00      |       389 KM       |    2     
+  20  |                Tangla                  |        TNL         |     05:04     |     05:05     |     1:00      |       412 KM       |    2     
+  21  |              Khoirabari                |        KBY         |     05:20     |     05:21     |     1:00      |       423 KM       |    2     
+  22  |               GORESUAR                 |        GVR         |     05:36     |     05:37     |     1:00      |       435 KM       |    2     
+  23  |           Rangiya Junction             |        RNY         |     06:25     |     06:50     |     25:00     |       450 KM       |    2     
+  24  |               Kamakhya                 |        KYQ         |     08:40     |     Ends      |       -       |       491 KM       |    2     

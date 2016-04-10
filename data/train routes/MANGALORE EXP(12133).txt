@@ -1,0 +1,15 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Mumbai Cst                |        CSTM        |     Start     |     22:00     |       -       |        0 KM        |    1     
+  2   |                 Thane                  |        TNA         |     22:33     |     22:35     |     2:00      |       34 KM        |    1     
+  3   |                Panvel                  |        PNVL        |     23:12     |     23:15     |     3:00      |       69 KM        |    1     
+  4   |               Ratnagiri                |         RN         |     03:40     |     03:45     |     5:00      |       431 KM       |    2     
+  5   |               Kankavali                |        KKW         |     05:10     |     05:11     |     1:00      |       587 KM       |    2     
+  6   |                Madgaon                 |        MAO         |     07:05     |     07:15     |     10:00     |       765 KM       |    2     
+  7   |                Karwar                  |        KAWR        |     08:10     |     08:11     |     1:00      |       847 KM       |    2     
+  8   |                 Kumta                  |         KT         |     09:00     |     09:01     |     1:00      |       924 KM       |    2     
+  9   |                Bhatkal                 |        BTJL        |     09:57     |     09:58     |     1:00      |      1001 KM       |    2     
+  10  |                Byndoor                 |        BYNR        |     10:11     |     10:12     |     1:00      |      1023 KM       |    2     
+  11  |               Kundapura                |        KUDA        |     10:40     |     10:41     |     1:00      |      1070 KM       |    2     
+  12  |                 Udupi                  |         UD         |     11:10     |     11:11     |     1:00      |      1115 KM       |    2     
+  13  |               Surathkal                |         SL         |     12:00     |     12:01     |     1:00      |      1173 KM       |    2     
+  14  |          Mangalore Junction            |        MAJN        |     12:40     |     Ends      |       -       |      1196 KM       |    2     

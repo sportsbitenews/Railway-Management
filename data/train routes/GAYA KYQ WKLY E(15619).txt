@@ -1,0 +1,22 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |             Gaya Junction              |        GAYA        |     Start     |     13:00     |       -       |        0 KM        |    1     
+  2   |                Nawadah                 |        NWD         |     13:50     |     13:52     |     2:00      |       59 KM        |    1     
+  3   |             Waris Aleganj              |        WRS         |     14:06     |     14:07     |     1:00      |       78 KM        |    1     
+  4   |               Sheikpura                |        SHK         |     14:28     |     14:29     |     1:00      |       103 KM       |    1     
+  5   |             Kiul Junction              |        KIUL        |     16:07     |     16:12     |     5:00      |       130 KM       |    1     
+  6   |               Abhaipur                 |        AHA         |     16:40     |     16:41     |     1:00      |       153 KM       |    1     
+  7   |           Jamalpur Junction            |        JMP         |     17:22     |     17:27     |     5:00      |       175 KM       |    1     
+  8   |               Bhagalpur                |        BGP         |     18:45     |     18:50     |     5:00      |       228 KM       |    1     
+  9   |          Sahibganj Junction            |        SBG         |     20:30     |     20:35     |     5:00      |       302 KM       |    1     
+  10  |           Barharwa Junction            |        BHW         |     21:48     |     21:50     |     2:00      |       356 KM       |    1     
+  11  |         New Farakka Junction           |        NFK         |     22:17     |     22:19     |     2:00      |       371 KM       |    1     
+  12  |              Malda Town                |        MLDT        |     23:20     |     23:35     |     15:00     |       405 KM       |    1     
+  13  |            Barsoi Junction             |        BOE         |     00:46     |     00:48     |     2:00      |       493 KM       |    2     
+  14  |              Kishanganj                |        KNE         |     01:35     |     01:40     |     5:00      |       551 KM       |    2     
+  15  |            New Jalpaiguri              |        NJP         |     03:30     |     03:50     |     20:00     |       638 KM       |    2     
+  16  |            New Cooch Behar             |        NCB         |     06:15     |     06:20     |     5:00      |       764 KM       |    2     
+  17  |            New Alipurdaur              |        NOQ         |     06:37     |     06:42     |     5:00      |       783 KM       |    2     
+  18  |               Kokrajhar                |        KOJ         |     07:43     |     07:45     |     2:00      |       862 KM       |    2     
+  19  |            New Bongaigaon              |        NBQ         |     08:50     |     09:00     |     10:00     |       889 KM       |    2     
+  20  |             Goalpara Town              |        GLPT        |     09:44     |     09:46     |     2:00      |       969 KM       |    2     
+  21  |               Kamakhya                 |        KYQ         |     12:30     |     Ends      |       -       |      1091 KM       |    2     

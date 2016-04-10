@@ -1,0 +1,19 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Hubli Junction              |        UBL         |     Start     |     20:25     |       -       |        0 KM        |    1     
+  2   |                Haveri                  |        HVR         |     21:28     |     21:30     |     2:00      |       76 KM        |    1     
+  3   |              Ranibennur                |        RNR         |     22:06     |     22:07     |     1:00      |       108 KM       |    1     
+  4   |                Harihar                 |        HRR         |     22:33     |     22:35     |     2:00      |       131 KM       |    1     
+  5   |               Davangere                |        DVG         |     22:50     |     22:53     |     3:00      |       144 KM       |    1     
+  6   |            Birur Junction              |        RRB         |     00:38     |     00:40     |     2:00      |       259 KM       |    2     
+  7   |           Arsikere Junction            |        ASK         |     01:30     |     01:35     |     5:00      |       304 KM       |    2     
+  8   |                Tiptur                  |        TTR         |     02:08     |     02:10     |     2:00      |       330 KM       |    2     
+  9   |                Tumkur                  |         TK         |     03:23     |     03:25     |     2:00      |       400 KM       |    2     
+  10  |          Yesvantpur Junction           |        YPR         |     05:00     |     05:30     |     30:00     |       464 KM       |    2     
+  11  |               Banaswadi                |        BAND        |     05:53     |     05:55     |     2:00      |       479 KM       |    2     
+  12  |            Krishnarajapurm             |        KJM         |     06:08     |     06:10     |     2:00      |       487 KM       |    2     
+  13  |              Bangarapet                |        BWT         |     07:08     |     07:10     |     2:00      |       543 KM       |    2     
+  14  |              Jolarpettai               |        JTJ         |     08:23     |     08:25     |     2:00      |       621 KM       |    2     
+  15  |           Katpadi Junction             |        KPD         |     09:28     |     09:30     |     2:00      |       705 KM       |    2     
+  16  |               Arakkonam                |        AJJ         |     10:23     |     10:25     |     2:00      |       765 KM       |    2     
+  17  |               Perambur                 |        PER         |     11:13     |     11:15     |     2:00      |       828 KM       |    2     
+  18  |            Chennai Central             |        MAS         |     11:55     |     Ends      |       -       |       834 KM       |    2     

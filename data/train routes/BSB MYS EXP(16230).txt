@@ -1,0 +1,35 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |           Varanasi Junction            |        BSB         |     Start     |     21:05     |       -       |        0 KM        |    1     
+  2   |               Mirzapur                 |        MZP         |     22:46     |     22:48     |     2:00      |       76 KM        |    1     
+  3   |                Cheoki                  |        COI         |     00:28     |     00:30     |     2:00      |       157 KM       |    2     
+  4   |                 Satna                  |        STA         |     03:10     |     03:20     |     10:00     |       326 KM       |    2     
+  5   |                Maihar                  |        MYR         |     03:44     |     03:46     |     2:00      |       362 KM       |    2     
+  6   |                 Katni                  |        KTE         |     04:35     |     04:40     |     5:00      |       425 KM       |    2     
+  7   |               Jabalpur                 |        JBP         |     06:00     |     06:10     |     10:00     |       515 KM       |    2     
+  8   |              Narsinghpur               |         NU         |     07:30     |     07:32     |     2:00      |       599 KM       |    2     
+  9   |               Pipariya                 |        PPI         |     08:42     |     08:44     |     2:00      |       693 KM       |    2     
+  10  |            Itarsi Junction             |         ET         |     09:50     |     10:00     |     10:00     |       760 KM       |    2     
+  11  |                Khandwa                 |        KNW         |     13:40     |     13:45     |     5:00      |       944 KM       |    2     
+  12  |           Bhusaval Junction            |        BSL         |     15:20     |     15:30     |     10:00     |      1067 KM       |    2     
+  13  |            Manmad Junction             |        MMR         |     18:00     |     18:05     |     5:00      |      1251 KM       |    2     
+  14  |               Kopargaon                |        KPG         |     19:48     |     19:50     |     2:00      |      1293 KM       |    2     
+  15  |              Ahmadnagar                |        ANG         |     22:27     |     22:30     |     3:00      |      1404 KM       |    2     
+  16  |            Daund Junction              |         DD         |     00:10     |     00:20     |     10:00     |      1488 KM       |    3     
+  17  |           Solapur Junction             |        SUR         |     04:15     |     04:25     |     10:00     |      1676 KM       |    3     
+  18  |               Gulbarga                 |         GR         |     07:27     |     07:30     |     3:00      |      1789 KM       |    3     
+  19  |                Yadgir                  |         YG         |     08:53     |     08:55     |     2:00      |      1864 KM       |    3     
+  20  |                Krishna                 |        KSN         |     09:23     |     09:25     |     2:00      |      1908 KM       |    3     
+  21  |                Raichur                 |         RC         |     09:55     |     09:57     |     2:00      |      1933 KM       |    3     
+  22  |           Manthralayam Road            |        MALM        |     10:18     |     10:20     |     2:00      |      1961 KM       |    3     
+  23  |                 Adoni                  |         AD         |     10:53     |     10:55     |     2:00      |      2002 KM       |    3     
+  24  |           Guntakal Junction            |        GTL         |     11:55     |     12:10     |     15:00     |      2054 KM       |    3     
+  25  |           Bellary Junction             |        BAY         |     14:13     |     14:15     |     2:00      |      2104 KM       |    3     
+  26  |              Chitradurg                |        CTA         |     17:18     |     17:20     |     2:00      |      2255 KM       |    3     
+  27  |                 Kadur                  |        DRU         |     19:48     |     19:50     |     2:00      |      2363 KM       |    3     
+  28  |           Arsikere Junction            |        ASK         |     20:45     |     20:50     |     5:00      |      2402 KM       |    3     
+  29  |                Tumkur                  |         TK         |     22:28     |     22:30     |     2:00      |      2498 KM       |    3     
+  30  |          Yesvantpur Junction           |        YPR         |     23:38     |     23:40     |     2:00      |      2562 KM       |    3     
+  31  |         Bangalore Cy Junction          |        SBC         |     00:10     |     00:15     |     5:00      |      2568 KM       |    4     
+  32  |                Kengeri                 |        KGI         |     00:31     |     00:33     |     2:00      |      2580 KM       |    4     
+  33  |                Mandya                  |        MYA         |     01:28     |     01:30     |     2:00      |      2661 KM       |    4     
+  34  |            Mysore Junction             |        MYS         |     03:00     |     Ends      |       -       |      2706 KM       |    4     

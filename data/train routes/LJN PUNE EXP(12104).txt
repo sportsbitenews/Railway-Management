@@ -1,0 +1,14 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |              Lucknow Ne                |        LJN         |     Start     |     06:30     |       -       |        0 KM        |    1     
+  2   |            Kanpur Central              |        CNB         |     07:50     |     08:00     |     10:00     |       74 KM        |    1     
+  3   |                 Orai                   |        ORAI        |     09:48     |     09:50     |     2:00      |       180 KM       |    1     
+  4   |            Jhansi Junction             |        JHS         |     11:45     |     12:00     |     15:00     |       294 KM       |    1     
+  5   |             Bina Junction              |        BINA        |     14:05     |     14:10     |     5:00      |       446 KM       |    1     
+  6   |           Bhopal  Junction             |        BPL         |     16:25     |     16:35     |     10:00     |       585 KM       |    1     
+  7   |            Itarsi Junction             |         ET         |     18:15     |     18:20     |     5:00      |       676 KM       |    1     
+  8   |                Khandwa                 |        KNW         |     21:00     |     21:05     |     5:00      |       860 KM       |    1     
+  9   |           Bhusaval Junction            |        BSL         |     22:45     |     22:55     |     10:00     |       983 KM       |    1     
+  10  |            Manmad Junction             |        MMR         |     01:10     |     01:15     |     5:00      |      1167 KM       |    2     
+  11  |               Kopargaon                |        KPG         |     02:28     |     02:30     |     2:00      |      1209 KM       |    2     
+  12  |            Daund Junction              |         DD         |     06:05     |     06:20     |     15:00     |      1404 KM       |    2     
+  13  |             Pune Junction              |        PUNE        |     08:05     |     Ends      |       -       |      1480 KM       |    2     

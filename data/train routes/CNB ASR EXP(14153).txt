@@ -1,0 +1,14 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |            Kanpur Central              |        CNB         |     Start     |     17:15     |       -       |        0 KM        |    1     
+  2   |               Bareilly                 |         BE         |     23:07     |     23:12     |     5:00      |       284 KM       |    1     
+  3   |               Moradabad                |         MB         |     00:40     |     00:50     |     10:00     |       375 KM       |    2     
+  4   |            Laksar Junction             |        LRJ         |     02:42     |     02:44     |     2:00      |       514 KM       |    2     
+  5   |                Roorkee                 |         RK         |     03:00     |     03:02     |     2:00      |       532 KM       |    2     
+  6   |              Saharanpur                |        SRE         |     03:50     |     03:55     |     5:00      |       567 KM       |    2     
+  7   |         Ambala Cant Junction           |        UMB         |     05:05     |     05:10     |     5:00      |       648 KM       |    2     
+  8   |           Rajpura Junction             |        RPJ         |     05:33     |     05:35     |     2:00      |       676 KM       |    2     
+  9   |           Ludhiana Junction            |        LDH         |     06:48     |     06:55     |     7:00      |       762 KM       |    2     
+  10  |           Phagwara Junction            |        PGW         |     07:22     |     07:24     |     2:00      |       798 KM       |    2     
+  11  |            Jalandhar City              |        JUC         |     07:53     |     07:58     |     5:00      |       819 KM       |    2     
+  12  |                 Beas                   |        BEAS        |     08:35     |     08:37     |     2:00      |       855 KM       |    2     
+  13  |           Amritsar Junction            |        ASR         |     09:40     |     Ends      |       -       |       898 KM       |    2     

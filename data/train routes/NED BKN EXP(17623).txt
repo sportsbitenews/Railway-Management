@@ -1,0 +1,30 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Nanded                  |        NED         |     Start     |     09:00     |       -       |        0 KM        |    1     
+  2   |            Purna Junction              |        PAU         |     09:30     |     09:50     |     20:00     |       31 KM        |    1     
+  3   |                Basmat                  |        BMF         |     10:04     |     10:05     |     1:00      |       53 KM        |    1     
+  4   |            Hingoli Deccan              |        HNL         |     10:59     |     11:00     |     1:00      |       111 KM       |    1     
+  5   |                Washim                  |        WHM         |     11:59     |     12:00     |     1:00      |       159 KM       |    1     
+  6   |            Akola Junction              |         AK         |     13:50     |     13:55     |     5:00      |       238 KM       |    1     
+  7   |           Bhusaval Junction            |        BSL         |     15:45     |     16:00     |     15:00     |       378 KM       |    1     
+  8   |           Jalgaon Junction             |         JL         |     16:50     |     16:55     |     5:00      |       402 KM       |    1     
+  9   |                Amalner                 |         AN         |     18:06     |     18:08     |     2:00      |       457 KM       |    1     
+  10  |               Nandurbar                |        NDB         |     19:45     |     19:50     |     5:00      |       552 KM       |    1     
+  11  |                 Surat                  |         ST         |     23:30     |     23:40     |     10:00     |       713 KM       |    1     
+  12  |           Bharuch Junction             |         BH         |     00:34     |     00:35     |     1:00      |       771 KM       |    2     
+  13  |           Vadodara Junction            |        BRC         |     01:36     |     01:41     |     5:00      |       841 KM       |    2     
+  14  |            Anand Junction              |        ANND        |     02:15     |     02:16     |     1:00      |       877 KM       |    2     
+  15  |            Nadiad Junction             |         ND         |     02:32     |     02:33     |     1:00      |       896 KM       |    2     
+  16  |          Ahmedabad Junction            |        ADI         |     03:35     |     03:55     |     20:00     |       941 KM       |    2     
+  17  |           Mahesana Junction            |        MSH         |     06:00     |     06:02     |     2:00      |      1009 KM       |    2     
+  18  |           Palanpur Junction            |        PNU         |     07:58     |     08:00     |     2:00      |      1074 KM       |    2     
+  19  |               Abu Road                 |        ABR         |     08:55     |     09:05     |     10:00     |      1127 KM       |    2     
+  20  |              Sirohi Road               |        SOH         |     09:47     |     09:49     |     2:00      |      1171 KM       |    2     
+  21  |                 Falna                  |         FA         |     11:00     |     11:02     |     2:00      |      1226 KM       |    2     
+  22  |            Marwar Junction             |         MJ         |     12:30     |     12:40     |     10:00     |      1292 KM       |    2     
+  23  |              Pali Marwar               |        PMY         |     13:08     |     13:10     |     2:00      |      1323 KM       |    2     
+  24  |             Luni Junction              |        LUNI        |     13:42     |     13:44     |     2:00      |      1364 KM       |    2     
+  25  |           Jodhpur Junction             |         JU         |     14:15     |     14:30     |     15:00     |      1395 KM       |    2     
+  26  |          Merta Road Junction           |        MTD         |     15:52     |     15:57     |     5:00      |      1499 KM       |    2     
+  27  |                Nagaur                  |        NGO         |     16:47     |     16:49     |     2:00      |      1557 KM       |    2     
+  28  |                 Nokha                  |        NOK         |     17:41     |     17:43     |     2:00      |      1608 KM       |    2     
+  29  |           Bikaner Junction             |        BKN         |     19:45     |     Ends      |       -       |      1672 KM       |    2     

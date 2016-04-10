@@ -1,0 +1,27 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                 Puri                   |        PURI        |     Start     |     15:00     |       -       |        0 KM        |    1     
+  2   |         Khurda Road Junction           |        KUR         |     15:50     |     16:15     |     25:00     |       44 KM        |    1     
+  3   |               Chatrapur                |        CAP         |     17:48     |     17:50     |     2:00      |       169 KM       |    1     
+  4   |               Brahmapur                |        BAM         |     18:10     |     18:15     |     5:00      |       191 KM       |    1     
+  5   |                Sompeta                 |        SPT         |     18:48     |     18:50     |     2:00      |       233 KM       |    1     
+  6   |                Palasa                  |        PSA         |     19:30     |     19:32     |     2:00      |       265 KM       |    1     
+  7   |            Srikakulam Road             |        CHE         |     20:25     |     20:27     |     2:00      |       338 KM       |    1     
+  8   |         Vizianagram Junction           |        VZM         |     21:20     |     21:25     |     5:00      |       407 KM       |    1     
+  9   |             Vishakapatnam              |        VSKP        |     22:35     |     22:55     |     20:00     |       468 KM       |    1     
+  10  |                Duvvada                 |        DVD         |     23:30     |     23:32     |     2:00      |       485 KM       |    1     
+  11  |              Anakapalle                |        AKP         |     23:44     |     23:45     |     1:00      |       501 KM       |    1     
+  12  |           Samalkot Junction            |        SLO         |     01:09     |     01:10     |     1:00      |       618 KM       |    2     
+  13  |              Rajamundry                |        RJY         |     01:58     |     02:00     |     2:00      |       669 KM       |    2     
+  14  |                 Eluru                  |         EE         |     03:34     |     03:35     |     1:00      |       759 KM       |    2     
+  15  |          Vijayawada Junction           |        BZA         |     05:10     |     05:20     |     10:00     |       818 KM       |    2     
+  16  |            Guntur Junction             |        GNT         |     06:10     |     06:25     |     15:00     |       850 KM       |    2     
+  17  |             Narasaraopet               |        NRT         |     07:15     |     07:16     |     1:00      |       895 KM       |    2     
+  18  |               Donakonda                |        DKD         |     08:30     |     08:31     |     1:00      |       970 KM       |    2     
+  19  |             Markapur Road              |        MRK         |     08:57     |     08:59     |     2:00      |       994 KM       |    2     
+  20  |                Nandyal                 |        NDL         |     11:20     |     11:25     |     5:00      |      1107 KM       |    2     
+  21  |                 Dhone                  |        DHNE        |     12:40     |     12:45     |     5:00      |      1183 KM       |    2     
+  22  |               Anantapur                |        ATP         |     14:34     |     14:35     |     1:00      |      1295 KM       |    2     
+  23  |         Dharmavaram Junction           |        DMM         |     15:50     |     15:55     |     5:00      |      1329 KM       |    2     
+  24  |               Hindupur                 |        HUP         |     17:09     |     17:10     |     1:00      |      1407 KM       |    2     
+  25  |           Yelhanka Junction            |        YNK         |     19:34     |     19:35     |     1:00      |      1491 KM       |    2     
+  26  |          Yesvantpur Junction           |        YPR         |     20:00     |     Ends      |       -       |      1503 KM       |    2     

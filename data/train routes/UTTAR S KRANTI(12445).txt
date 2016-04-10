@@ -1,0 +1,11 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |               New Delhi                |        NDLS        |     Start     |     20:50     |       -       |        0 KM        |    1     
+  2   |           Panipat Junction             |        PNP         |     22:03     |     22:05     |     2:00      |       90 KM        |    1     
+  3   |         Ambala Cant Junction           |        UMB         |     23:53     |     23:58     |     5:00      |       199 KM       |    1     
+  4   |           Ludhiana Junction            |        LDH         |     01:37     |     01:47     |     10:00     |       312 KM       |    2     
+  5   |            Jalandhar Cant              |        JRC         |     02:35     |     02:38     |     3:00      |       365 KM       |    2     
+  6   |            Pathankot Cantt             |        PTKC        |     04:25     |     04:30     |     5:00      |       478 KM       |    2     
+  7   |                Kathua                  |        KTHU        |     04:58     |     05:00     |     2:00      |       501 KM       |    2     
+  8   |              Jammu Tawi                |        JAT         |     06:35     |     06:45     |     10:00     |       577 KM       |    2     
+  9   |             Ram Nagar J K              |        RMJK        |     07:39     |     07:41     |     2:00      |       620 KM       |    2     
+  10  |               Udhampur                 |        UHP         |     07:58     |     08:00     |     2:00      |       630 KM       |    2     

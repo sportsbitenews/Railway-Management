@@ -1,0 +1,19 @@
+  #   |                Station                 |    Station Code    |     Arr.      |     Depr.     |   Stop(Min)   |      Distance      |   Day    
+  1   |                Karwar                  |        KAWR        |     Start     |     05:30     |       -       |        0 KM        |    1     
+  2   |                 Kumta                  |         KT         |     06:12     |     06:14     |     2:00      |       78 KM        |    1     
+  3   |               Honnavar                 |        HNA         |     06:28     |     06:30     |     2:00      |       97 KM        |    1     
+  4   |                Bhatkal                 |        BTJL        |     07:06     |     07:08     |     2:00      |       154 KM       |    1     
+  5   |                Byndoor                 |        BYNR        |     07:36     |     07:38     |     2:00      |       176 KM       |    1     
+  6   |               Kundapura                |        KUDA        |     08:14     |     08:16     |     2:00      |       223 KM       |    1     
+  7   |                 Udupi                  |         UD         |     08:38     |     08:40     |     2:00      |       268 KM       |    1     
+  8   |               Surathkal                |         SL         |     09:50     |     09:52     |     2:00      |       326 KM       |    1     
+  9   |          Mangalore Junction            |        MAJN        |     10:55     |     11:10     |     15:00     |       349 KM       |    1     
+  10  |               Bantawala                |        BNTL        |     11:44     |     11:45     |     1:00      |       368 KM       |    1     
+  11  |             Kabakaputtur               |        KBPR        |     12:13     |     12:15     |     2:00      |       393 KM       |    1     
+  12  |            Subrahmanya Roa             |        SBHR        |     13:00     |     13:10     |     10:00     |       435 KM       |    1     
+  13  |              Sakleshpur                |        SKLR        |     15:30     |     15:40     |     10:00     |       545 KM       |    1     
+  14  |                Hassan                  |        HAS         |     16:48     |     16:50     |     2:00      |       587 KM       |    1     
+  15  |           Arsikere Junction            |        ASK         |     18:30     |     18:50     |     20:00     |       634 KM       |    1     
+  16  |                Tiptur                  |        TTR         |     19:13     |     19:15     |     2:00      |       660 KM       |    1     
+  17  |                Tumkur                  |         TK         |     20:28     |     20:30     |     2:00      |       730 KM       |    1     
+  18  |          Yesvantpur Junction           |        YPR         |     22:00     |     Ends      |       -       |       794 KM       |    1     
