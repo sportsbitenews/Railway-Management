@@ -2,7 +2,7 @@ import java.sql.*;
 public class SQLConnection
 {
     static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
-    static final String DB_URL = "jdbc:mysql://localhost/Railway";
+    static final String DB_URL = "jdbc:mysql://localhost/?";
     static String USER;
     static String PASS;
     Connection con = null;
@@ -15,7 +15,7 @@ public class SQLConnection
     {
     	try
     	{
-    		Class.forName("com.mysql.jdbc.Driver");
+    		Class.forName(JDBC_DRIVER);
     		con = DriverManager.getConnection(DB_URL, USER, PASS);
     	}
     	catch(SQLException se)
