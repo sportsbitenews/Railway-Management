@@ -86,11 +86,3 @@
   85  |                Mahajan                 |        MHJ         |     02:14     |     02:15     |     1:00      |      2958 KM       |    4     
   86  |              Lunkaransar               |        LKS         |     02:51     |     02:52     |     1:00      |      2997 KM       |    4     
   87  |           Lalgarh Junction             |        LGH         |     04:30     |     Ends      |       -       |      3073 KM       |    4     
-  88  |          Samastipur Junction           |        SPJ         |     15:25     |     18:15     |    170:00     |      1354 KM       |    2     
-  89  |               Muktapur                 |        MKPR        |     18:22     |     18:23     |     1:00      |      1358 KM       |    2     
-  90  |               Kishanpur                |        KSP         |     18:31     |     18:32     |     1:00      |      1364 KM       |    2     
-  91  |             Rambhaddarpur              |        RBZ         |     18:40     |     18:41     |     1:00      |      1371 KM       |    2     
-  92  |               Haiaghat                 |        HYT         |     18:52     |     18:53     |     1:00      |      1376 KM       |    2     
-  93  |               Thalwara                 |        TLWA        |     19:03     |     19:04     |     1:00      |      1380 KM       |    2     
-  94  |             Laheria Sarai              |        LSI         |     19:15     |     19:20     |     5:00      |      1387 KM       |    2     
-  95  |          Darbhanga Junction            |        DBG         |     19:30     |     Ends      |       -       |      1392 KM       |    2     
