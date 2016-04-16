@@ -15,7 +15,7 @@ public class Database
 	public static void main(String[] args)
 	{
 		Statement stmt = null;
-		SQLConnection sq = new SQLConnection("root", "vidhan");
+		SQLConnection sq = new SQLConnection("root", "*");
 		try
 		{
 			sq.establishConnection();
