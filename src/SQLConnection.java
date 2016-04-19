@@ -1,11 +1,11 @@
 import java.sql.*;
 public class SQLConnection
 {
-    static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
-    static final String DB_URL = "jdbc:mysql://localhost/?";
-    static String USER;
-    static String PASS;
-    Connection con = null;
+    private static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
+    private static final String DB_URL = "jdbc:mysql://localhost/?";
+    private static String USER;
+    private static String PASS;
+    public Connection con = null;
     public SQLConnection(String username, String password)
     {
         USER = username;
@@ -26,6 +26,12 @@ public class SQLConnection
     	{
     		e.printStackTrace();
     	}
+    }
+    public void chooseDatabase() throws SQLException
+    {
+    	Statement stmt = null;
+    	stmt = (Statement)con.createStatement();
+		stmt.executeUpdate("use Railway;");
     }
     public void closeConnection()
     {

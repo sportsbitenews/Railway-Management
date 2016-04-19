@@ -65,7 +65,7 @@ class Signup implements ActionListener {
         f=new JFrame("Signup");
         f.getContentPane().setLayout(null);
         f.getContentPane().setBackground(Color.white);
-        l1=new JLabel("Email id");
+        l1=new JLabel("Username");
         l1.setForeground(Color.yellow);
         l1.setBounds(50,110,100,30);
         l2=new JLabel("Password");
@@ -171,7 +171,7 @@ class Signup implements ActionListener {
                 JOptionPane.showMessageDialog(null,"Fields are empty");
             }
            U=new User();
-           U.setEmail(t1.getText());
+           U.setUsername(t1.getText());
            U.setPassword(t2.getText());
            U.setName(t3.getText());
            if(h1.getSelectedItem().compareTo("Male")==0)
@@ -182,8 +182,8 @@ class Signup implements ActionListener {
            U.setMobile(t6.getText());
            U.setCity(t7.getText());
            U.setState(h2.getSelectedItem());
-           //U.print();
-           
+           Register_user rs_user = new Register_user();
+           rs_user.sign_up_user(U);
         }
         if(e.getSource()==b2) {
             f.setVisible(false);
