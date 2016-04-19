@@ -1,12 +1,6 @@
 import java.sql.*;
 public class Database 
 {
-	private void create_Database(Statement st)throws SQLException
-	{
-		st.executeUpdate("drop database if exists Railway;");
-		st.executeUpdate("create database Railway;");
-		st.executeUpdate("use Railway;");
-	}
 	private void create_admin(Statement st)throws SQLException
 	{
 		String sql = "create table if not exists Admin" + "(" + "User_ID varchar(20) not null," + "Password varchar(15) not null," + "primary key(User_ID)" + ");";
@@ -60,8 +54,6 @@ public class Database
 		{
 			sq.establishConnection();
 			stmt = (Statement)sq.con.createStatement();
-			//create_Database(stmt);
-			sq.chooseDatabase();
 			create_admin(stmt);
 			create_user(stmt);
 			create_station(stmt);

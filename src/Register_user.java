@@ -1,17 +1,14 @@
 import java.sql.PreparedStatement;
-import java.sql.Statement;
 import java.sql.SQLException;
 public class Register_user 
 {
 	public Register_user() { }
 	public void sign_up_user(User u)
 	{
-		Statement stmt = null;
 		SQLConnection sq = new SQLConnection("root", "vidhan");
 		try
 		{
 			sq.establishConnection();
-			sq.chooseDatabase();
 			String s = "insert into User values(?,?,?,?,?,?,?,?);";
 			PreparedStatement pstmt = (PreparedStatement)sq.con.prepareStatement(s);
 			pstmt.setString(1,u.getUsername());

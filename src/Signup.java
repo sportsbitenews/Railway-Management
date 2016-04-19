@@ -1,7 +1,7 @@
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-import java.util.ArrayList;
+import java.util.LinkedList;
 
 class Signup implements ActionListener {
     JFrame f;
@@ -25,7 +25,7 @@ class Signup implements ActionListener {
             "images/back-clipart-back-md.png").getImage()
             .getScaledInstance(100,30,
                     java.awt.Image.SCALE_SMOOTH)))));
-        ArrayList<String> al = new ArrayList<String>();
+        LinkedList<String> al = new LinkedList<String>();
         al.add("Andaman and Nicobar Islands");
         al.add("Andhra Pradesh");
         al.add("Arunachal Pradesh");
@@ -174,7 +174,7 @@ class Signup implements ActionListener {
            U.setUsername(t1.getText());
            U.setPassword(t2.getText());
            U.setName(t3.getText());
-           if(h1.getSelectedItem().compareTo("Male")==0)
+           if(h1.getSelectedItem().compareTo("MALE")==0)
                 U.setGender('M');
            else
                 U.setGender('F');

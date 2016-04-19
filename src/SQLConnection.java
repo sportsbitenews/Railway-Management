@@ -17,6 +17,8 @@ public class SQLConnection
     	{
     		Class.forName(JDBC_DRIVER);
     		con = DriverManager.getConnection(DB_URL, USER, PASS);
+    		Statement stmt = (Statement)con.createStatement();
+    		stmt.executeUpdate("use Railway;");
     	}
     	catch(SQLException se)
     	{
@@ -26,12 +28,6 @@ public class SQLConnection
     	{
     		e.printStackTrace();
     	}
-    }
-    public void chooseDatabase() throws SQLException
-    {
-    	Statement stmt = null;
-    	stmt = (Statement)con.createStatement();
-		stmt.executeUpdate("use Railway;");
     }
     public void closeConnection()
     {
