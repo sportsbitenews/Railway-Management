@@ -12,7 +12,7 @@ public class Station {
 	}
 	public void setStation_ID(String station_ID)
 	{
-		Station_ID = station_ID;
+		this.Station_ID = station_ID;
 	}
 	public String getStation_Name()
 	{
@@ -20,6 +20,6 @@ public class Station {
 	}
 	public void setStation_Name(String station_Name)
 	{
-		Station_Name = station_Name;
+		this.Station_Name = station_Name;
 	}
 }
