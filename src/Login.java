@@ -43,10 +43,10 @@ class Login implements ActionListener {
         b2.setForeground(Color.blue);
         b2.addActionListener(this);
         b2.setBounds(170,145,80,20);
-        
+
         b1.setMnemonic('O');
         b2.setMnemonic('C');
-        
+
         f.getContentPane().add(l1);
         f.getContentPane().add(l2);
         f.getContentPane().add(t1);
@@ -54,13 +54,30 @@ class Login implements ActionListener {
         f.getContentPane().add(b1);
         f.getContentPane().add(b2);
         f.getContentPane().add(l3);
-//        f.getContentPane().add(l4);
-        f.setBounds(0,0,320,206);
+        //        f.getContentPane().add(l4);
+        f.setBounds(0,0,320,230);
         f.setResizable(false);
         f.setVisible(true);
     }
     public void actionPerformed(ActionEvent e) {
-        if(e.getSource()==b1) {
+            if(e.getSource()==b1)
+            {
+            	Authentication A = new Authentication(t1.getText(),t2.getText());
+                if(t1.getText().length()==0||t2.getText().length()==0)
+                {
+                    JOptionPane.showMessageDialog(null,"Fields are empty");
+                }
+                else if(A.authenticate()==true)
+                {
+                    f.setVisible(false);
+                    M=new Main();
+                }
+                else
+                {
+                    JOptionPane.showMessageDialog(null,"Invalid User Name or Password");
+                }
+            }
+            /*}
             if(t1.getText().length()==0||t2.getText().length()==0) {
                 JOptionPane.showMessageDialog(null,"Fields are empty");
             }
@@ -71,7 +88,7 @@ class Login implements ActionListener {
             else {
                 JOptionPane.showMessageDialog(null,"Invalid User Name or Password");
             }
-        }
+        }*/
         if(e.getSource()==b2) {
             f.setVisible(false);
             W = new Welcome();

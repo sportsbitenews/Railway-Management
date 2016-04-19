@@ -1,6 +1,8 @@
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
+
+import java.util.Iterator;
 import java.util.LinkedList;
 
 class Signup implements ActionListener {
@@ -95,8 +97,9 @@ class Signup implements ActionListener {
         l8.setBounds(50,320,100,30);
         h2=new Choice();
         h2.setBounds(150,320,100,50);
-        for(int i=0;i<=35;i++) {
-            h2.add(al.get(i));
+        Iterator<String> itr = al.iterator(); 
+        while(itr.hasNext()) {
+        	h2.add(itr.next());
         }
         t1=new JTextField(10);
         t1.setForeground(Color.blue);
@@ -167,7 +170,8 @@ class Signup implements ActionListener {
     public void actionPerformed(ActionEvent e) {
         
         if(e.getSource()==b1) {
-            if(t1.getText().length()==0||t2.getText().length()==0||t3.getText().length()==0||t5.getText().length()==0||t6.getText().length()==0||t7.getText().length()==0) {
+            if(t1.getText().length()==0||t2.getText().length()==0||t3.getText().length()==0||t5.getText().length()==0||t6.getText().length()==0||t7.getText().length()==0)
+            {
                 JOptionPane.showMessageDialog(null,"Fields are empty");
             }
            U=new User();
@@ -184,6 +188,8 @@ class Signup implements ActionListener {
            U.setState(h2.getSelectedItem());
            Register_user rs_user = new Register_user();
            rs_user.sign_up_user(U);
+           f.setVisible(false);
+           M = new Main();
         }
         if(e.getSource()==b2) {
             f.setVisible(false);

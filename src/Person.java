@@ -33,10 +33,6 @@ public class Person
 	}
 	protected void setGender(char gender)
 	{
-		if(gender == 'm')
-			gender = 'M';
-		else if(gender == 'f')
-			gender = 'F';
 		this.gender = gender;
 	}
 }

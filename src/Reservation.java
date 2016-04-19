@@ -89,11 +89,11 @@ class Reservation implements ActionListener,FocusListener {
         if(t2.getText().length()!=0) {
             try {
                 //ps=con.prepareStatement("select Train_Name from Train where Train_No=?");
-                ps.setString(1,t2.getText());
-                rs=ps.executeQuery();
-                if(rs.next()) {
-                    t3.setText(rs.getString(1));
-                }
+                //ps.setString(1,t2.getText());
+                //rs=ps.executeQuery();
+                //if(rs.next()) {
+                  //  t3.setText(rs.getString(1));
+                //}
             }
             catch(Exception e1) {
                 System.out.println("Connection failed:"+e1);
