@@ -1,25 +1,19 @@
-import java.io.BufferedReader;
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.io.InputStreamReader;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
-import java.util.LinkedHashMap;
 import java.util.Map;
 
 public class Enter_Stations
 {
-	private BufferedReader br;
 	public Enter_Stations(SQLConnection sq)
 	{
 		try
 		{
 			Statement stmt = (Statement)sq.con.createStatement();
 			ResultSet rs = stmt.executeQuery("select * from Station;");
-			if(rs.next())
-				return ;
+			if(!rs.next())
+				store(sq);
 		}
 		catch(SQLException se)
 		{
@@ -29,23 +23,21 @@ public class Enter_Stations
 		{
 			e.printStackTrace();
 		}
+	}
+	public void store(SQLConnection sq)
+	{
+		Input_Station inps = new Input_Station();
+		inps.getStations();
+		Map<String,Station> hmap = inps.getHmap();
 		try
 		{
-			FileInputStream fstream = new FileInputStream("data/stations.txt");
-			br = new BufferedReader(new InputStreamReader(fstream));
-			String line;
-			Map<String, String> hmap = new LinkedHashMap<String,String>();
-			while((line = br.readLine()) != null)
-			{
-				int space_index = line.indexOf(" ");
-				hmap.put(line.substring(0,space_index), line.substring(space_index + 1, line.length()));
-			}
 			String s = "insert into Station values(?,?);";
 			PreparedStatement pstmt = (PreparedStatement)sq.con.prepareStatement(s);
-			for(Map.Entry<String,String> entry: hmap.entrySet())
+			for(Map.Entry<String,Station> entry: hmap.entrySet())
 			{
-				pstmt.setString(1, (String)entry.getKey());
-		        pstmt.setString(2, (String)entry.getValue());
+				Station st = entry.getValue();
+				pstmt.setString(1, st.getStation_ID());
+		        pstmt.setString(2, st.getStation_Name());
 		        pstmt.executeUpdate();
 			}
 		}
@@ -56,17 +48,6 @@ public class Enter_Stations
 		catch(Exception e)
 		{
 			e.printStackTrace();
-		}
-		finally
-		{
-			try
-			{
-				br.close();
-			}
-			catch(IOException ie)
-			{
-				ie.printStackTrace();
-			}
 		}
 	}
 }

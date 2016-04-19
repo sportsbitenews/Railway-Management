@@ -1,6 +1,7 @@
 public class Station {
 	private String Station_ID;
 	private String Station_Name;
+	public Station() { }
 	public Station(String Station_ID,String Station_Name)
 	{
 		this.Station_ID = Station_ID;
