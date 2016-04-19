@@ -9,7 +9,7 @@ public class Database
 	}
 	private static void create_admin(Statement st)throws SQLException
 	{
-		String sql = "create table Admin_table" + "(" + "User_ID varchar(20) not null," + "Password varchar(15) not null," + "primary key(User_ID)" + ");";
+		String sql = "create table Admin" + "(" + "User_ID varchar(20) not null," + "Password varchar(15) not null," + "primary key(User_ID)" + ");";
 		st.executeUpdate(sql);		
 	}
 	private static void create_user(Statement st)throws SQLException
