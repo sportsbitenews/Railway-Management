@@ -12,5 +12,5 @@ with open('trains.txt', 'w') as f:
         for section in soup.find_all(id="content"):
             for row in section.find('table').find_all('tr')[1:]:
                 columns = row.find_all('td')
-                f.write(columns[1].get_text() + " " + columns[0].get_text() + " " + columns[0].find('a').get('href') +
+                f.write(columns[0].get_text() + " " + columns[1].get_text() + " " + columns[0].find('a').get('href') +
                         "\n")

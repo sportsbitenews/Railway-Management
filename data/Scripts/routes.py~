@@ -5,8 +5,8 @@ import re
 with open('trains.txt', "r") as f:
     l = list(f.readlines())
 
-i = 0
-for train in l[:]:
+i = 710
+for train in l[710:]:
     url = train[train.find('http'):-1]
     r = requests.get(url)
     html = r.text

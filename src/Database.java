@@ -18,7 +18,7 @@ public class Database
     }
     private void create_train(Statement st)throws SQLException
     {
-        String sql = "create table if not exists Train(Train_ID int not null,Train_name varchar(50) not null,Train_type varchar(50) not null,Source_ID varchar(5) null,Destination_ID varchar(5) null,primary key(Train_ID),foreign key(Source_ID) references Station(Station_ID) on update cascade on delete cascade,foreign key(Destination_ID) references Station(Station_ID) on update no action on delete no action);";
+        String sql = "create table if not exists Train(Train_ID int not null,Train_name varchar(50) not null,Train_type varchar(50) not null,Source_ID varchar(5) not null,Destination_ID varchar(5) not null,primary key(Train_ID),foreign key(Source_ID) references Station(Station_ID) on update cascade on delete cascade,foreign key(Destination_ID) references Station(Station_ID) on update no action on delete no action);";
         st.executeUpdate(sql);
     }
     private void create_trainClass(Statement st)throws SQLException
@@ -43,7 +43,7 @@ public class Database
     }
     private void create_Route(Statement st)throws SQLException
     {
-        String sql = "Create table if not exists Route(Train_ID int not null,Station_ID varchar(8) not null, Arrival_Time time not null,Departure_Time time not null,Distance int not null,Stop_Number int not null,Primary key(Train_ID,Stop_Number));";
+        String sql = "Create table if not exists Route(Train_ID int not null,Station_ID varchar(8) not null, Arrival_Time time null,Departure_Time time null,Distance int null,Stop_Number int not null,Primary key(Train_ID,Stop_Number));";
         st.executeUpdate(sql);
     }
     public Database(SQLConnection sq)throws SQLException

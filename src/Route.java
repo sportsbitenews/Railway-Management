@@ -1,11 +1,12 @@
 public class Route	{
 	private String Station_ID;
-	private String Train_ID;
+	private int Train_ID;
 	private String Arrival_Time;
 	private String Departure_Time;
 	private int Distance;
 	private int Stop_Number;
-	public Route(String Station_ID,String Train_ID,String Arrival_Time,String Departure_Time,int Distance,int Stop_Number)
+	public Route() { };
+	public Route(String Station_ID,int Train_ID,String Arrival_Time,String Departure_Time,int Distance,int Stop_Number)
 	{
 		this.Arrival_Time=Arrival_Time;
 		this.Departure_Time=Departure_Time;
@@ -20,10 +21,10 @@ public class Route	{
 	public void setStation_ID(String station_ID) {
 		this.Station_ID = station_ID;
 	}
-	public String getTrain_ID() {
+	public int getTrain_ID() {
 		return Train_ID;
 	}
-	public void setTrain_ID(String train_ID) {
+	public void setTrain_ID(int train_ID) {
 		Train_ID = train_ID;
 	}
 	public String getArrival_Time() {
@@ -49,5 +50,9 @@ public class Route	{
 	}
 	public void setStop_Number(int stop_Number) {
 		this.Stop_Number = stop_Number;
+	}
+	public String toString()
+	{
+		return (Train_ID + " | " + Station_ID + " | " + Arrival_Time + " | " + Departure_Time + " | " + Distance + " | " + Stop_Number);
 	}
 }

@@ -6,13 +6,18 @@ public class Train {
 	private String Train_Name;
 	private String Source_ID,Destination_ID;
 	private ArrayList<Route> train;
-	public Train(int Train_no,int Train_type,String Train_Name,String Source_ID,String Destination_ID)
+	public Train() 
+	{ 
+		train = new ArrayList<Route>();
+	}
+	public Train(int Train_no,int Train_type,String Train_Name,String Source_ID,String Destination_ID,ArrayList<Route> train)
 	{
-		this.Train_No=Train_no;
-		this.Train_Type=Train_type;
-		this.Train_Name=Train_Name;
-		this.Source_ID=Source_ID;
-		this.Destination_ID=Destination_ID;
+		this.Train_No = Train_no;
+		this.Train_Type = Train_type;
+		this.Train_Name = Train_Name;
+		this.Source_ID = Source_ID;
+		this.Destination_ID = Destination_ID;
+		this.train = train;
 	}
 	public int getTrain_No() {
 		return Train_No;
@@ -50,5 +55,4 @@ public class Train {
 	public void setTrain(ArrayList<Route> train) {
 		this.train = train;
 	}
-
 }
