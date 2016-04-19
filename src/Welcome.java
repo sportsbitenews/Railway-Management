@@ -11,7 +11,7 @@ class Welcome implements ActionListener
 	JButton b1,b2;
 	Welcome()
 	{
-		img=new ImageIcon("indian-rail.jpg");
+		img=new ImageIcon("/home/vjain/workspace/Railway-Management/images/indian-rail.jpg");
 		f=new JFrame("Welcome");
 		b1=new JButton("LOGIN");
 		b1.setForeground(Color.blue);

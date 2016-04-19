@@ -1,6 +1,3 @@
-import java.sql.PreparedStatement;
-import java.sql.SQLException;
-
 public class User extends Person
 {
 	private String email, password;
@@ -98,7 +95,7 @@ public class User extends Person
 	{
 		this.security_answer = security_answer;
 	}
-	public void sign_up_user(SQLConnection sq)
+	/*public void sign_up_user(SQLConnection sq)
 	{
 		//SQLConnection sq = new SQLConnection("root", "vidhan");
 		try
@@ -130,5 +127,5 @@ public class User extends Person
 		{
 			sq.closeConnection();
 		}
-	}
+	}*/
 }
