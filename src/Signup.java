@@ -14,15 +14,15 @@ class Signup implements ActionListener {
     Main M;
     User U;
     Signup() {
-        img = new ImageIcon("maxresdefault.jpg");
+        img = new ImageIcon("images/maxresdefault.jpg");
         imgL=new JLabel(img);
         imgL.setBounds(0,0,1200,600);
         b1 = new JButton(new ImageIcon(((new ImageIcon(
-        "SignUpNow.jpg").getImage()
+        "images/SignUpNow.jpg").getImage()
         .getScaledInstance(100,30,
                 java.awt.Image.SCALE_SMOOTH)))));
         b2 = new JButton(new ImageIcon(((new ImageIcon(
-            "back-clipart-back-md.png").getImage()
+            "images/back-clipart-back-md.png").getImage()
             .getScaledInstance(100,30,
                     java.awt.Image.SCALE_SMOOTH)))));
         ArrayList<String> al = new ArrayList<String>();

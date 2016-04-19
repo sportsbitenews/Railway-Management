@@ -9,7 +9,7 @@ class PNR_Enquiry implements  ActionListener {
     JTextField t;
     JButton b1,b2;
     PNR_Enquiry() {
-    img=new ImageIcon("indian-rail.jpg");
+    img=new ImageIcon("images/indian-rail.jpg");
     f=new JFrame("PNR ENQUIRY");
     b1=new JButton("GET DETAILS");
     b1.setForeground(Color.blue);

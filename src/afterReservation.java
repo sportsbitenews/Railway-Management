@@ -18,11 +18,11 @@ class afterReservation implements ActionListener,FocusListener {
     ImageIcon img;
     afterReservation(int n) {
         b1 = new JButton(new ImageIcon(((new ImageIcon(
-        "Next-Thin-Master-Logo-2014-Reversed.jpg").getImage()
+        "images/Next-Thin-Master-Logo-2014-Reversed.jpg").getImage()
         .getScaledInstance(100,30,
                 java.awt.Image.SCALE_SMOOTH)))));
         b2 = new JButton(new ImageIcon(((new ImageIcon(
-            "back-clipart-back-md.png").getImage()
+            "images/back-clipart-back-md.png").getImage()
             .getScaledInstance(100,30,
                     java.awt.Image.SCALE_SMOOTH)))));
         srNo = new JLabel[n+1];

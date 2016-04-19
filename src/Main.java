@@ -12,22 +12,22 @@ class Main implements ActionListener {
     ImageIcon img,img2;
     Main() {
         b1 = new JButton(new ImageIcon(((new ImageIcon(
-            "/home/vjain/workspace/Railway-Management/images/reservations_button.png").getImage()
+            "images/reservations_button.png").getImage()
             .getScaledInstance(140,40,
                     java.awt.Image.SCALE_SMOOTH)))));
         b2 = new JButton(new ImageIcon(((new ImageIcon(
-            "/home/vjain/workspace/Railway-Management/images/pnr.png").getImage()
+            "images/pnr.png").getImage()
             .getScaledInstance(140,40,
                     java.awt.Image.SCALE_SMOOTH)))));
         b3 = new JButton(new ImageIcon(((new ImageIcon(
-            "/home/vjain/workspace/Railway-Management/images/cancel.png").getImage()
+            "images/cancel.png").getImage()
             .getScaledInstance(140,40,
                     java.awt.Image.SCALE_SMOOTH)))));
         b4 = new JButton(new ImageIcon(((new ImageIcon(
-            "/home/vjain/workspace/Railway-Management/images/exit-44205_640.png").getImage()
+            "images/exit-44205_640.png").getImage()
             .getScaledInstance(210, 60,
                     java.awt.Image.SCALE_SMOOTH)))));
-        img=new ImageIcon("/home/vjain/workspace/Railway-Management/images/fantastic-railway-wallpaper-1825-1971-hd-wallpapers.jpg");
+        img=new ImageIcon("images/fantastic-railway-wallpaper-1825-1971-hd-wallpapers.jpg");
         //img2=new ImageIcon("");
         imgL=new JLabel(img);
         //Img = new JButton(img2);

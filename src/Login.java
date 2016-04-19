@@ -11,8 +11,8 @@ class Login implements ActionListener {
     Main M;
     ImageIcon img,img2;
     Login() {
-        img = new ImageIcon("/home/vjain/workspace/Railway-Management/images/student login.jpg");
-        img2 = new ImageIcon("/home/vjain/workspace/Railway-Management/images/railway_track-wallpaper-1366x768.jpg");
+        img = new ImageIcon("images/student login.jpg");
+        img2 = new ImageIcon("images/railway_track-wallpaper-1366x768.jpg");
         f=new JFrame("Login");
         f.getContentPane().setLayout(null);
         f.getContentPane().setBackground(Color.white);

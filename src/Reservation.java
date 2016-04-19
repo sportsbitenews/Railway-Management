@@ -18,15 +18,15 @@ class Reservation implements ActionListener,FocusListener {
     ImageIcon img;
     Reservation() {
         b2 = new JButton(new ImageIcon(((new ImageIcon(
-        "Next-Thin-Master-Logo-2014-Reversed.jpg").getImage()
+        "images/Next-Thin-Master-Logo-2014-Reversed.jpg").getImage()
         .getScaledInstance(100,30,
                 java.awt.Image.SCALE_SMOOTH)))));
         b3 = new JButton(new ImageIcon(((new ImageIcon(
-        "back-clipart-back-md.png").getImage()
+        "images/back-clipart-back-md.png").getImage()
         .getScaledInstance(100,30,
                 java.awt.Image.SCALE_SMOOTH)))));
 
-        img=new ImageIcon("ticket-ticket-icon-63140.png");
+        img=new ImageIcon("images/ticket-ticket-icon-63140.png");
         imgL=new JLabel(img);
         imgL.setBounds(420,60,500,250);
         f=new JFrame("Reservation");
