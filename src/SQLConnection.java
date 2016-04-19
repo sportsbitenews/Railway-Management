@@ -6,28 +6,18 @@ public class SQLConnection
     private static String USER;
     private static String PASS;
     public Connection con = null;
+    public SQLConnection() {}
     public SQLConnection(String username, String password)
     {
         USER = username;
         PASS = password;
     }
-    public void establishConnection()
+    public void establishConnection()throws SQLException,ClassNotFoundException
     {
-    	try
-    	{
-    		Class.forName(JDBC_DRIVER);
-    		con = DriverManager.getConnection(DB_URL, USER, PASS);
-    		Statement stmt = (Statement)con.createStatement();
-    		stmt.executeUpdate("use Railway;");
-    	}
-    	catch(SQLException se)
-    	{
-    		se.printStackTrace();
-    	}
-    	catch(Exception e)
-    	{
-    		e.printStackTrace();
-    	}
+    	Class.forName(JDBC_DRIVER);
+    	con = DriverManager.getConnection(DB_URL, USER, PASS);
+    	Statement stmt = (Statement)con.createStatement();
+    	stmt.executeUpdate("use Railway;");
     }
     public void closeConnection()
     {
