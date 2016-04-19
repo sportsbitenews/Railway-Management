@@ -1,8 +1,11 @@
+import java.util.ArrayList;
+
 public class Train {
 	private int Train_No;
 	private int Train_Type;
 	private String Train_Name;
 	private String Source_ID,Destination_ID;
+	private ArrayList<Route> train;
 	public Train(int Train_no,int Train_type,String Train_Name,String Source_ID,String Destination_ID)
 	{
 		this.Train_No=Train_no;
@@ -40,6 +43,12 @@ public class Train {
 	}
 	public void setDestination_ID(String destination_ID) {
 		this.Destination_ID = destination_ID;
+	}
+	public ArrayList<Route> getTrain() {
+		return train;
+	}
+	public void setTrain(ArrayList<Route> train) {
+		this.train = train;
 	}
 
 }
