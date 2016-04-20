@@ -4,6 +4,10 @@ public class Passenger extends Person
 	private int Seat;
 	int Train_ID;
 	public Passenger(){ }
+	public Passenger(String name,int age,char gender)
+	{
+		super(name,age,gender);
+	}
 	public Passenger(int Seat,String name,int age,char gender,int train_id)
 	{
 		super(name,age,gender);
