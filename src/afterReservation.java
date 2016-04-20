@@ -2,7 +2,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.sql.*;
 import javax.swing.*;
-class afterReservation implements ActionListener,FocusListener {
+class afterReservation implements ActionListener {
     JFrame f;
     JLabel sNo,Name,Age,Gender,srNo[];
     JTextField details[][];
@@ -17,6 +17,7 @@ class afterReservation implements ActionListener,FocusListener {
     JLabel imgL;
     ImageIcon img;
     afterReservation(int n) {
+        
         b1 = new JButton(new ImageIcon(((new ImageIcon(
         "images/Next-Thin-Master-Logo-2014-Reversed.jpg").getImage()
         .getScaledInstance(100,30,
@@ -80,92 +81,12 @@ class afterReservation implements ActionListener,FocusListener {
         
         f.setVisible(true);
     }
-    public void focusLost(FocusEvent e) {
-/*        if(t2.getText().length()!=0) {
-            try {
-                //ps=con.prepareStatement("select Train_Name from Train where Train_No=?");
-                ps.setString(1,t2.getText());
-                rs=ps.executeQuery();
-                if(rs.next()) {
-                    t3.setText(rs.getString(1));
-                }
-            }
-            catch(Exception e1) {
-                System.out.println("Connection failed:"+e1);
-            }
-        }
-*/    }
-    public void focusGained(FocusEvent e) {}
-    public void actionPerformed(ActionEvent e) {
-/*        if(e.getSource()==b1) {
-            b1.setEnabled(false);
-            try {
-                //st=con.createStatement();
-                rs=st.executeQuery("select * from PNR");
-                rs.next();
-                x=rs.getInt(1);
-                t1.setText(String.valueOf(x));
-                
-            }
-            catch(Exception e1) {
-                System.out.println("Connection failed:"+e1);
-            }
-        }
-        if(e.getSource()==b2) {
-            try {
-                //ps=con.prepareStatement("insert into Reservation values(?,?,?,?,?,?,?,?)");
-                ps.setString(1,t1.getText());
-                ps.setString(2,t2.getText());
-                ps.setString(3,t3.getText());
-                ps.setString(4,h.getSelectedItem());
-                ps.setString(5,t4.getText());
-                ps.setString(6,t5.getText());
-                ps.setString(7,t6.getText());
-                ps.setString(8,t7.getText());
-                ps.executeUpdate();
-                
-                
-                //update PNR no.
-                //ps=con.prepareStatement("update PNR set PNR_No=? where PNR_No=?");
-                ps.setInt(1,(x+1));
-                ps.setInt(2,x);
-                ps.executeUpdate();
-                JOptionPane.showMessageDialog(null, "Record Saved");
-                
-                b1.setEnabled(true);
-                b2.setEnabled(false);
-                f.setVisible(false);
-                AR = new afterReservation(Integer.parseInt(t3.getText()));
-            }
-            catch(Exception e1) {
-                System.out.println("Connection failed:"+e1);
-            }
-            try {
-                //st=con.createStatement(ResultSet.TYPE_SCROLL_INSENSITIVE,ResultSet.CONCUR_READ_ONLY);
-                rs=st.executeQuery("select * from Reservation");
-                rs.last();
-                x=rs.getInt(1);
-                //Passenger P=new Passenger(x);
-                //st=con.createStatement();
-                rs=st.executeQuery("select * from PassengerID");
-                rs.next();
-                x=rs.getInt(1);
-                //P.t1.setText(String.valueOf(x));
-                //ps=con.prepareStatement("update PassengerID set PID=? where PID=?");
-                ps.setInt(1,(x+1));
-                ps.setInt(2,x);
-                ps.executeUpdate();
-            }
-            catch(Exception e1) {
-                System.out.println("Connection failed:"+e1);
-            }
-        }
-        if(e.getSource()==b3) {
-            f.setVisible(false);
-            new Main();
-        }
-*/    }
     public static void main(String args[]) {
-        new Reservation();
+        new afterReservation(5);
+    }
+    
+    public void actionPerformed(ActionEvent e) {
+        if(e.getSource()==b1) {
+        }
     }
 }
