@@ -1,9 +1,6 @@
 import java.awt.*;
 import java.awt.event.*;
 import java.sql.*;
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-
 import javax.swing.*;
 class Reservation implements ActionListener{
     JFrame f;
@@ -17,10 +14,10 @@ class Reservation implements ActionListener{
     Statement st;
     ResultSet rs;
     int x;
+    Login L;
     JLabel imgL;
     ImageIcon img;
     Reservation_Class RC;
-    Login L;
     Reservation() {
         b2 = new JButton(new ImageIcon(((new ImageIcon(
         "images/Next-Thin-Master-Logo-2014-Reversed.jpg").getImage()
@@ -97,26 +94,13 @@ class Reservation implements ActionListener{
             RC.setTrain_No(Integer.parseInt(t2.getText()));
             RC.setNo_of_Passengers(Integer.parseInt(t3.getText()));
             RC.setClass_Type(h.getSelectedItem());
-        	try 
-        	{
-        		SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy");
-        		Date date = (Date) formatter.parse(t4.getText());
-        		RC.setReservation_Date(date);
-        	}
-        	catch (ParseException pe)
-        	{
-        		pe.printStackTrace();
-        	}
-        	catch(Exception ee)
-        	{
-        		ee.printStackTrace();
-        	}
+            RC.setReservation_Date(t4.getText());
             RC.setDestination_name(t5.getText());
             RC.setSource_name(t6.getText());
-            RC.setBooked_By_User(L.Username);
+            RC.setBooked_By_User(L.User_Name);
             System.out.println(RC);
                 f.setVisible(false);
-                AR = new afterReservation(Integer.parseInt(t3.getText()));
+                AR = new afterReservation(Integer.parseInt(t3.getText()),RC);
             }
           
         if(e.getSource()==b3) {
