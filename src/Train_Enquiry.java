@@ -11,6 +11,7 @@ class Train_Enquiry implements ActionListener {
     ImageIcon img;
     Choice h,h1;
     Main M;
+    Train_EnquiryClass TEC;
     User U;
     Train_Enquiry() {
         f=new JFrame("Train Enquiry");
@@ -88,10 +89,15 @@ class Train_Enquiry implements ActionListener {
             if(t1.getText().length()==0||t2.getText().length()==0||t3.getText().length()==0) {
                 JOptionPane.showMessageDialog(null,"Fields are empty");
             }
-           
+           TEC=new Train_EnquiryClass();
+           TEC.setFrom_Station(t1.getText());
+           TEC.setTo_Station(t2.getText());
+           TEC.setDate_Of_Journey(t3.getText());
+           TEC.setClass_Type(h.getSelectedItem());
+           TEC.setTrain_Type(h1.getSelectedItem());
         }
         if(e.getSource()==b2) {
-            f.setVisible(false);
+            f.setVisible(true);
             M=new Main();
         }
     }
