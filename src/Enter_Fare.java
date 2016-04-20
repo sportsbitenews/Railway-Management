@@ -2,7 +2,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
-import java.util.Map;
+import java.util.ArrayList;
 
 public class Enter_Fare 
 {
@@ -17,8 +17,8 @@ public class Enter_Fare
 			{
 				Input_Fares inf = new Input_Fares();
 				inf.getFares();
-				//Map<String,Station> hmap = inps.getHmap();
-				//store(sq, hmap);
+				ArrayList<UpdateClass> hmap = inf.getAl();
+				store(sq, hmap);
 			}
 		}
 		catch(SQLException se)
@@ -30,13 +30,12 @@ public class Enter_Fare
 			e.printStackTrace();
 		}
 	}
-	private void store(SQLConnection sq, Map<String,Station> hmap)throws SQLException
+	private void store(SQLConnection sq, ArrayList<UpdateClass> al)throws SQLException
 	{
 		String s = "insert into Status values(?,?,?,?,?,?,?,?);";
 		PreparedStatement pstmt = (PreparedStatement)sq.con.prepareStatement(s);
-		for(Map.Entry<String,Station> entry: hmap.entrySet())
+		for(UpdateClass k: al)
 		{
-			 k = entry.getValue();
 			pstmt.setInt(1,k.getTrain_ID());
 			pstmt.setDate(2, k.getDate());
 			pstmt.setInt(3,k.getFare_Class1());
@@ -46,8 +45,6 @@ public class Enter_Fare
 			pstmt.setInt(7,k.getFare_Class3());
 			pstmt.setInt(8,k.getSeat_Class1());
 			pstmt.executeUpdate();
-			/*pstmt.setString(1, st.getStation_ID());
-		    pstmt.setString(2, st.getStation_Name());*/
 		}
 	}
 }

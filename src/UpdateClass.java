@@ -63,4 +63,8 @@ public class UpdateClass
 	public void setSeat_Class3(int seat_Class3) {
 		this.Seat_Class3 = seat_Class3;
 	}
+	public String toString()
+	{
+		return (Train_ID + " | " + date + " | " + Fare_Class1 + " | " + Seat_Class1 + " | " + Fare_Class2 + " | " + Seat_Class2 + " | " + Fare_Class3 + " | " + Seat_Class3);
+	}
 }

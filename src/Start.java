@@ -11,6 +11,7 @@ class Start
     		new Database(sq);
     		new Enter_Stations(sq);
     		new Enter_Trains(sq);
+    		new Enter_Fare(sq);
     	}
     	catch(SQLException se)
     	{
