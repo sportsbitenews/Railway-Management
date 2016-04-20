@@ -7,7 +7,7 @@ import java.sql.Statement;
 public class Reserve_Seat 
 {
 	public Reserve_Seat() { }
-	public int find_Seat(SQLConnection sq,Reservation_Class RC)throws SQLException
+	private int find_Seat(SQLConnection sq,Reservation_Class RC)throws SQLException
 	{
 		String type = RC.getClass_Type();
 		String Class;
@@ -22,7 +22,7 @@ public class Reserve_Seat
 		ResultSet rs = stmt.executeQuery(sql);
 		return rs.getInt(Class);
 	}
-	public void decrease_Seat(SQLConnection sq,Reservation_Class RC,int seats)throws SQLException
+	private void decrease_Seat(SQLConnection sq,Reservation_Class RC,int seats)throws SQLException
 	{
 		String type = RC.getClass_Type();
 		String Class;

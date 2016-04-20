@@ -98,6 +98,9 @@ class afterReservation implements ActionListener {
             RC.setPassenger_array(Passenger_Array);
         }
         if(e.getSource()==b1) {
+        	Reserve_Seat rse = new Reserve_Seat();
+        	rse.Reserve(RC);
+        	f.setVisible(false);
         }
     
 }

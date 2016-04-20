@@ -115,11 +115,12 @@ class Reservation implements ActionListener{
             RC.setDestination_name(t5.getText());
             RC.setSource_name(t6.getText());
             RC.setBooked_By_User(L.Username);
-            System.out.println(RC);
+            RC.findID();
+            //System.out.println(RC);
                 f.setVisible(false);
-                if(CS.check(RC)==true)
+            if(CS.check(RC)==true)
                 AR = new afterReservation(Integer.parseInt(t3.getText()),RC);
-                else
+            else
                 JOptionPane.showMessageDialog(null,"Sorry! Seats are FULL");
             }
           

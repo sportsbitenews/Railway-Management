@@ -1,9 +1,12 @@
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
 import java.util.*;
 public class Reservation_Class 
 {
     private String Pnr;
     private int No_of_Passengers,Train_No;
-    private String Source_ID,Class_Type,Destination_ID,Booked_By_User,Resrevation_Status;
+    private String Source_ID,Class_Type,Destination_ID,Booked_By_User;
     private String Reservation_Status,Source_name,Destination_name;
     private Date Reservation_Date;
     ArrayList<Passenger> Passenger_array=new ArrayList<Passenger>();
@@ -101,8 +104,35 @@ public class Reservation_Class
     public void setDestination_name(String destination_name) {
         this.Destination_name = destination_name;
     }
+    public void findID()
+    {
+    	SQLConnection sq = new SQLConnection();
+    	try
+    	{
+    		sq.establishConnection();
+    		Statement stmt = sq.con.createStatement();
+    		String sql = "select * from Station where Station_Name = '" + getSource_name() + "';";
+    		ResultSet rs = stmt.executeQuery(sql);
+    		setSource_ID(rs.getString("Station_ID"));
+    		sql = "select * from Station where Station_Name = '" + getDestination_name() + "';";
+    		rs = stmt.executeQuery(sql);
+    		setDestination_ID(rs.getString("Station_ID"));
+    	}
+    	catch(SQLException se)
+    	{
+    		se.printStackTrace();
+    	}
+    	catch(Exception e)
+    	{
+    		e.printStackTrace();
+    	}
+    	finally
+    	{
+    		sq.closeConnection();
+    	}
+    }
     public String toString()
     {
-        return (No_of_Passengers+Train_No+Source_ID+Class_Type+Destination_ID+Booked_By_User+Reservation_Date+Resrevation_Status+Reservation_Status+Source_name+Destination_name);
+        return (No_of_Passengers+Train_No+Source_ID+Class_Type+Destination_ID+Booked_By_User+Reservation_Date+Reservation_Status+Source_name+Destination_name);
     }
 }
