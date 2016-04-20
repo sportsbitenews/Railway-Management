@@ -2,6 +2,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.sql.*;
 import javax.swing.*;
+import java.util.*;
 class afterReservation implements ActionListener {
     JFrame f;
     JLabel sNo,Name,Age,Gender,srNo[];
@@ -15,9 +16,13 @@ class afterReservation implements ActionListener {
     ResultSet rs;
     int x;
     JLabel imgL;
+    int N;
+    Reservation_Class RC;
     ImageIcon img;
-    afterReservation(int n) {
-        
+    ArrayList<Passenger> Passenger_Array=new ArrayList<Passenger>();
+    afterReservation(int n,Reservation_Class RC) {
+        N=n;
+        this.RC=RC;
         b1 = new JButton(new ImageIcon(((new ImageIcon(
         "images/Next-Thin-Master-Logo-2014-Reversed.jpg").getImage()
         .getScaledInstance(100,30,
@@ -67,6 +72,7 @@ class afterReservation implements ActionListener {
                     details[i][j].setBounds(pos[j],150+add*i,100,30);
                     details[i][j].addActionListener(this);
                     f.getContentPane().add(details[i][j]);
+                    
                 }
             }
         }
@@ -82,7 +88,17 @@ class afterReservation implements ActionListener {
         f.setVisible(true);
     }
     public void actionPerformed(ActionEvent e) {
+        for(int i=1;i<=N;i++) 
+        { char c=' ';
+            if(details[i][2].getText()=="Male"||details[i][2].getText()=="male")
+            c='M';
+            if(details[i][2].getText()=="Female"||details[i][2].getText()=="female")
+            c='F';
+            Passenger_Array.add(new Passenger(details[i][0].getText(),Integer.parseInt(details[i][1].getText()),c));
+            RC.setPassenger_array(Passenger_Array);
+        }
         if(e.getSource()==b1) {
         }
-    }
+    
+}
 }
