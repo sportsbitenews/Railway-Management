@@ -10,8 +10,7 @@ class Start
     		sq.establishConnection();
     		new Database(sq);
     		new Enter_Stations(sq);
-    		Input_Train it = new Input_Train();
-    		it.getTrains();
+    		new Enter_Trains(sq);
     	}
     	catch(SQLException se)
     	{
