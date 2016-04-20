@@ -2,7 +2,7 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-class trainEnquiry implements ActionListener {
+class Train_Enquiry implements ActionListener {
     JFrame f;
     JLabel l1,l2,l3,l4,l5,l6,l7,l8,imgL;
     JTextField t1,t2,t3,t4,t5,t6,t7,t8;
@@ -12,7 +12,7 @@ class trainEnquiry implements ActionListener {
     Choice h,h1;
     Main M;
     User U;
-    trainEnquiry() {
+    Train_Enquiry() {
         f=new JFrame("Train Enquiry");
         f.getContentPane().setLayout(null);
         f.getContentPane().setBackground(Color.white);

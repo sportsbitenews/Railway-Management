@@ -7,7 +7,7 @@ class Main implements ActionListener {
     JButton b1,b2,b3,b4;
     Reservation r;
     PNR_Enquiry q;
-    Cancellation c;
+    Train_Enquiry TE;
     JLabel imgL,imgL2;
     ImageIcon img,img2;
     Main() {
@@ -20,7 +20,7 @@ class Main implements ActionListener {
             .getScaledInstance(140,40,
                     java.awt.Image.SCALE_SMOOTH)))));
         b3 = new JButton(new ImageIcon(((new ImageIcon(
-            "images/cancel.png").getImage()
+            "images/enquiry.jpg").getImage()
             .getScaledInstance(140,40,
                     java.awt.Image.SCALE_SMOOTH)))));
         b4 = new JButton(new ImageIcon(((new ImageIcon(
@@ -81,7 +81,7 @@ class Main implements ActionListener {
         }
         if(e.getSource()==b3) {
             f.setVisible(false);
-            c=new Cancellation();
+            TE=new Train_Enquiry();
         }
         if(e.getSource()==b4) {
             f.setVisible(false);
