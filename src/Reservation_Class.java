@@ -3,19 +3,20 @@ public class Reservation_Class
 {
     private String Pnr;
     private int No_of_Passengers,Train_No;
-    private String Source_ID,Class_Type,Destination_ID,Booked_By_User,Reservation_Date,Resrevation_Status;
+    private String Source_ID,Class_Type,Destination_ID,Booked_By_User,Resrevation_Status;
     private String Reservation_Status,Source_name,Destination_name;
+    private Date Reservation_Date;
     ArrayList<Passenger> Passenger_array=new ArrayList<Passenger>();
     public void Reservation()
     {
 		this.Train_No = 0;
 		this.No_of_Passengers = 0;
     }
-    public void Reservation(int Train_no,String pnr,int No_of_Passengers,String Source_ID,String Class_Type,String Destination_ID,String Booked_By_User,String Reservation_Date,String Resrevation_Status,String Source_name,String Destination_name)
+    public void Reservation(int Train_no,String pnr,int No_of_Passengers,String Source_ID,String Class_Type,String Destination_ID,String Booked_By_User,Date Reservation_Date,String Reservation_Status,String Source_name,String Destination_name)
     {
-        this.Pnr = Pnr;
+        this.Pnr = pnr;
         this.Destination_ID=Destination_ID;
-        this.Train_No=Train_No;
+        this.Train_No=Train_no;
         this.Booked_By_User=Booked_By_User;
         this.Class_Type=Class_Type;
         this.Source_ID=Source_ID;
@@ -31,17 +32,17 @@ public class Reservation_Class
 	public void setPassenger_array(ArrayList<Passenger> Passenger_array) {
 		this.Passenger_array=Passenger_array;
 	}
-    public String getReservation_Date() {
+    public Date getReservation_Date() {
         return Reservation_Date;
     }
-    public void setReservation_Date(String reservation_Date) {
+    public void setReservation_Date(Date reservation_Date) {
         this.Reservation_Date = reservation_Date;
     }
     public String getReservation_Status() {
         return Reservation_Status;
     }
-    public void setReservation_Status(Object reservation_Status) {
-        this.Reservation_Status = Reservation_Status;
+    public void setReservation_Status(String reservation_Status) {
+        this.Reservation_Status = reservation_Status;
     }
     public int getNo_of_Passengers() {
         return No_of_Passengers;

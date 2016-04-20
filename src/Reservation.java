@@ -1,6 +1,9 @@
 import java.awt.*;
 import java.awt.event.*;
 import java.sql.*;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+
 import javax.swing.*;
 class Reservation implements ActionListener{
     JFrame f;
@@ -94,10 +97,23 @@ class Reservation implements ActionListener{
             RC.setTrain_No(Integer.parseInt(t2.getText()));
             RC.setNo_of_Passengers(Integer.parseInt(t3.getText()));
             RC.setClass_Type(h.getSelectedItem());
-            RC.setReservation_Date(t4.getText());
+            try 
+        	{
+        		SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy");
+        		Date date = (Date) formatter.parse(t4.getText());
+        		RC.setReservation_Date(date);
+        	}
+        	catch (ParseException pe)
+        	{
+        		pe.printStackTrace();
+        	}
+        	catch(Exception ee)
+        	{
+        		ee.printStackTrace();
+        	}
             RC.setDestination_name(t5.getText());
             RC.setSource_name(t6.getText());
-            RC.setBooked_By_User(L.User_Name);
+            RC.setBooked_By_User(L.Username);
             System.out.println(RC);
                 f.setVisible(false);
                 AR = new afterReservation(Integer.parseInt(t3.getText()),RC);
