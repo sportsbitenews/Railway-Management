@@ -15,6 +15,7 @@ class Signup implements ActionListener {
     Choice h1,h2;
     Main M;
     User U;
+    Login L;
     Signup() {
         img = new ImageIcon("images/maxresdefault.jpg");
         imgL=new JLabel(img);
@@ -80,7 +81,7 @@ class Signup implements ActionListener {
         l4.setForeground(Color.yellow);
         l4.setBounds(50,200,100,30);
         h1=new Choice();
-        h1.setBounds(150,200,100,30);
+        h1.setBounds(150,200,100,22);
         h1.add("MALE");
         h1.add("FEMALE");
         l5=new JLabel("Age");
@@ -96,7 +97,7 @@ class Signup implements ActionListener {
         l8.setForeground(Color.yellow);
         l8.setBounds(50,320,100,30);
         h2=new Choice();
-        h2.setBounds(150,320,100,50);
+        h2.setBounds(150,320,100,22);
         Iterator<String> itr = al.iterator(); 
         while(itr.hasNext()) {
         	h2.add(itr.next());
@@ -189,7 +190,7 @@ class Signup implements ActionListener {
            Register_user rs_user = new Register_user();
            rs_user.sign_up_user(U);
            f.setVisible(false);
-           M = new Main();
+           L = new Login();
         }
         if(e.getSource()==b2) {
             f.setVisible(false);

@@ -17,9 +17,7 @@ class Reservation implements ActionListener{
     JLabel imgL;
     ImageIcon img;
     Reservation_Class RC;
-    String user_name;
-    Reservation(String User_name) {
-        user_name=User_name;
+    Reservation() {
         b2 = new JButton(new ImageIcon(((new ImageIcon(
         "images/Next-Thin-Master-Logo-2014-Reversed.jpg").getImage()
         .getScaledInstance(100,30,
@@ -90,7 +88,8 @@ class Reservation implements ActionListener{
     }
     public void actionPerformed(ActionEvent e) {
         if(e.getSource()==b2) {
-            RC=new Reservation_Class();
+            RC = new Reservation_Class();
+            RC.setPnr();
             RC.setTrain_No(Integer.parseInt(t2.getText()));
             RC.setNo_of_Passengers(Integer.parseInt(t3.getText()));
             RC.setClass_Type(h.getSelectedItem());
@@ -105,7 +104,7 @@ class Reservation implements ActionListener{
           
         if(e.getSource()==b3) {
             f.setVisible(false);
-            new Main(user_name);
+            new Main();
         }
     }
 }

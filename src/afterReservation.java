@@ -81,10 +81,6 @@ class afterReservation implements ActionListener {
         
         f.setVisible(true);
     }
-    public static void main(String args[]) {
-        new afterReservation(5);
-    }
-    
     public void actionPerformed(ActionEvent e) {
         if(e.getSource()==b1) {
         }

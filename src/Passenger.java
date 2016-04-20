@@ -1,22 +1,14 @@
 
 public class Passenger extends Person
 {
-	private String PNR;
 	private int Seat;
 	int Train_ID;
 	public Passenger(){ }
-	public Passenger(String PNR,int Seat,String name,int age,char gender,int train_id)
+	public Passenger(int Seat,String name,int age,char gender,int train_id)
 	{
 		super(name,age,gender);
-		this.PNR = PNR;
 		this.Seat = Seat;
 		this.Train_ID = train_id;
-	}
-	public String getPNR() {
-		return PNR;
-	}
-	public void setPNR(String pNR) {
-		this.PNR = pNR;
 	}
 	public String getName()
 	{

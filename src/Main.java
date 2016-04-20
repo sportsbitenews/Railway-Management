@@ -10,9 +10,7 @@ class Main implements ActionListener {
     Cancellation c;
     JLabel imgL,imgL2;
     ImageIcon img,img2;
-    String User_name;
-    Main(String User_name) {
-        this.User_name=User_name;
+    Main() {
         b1 = new JButton(new ImageIcon(((new ImageIcon(
             "images/reservations_button.png").getImage()
             .getScaledInstance(140,40,
@@ -75,11 +73,11 @@ class Main implements ActionListener {
     public void actionPerformed(ActionEvent e) {
         if(e.getSource()==b1) {
             f.setVisible(false);
-            r=new Reservation(User_name);
+            r=new Reservation();
         }
         if(e.getSource()==b2) {
             f.setVisible(false);
-            q=new PNR_Enquiry(User_name);
+            q=new PNR_Enquiry();
         }
         if(e.getSource()==b3) {
             f.setVisible(false);

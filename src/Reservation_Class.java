@@ -1,26 +1,17 @@
-public  class Reservation_Class {
-
+public class Reservation_Class 
+{
     private String Pnr;
     private int No_of_Passengers,Train_No;
     private String Source_ID,Class_Type,Destination_ID,Booked_By_User,Reservation_Date,Resrevation_Status;
     private String Reservation_Status,Source_name,Destination_name;
-    void Reservation()
+    public void Reservation()
     {
-        this.Pnr="";
-		this.Destination_ID="";
-		this.Train_No=0;
-		this.Booked_By_User="";
-		this.Class_Type="";
-		this.Source_ID="";
-		this.No_of_Passengers=0;
-		this.Reservation_Status="";
-		this.Reservation_Date="";
-		this.Source_name="";
-		this.Destination_name="";
-}
-     void Reservation(int Train_no,String pnr,int No_of_Passengers,String Source_ID,String Class_Type,String Destination_ID,String Booked_By_User,String Reservation_Date,String Resrevation_Status,String Source_name,String Destination_name)
+		this.Train_No = 0;
+		this.No_of_Passengers = 0;
+    }
+    public void Reservation(int Train_no,String pnr,int No_of_Passengers,String Source_ID,String Class_Type,String Destination_ID,String Booked_By_User,String Reservation_Date,String Resrevation_Status,String Source_name,String Destination_name)
     {
-        this.Pnr=Pnr;
+        this.Pnr = Pnr;
         this.Destination_ID=Destination_ID;
         this.Train_No=Train_No;
         this.Booked_By_User=Booked_By_User;
@@ -53,8 +44,11 @@ public  class Reservation_Class {
     public String getPnr() {
         return Pnr;
     }
-    public void setPnr(String pnr) {
-        this.Pnr = pnr;
+    public void setPnr()
+    {
+    	PNR_Random pr = new PNR_Random();
+    	pr.generatePNR();
+        this.Pnr = pr.getPNR();
     }
     public String getSource_ID() {
         return Source_ID;
