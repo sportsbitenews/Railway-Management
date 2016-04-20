@@ -21,7 +21,7 @@ public class Reserve_Seat
 			pstmt.setInt(7, RC.getTrain_No());
 			pstmt.setString(8, RC.getBooked_By_User());
 			pstmt.executeUpdate();
-			PreparedStatement pstmt1 = (PreparedStatement)sq.con.prepareStatement(s);
+			//PreparedStatement pstmt1 = (PreparedStatement)sq.con.prepareStatement(s);
 		}
 		catch(SQLException se)
 		{

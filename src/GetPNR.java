@@ -9,13 +9,13 @@ public class GetPNR
 	private Set<String> st;
 	public GetPNR()
 	{
-		st = new LinkedHashSet();;
+		st = new LinkedHashSet<String>();;
 	}
-	public Set getSet()
+	public Set<String> getSet()
 	{
 		return st;
 	}
-	public void setSet(Set st)
+	public void setSet(Set<String> st)
 	{
 		this.st = st;
 	}

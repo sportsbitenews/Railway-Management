@@ -10,6 +10,7 @@ class Login implements ActionListener {
     Welcome W;
     Main M;
     ImageIcon img,img2;
+    public String Username;
     Login() {
         img = new ImageIcon("images/student login.jpg");
         img2 = new ImageIcon("images/railway_track-wallpaper-1366x768.jpg");
@@ -62,6 +63,7 @@ class Login implements ActionListener {
     public void actionPerformed(ActionEvent e) {
             if(e.getSource()==b1)
             {
+            	Username = t1.getText();
             	Authentication A = new Authentication(t1.getText(),t2.getText());
                 if(t1.getText().length()==0||t2.getText().length()==0)
                 {
@@ -77,18 +79,6 @@ class Login implements ActionListener {
                     JOptionPane.showMessageDialog(null,"Invalid User Name or Password");
                 }
             }
-            /*}
-            if(t1.getText().length()==0||t2.getText().length()==0) {
-                JOptionPane.showMessageDialog(null,"Fields are empty");
-            }
-            else if(t1.getText().equals("dush") && t2.getText().equals("1234")) {
-                f.setVisible(false);
-                M=new Main();
-            }
-            else {
-                JOptionPane.showMessageDialog(null,"Invalid User Name or Password");
-            }
-        }*/
         if(e.getSource()==b2) {
             f.setVisible(false);
             W = new Welcome();
