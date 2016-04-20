@@ -21,14 +21,9 @@ public class Database
         String sql = "create table if not exists Train(Train_ID int not null,Train_name varchar(50) not null,Train_type varchar(50) not null,Source_ID varchar(5) not null,Destination_ID varchar(5) not null,primary key(Train_ID),foreign key(Source_ID) references Station(Station_ID) on update cascade on delete cascade,foreign key(Destination_ID) references Station(Station_ID) on update no action on delete no action);";
         st.executeUpdate(sql);
     }
-    private void create_trainClass(Statement st)throws SQLException
-    {
-        String sql = "create table if not exists Class(Train_ID int not null,Fare_Class1 int not null,Seat_Class1 int not null,Fare_Class2 int not null,Seat_Class2 int not null,Fare_Class3 int not null,Seat_Class3 int not null,primary key(Train_ID));";
-        st.executeUpdate(sql);
-    }
     private void create_trainStatus(Statement st)throws SQLException
     {
-        String sql = "create table if not exists Status(Train_ID int not null,Available_Date date not null,Booked int not null,Waiting int not null,Available int not null,primary key(Train_ID,Available_Date),foreign key(Train_ID) references Train(Train_ID) on update cascade on delete cascade);";
+        String sql = "create table if not exists Status(Train_ID int not null,Available_Date date not null,Fare_Class1 int not null,Seat_Class1 int not null,Fare_Class2 int not null,Seat_Class2 int not null,Fare_Class3 int not null,Seat_Class3 int not null,primary key(Train_ID,Available_Date),foreign key(Train_ID) references Train(Train_ID) on update cascade on delete cascade);";
         st.executeUpdate(sql);
     }
     private void create_Passenger(Statement st)throws SQLException
@@ -38,7 +33,7 @@ public class Database
     }
     private void create_Reservation(Statement st)throws SQLException
     {
-        String sql = "create table if not exists Reservation(PNR varchar(15) not null,Source_ID varchar(8) not null,Destination_ID varchar(8) not null,Class_type varchar(25) not null,Reservation_Date date not null,Reservation_Status varchar(25) not null,Train_ID int not null,Booked_by_Email varchar(30) not null,foreign key(Train_ID) references Train(train_ID) on update cascade on delete cascade,foreign key(Source_ID) references Station(Station_ID),foreign key(Destination_ID) references Station(Station_ID),primary key(PNR));";
+        String sql = "create table if not exists Reservation(PNR varchar(15) not null,Source_ID varchar(8) not null,Destination_ID varchar(8) not null,Class_type varchar(25) not null,Reservation_Date date not null,Reservation_Status varchar(25) not null,Train_ID int not null,Booked_by_Username varchar(30) not null,foreign key(Train_ID) references Train(train_ID) on update cascade on delete cascade,foreign key(Source_ID) references Station(Station_ID),foreign key(Destination_ID) references Station(Station_ID),foreign key(Booked_by_Username) references User(Username),primary key(PNR));";
         st.executeUpdate(sql);
     }
     private void create_Route(Statement st)throws SQLException
@@ -53,7 +48,6 @@ public class Database
         create_user(stmt);
         create_station(stmt);
         create_train(stmt);
-        create_trainClass(stmt);
         create_trainStatus(stmt);
         create_Passenger(stmt);
         create_Reservation(stmt);
