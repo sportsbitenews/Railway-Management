@@ -3,15 +3,15 @@ public class SQLConnection
 {
     private static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
     private static final String DB_URL = "jdbc:mysql://localhost/?";
-    private static String USER;
-    private static String PASS;
+    private static String USER = "root";
+    private static String PASS = "vidhan";
     public Connection con = null;
     public SQLConnection() {}
-    public SQLConnection(String username, String password)
+    /*public SQLConnection(String username, String password)
     {
         USER = username;
         PASS = password;
-    }
+    }*/
     public void establishConnection()throws SQLException,ClassNotFoundException
     {
     	Class.forName(JDBC_DRIVER);

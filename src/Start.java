@@ -4,7 +4,7 @@ class Start
 {
     public static void main(String args[])
     {
-    	SQLConnection sq = new SQLConnection("root", "vidhan");
+    	SQLConnection sq = new SQLConnection();
     	try
     	{
     		sq.establishConnection();

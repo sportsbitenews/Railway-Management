@@ -5,7 +5,7 @@ public class Register_user
 	public Register_user() { }
 	public void sign_up_user(User u)
 	{
-		SQLConnection sq = new SQLConnection("root", "vidhan");
+		SQLConnection sq = new SQLConnection();
 		try
 		{
 			sq.establishConnection();

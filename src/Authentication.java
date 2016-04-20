@@ -12,7 +12,7 @@ class Authentication
 	}
 	public boolean authenticate()
 	{
-		SQLConnection sq = new SQLConnection("root", "vidhan");
+		SQLConnection sq = new SQLConnection();
 		try
 		{
 			sq.establishConnection();
