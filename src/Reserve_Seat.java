@@ -1,18 +1,41 @@
 import java.sql.Date;
 import java.sql.PreparedStatement;
+import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.util.ArrayList;
+import java.sql.Statement;
 
 public class Reserve_Seat 
 {
 	public Reserve_Seat() { }
 	public int find_Seat(SQLConnection sq,Reservation_Class RC)throws SQLException
 	{
-		
+		String type = RC.getClass_Type();
+		String Class;
+		if(type.equalsIgnoreCase("SL"))
+			Class = "Seat_Class1";
+		else if(type.equalsIgnoreCase("AC"))
+			Class= "Seat_Class2";
+		else
+			Class = "Seat_Class3";
+		Statement stmt = (Statement)sq.con.createStatement();
+		String sql = "select * from Status where Train_ID = " + RC.getTrain_No() + " and Available_Date = '" + RC.getReservation_Date() + "';";
+		ResultSet rs = stmt.executeQuery(sql);
+		return rs.getInt(Class);
 	}
-	public void decrease_Seat(SQLConnection sq,Reservation_Class RC)throws SQLException
+	public void decrease_Seat(SQLConnection sq,Reservation_Class RC,int seats)throws SQLException
 	{
-		
+		String type = RC.getClass_Type();
+		String Class;
+		if(type.equalsIgnoreCase("SL"))
+			Class = "Seat_Class1";
+		else if(type.equalsIgnoreCase("AC"))
+			Class= "Seat_Class2";
+		else
+			Class = "Seat_Class3";
+		Statement stmt = (Statement)sq.con.createStatement();
+		seats--;
+		String sql = "update Status set " + Class + " = " + seats + " where Train_ID = "  + RC.getTrain_No() + " and Available_Date = '" + RC.getReservation_Date() + "';";
+		stmt.executeUpdate(sql);
 	}
 	public void Reserve(Reservation_Class RC)
 	{
@@ -38,7 +61,7 @@ public class Reserve_Seat
 				pstmt1.setString(1, RC.getPnr());
 				int seats = find_Seat(sq, RC);
 				pstmt1.setInt(2, seats);
-				decrease_Seat(sq, RC);
+				decrease_Seat(sq, RC, seats);
 				pstmt1.setString(3,al.getName());
 				pstmt1.setString(5,String.valueOf(al.getGender()));
 				pstmt1.setInt(4,al.getAge());
