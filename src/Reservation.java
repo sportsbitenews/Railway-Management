@@ -2,7 +2,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.sql.*;
 import javax.swing.*;
-class Reservation implements ActionListener,FocusListener {
+class Reservation implements ActionListener{
     JFrame f;
     JLabel l1,l2,l3,l4,l5,l6,l7,l8,l9,l10,l11,l12,l13;
     JTextField t1,t2,t3,t4,t5,t6,t7;
@@ -16,7 +16,10 @@ class Reservation implements ActionListener,FocusListener {
     int x;
     JLabel imgL;
     ImageIcon img;
-    Reservation() {
+    Reservation_Class RC;
+    String user_name;
+    Reservation(String User_name) {
+        user_name=User_name;
         b2 = new JButton(new ImageIcon(((new ImageIcon(
         "images/Next-Thin-Master-Logo-2014-Reversed.jpg").getImage()
         .getScaledInstance(100,30,
@@ -85,92 +88,24 @@ class Reservation implements ActionListener,FocusListener {
         f.setSize(1000,600);
         f.setVisible(true);
     }
-    public void focusLost(FocusEvent e) {
-        if(t2.getText().length()!=0) {
-            try {
-                //ps=con.prepareStatement("select Train_Name from Train where Train_No=?");
-                //ps.setString(1,t2.getText());
-                //rs=ps.executeQuery();
-                //if(rs.next()) {
-                  //  t3.setText(rs.getString(1));
-                //}
-            }
-            catch(Exception e1) {
-                System.out.println("Connection failed:"+e1);
-            }
-        }
-    }
-    public void focusGained(FocusEvent e) {}
     public void actionPerformed(ActionEvent e) {
-        if(e.getSource()==b1) {
-            b1.setEnabled(false);
-            try {
-                //st=con.createStatement();
-                rs=st.executeQuery("select * from PNR");
-                rs.next();
-                x=rs.getInt(1);
-                t1.setText(String.valueOf(x));
-                
-            }
-            catch(Exception e1) {
-                System.out.println("Connection failed:"+e1);
-            }
-        }
         if(e.getSource()==b2) {
-            try {
-                //ps=con.prepareStatement("insert into Reservation values(?,?,?,?,?,?,?,?)");
-                ps.setString(1,t1.getText());
-                ps.setString(2,t2.getText());
-                ps.setString(3,t3.getText());
-                ps.setString(4,h.getSelectedItem());
-                ps.setString(5,t4.getText());
-                ps.setString(6,t5.getText());
-                ps.setString(7,t6.getText());
-                ps.setString(8,t7.getText());
-                ps.executeUpdate();
-                
-                
-                //update PNR no.
-                //ps=con.prepareStatement("update PNR set PNR_No=? where PNR_No=?");
-                ps.setInt(1,(x+1));
-                ps.setInt(2,x);
-                ps.executeUpdate();
-                JOptionPane.showMessageDialog(null, "Record Saved");
-                
-                b1.setEnabled(true);
-                b2.setEnabled(false);
+            RC=new Reservation_Class();
+            RC.setTrain_No(Integer.parseInt(t2.getText()));
+            RC.setNo_of_Passengers(Integer.parseInt(t3.getText()));
+            RC.setClass_Type(h.getSelectedItem());
+            RC.setReservation_Date(t4.getText());
+            RC.setDestination_name(t5.getText());
+            RC.setSource_name(t6.getText());
+            RC.setBooked_By_User(user_name);
+            RC.print();
                 f.setVisible(false);
                 AR = new afterReservation(Integer.parseInt(t3.getText()));
             }
-            catch(Exception e1) {
-                System.out.println("Connection failed:"+e1);
-            }
-            try {
-                //st=con.createStatement(ResultSet.TYPE_SCROLL_INSENSITIVE,ResultSet.CONCUR_READ_ONLY);
-                rs=st.executeQuery("select * from Reservation");
-                rs.last();
-                x=rs.getInt(1);
-                //Passenger P=new Passenger(x);
-                //st=con.createStatement();
-                rs=st.executeQuery("select * from PassengerID");
-                rs.next();
-                x=rs.getInt(1);
-                //P.t1.setText(String.valueOf(x));
-                //ps=con.prepareStatement("update PassengerID set PID=? where PID=?");
-                ps.setInt(1,(x+1));
-                ps.setInt(2,x);
-                ps.executeUpdate();
-            }
-            catch(Exception e1) {
-                System.out.println("Connection failed:"+e1);
-            }
-        }
+          
         if(e.getSource()==b3) {
             f.setVisible(false);
-            new Main();
+            new Main(user_name);
         }
-    }
-    public static void main(String args[]) {
-        new Reservation();
     }
 }
