@@ -20,6 +20,7 @@ class Reservation implements ActionListener{
     Login L;
     JLabel imgL;
     ImageIcon img;
+    Check_Seat CS;
     Reservation_Class RC;
     Reservation() {
         b2 = new JButton(new ImageIcon(((new ImageIcon(
@@ -98,25 +99,28 @@ class Reservation implements ActionListener{
             RC.setNo_of_Passengers(Integer.parseInt(t3.getText()));
             RC.setClass_Type(h.getSelectedItem());
             try 
-        	{
-        		SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy");
-        		Date date = (Date) formatter.parse(t4.getText());
-        		RC.setReservation_Date(date);
-        	}
-        	catch (ParseException pe)
-        	{
-        		pe.printStackTrace();
-        	}
-        	catch(Exception ee)
-        	{
-        		ee.printStackTrace();
-        	}
+            {
+                SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy");
+                Date date = (Date) formatter.parse(t4.getText());
+                RC.setReservation_Date(date);
+            }
+            catch (ParseException pe)
+            {
+                pe.printStackTrace();
+            }
+            catch(Exception ee)
+            {
+                ee.printStackTrace();
+            }
             RC.setDestination_name(t5.getText());
             RC.setSource_name(t6.getText());
             RC.setBooked_By_User(L.Username);
             System.out.println(RC);
                 f.setVisible(false);
+                if(CS.check(RC)==true)
                 AR = new afterReservation(Integer.parseInt(t3.getText()),RC);
+                else
+                JOptionPane.showMessageDialog(null,"Sorry! Seats are FULL");
             }
           
         if(e.getSource()==b3) {
