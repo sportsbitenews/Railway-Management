@@ -56,12 +56,6 @@ class Main implements ActionListener {
         b3.setForeground(new Color(255,255,255));
         b4.setBackground(new Color(233,213,34));
         b4.setForeground(new Color(255,255,255));
-        
-        b1.setMnemonic('R');
-        b2.setMnemonic('P');
-        b3.setMnemonic('C');
-        b4.setMnemonic('E');
-        
         f.getContentPane().add(b1);
         f.getContentPane().add(b2);
         f.getContentPane().add(b3);
