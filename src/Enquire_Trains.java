@@ -1,6 +1,7 @@
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.sql.Statement;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -17,12 +18,18 @@ public class Enquire_Trains
 	public void setLl(List ll) {
 		this.ll = ll;
 	}
-	public boolean checkTrains()
+	public boolean checkTrains(Reservation_Class RC)
 	{
 		SQLConnection sq = new SQLConnection();
 		try
 		{
 			sq.establishConnection();
+			String sql = "select t.Train_ID from Route as t,Route as d where t.Train_ID = d.Train_ID and t.Stop_Number > d.Stop_Number and t.Station_ID = '" + RC.getSource_ID() + "' and d.Station_ID = '" + RC.getDestination_ID() + "' and t.Train_ID = " + RC.getTrain_No() + ";";
+			Statement smt = (Statement)sq.con.createStatement();
+			System.out.println(sql);
+			ResultSet rs = smt.executeQuery(sql);
+			if(rs.next())
+				return true;
 		}
 		catch(SQLException se)
 		{
@@ -36,6 +43,7 @@ public class Enquire_Trains
 		{
 			sq.closeConnection();
 		}
+		return false;
 	}
 	public void findTrains(String Source_ID,String Destination_ID)
 	{

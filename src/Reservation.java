@@ -122,11 +122,11 @@ class Reservation implements ActionListener{
                 ET=new Enquire_Trains();
                 
             CS = new Check_Seat();
-            if(CS.check(RC) == true && ET.checkTrains() == true)
+            if(CS.check(RC) == true && ET.checkTrains(RC) == true)
                 AR = new afterReservation(Integer.parseInt(t3.getText()),RC);
             else if(CS.check(RC) == false)
                 JOptionPane.showMessageDialog(null,"Sorry! Seats are FULL");
-              else if(ET.checkTrains()== false)  
+              else if(ET.checkTrains(RC)== false)  
                JOptionPane.showMessageDialog(null,"Sorry! Wrong train details Entered");
             }
           
