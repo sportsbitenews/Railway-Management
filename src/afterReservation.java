@@ -88,13 +88,15 @@ class afterReservation implements ActionListener {
         f.setVisible(true);
     }
     public void actionPerformed(ActionEvent e) {
+    	RC.setReservation_Status("Confirmed");
         for(int i=1;i<=N;i++) 
-        { char c=' ';
-            if(details[i][2].getText()=="Male"||details[i][2].getText()=="male")
-            c='M';
-            if(details[i][2].getText()=="Female"||details[i][2].getText()=="female")
-            c='F';
-            Passenger_Array.add(new Passenger(details[i][0].getText(),Integer.parseInt(details[i][1].getText()),c));
+        { 
+        	char c=' ';
+            if(details[i][3].getText().equalsIgnoreCase("male"))
+            	c='M';
+            if(details[i][3].getText().equalsIgnoreCase("female"))
+            	c='F';
+            Passenger_Array.add(new Passenger(details[i][1].getText(),Integer.parseInt(details[i][2].getText()),c));
             RC.setPassenger_array(Passenger_Array);
         }
         if(e.getSource()==b1) {

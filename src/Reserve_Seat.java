@@ -20,7 +20,11 @@ public class Reserve_Seat
 		Statement stmt = (Statement)sq.con.createStatement();
 		String sql = "select * from Status where Train_ID = " + RC.getTrain_No() + " and Available_Date = '" + RC.getReservation_Date() + "';";
 		ResultSet rs = stmt.executeQuery(sql);
-		return rs.getInt(Class);
+		while(rs.next())
+		{
+			return rs.getInt(Class);
+		}
+		return 0;
 	}
 	private void decrease_Seat(SQLConnection sq,Reservation_Class RC,int seats)throws SQLException
 	{
@@ -65,7 +69,8 @@ public class Reserve_Seat
 				pstmt1.setString(3,al.getName());
 				pstmt1.setString(5,String.valueOf(al.getGender()));
 				pstmt1.setInt(4,al.getAge());
-				pstmt.setInt(6, RC.getTrain_No());
+				pstmt1.setInt(6, RC.getTrain_No());
+				pstmt1.executeUpdate();
 			}
 		}
 		catch(SQLException se)
