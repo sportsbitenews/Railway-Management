@@ -117,6 +117,7 @@ class Train_Enquiry implements ActionListener {
            et.findTrains(TEC);
            ArrayList<Train> al = (ArrayList<Train>) et.getLl();
            Enquiry_Result er = new Enquiry_Result(al);
+           f.setVisible(false);
         }
         if(e.getSource()==b2) {
             f.setVisible(true);
