@@ -113,10 +113,16 @@ public class Reservation_Class
     		Statement stmt = sq.con.createStatement();
     		String sql = "select * from Station where Station_Name = '" + getSource_name() + "';";
     		ResultSet rs = stmt.executeQuery(sql);
-    		setSource_ID(rs.getString("Station_ID"));
+    		while(rs.next())
+    		{
+    			setSource_ID(rs.getString("Station_ID"));
+    		}
     		sql = "select * from Station where Station_Name = '" + getDestination_name() + "';";
     		rs = stmt.executeQuery(sql);
-    		setDestination_ID(rs.getString("Station_ID"));
+    		while(rs.next())
+    		{
+    			setDestination_ID(rs.getString("Station_ID"));
+    		}
     	}
     	catch(SQLException se)
     	{

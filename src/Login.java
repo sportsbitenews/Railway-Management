@@ -10,7 +10,7 @@ class Login implements ActionListener {
     Welcome W;
     Main M;
     ImageIcon img,img2;
-    public String Username;
+    public static String Username;
     Login() {
         img = new ImageIcon("images/student login.jpg");
         img2 = new ImageIcon("images/railway_track-wallpaper-1366x768.jpg");

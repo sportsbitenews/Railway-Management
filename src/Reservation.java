@@ -101,8 +101,8 @@ class Reservation implements ActionListener{
             try 
             {
                 SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy");
-                Date date = (Date) formatter.parse(t4.getText());
-                RC.setReservation_Date(date);
+                java.util.Date date = formatter.parse(t4.getText());
+                RC.setReservation_Date(new java.sql.Date(date.getTime()));
             }
             catch (ParseException pe)
             {
@@ -118,7 +118,8 @@ class Reservation implements ActionListener{
             RC.findID();
             //System.out.println(RC);
                 f.setVisible(false);
-            if(CS.check(RC)==true)
+            CS = new Check_Seat();
+            if(CS.check(RC) == true)
                 AR = new afterReservation(Integer.parseInt(t3.getText()),RC);
             else
                 JOptionPane.showMessageDialog(null,"Sorry! Seats are FULL");
