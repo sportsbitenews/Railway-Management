@@ -16,6 +16,7 @@ class Reservation implements ActionListener{
     PreparedStatement ps;
     Statement st;
     ResultSet rs;
+    Enquire_Trains ET;
     int x;
     Login L;
     JLabel imgL;
@@ -61,7 +62,7 @@ class Reservation implements ActionListener{
         t6=new JTextField(10);
         t6.setBounds(320,200,100,22);
         h=new Choice();
-        h.setBounds(180,140,100,22);
+        h.setBounds(180,140,100,30);
         h.add("AC");
         h.add("SL");
         h.add("GENERAL");
@@ -118,11 +119,15 @@ class Reservation implements ActionListener{
             RC.findID();
             //System.out.println(RC);
                 f.setVisible(false);
+                ET=new Enquire_Trains();
+                
             CS = new Check_Seat();
-            if(CS.check(RC) == true)
+            if(CS.check(RC) == true && ET.checkTrains() == true)
                 AR = new afterReservation(Integer.parseInt(t3.getText()),RC);
-            else
+            else if(CS.check(RC) == false)
                 JOptionPane.showMessageDialog(null,"Sorry! Seats are FULL");
+              else if(ET.checkTrains()== false)  
+               JOptionPane.showMessageDialog(null,"Sorry! Wrong train details Entered");
             }
           
         if(e.getSource()==b3) {

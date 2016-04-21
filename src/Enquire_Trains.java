@@ -17,6 +17,26 @@ public class Enquire_Trains
 	public void setLl(List ll) {
 		this.ll = ll;
 	}
+	public boolean checkTrains()
+	{
+		SQLConnection sq = new SQLConnection();
+		try
+		{
+			sq.establishConnection();
+		}
+		catch(SQLException se)
+		{
+			se.printStackTrace();
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+		}
+		finally
+		{
+			sq.closeConnection();
+		}
+	}
 	public void findTrains(String Source_ID,String Destination_ID)
 	{
 		SQLConnection sq = new SQLConnection();

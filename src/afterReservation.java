@@ -14,8 +14,10 @@ class afterReservation implements ActionListener {
     PreparedStatement ps;
     Statement st;
     ResultSet rs;
+    Main M;
     int x;
     JLabel imgL;
+    Show_Ticket ST;
     int N;
     Reservation_Class RC;
     ImageIcon img;
@@ -111,7 +113,11 @@ class afterReservation implements ActionListener {
             Reserve_Seat rse = new Reserve_Seat();
             rse.Reserve(RC);
             f.setVisible(false);
+            ST=new Show_Ticket();
         }
-    
+      if(e.getSource()==b2) {
+          f.setVisible(false);
+            M=new Main();
+}
 }
 }
