@@ -1,12 +1,11 @@
 public class Train_EnquiryClass {
-	private String From_Station,To_Station,Date_Of_Journey,Class_Type, Train_Type;
+	private String From_Station,To_Station,Date_Of_Journey,Class_Type,Train_Type;
 	Train_EnquiryClass(){
 		this.Date_Of_Journey="";
 		this.Class_Type="";
 		this.From_Station="";
 		this.To_Station="";
 		this.Train_Type="";
-		
 	}
 	Train_EnquiryClass(String From_Station,String To_Station,String Date_Of_Journey,String Class_Type,String Train_Type){
 		this.Date_Of_Journey=Date_Of_Journey;
@@ -14,7 +13,6 @@ public class Train_EnquiryClass {
 		this.From_Station=From_Station;
 		this.To_Station=To_Station;
 		this.Train_Type=Train_Type;
-		
 	}
 	public String getFrom_Station() {
 		return From_Station;

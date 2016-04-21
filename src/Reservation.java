@@ -61,7 +61,7 @@ class Reservation implements ActionListener{
         t6=new JTextField(10);
         t6.setBounds(320,200,100,22);
         h=new Choice();
-        h.setBounds(180,140,100,30);
+        h.setBounds(180,140,100,22);
         h.add("AC");
         h.add("SL");
         h.add("GENERAL");
