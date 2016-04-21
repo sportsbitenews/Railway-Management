@@ -1,5 +1,9 @@
 import java.awt.*;
 import java.awt.event.*;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.ArrayList;
+
 import javax.swing.*;
 
 class Train_Enquiry implements ActionListener {
@@ -92,9 +96,27 @@ class Train_Enquiry implements ActionListener {
            TEC=new Train_EnquiryClass();
            TEC.setFrom_Station(t1.getText());
            TEC.setTo_Station(t2.getText());
-           TEC.setDate_Of_Journey(t3.getText());
+           try 
+           {
+               SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy");
+               java.util.Date date = formatter.parse(t3.getText());
+               TEC.setDate_Of_Journey(new java.sql.Date(date.getTime()));
+           }
+           catch (ParseException pe)
+           {
+               pe.printStackTrace();
+           }
+           catch(Exception ee)
+           {
+               ee.printStackTrace();
+           }
+           //TEC.setDate_Of_Journey(t3.getText());
            TEC.setClass_Type(h.getSelectedItem());
            TEC.setTrain_Type(h1.getSelectedItem());
+           Enquire_Trains et = new Enquire_Trains();
+           et.findTrains(TEC);
+           ArrayList<Train> al = (ArrayList<Train>) et.getLl();
+           Enquiry_Result er = new Enquiry_Result(al);
         }
         if(e.getSource()==b2) {
             f.setVisible(true);

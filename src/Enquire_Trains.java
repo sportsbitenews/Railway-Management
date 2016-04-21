@@ -1,21 +1,21 @@
-import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
 public class Enquire_Trains
 {
-	private List ll;
+	private List<Train> ll;
 	public Enquire_Trains()
 	{
-		ll = new LinkedList();
+		ll = new ArrayList<Train>();
 	}
-	public List getLl() {
+	public List<Train> getLl() {
 		return ll;
 	}
-	public void setLl(List ll) {
+	public void setLl(List<Train> ll) {
 		this.ll = ll;
 	}
 	public boolean checkTrains(Reservation_Class RC)
@@ -45,20 +45,22 @@ public class Enquire_Trains
 		}
 		return false;
 	}
-	public void findTrains(String Source_ID,String Destination_ID)
+	public void findTrains(Train_EnquiryClass tc)
 	{
 		SQLConnection sq = new SQLConnection();
 		try
 		{
 			sq.establishConnection();
-			String sql = "select distinct t.Train_ID,t.Station_ID as Source,d.Station_ID as Destination,t.Arrival_Time as Source_Arrival_Time,t.Departure_Time as Source_Departure_Time,d.Arrival_Time as Destination_Arrival_Time,d.Departure_Time as Destination_Departure_Time,t.Distance as Source_Distance,d.Distance as Destination_Distance from Route as t,Route as d where t.Stop_Number < d.Stop_Number and t.Station_ID = ? and d.Station_ID = ?;";
-			PreparedStatement psmt = sq.con.prepareStatement(sql);
-			psmt.setString(1, Source_ID);
-			psmt.setString(2, Destination_ID);
-			ResultSet rs = psmt.executeQuery();
+			String sql = "select t.Train_ID,tr.Train_Name from Route as t,Route as d,Train as tr where t.Train_ID = d.Train_ID and t.Stop_Number < d.Stop_Number and t.Station_ID = '" + tc.getFrom_Station() + "' and d.Station_ID = '" + tc.getTo_Station() + "' and tr.Train_ID = t.Train_ID;";
+			System.out.println(sql);
+			Statement stmt = (Statement)sq.con.createStatement();
+			ResultSet rs = stmt.executeQuery(sql);
 			while(rs.next())
 			{
-				
+				Train t = new Train();
+				t.setTrain_No(rs.getInt("Train_ID"));
+				t.setTrain_Name(rs.getString("Train_name"));
+				ll.add(t);
 			}
 		}
 		catch(SQLException se)

@@ -23,6 +23,9 @@ class afterReservation implements ActionListener {
     ImageIcon img;
     ArrayList<Passenger> Passenger_Array=new ArrayList<Passenger>();
     afterReservation(int n,Reservation_Class RC) {
+        img = new ImageIcon("images/maxresdefault (1).jpg");
+        imgL = new JLabel(img);
+        imgL.setBounds(0,0,1000,600);
         N=n;
         this.RC=RC;
         b1 = new JButton(new ImageIcon(((new ImageIcon(
@@ -86,7 +89,7 @@ class afterReservation implements ActionListener {
              f.getContentPane().add(h[i]);
             }
         
-        f.setBounds(0,0,1200,1000);
+        f.setBounds(0,0,1000,600);
         b1.setBounds(300,495,100,30);
         b2.setBounds(500,495,100,30);
         b1.addActionListener(this);
@@ -94,6 +97,7 @@ class afterReservation implements ActionListener {
 
         f.getContentPane().add(b1);
         f.getContentPane().add(b2);
+        f.getContentPane().add(imgL);
         
         f.setVisible(true);
     }
