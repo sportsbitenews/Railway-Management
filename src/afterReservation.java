@@ -7,7 +7,7 @@ class afterReservation implements ActionListener {
     JFrame f;
     JLabel sNo,Name,Age,Gender,srNo[];
     JTextField details[][];
-    Choice h;
+    Choice h[];
     afterReservation AR;
     JTextArea ta;
     JButton b1,b2,b3;
@@ -32,7 +32,9 @@ class afterReservation implements ActionListener {
             .getScaledInstance(100,30,
                     java.awt.Image.SCALE_SMOOTH)))));
         srNo = new JLabel[n+1];
+       
         details = new JTextField[n+1][4];
+        h=new Choice[n+1];
         f = new JFrame("afterReservation");
         f.getContentPane().setLayout(null);
         sNo = new JLabel("Serial Number");
@@ -59,23 +61,29 @@ class afterReservation implements ActionListener {
         pos[3]=700;
         
         for(int i=1;i<=n;i++) {
-            for(int j=0;j<4;j++) {
+            for(int j=0;j<3;j++) {
                 if(j==0) {
                     srNo[i]=new JLabel(""+i);
                     srNo[i].setForeground(Color.red);
-                    srNo[i].setBounds(pos[j],150+add*i,100,30);
+                    srNo[i].setBounds(pos[j],150+add*i,100,22);
                     f.getContentPane().add(srNo[i]);
                 }
                 else {
                     details[i][j]=new JTextField(30);
                     details[i][j].setForeground(Color.red);
-                    details[i][j].setBounds(pos[j],150+add*i,100,30);
+                    details[i][j].setBounds(pos[j],150+add*i,100,22);
                     details[i][j].addActionListener(this);
-                    f.getContentPane().add(details[i][j]);
+                    f.getContentPane().add(details[i][j]);       
                     
                 }
             }
-        }
+            h[i]=new Choice();
+             h[i].setBounds(pos[3],150+add*i,100,22);
+             h[i].add("Male");
+             h[i].add("Female");
+             f.getContentPane().add(h[i]);
+            }
+        
         f.setBounds(0,0,1200,1000);
         b1.setBounds(300,495,100,30);
         b2.setBounds(500,495,100,30);
@@ -88,21 +96,21 @@ class afterReservation implements ActionListener {
         f.setVisible(true);
     }
     public void actionPerformed(ActionEvent e) {
-    	RC.setReservation_Status("Confirmed");
+        RC.setReservation_Status("Confirmed");
         for(int i=1;i<=N;i++) 
         { 
-        	char c=' ';
-            if(details[i][3].getText().equalsIgnoreCase("male"))
-            	c='M';
-            if(details[i][3].getText().equalsIgnoreCase("female"))
-            	c='F';
+            char c=' ';
+            if(h[i].getSelectedItem().equalsIgnoreCase("male"))
+                c='M';
+            if(h[i].getSelectedItem().equalsIgnoreCase("female"))
+                c='F';
             Passenger_Array.add(new Passenger(details[i][1].getText(),Integer.parseInt(details[i][2].getText()),c));
             RC.setPassenger_array(Passenger_Array);
         }
         if(e.getSource()==b1) {
-        	Reserve_Seat rse = new Reserve_Seat();
-        	rse.Reserve(RC);
-        	f.setVisible(false);
+            Reserve_Seat rse = new Reserve_Seat();
+            rse.Reserve(RC);
+            f.setVisible(false);
         }
     
 }
