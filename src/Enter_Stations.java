@@ -1,3 +1,4 @@
+import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -40,6 +41,19 @@ public class Enter_Stations
 		    pstmt.setString(2, st.getStation_Name());
 		    pstmt.executeUpdate();
 		}
+	}
+	public Station getStation(Connection con, String name)throws SQLException
+	{
+		Station s = new Station();
+		Statement stmt = (Statement)con.createStatement();
+		String sql = "select * from Station where Station_Name = '" + name + "';";
+		ResultSet rs = stmt.executeQuery(sql);
+		while(rs.next())
+		{
+			s.setStation_ID(rs.getString("Station_ID"));
+			s.setStation_Name(rs.getString("Station_Name"));
+		}
+		return s;
 	}
 	public void store(SQLConnection sq, Station st)throws SQLException
 	{

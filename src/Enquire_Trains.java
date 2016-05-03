@@ -2,7 +2,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
 
 public class Enquire_Trains
@@ -51,8 +50,10 @@ public class Enquire_Trains
 		try
 		{
 			sq.establishConnection();
-			String sql = "select t.Train_ID,tr.Train_Name from Route as t,Route as d,Train as tr where t.Train_ID = d.Train_ID and t.Stop_Number < d.Stop_Number and t.Station_ID = '" + tc.getFrom_Station() + "' and d.Station_ID = '" + tc.getTo_Station() + "' and tr.Train_ID = t.Train_ID;";
-			System.out.println(sql);
+			Enter_Stations es = new Enter_Stations();
+			Station source = es.getStation(sq.con, tc.getFrom_Station());
+			Station destination = es.getStation(sq.con, tc.getTo_Station());
+			String sql = "select t.Train_ID,tr.Train_Name from Route as t,Route as d,Train as tr where t.Train_ID = d.Train_ID and t.Stop_Number < d.Stop_Number and t.Station_ID = '" + source.getStation_ID() + "' and d.Station_ID = '" + destination.getStation_ID() + "' and tr.Train_ID = t.Train_ID;";
 			Statement stmt = (Statement)sq.con.createStatement();
 			ResultSet rs = stmt.executeQuery(sql);
 			while(rs.next())
