@@ -115,7 +115,7 @@ class Reservation implements ActionListener{
             }
             RC.setDestination_name(t5.getText());
             RC.setSource_name(t6.getText());
-            RC.setBooked_By_User(L.Username);
+            RC.setBooked_By_User(Login.Username);
             RC.findID();
             //System.out.println(RC);
                 f.setVisible(false);

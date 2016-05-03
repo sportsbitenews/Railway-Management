@@ -23,9 +23,8 @@ public class Enquire_Trains
 		try
 		{
 			sq.establishConnection();
-			String sql = "select t.Train_ID from Route as t,Route as d where t.Train_ID = d.Train_ID and t.Stop_Number > d.Stop_Number and t.Station_ID = '" + RC.getSource_ID() + "' and d.Station_ID = '" + RC.getDestination_ID() + "' and t.Train_ID = " + RC.getTrain_No() + ";";
+			String sql = "select t.Train_ID from Route as t,Route as d where t.Train_ID = d.Train_ID and t.Stop_Number < d.Stop_Number and t.Station_ID = '" + RC.getSource_ID() + "' and d.Station_ID = '" + RC.getDestination_ID() + "' and t.Train_ID = " + RC.getTrain_No() + ";";
 			Statement smt = (Statement)sq.con.createStatement();
-			System.out.println(sql);
 			ResultSet rs = smt.executeQuery(sql);
 			if(rs.next())
 				return true;
